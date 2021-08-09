@@ -1,5 +1,5 @@
 +++
-title = "नीरजविजयः"
+title = "समं विद्ध्वा समागमत्"
 unicode_script = "devanagari"
 +++
 
