@@ -3,6 +3,9 @@ title = "समं विद्ध्वा समागमत्"
 unicode_script = "devanagari"
 +++
 
+{{< figure src="../images/nIraj-chopra-throw.jpg" title="" class="thumbnail">}}
+
+
 नीरजप्रेरितः कुन्त  
 आर्यलोकद्विषां सुखम्।  
 हिरण्यपदके बाधाः  
