@@ -13,3 +13,5 @@ unicode_script = "devanagari"
 - छन्दःपरीक्षणयन्त्राण्य् [अत्र](http://sanskrit.github.io/content/meter/) सूचितानि। श्रीवत्सस्य [अत्र](http://sanskritnlp.appspot.com/forms/Chandas-de.htm) एवम् [अत्र](http://1d.sanskritmetres.appspot.com)।
 
 - छन्दसस् त्यागस्य खण्डनम् \- [अत्र](http://www.online-literature.com/pg-wodehouse/4328/)।
+
+
