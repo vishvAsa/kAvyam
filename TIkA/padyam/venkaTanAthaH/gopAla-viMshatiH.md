@@ -49,36 +49,22 @@ unicode_script = "devanagari"
 
 परिवर्तित-कन्धरं +++(गता मातेति खल्विति)+++ भयेन  
 स्मित-फुल्लाधर-पल्लवं स्मरामि ।  
-विटपित्व-निरासकं कयोश्-चित्‌  
+विटपित्व-निरासकं कयोश्-चित् +++(कुबेरपुत्रयोः)+++  
 विपुलोलूखल-कर्षकं कुमारम्‌ ॥ ७ ॥  
-
-parivartita kandharaṁ bhayena  
-smita phullādhara pallavaṁ smarāmi |  
-viṭapitva nirāsakaṁ kayościt  
-vipulolūkhala karṣakaṁ kumāram || 7 ||  
-
-I meditate on that child Gopāla, who dragged the big mortar to which he was tied by his angry mother Yasodha. She wanted to teach him a lesson for stealing butter. As Yasodha went away, he checked around to make sure that she was out of sight and then pulled the tied mortar to the garden. He smiled with a sense of satisfaction that he duped his mother once again and his lips were rosy with that joy. He dragged the mortar further and went between two Marutha trees. The shock of the collision with the mortar broke the twin trees and the sons of Kubera, who stood as the trees in the garden of the Lord, got released from their curse and regained their original bodies. I offer my worship to that blessed child, who freed the sons of Kubera from their existence as twin trees.  
 
 ## 08  
 
-निकटेषु निशामयामि नित्यं  
-निगमन्तैरधुनाऽपि मृग्यमाणम्‌ ।  
-यमलार्जुन दृष्ट बाल केलिं  
-यमुना साक्षिक यौवनं युवानम्‌ ॥ ८ ॥  
-
-nikaṭeṣu niśāmayāmi nityaṁ  
-nigamantairadhunā'pi mṛgyamāṇam |  
-yamalārjuna dṛṣṭa bāla keliṁ  
-yamunā sākṣika yauvanaṁ yuvānam || 8 ||  
-
-Vedas are still searching for Him; His līlas were seen by the twin Marutha trees in His backyard. Even after they were released from their state as trees, the sons of Kubera did not want to get back to their home, since they wanted to enjoy some more of His Bala Līlas. The river Yamuna, the daughter of Surya was a joyous witness to all his playful deeds that took place on her sandy banks. I see that wonderful young Gopala next to me always. (This is a blessing that Swami Desikan earned as a result of his meditation on Rājā-gopāla.)  
++++(राजगोपालवरेण)+++ निकटेषु निशामयामि नित्यं  
+निगमान्तैर् अधुनाऽपि मृग्यमाणम्‌ ।  
+यमलार्जुन+++(वृक्ष)+++-दृष्ट-बाल-केलिं  
+यमुना-साक्षिक-यौवनं युवानम्‌ ॥ ८ ॥  
 
 ## 09  
 
-पदवीम्‌ अदवीयसीं विमुक्तेः  
-अटवी संपदम्‌ अम्बु वाहयन्तीम् ‌।  
-अरुणाधर साभिलाष वंशां  
-करुणां कारण मानुषीं भजामी ॥ ९ ॥  
+पदवीमद् अवीयसीं विमुक्तेः  
+अटवी-संपदम्‌ अम्बु वाहयन्तीम् ‌।  
+अरुणाधर-साभिलाष-वंशां  
+करुणां कारण-मानुषीं भजामी ॥ ९ ॥  
 
 padavīm adavīyasīṁ vimukteḥ  
 aṭavī saṁpadam ambu vāhayantīm |  
