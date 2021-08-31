@@ -8,7 +8,7 @@ unicode_script = "devanagari"
 वन्दे बृन्दावन-चरं  
 वल्लवी जन वल्लभम्‌ ।  
 जयन्ती+++(दिन)+++-संभवं धाम  
-वैजयन्ती-विभूषणम्‌ ॥ १ ॥  
+वैजयन्ती-विभूषणम्‌ ॥ १ ॥+++(4 प्रासः)+++  
 
 ## 02  
 +++(वसन्ततिलका।)+++  
@@ -22,7 +22,7 @@ unicode_script = "devanagari"
 आम्नाय-गन्धि-रुदित-स्फुरिताधरोष्टम्‌  
 आस्राविल+ईक्षणम् अनु-क्षण-मन्द-हासम्‌ ।  
 गोपाल-डिम्भ-वपुषं कुहना+++(=दाम्भिक)+++-जनन्याः +++(पूतनायाः)+++  
-प्राण-स्तनन्-धयम् अवैमि परं पुमांसम्‌ ॥ ३ ॥  
+प्राण-स्तनन्-धयम् अवैमि परं पुमांसम्‌ ॥ ३ ॥+++(4)+++  
 
 ## 04  
 
@@ -57,39 +57,25 @@ unicode_script = "devanagari"
 +++(राजगोपालवरेण)+++ निकटेषु निशामयामि नित्यं  
 निगमान्तैर् अधुनाऽपि मृग्यमाणम्‌ ।  
 यमलार्जुन+++(वृक्ष)+++-दृष्ट-बाल-केलिं  
-यमुना-साक्षिक-यौवनं युवानम्‌ ॥ ८ ॥  
+यमुना-साक्षिक-यौवनं युवानम्‌ ॥ ८ ॥+++(4)+++  
 
 ## 09  
 
-पदवीमद् अवीयसीं विमुक्तेः  
-अटवी-संपदम्‌ अम्बु-वाहयन्तीम् ‌।  
+पदवीम् अ-दवीयसीं+++(=अदूरां)+++ विमुक्तेः  
+अटवी-संपदम्‌ अम्बु-वाहयन्तीम्+++(← अम्बु-वाह + तद्वचाचरतीति क्विप् + प्रेरणार्थे णिच् + शतृँ)+++ ‌।  
 अरुणाधर-साभिलाष-वंशां  
-करुणां कारण-मानुषीं भजामी ॥ ९ ॥  
+करुणां कारण-मानुषीं भजामी ॥ ९ ॥+++(5)+++  
 
-padavīm adavīyasīṁ vimukteḥ  
-aṭavī saṁpadam ambu vāhayantīm |  
-aruṇādhara sābhilāṣa vaṁśāṁ  
-karuṇāṁ kāraṇa mānuṣīṁ bhajāmī || 9 ||  
+## 10  
 
-I worship the most merciful Gopāla, who is the root cause of the creation, sustenance and destruction of this universe; He is the one, who revealed to us the easy-to-practise route of Prapatti as the short road to Moksha. He is the rejuvenating, rain-bearing cloud that enhanced the wealth and well-being of the citizens of Brindāvanam. The flute that rests on His red lips during the time of His playing appears to be deeply eager to taste the sweetness of his mouth. I salute this embodiment of mercy known as Veṇugopāla.  
+अनिमेष-निषेवणीयम् अक्ष्णोः  
+अजहद्-यौवनम् आविर् अस्तु चित्ते ।  
+कलहायित कुन्तलं कलापैः+++(=गुच्छैः)+++  
+करणोन्मादक-विभ्रमं महो मे ॥ १० ॥+++(5)+++  
 
-Text 10  
+## 11  
 
-अनिमेष निषेवणीयमक्ष्णोः  
-अजहद्यौवन माविरस्तु चित्ते ।  
-कलहायित कुन्तलं कलापैः  
-करणोन्मादक विभ्रमं महो मे ॥ १० ॥  
-
-animeṣa niṣevaṇīyamakṣṇoḥ  
-ajahadyauvana māvirastu citte |  
-kalahāyita kuntalaṁ kalāpaiḥ  
-karaṇonmādaka vibhramaṁ maho me || 10 ||  
-
-One should enjoy the unchanging and incomparable beauty of the youth, Gopala, with unblinking eyes. When we blink, we lose that moment of this delectable experience. He is wearing the peacock feathers (peelis) in his dark tresses. The "eyes" at the top of each of the peelis decorating his hair seem to compete for the attention of his youthful beauty. When we think of His many playful deeds/pranks as Bālagopāla in Gokulam and Brindāvanam and his blemishless beauty, our minds fall in intense love with Him. Our senses are overpowered. May the overflowing flood of that beauty and its lustre remain steadily in my mind.  
-
-Text 11  
-
-अनुयायि मनोज्ञ वंश नालैः  
+अनुयायि मनोज्ञ-वंश-नालैः  
 अवतु स्पर्शित वल्लवी विमोहैः ।  
 अनघ स्मित शीतलैरसौ माम्‌  
 अनुकम्पा सरिदम्बुजैरपाङ्गैः ॥ ११ ॥  
@@ -101,7 +87,7 @@ anukampā saridambujairapāṅgaiḥ || 11 ||
 
 Veṇugopāla plays on his flute and creates delightful music and casts his most merciful glances on the Gopīs. They are totally captivated by his friendly smile and the divine music originating from His flute. At this time, His cool and welcoming eyes resemble a pair of just-blossomed lotuses in the river of His mercy (Dayā). May this enchanting youth Gopāla protect me always!  
 
-Text 12  
+## 12  
 
 अधराहित चारु वंश नालाः  
 मकुटालम्बि मयूर पिञ्छ मालाः ।  
@@ -117,7 +103,7 @@ May the resplendent blue jyoti of Gopāla reminding one of an incomparable blue 
 
 This is the famous verse sung by Sage Nārada in Sankalpa Suryodayam. The beauty of Veṇugopāla (The Flute player Gopāla) and His world-enchanting flute music has been celebrated by Śrīmad-Bhāgavatam and Periyazhwaar in particular (Periya Tirumozhi: 3.6)  
 
-Text 13  
+## 13  
 
 अखिला नवलोकयामि कालान्‌  
 महिलाधीन भुजान्तरस्य यूनः ।  
@@ -131,7 +117,7 @@ abilāpakrama dūramābhirūpyam || 13 ||
 
 Even in His incarnation as Kṛṣṇa/Gopāla, Śrī Devi is always united with Him. He has left her His chest region as Her place of special residence and enjoyment. He has the eternal and youthful beauty that qualifies Him to play with Her. We are powerless to describe His full beauty. The Gopīs of Gokulam are thirsting to enjoy His beauty. I am blessed to have the vision of this beautiful youth everywhere and at all times.  
 
-Text 14  
+## 14  
 
 हृदि मुग्ध शिकण्ड मण्डनो  
 लिखितः केन ममैष शिल्पिना ।  
@@ -145,7 +131,7 @@ vadanāmboja divākaro yuvā || 14 ||
 
 Which (bold) artist has drawn this picture of this insatiable beauty known as Gopāla in my heart? Who etched this embodiment of beauty wearing the charming peacock feathers in His hair? Which painter painted the picture of this beautiful youth in my heart, who is like the morning Sun to the lotus-like faces of the love-sick Gopīs ?  
 
-Text 15  
+## 15  
 
 महसे महिताय मौलिना  
 विनते नाञ्जलि मञ्जनत्विषे ।  
@@ -159,7 +145,7 @@ valayābhāṣita mañju veṇave || 15 ||
 
 I join my hands in Anjali Mudra and lower my head in salutation of that much revered effulgent, dark-hued Jyothi of Gopāla, whose divine flute music joins in conversation as it were with the tāḷam of Gopīs whose golden bangles that jingle as they keep up with the rhythmic patterns.  
 
-Text 16  
+## 16  
 
 जयति ललित वृत्तिं शिक्षितो वल्लवीनां  
 शितिल वलय शिञ्जा शीतलैर्हस्त तालैः ।  
@@ -173,7 +159,7 @@ adhara maṇi sudhāyāṁ amśavān vaṁśanālaḥ || 16 ||
 
 The incarnation of Vishnu taking the form of a cowherd to protect all the universes has on its coral-red lips the bamboo flute that tastes the nectar of this Gopala's mouth. As he plays the flute on the banks of the Yamuna river during the moon-lit nights, the lovelorn Gopīs engage in rAsa krīḍa with him. The Gopīs beat tāḷam to the music of their Lord with their cool hands decorated with golden bangles. Their follow-up with taaLam suggests as though they are teaching the abhinayam step known as Laḷitham to the flute of the Lord. [The Abhinaya sastras describe Laḷitham as the gesture, where the dancer places her hands on the appropriate portion of the body and change the movement of her eyebrows to mimic the different rasas. The delectable interplay between the bhāvam, rāgam and tāḷam - Bharatanatyam - is suggested here as the rāsa krīḍa progresses.]  
 
-Text 17  
+## 17  
 
 चित्राकल्पः श्रवसि कलयन्‌ लाङ्गली कर्णपूरं  
 बर्होत्तंस स्फुरित चिकुरो बन्धुजीवं दधानः ।  
@@ -187,7 +173,7 @@ gopa strīṇāṁ jayati kitavaḥ ko'pi kaumāra hārī || 17 ||
 Gopāla is a roamer of the forest. Hence, he decorates himself with the ornaments appropriate to the dwellers of the forests i.e. natural products available in the forests.  
 
 The mischievous Gopāla, who stole the youth of the Gopīs appears before them with many decorations that enhance his beauty. On his ears, the Gopīs find the flower known as Lāngali (flower from the coconut tree's sheaf/ Tennampālai flower); peacock feathers are found by them on his dark and curly tresses; red hibiscus also decorates those tresses. On his broad chest, they find a beautiful necklace made of yellowish-red seeds known as Gunjā or Kunrimani strung together . With these and more ābharaṇās made of forest products, Gopāla enchants the hearts of the adoring Gopīs  
-Text 18  
+## 18  
 
 लीलायष्टिं कर किसलये दक्षिणे न्यस्य धन्याम्‌  
 अंसे देव्याः पुलक रुचिरे सन्निविष्टान्य बाहुः ।  
@@ -201,7 +187,7 @@ kuñjāpīḍa sphurita cikuro gopakanyā bhujaṅgaḥ || 18 ||
 
 Lord Gopāla, showing great affection for the Gopīs, stands before them in resplendent attire. He strikes a pose with his tender right hand holding the shepherd's bent stick; his left hand rests on the shoulder of the beautiful Nappinnai; that touch of Gopāla sends shivers of joy over Nappinnai's body. That beautiful Gopāla has tucked his flute inside his waist band and has additional decoration in the form of a chain of Kunrimani beads tied across his own dark hair pulled up in the form of a bun. He shines with his dark blue hue, reminiscent of the clouds in the rainy season and wins over the Gopīs with his formidable beauty. He roams around with great desire for union with Gopīs.  
 
-Text 19  
+## 19  
 
 प्रत्यालीढ स्थितिमधिगतां प्राप्त गाढाङ्ग पालिं  
 पश्चा दीषन्मिलित नयनां प्रेयसीं प्रेक्षमाणः ।  
@@ -219,7 +205,7 @@ May that Gopāla engaged in water sports with the Gopīs as their lover protect 
 
 
 
-Text 20  
+## 20  
 
 वासो हृत्वा दिनकर सुतासन्निधौ वल्लवीनां  
 लीलास्मेरो जयति ललिताम्‌ आस्थितः कुन्द शाखाम्‌ ।  
@@ -231,7 +217,7 @@ līlāsmero jayati lalitām āsthitaḥ kunda śākhām |
 savrīḍābhistadanu vasane tābhirabhyarthya māne  
 kāmi kaścit kara kamalayor añjaliṁ yācamānaḥ || 20 ||  
 On the banks of the Yamunā river shines the Lord, who is seated on the bow of a kunthā tree with a smile on his face. He is enjoying the prank that he played on the unsuspecting Gopīs, who had left their clothes on the river bank and were engaged in taking morning ablutions. [He wanted to teach them a lesson for breaking the rules of Sāstras, which forbid one from taking bath in the river without wearing a cloth.] Gopāla sneaked up on the crowd of Gopīs deeply absorbed in water sports and took all of their clothes and climbed up the kunthā tree and sat on one of its branch and waited for them to come out of the water. The unaware Gopīs completed their water sports and ablutions and got out of the water and discovered that their clothes were removed by the smiling Gopāla sitting on the adjacent Pinnai (Kuntha) tree. Overcome by modesty, they rushed back into the water and prayed to him to return their clothes. He commanded them to come out of the water with folded hands raised above their hands [as a mark of atonement for the sin of breaking the injunctions of Sāstras]. They had no choice, but to obey him to regain their clothes. May that mischievous Gopāla fond of Gopīs be victorious!  
-Text 21  
+## 21  
 
 इत्यनन्य मनसा विनिर्मितां वेङ्कटेश कविना स्तुतिं पठन्‌  
 दिव्य वेणु रसिकं समीक्षते दैवतं किमपि यौवत प्रियम्‌ ॥ २१ ॥  
