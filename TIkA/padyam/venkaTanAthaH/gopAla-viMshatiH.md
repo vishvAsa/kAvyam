@@ -127,54 +127,29 @@ unicode_script = "devanagari"
 ## 18  
 
 लीलायष्टिं कर किसलये दक्षिणे न्यस्य धन्याम्‌  
-अंसे देव्याः पुलक रुचिरे सन्निविष्टान्य बाहुः ।  
-मेघ श्यामो जयति ललितो मेखला दत्त वेणुः  
-कुञ्जापीड स्फुरित चिकुरो गोपकन्या भुजङ्गः ॥ १८ ॥  
-
-līlāyāṣṭiṁ kara kisalaye dakṣiṇe nyasya dhanyām  
-aṁse devyāḥ pulaka rucire sanniviṣṭānya bāhuḥ |  
-megha śyāmo jayati lalito mekhalā datta veṇuḥ  
-kuñjāpīḍa sphurita cikuro gopakanyā bhujaṅgaḥ || 18 ||  
-
-Lord Gopāla, showing great affection for the Gopīs, stands before them in resplendent attire. He strikes a pose with his tender right hand holding the shepherd's bent stick; his left hand rests on the shoulder of the beautiful Nappinnai; that touch of Gopāla sends shivers of joy over Nappinnai's body. That beautiful Gopāla has tucked his flute inside his waist band and has additional decoration in the form of a chain of Kunrimani beads tied across his own dark hair pulled up in the form of a bun. He shines with his dark blue hue, reminiscent of the clouds in the rainy season and wins over the Gopīs with his formidable beauty. He roams around with great desire for union with Gopīs.  
+अंसे देव्याः पुलक-रुचिरे सन्निविष्टान्य-बाहुः ।  
+मेघ-श्यामो जयति ललितो मेखला-दत्त-वेणुः  
+गुञ्जापीड+++(=गुञ्जा-शिखामाला)+++-स्फुरित-चिकुरो+++(=केशो)+++ गोप-कन्या-भुजङ्गः ॥ १८ ॥  
 
 ## 19  
 
-प्रत्यालीढ स्थितिमधिगतां प्राप्त गाढाङ्ग पालिं  
-पश्चा दीषन्मिलित नयनां प्रेयसीं प्रेक्षमाणः ।  
-भस्रा यन्त्र प्रणिहित करो भक्त जीवातु रव्यात्‌  
-वारि क्रीडा निबिड वसनो वल्लवी वल्लभो नः ॥ १९ ॥  
-
-pratyālīḍha sthitimadhigatāṁ prāpta gāḍhāṅga pāliṁ  
-paścā dīṣanmilita nayanāṁ preyasīṁ prekṣamāṇaḥ |  
-bhasrā yantra praṇihita karo bhakta jīvātu ravyāt  
-vāri krīḍā nibiḍa vasano vallavī vallabho naḥ || 19 ||  
-Gopāla desirous of performing water sports with the Gopīs tucked tightly his garments. He took in his hands the water pump used in those sports. He approached one of the Gopīs, who was standing with one foot forward in the water and the other planted backward on the land. He surprised her from behind and embraced her tightly. That Gopī was overpowered by that delectable experience and partially closed her eyes and looked at Gopāla with half-open eyes. He returned her affectionate glances. Their eyes met.  
-
-May that Gopāla engaged in water sports with the Gopīs as their lover protect us, since he is the medicine for his devotees suffering from the afflictions of Samsāra.  
-
-
++++(धनुष्मान् इव)+++ प्रत्यालीढ-स्थितिम् अधिगतां, प्राप्त--गाढाङ्ग-पालिं+++(=आलिङ्गनां)+++  
+पश्चाद् ईषन् मिलित-नयनां प्रेयसीं प्रेक्षमाणः ।  
++++(जलक्षेप-)+++भस्रा-यन्त्र-प्रणिहित-करो भक्त-जीवातुर् अव्यात्‌  
+वारि-क्रीडा-निबिड+++(=दृढ)+++-वसनो वल्लवी-वल्लभो नः ॥ १९ ॥
 
 
 ## 20  
 
-वासो हृत्वा दिनकर सुतासन्निधौ वल्लवीनां  
-लीलास्मेरो जयति ललिताम्‌ आस्थितः कुन्द शाखाम्‌ ।  
-सव्रीडाभिस्तदनु वसने ताभिरभ्यर्थ्य माने  
-कामि कश्चित्‌ कर कमलयोर्‌ अञ्जलिं याचमानः ॥ २० ॥  
+वासो हृत्वा दिनकर-सुता+++(यमुना)+++-सन्निधौ वल्लवीनां  
+लीला-स्मेरो जयति ललिताम्‌ आस्थितः कुन्द-शाखाम्‌ ।  
+सव्रीडाभिस् तदनु वसने ताभिर् अभ्यर्थ्यमाने  
+कामी कश्चित्‌ कर कमलयोर्‌ अञ्जलिं+++(=प्रणाममुद्रां)+++ याचमानः ॥ २० ॥  
 
-vāso hṛtvā dinakara sutāsannidhau vallavīnāṁ  
-līlāsmero jayati lalitām āsthitaḥ kunda śākhām |  
-savrīḍābhistadanu vasane tābhirabhyarthya māne  
-kāmi kaścit kara kamalayor añjaliṁ yācamānaḥ || 20 ||  
-On the banks of the Yamunā river shines the Lord, who is seated on the bow of a kunthā tree with a smile on his face. He is enjoying the prank that he played on the unsuspecting Gopīs, who had left their clothes on the river bank and were engaged in taking morning ablutions. [He wanted to teach them a lesson for breaking the rules of Sāstras, which forbid one from taking bath in the river without wearing a cloth.] Gopāla sneaked up on the crowd of Gopīs deeply absorbed in water sports and took all of their clothes and climbed up the kunthā tree and sat on one of its branch and waited for them to come out of the water. The unaware Gopīs completed their water sports and ablutions and got out of the water and discovered that their clothes were removed by the smiling Gopāla sitting on the adjacent Pinnai (Kuntha) tree. Overcome by modesty, they rushed back into the water and prayed to him to return their clothes. He commanded them to come out of the water with folded hands raised above their hands [as a mark of atonement for the sin of breaking the injunctions of Sāstras]. They had no choice, but to obey him to regain their clothes. May that mischievous Gopāla fond of Gopīs be victorious!  
 ## 21  
 
-इत्यनन्य मनसा विनिर्मितां वेङ्कटेश कविना स्तुतिं पठन्‌  
-दिव्य वेणु रसिकं समीक्षते दैवतं किमपि यौवत प्रियम्‌ ॥ २१ ॥  
+इत्यनन्य मनसा विनिर्मितां  
+वेङ्कटेश कविना स्तुतिं पठन्।‌  
+दिव्य वेणु रसिकं समीक्षते  
+दैवतं किमपि यौवत-प्रियम्‌ ॥ २१ ॥  
 
-ityananya manasā vinirmitāṁ veṅkaṭeśa kavinā stutiṁ paṭhan  
-divya veṇu rasikaṁ samīkṣate daivataṁ kimapi yauvata priyam || 21 ||  
-
-This stotram has been created by the poet Veṅkaṭeśa, who does not consider any God other than Gopāla/ Nārāyaṇa. Those who read and recite this eulogy will have the blessings of the darśanam of the God of incomparable beauty, Veṇugopāla (The Flute player Gopāla) who was the keen object of desire of youthful gopīs.  
- 
