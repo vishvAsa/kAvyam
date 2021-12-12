@@ -211,6 +211,7 @@ Contrast this with the profound verse in the seventh act of Abhijñānaśākunta
 
 where the sages are doing tapas in heaven, the place of enjoyment (bhoga), to attain it everyone else undergoes rigorous tapas. Here the premise is flipped on its head, by saying what the sages seek, the everlasting bliss, actually is present here itself in Kāñcī and not just that, it can and should be mandatorily enjoyed only through senses!
 
+#### Tavern
 Next we see the description of the tavern where they arrive to have another drink. The description, though in prose, gives comparison of the tavern to a yajñabhūmi.
 
 > एष सुरापणो यज्ञवाट-विभूतिम् अनुकरोति।  
@@ -249,4 +250,61 @@ The description of the drunken antics in the tavern doesn't add much. But the de
 
 A nice kāvya-liṅgālaṅkāra (poetic reason) is employed to say Manmatha became madya. Sneha means oil and also friendship. Solids converting into liquids due to heat and both Manmatha and liquor being intoxicating has been effectively used in this verse. Devasomā says that Śiva who always thinks about the welfare of the world would never do something which would destroy the world. Such a positive, assuring thought which would have been befitting in some profound situation, is used here in a trivial sense restricted to the only thing they currently hold dear! Liquor!.
 
+#### Lost kapāla
 Only when the liquor is offered does Satyasoma observe that he does not possess his kapāla. Devasomā suggests by Āpaddharma they can have it served in the horn. Āpaddharma or the dharma which can be followed in exceptional cases has been treated in detail in many of the dharmaśāstras and smṛtis. By this we also learn that Devasomā also seems to have some knowledge in the dharmaśāstras and smṛtis. While the pair doesn’t seem to be worried about the other dharmas to be followed, they conveniently remember the Āpaddharma portions.+++(5)+++ Again such behaviour has been used by the author to highlight the degeneracy of the era in an ironical manner. This is extended further when Satyasoma takes the title ‘kapālin’ literally and thinks that just because he has lost his kapāla he ceases to be ‘kapālin’. Though he realizes his folly in the very next instance.
+
+While ‘kapālin’ is taken in literal sense before the word Pāṇigrahaṇa which literally just means holding hands is turned to the other meaning, taking one’s hand in marriage derived by lakṣaṇa is utilised while Satyasoma accuses Nāgasena in public when he first helps Devasomā to get up. There is also a suggestion that Satyasoma still couldn’t trust Devasomā completely since she has already betrayed Babhrukalpa before. Also notice that Nāgasena is being tested in the two things which are forbidden for him and he betrays his failure in both those things.
+
+#### Arbitration
+The entry of Babhrukalpa makes things more complicated since Devasomā was previously his partner and he is at once thinking of revenge. He also expresses his disapproval by calling her kṣaurikadāsī (lit. barber’s slave, fig. can be a derogatory word.) who was lured by a few shells but the comparison he gives for her, ‘like a cow led by grass’ also means he is not so angry about her, but rather thinks she might be innocent. Seeing the ongoing fight he quotes the famous verse from the Mahābhārata.
+
+> अन्यथा वर्तमानानाम्  
+> अर्थो जातोऽयमन्यथा ।  
+> अस्माभिर् यद् अनुष्ठेयं  
+> गन्धर्वैस् तदनुष्ठितम् ॥ ३.२३१.१५ ॥+++(5)+++
+>  
+> Mahābhārata Vanaparva
+
+When Duryodhana has been captured by the gandharvas, his minister comes to Dharmarāja and begs him to rescue his master. Bhīma hearing this tells, “Whatever we were supposed to do, the gandharvas have done that instead!” Let’s not spoil it in any manner.
+
+To be noted here is the note (Translational notes - 26, reproduced below verbatim, except for the changes in diacritics) given by Lockwood and Bhat, not only do they miss the reference to Mahābhārata they go off tangentially about Gandharvas, the details being totally irrelevant to the discussion.+++(4)+++
+
+> “26. Gandharvas are anthropomorphic heavenly beings. They are often thought to be the cause of mischievous situations. At one level, Babhrukalpa’s remark indicates that the Gandharvas have played a trick on Satyasoma and spirited away his skull-bowl. Babhrukalpa is delighted to find Satyasöma in difficulty. He wants revenge on Satyasoma for having lured Devasomā away from him in the past. By now encouraging Nāgasena’s side in the dispute, he hopes to humiliate Satyasoma. At a second level, Babhrukalpa’s remark is a jibe at the unchaste character of Devasomā. Gandharvas were notoriously fond of mortal women.”
+
+Even N P Unni missed this reference to Mahābhārata but says that the phrase, अस्माभिर्यदनुष्ठेयं गन्धर्वैस्तदनुष्ठितम्, would have been quite famous during the times of Mahendravarman. Ramaratnam also doesn’t mention the source of this phrase.
+
+Babhrukalpa wants to follow Bhīma’s counsel and fan the flames more while posing as a neutral arbitrator.
+
+While both parties claim that they are truthful, Nāgasena goes one up by quoting five out of ten of the tenets showing he remembers them offhand and so adheres to them too.
+
+> अदत्तादानाद्विरमणं शिक्षापदम् ।  
+> [Not taking what isn’t readily given, is what is ordered]
+>
+> मृषावादाद्विरमणं शिक्षापदम् ।  
+> [Not speaking lies, is what is ordered]
+>
+> अब्रह्मचार्याद्विरमणं शिक्षापदम् ।  
+> [following brahmacarya, is what is ordered]
+>
+> प्राणातिपाताद् विरमणं शिक्षापदम् ।  
+> [Not killing any living being, is what is ordered]
+>
+> अकालभोजनाद्विरमणं शिक्षापदम् ।  
+> [Not eating at inappropriate times, is what is ordered]
+
+One should note that one of these अब्रह्मचार्याद्विरमणं is something he wants to change by finding the “true” teachings of Tathāgata.+++(4)+++
+
+Meanwhile he is forced to show the bowl, Satyasoma claims it to be as black as a crow, thus being of a different color. Nāgasena is accused of changing the color, just like his robes which were initially white and now have become ochre.+++(4)+++ The author also hints at the fact that Buddhism taught the same ideas as enshrined in the Upanishads, only in a different colour. Devasomā meanwhile remembers the previous state of the bowl which was like the skull of Brahmā himself, colored similar to a lotus stalk, having the fragrance of the drink now being soiled due to the robes of Nāgasena.
+
+Satyasoma alludes to two of the famous beheadings one of Brahmā by Śiva and the other of Triśiras by Indra, both lead to brahmahatyādoṣa which was overcome by prāyaścitta and so says this minor thing can be easily fixed.
+
+Both Satyasoma and Nāgasena aren’t ignorant of their scriptures, but they have used their intelligence to twist them as per their convenience instead. Many times, people who are innocent and ignorant will follow whatever is told to them and so in general they don’t fall to such degeneracy. It is the intelligent ones who do so.
+
+Next we see the shape of the bowl is different, again Satyasoma has a retort, of course Nāgasena is a follower of māya’s son, so it would be easy for him to change the shape. Buddhism advocates Nihilism, taking the world to be false. This was a point of dispute among the various schools of Indian philosophy. This favourite jibe against Buddhism is hinted at here.
+
+If one thinks shifting goal posts, ad hominem attacks are a recent phenomenon fuelled by the advent of the internet one needs to think again!
+
+While Babhrukalpa enjoys the fight he finally decides that he can’t be the arbitrator. Was it a genuine realization? Or he wanted to enjoy more drama in the court? Looks like the latter. Devasomā is immediately worried that they’ll lose since they aren’t as affluent as the buddhists who can bribe officials. The phrase used to indicate bribing , मुखानि पूरयितुं, is quite idiomatic to say the least,+++(5)+++ This stands testimony to the fact that the mata based on austerities and self-negation has become materially affluent artha portion hasn’t been tempered by dharma, the other mata which has nothing forbidden actually in terms of kāma has become destitute. This also indicates the generosity of Hindu kings who munificently donated to Buddhist monasteries. The royal families of the Śungas, Sātavāhanas and Guptas, who were adherents of Sanātana dharma, were considerate to Buddhism and other atheistic systems of philosophy.
+
+## Unmattaka enters
+Finally the resolution of the plot happens when Unmattaka enters. Having snatched the bowl from the dog he comes to Babhrukalpa whom he calls as his “preceptor”, Śūranandin. Unmattaka’s dialogues seem to have been inspired by Śūdraka’s Śakāra. Mixing up the relationships, Bhīma and Ghaṭotkaca and so on. Śakāra wasn’t actually mad but had a villainous humor, while here Unmattaka is really a mad person and so, his utterances can’t be associated with such villainy.
