@@ -1,5 +1,5 @@
 ---
-title: 'वृत्तरत्नाकरः सुकवि-हृदयनन्दिनीसहितः'
+title: वृत्तरत्नाकरः सुकवि-हृदयनन्दिनीसहितः
 
 ---
 Kedarabhatta: Vrttaratnakara, with Sulhana's Sukavihrdayanandini
@@ -1881,4 +1881,3 @@ BOLD for mula text and catch-words in comm.
 METRICS:  
 ^ = short  
 _ = long  
-
