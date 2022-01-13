@@ -250,8 +250,58 @@ The description of the drunken antics in the tavern doesn't add much. But the de
 
 A nice kāvya-liṅgālaṅkāra (poetic reason) is employed to say Manmatha became madya. Sneha means oil and also friendship. Solids converting into liquids due to heat and both Manmatha and liquor being intoxicating has been effectively used in this verse. Devasomā says that Śiva who always thinks about the welfare of the world would never do something which would destroy the world. Such a positive, assuring thought which would have been befitting in some profound situation, is used here in a trivial sense restricted to the only thing they currently hold dear! Liquor!.
 
+Regarding the reference to the yajñabhūmi which appears when describing the tavern, there is another verse from Kumāravyāsa Bhārata which was missed. For the sake of analysis and to drive home the point that such verses generally occur in serious situations and using such comparisons in a trivial manner evokes hāsya, it is added here.
+
+The verse is question occurs during the attempt to burn the Pāṇḍava brothers along with their mother Kuntī in the house of lac, in Vāraṇāvata where they have been sent in the pretext of being the representative of the king Dhṛtarāṣṭra and attend the celebrations! Once they find their predicament, Yuddhiṣṭhira says the following,
+
+> ಸಮಿಧೆಗಳು ನಾವ್ ನಾಲ್ವರ್, ಅಯ್ಯನ  
+ರಮಣಿಯ್ ಆಹುತಿ, ಭೀಮನೇ ಪಶು,  
+ಕುಮತಿ ಕಟ್ಟಿಸಿದ್ ಅರಗಿನ್+++(=lac)+++ ಅರಮನೆಯ್ ಅಗ್ನಿ ಕುಂಡವಿದು  
+ಎಮಗೆ ಸಂಶಯವಿಲ್ಲ ರಾಜೋ-  
+ತ್ತಮನೊ ದುರ್ಯೋಧನನೊ ದೀಕ್ಷಾ-  
+ಕ್ರಮವ ಧರಿಸಿದನಾವನ್ ಎಂದನು ನಗುತ ಯಮ-ಸೂನು ||8.85||
+> 
+> Karṇāṭa-bhārata-kathā-mañjari, Ādi-parva
+>
+> “The four of us are the samits (logs of wood used as fuel), our mother Kuntī is the āhuti (offering), Bhīma is the paśu (the sacrificial animal), the house of lac built by the treacherous king is the agnikuṇḍa (fire-pit). One thing not clear though is whether the Yajamāna (who has taken the vow of yajña) is the king Dhṛtarāṣṭra himself or Duryodhana!”, said Yuddhiṣṭhira.
+
+Again the reader can see how grim the situation is here. It is also pertinent to observe that the concept of yajña is such a motif which is firmly established in the minds of the people that poets time and again use it in their works.
+
+
 #### Lost kapāla
 Only when the liquor is offered does Satyasoma observe that he does not possess his kapāla. Devasomā suggests by Āpaddharma they can have it served in the horn. Āpaddharma or the dharma which can be followed in exceptional cases has been treated in detail in many of the dharmaśāstras and smṛtis. By this we also learn that Devasomā also seems to have some knowledge in the dharmaśāstras and smṛtis. While the pair doesn’t seem to be worried about the other dharmas to be followed, they conveniently remember the Āpaddharma portions.+++(5)+++ Again such behaviour has been used by the author to highlight the degeneracy of the era in an ironical manner. This is extended further when Satyasoma takes the title ‘kapālin’ literally and thinks that just because he has lost his kapāla he ceases to be ‘kapālin’. Though he realizes his folly in the very next instance.
+
+#### Suspicion
+After gaining some composure he decides that bowl should have been taken by either a dog or a buddhist monk. While the comparison of a buddhist monk to a dog might seem preposterous, Satyasoma has his reasons which is the presence of roasted meat! This passage already hints at the kind of degeneracy which had crept in which is confirmed by the entry of Nāgasena which happens immediately as if by cue. Also note that later there is also the mention of the dog along with Unmattaka. While this doesn’t fit into the exact definition of a patākāsthāna, it does however indicate the events which happen later. Nāgasena a buddhist monk who is returning to the vihāra after partaking of a sumptuous meal generously hosted by some rich merchant, thanks the omniscient Tathāgata for allowing or prescribing good food, place to stay, soft garments etc., but also wonders why such an all-knowing one somehow hasn’t understood the needs of living beings when it comes to wine and women. He surmises that the older monks have been hiding it and decides to find the “real” teachings and help the generations to come.+++(5)+++ The next logical step would have been creating a new text and claiming it to be the lost teachings! By that time Buddhism was already divided into various branches and there were serious debates regarding the original teachings of Buddha. The author here hints at this fact.
+
+Such dreamy thoughts are checked by reality when he sees that Satyasoma is calling him. By the time this happens, it seems like Nāgasena is well-acquainted with Satyasoma and his ways that he proceeds with caution and tries to escape, this makes his situation worse since such an attempt adds fuel to suspicion. Satyasoma is sure that Nāgasena is the thief, it fits his theory too. Nāgasena meanwhile betrays his thoughts straightaway by observing how beautiful Devasomā is.
+
+#### Satyasoma's tirade
+“Things to be concealed”, leads to an argument about how Tathāgata has ordered clothes, compared to kāpālikas who were typically digambaras. This also helps Satyasoma take the moral high ground, showing he has nothing to hide. Such minute things being adeptly used to bring humour helps us gauge the erudition of the author too. It also shows how the arguments aren’t about the most profound philosophical questions but rather about trivial things.
+
+Next we see Satyasoma abusing Buddha and calling him Kharapaṭa who is supposed to be the author of a treatise on thievery! Not just that he goes beyond saying that he is worse as everything is copied from others.
+
+In page 111 of Lockwood and Bhat’s thesis dealing with the introduction to the play we find the following paragraph. (reproduced below verbatim, except for the changes in diacritics)
+
+> “In line 82, the Kapālī accuses the Buddha of stealing his doctrinal ideas from the Mahābhārata and Vedānta. This remark has a bearing on the controversy over the age of the Mahābhārata battle and the epic story of it. We are removed from the time of the Buddha by some 25 centuries. Mahendra, by only 12 centuries. Obviously, in his time, he believed the Mahābhārata epic and the Vedānta existed prior to the Buddha’s time.”
+
+In page 110 where Ramaratnam deals with the character of Satyasoma too, a similar if not the same stance is taken. (reproduced below verbatim)
+
+> “.. According to him the Buddhists culled out portions from the Mahābhārata and Upaniṣads and compiled their own texts.”
+
+Ramaratnam’s conclusion is still OK since none can accuse Buddha to be a thief who has just copied things, but it should be noted that he is also a product of his times and certainly would have got inspiration from Upaniṣads which were prior to his time. While Mahābhārata as we know it has come to its present form during the time of the Guptas, there is no doubt that it existed in some form much before.+++(5)+++ Even the vedas also have references to Kṛṣṇa, Purūrava who appear in the Mahābhārata.
+
+But Lockwood and Bhat speak as though both Mahābhārata and Upaniṣads are definitely post Buddha and Mahendravarman somehow believed not to be so and hence he has written like that. Just because Mahendravarman was closer to Buddha in time than we are, how can we say he didn’t know better or we know the correct information? Again Lockwood and Bhat seem to arrive at such conclusions based on thin evidence. Buddha has himself declared that he has recycled the ageless thoughts of seers who existed before him. Bṛhadāraṇyaka and Chāndogya, the oldest among the Upaniṣads, have a well-structured philosophy. This is much prior to Buddhism.
+
+#### Wine offer
+Devasomā meanwhile realizes that it would take longer to get the bowl and makes Satyasoma drink more to “gain strength”. We also see a somewhat magnanimous side of this pair when they concur that even though Nāgasena is on the opposite side their own philosophy is of sharing everything and offers him wine. This can also be thought to be a calculated move since they are convinced he wouldn’t take it in public. This is confirmed by Nāgasena behaviour who curses himself for the predicament thinking that had it been offered in private he could have had it!
+
+Only during this phase Satyasoma seems to talk incoherently saying if he has pity he can’t be free from passion. He also declares he would be free from anger once he has got his bowl back.+++(5)+++ He again proceeds to ridicule that the follower of the māyāvāda who conceals even oceans mountains, what difficulty in concealing a bowl. Again Satyasoma’s sharpness returns. It seems as though his intellect is sharp when he is drunk and dull when he isn't, which is the opposite of how it works for the majority of people in reality.
+
+#### Fight
+But the same can’t be said of his body since the stronger and steadier Nāgasena kicks him to the ground. Devasomā also seems to be oblivious of the monk’s strength, tries to grab him and fails since he has shaved off his hair, resulting in an unintentional fall. Nāgasena’s respect towards Buddha grows further as he has foreseen such a situation and has mandated the monks to shave their head! This again implicitly suggests that such an all-knowing one who could foresee Devasomā’s attack should have been good enough to foresee the changing needs of the monks and remove restrictions on wine and women!
+
+
 
 While ‘kapālin’ is taken in literal sense before the word Pāṇigrahaṇa which literally just means holding hands is turned to the other meaning, taking one’s hand in marriage derived by lakṣaṇa is utilised while Satyasoma accuses Nāgasena in public when he first helps Devasomā to get up. There is also a suggestion that Satyasoma still couldn’t trust Devasomā completely since she has already betrayed Babhrukalpa before. Also notice that Nāgasena is being tested in the two things which are forbidden for him and he betrays his failure in both those things.
 
@@ -306,5 +356,112 @@ If one thinks shifting goal posts, ad hominem attacks are a recent phenomenon fu
 
 While Babhrukalpa enjoys the fight he finally decides that he can’t be the arbitrator. Was it a genuine realization? Or he wanted to enjoy more drama in the court? Looks like the latter. Devasomā is immediately worried that they’ll lose since they aren’t as affluent as the buddhists who can bribe officials. The phrase used to indicate bribing , मुखानि पूरयितुं, is quite idiomatic to say the least,+++(5)+++ This stands testimony to the fact that the mata based on austerities and self-negation has become materially affluent artha portion hasn’t been tempered by dharma, the other mata which has nothing forbidden actually in terms of kāma has become destitute. This also indicates the generosity of Hindu kings who munificently donated to Buddhist monasteries. The royal families of the Śungas, Sātavāhanas and Guptas, who were adherents of Sanātana dharma, were considerate to Buddhism and other atheistic systems of philosophy.
 
-## Unmattaka enters
+#### Unmattaka enters
 Finally the resolution of the plot happens when Unmattaka enters. Having snatched the bowl from the dog he comes to Babhrukalpa whom he calls as his “preceptor”, Śūranandin. Unmattaka’s dialogues seem to have been inspired by Śūdraka’s Śakāra. Mixing up the relationships, Bhīma and Ghaṭotkaca and so on. Śakāra wasn’t actually mad but had a villainous humor, while here Unmattaka is really a mad person and so, his utterances can’t be associated with such villainy.
+
+Unmattaka is redirected to give the bowl to someone worthy. While this brings in the lofty principle of charity which says to give anything only to a worthy person, from the perspective of Unmattaka what would be worthiness? Unmattaka then immediately decides that Satyasoma is the one worthy, but also calls Satyasoma as mahābrāhmaṇa which idiomatically means a vile fallen brāhmaṇa!+++(5)+++ Satyasoma again seeing the bowl literally thinks that the epithet ‘kapālin’ has come back and he is indeed worthy of that. There is however one last twist when Unmattaka suddenly refuses to give the bowl saying it is made of gold. Begging bowl, a symbol of non-avarice and austerities, had by that time become a goldmine. The poet here perhaps hints at the profits that a recluse would make in those times.
+
+The bowl (rather two bowls) variously has/have changed it/their color, size etc based on the perspective of the people. Unmattaka being called as ‘Unmattaka’ says he hears that word a lot but hasn’t seen anyone like that and asks Satyasoma to show him. This seems to be the prime source for the oft repeated joke where a madman would always disagree when he is referred to as mad.
+
+#### Game vs serious
+In the end, after getting the bowl everyone parted on amicable terms. One would wonder what to make of arguments ridiculing one another and each others’ mata too. This suggests that nothing should be taken too seriously and it would be extremely beneficial for the society if after such a long quarrel, if people can still understand there was nothing personal. The blessing of pāśupata alluding to Kirāta and Arjuna is also an apt one.+++(4)+++ From the perspective of Kirāta i.e. Śiva, there is pure humour here, because he knows everything, the whole episode is a līlā, he is not attached to anything. His detachment is the product of wisdom, which he represents. However, from the perspective of Arjuna, it is a serious matter, in spite of his penance, he is still ignorant. His penance was only aimed at becoming victorious in war; it was not at securing enlightenment. Again for a prahasana such a good and apt blessing shows that just because it is a prahasana it need not be devoid of good poetry. Same can be said about the bharatavākya.
+
+#### Conclusion
+To conclude, Matta-vilāsa-prahasanam is one of the finest examples in the genre of prahasanas. Except for a few others like - Bhagavad-ajjukam, and Hasya-chudamani of Vatsaraja - it's a travesty to see that the later poets deviated from such a path resorting to cheap and vulgar tricks to infuse Hāsya in their prahasanas. The hope, which inspired this analysis is that such prahasanas find more appreciation and audience. In addition to that, some of the places where there are differences in this analysis from the previous ones, might also lead to further discussions and clarity in understanding and enjoying this work.
+
+With this the analysis can move on to the other prahasanas, of which we will see Bhagavadajjukam in subsequent parts.
+
+#### References
+Dr. S. Ramaratnam, “Prahasana in Sanskrit Literature”, Kavyalaya publishers, Mysore, 1987.
+Dr. N P Unni, “Mattavilasa Prahasana of Mahendravikramavarman”, College Book House, Trivandrum, 1974.
+Michael Lockwood and A. Vishnu Bhat, “Two Farcical Plays by King Mahëndravikramavarman”, 3rd revision, 1994.
+
+
+
+## Bhagavad-ajjukam
+We move on to the next prahasana, Bhagavad-ajjukam.
+
+### Intro
+Bhagavad-ajjukam as mentioned before is a śuddha-prahasana, like Mattavilāsa is one among the best. While the construction of the title is simple - formed by considering the two main characters of the play, Bhagavān, the yogin and Ajjukā the courtesan - that in no way undermines the poet’s capability of constructing a funny comedy of errors nor has it affected its popularity. The earliest reference of this drama is found in the Mamandur inscription (7th century CE) as mentioned by Dr S Ramaratnam. This reference places it chronologically either before or together with Mattavilāsa but not after it.+++(4)+++
+
+Like Mattavilāsa, the plot at first seems trivial - just a walk along the park - involving two characters, where the characters arrive leading to the events in the play. Again the author’s perspective helps in generating humour from such a threadbare plot.
+
+A preceptor and his disciple arrive at a grove, the preceptor tries to put some sense in the foolish disciple who has taken this route to fill his stomach, but it is futile. The disciple is enamoured by the music he hears and follows it only to see the courtesan who was singing it die, bitten by a serpent. The preceptor uses this opportunity to teach him a real lesson, using his supernatural skills, entering into her body. Finally the error is rectified and the two are swapped. Both in Mattavilāsa and Bhagavad-ajjukam the authors are well aware that the simpler the plot is, the easier to generate humour and entertain the rasikas.+++(4)+++ A complicated and convoluted plot would make the rasikas think too much about the plot failing to evoke rasa.
+
+Like Mattavilāsa, Bhagavad-ajjukam has been a favourite in the theatrical tradition and has been staged multiple times even in the recent past. The drama has also seen multiple editions, one can see Dr S Ramarathnam’s thesis for such details. For the current analysis, we follow the text edited by Veturi Prabhakara Shastri, we also consult the edition compiled by Lockwood and Bhat and try to complement Dr S Ramaratnam’s thesis.
+
+### The poet
+Unlike Mattavilāsa, the authorship of Bhagavad-ajjukam is not conclusively established. Some scholars opine that it is Mahendravikramavarman, while others think that the play is authored by another poet named Bodhāyana. Again as the primary aim of the article is to enjoy the work rather than debate about the authorship, the readers can refer to Dr S Ramaratnam’s thesis where he provides more details and argues in favour of Bodhāyana.
+
+### Dramatis Personae
+Sūtradhāra (Stage manager) : Introduces the play, sets the stage for the performance. Wants to gain the favour of the king by staging the same play later. Seems to be confident enough to instruct the other character about what hāsya is and how prahasanas are staged etc.
+
+Vidūṣaka (Stage manager’s companion) : Supports the Sūtradhāra in conducting the initial proceedings. Even though a comic character, he seems to be unaware of prahasanas. Both have very few lines.
+
+Parivrājaka (The preceptor) : A yogin, adept in various śāstras. Has supernatural powers which he uses to great effect. Addressed as Bhagavān.
+
+Śāṇḍilya (The disciple) : Has recently joined the Parivrājaka, has no real interest other than finding easy ways to lead life. Wants to misuse the respect people have towards parivrājakas and sādhus.
+
+Vasantasenā (gaṇikā) : The courtesan, who comes to the park to meet her lover, to be bitten by the snake. Well-versed in arts. Addressed as Ajjukā.
+
+Madhukarikā and Parabhṛtikā: Attendants of Vasantasenā.
+
+Yamapuruṣa: The attendant of Yama, mistakes Vasantasenā as another person of the same name and takes her to Yamapuri, only to realise his folly later. His mistake is the crux of the plot.
+
+Mātā (Mother of Vasantasenā) : Comes to see her daughter after she is bitten by the snake only to be surprised by her weird behaviour.
+
+Rāmilaka: Vasantasenā’s lover.
+
+Vaidya (Doctor):Whose skills are insufficient, he brings in the snake doctor.
+
+Sarpavaidya (Snake Doctor): Even he cannot handle the case properly and hastily retreats.
+
+### The summary of the plot
+The prahasana starts with invocation followed by the entry of Sūtradhāra and his companion Vidūṣaka, the Sūtradhāra shares his desire of presenting a play in the royal court and earn the appreciation of the king and shares his belief that a prahasana would be the best thing to present. Vidūṣaka says that he is ignorant of the genre which leads to the start of the proper play. 
+
+The Parivrājaka enters searching for his disciple Śāṇḍilya who being lazy is lagging behind, Parivrājaka sympathetically puts his laggard behaviour to be the result of the all pervading ignorance. Meanwhile Śāṇḍilya straight away betrays his emotions by giving an introduction about his lineage and concludes that his bid to fill his stomach made him follow the Parivrājaka but it has not been useful. They both find each other. Śāṇḍilya questions the ways of Parivrājaka which seems to be otherworldly and has no immediate benefits, all attempts by the Parivrājaka to drill some sense in his mind goes futile. The conversation is followed by their arrival at the pleasure garden. 
+
+Parivrājaka asks Śāṇḍilya to enter inside but Śāṇḍilya is afraid that the tiger which lives in the garden as per the stories he had heard might kill him. So he implores Parivrājaka to enter first. He follows him and immediately thinks he has been caught by the tiger and is about to die. When the Parivrājaka corrects him that it is a peacock, Śāṇḍilya accuses the tiger to have transformed into a peacock and is now fleeing, frightened by him! They sit after choosing a spot. Again there is a long discussion about the purpose of learning, validity of scriptures and so on. Here Śāṇḍilya again gives his opinion about food and other material enjoyments. 
+
+Meanwhile the courtesan Vasantasenā in a bid to meet her lover Rāmilaka enters the garden which is the designated place, along with her two attendants Madhukarikā and Parabhṛtikā. Madhukarikā is sent to bring Rāmilaka, Vasantasenā and Parabhṛtikā stay back and settle in the garden. Vasantasenā sings in a sweet voice which attracts the attention of Śāṇḍilya. He is instantly smitten, but realises he needs to be rich once he comes to know that she is a courtesan!
+
+Though instantly smitten, Śāṇḍilya realises he needs to be rich once he comes to know that she is a courtesan! Meanwhile the Yamapuruṣa, invisible to everyone, arrives and waits for the right time to do his master’s bidding. When Vasantasenā wants to pluck some of the shoots of the Aśoka tree, the Yamapuruṣa disguises himself as a snake and bites her. She loses consciousness. 
+
+Parabhṛtikā laments her loss and is about to venture out to bring Vasantasenā’s mother. Meanwhile Śāṇḍilya too is sad and implores Parivrājaka to share his sorrow. When he says that life is transient, he scolds him as stone hearted and goes to the courtesan. Parabhṛtikā convinced that Śāṇḍilya would not desert Vasantasenā, goes to bring Vasantasenā’s mother. Parivrājaka tries to convince him of the futility of life and fails. Finally he decides to take a different route, he enters samādhi, does parakāyapraveśa, and transfers himself to Vasantasenā’s body. Śāṇḍilya is delighted to see Vasantasenā alive but is aghast when ‘she’ scolds him to be impure and also asks him to study. He turns to Parivrājaka only to see him dead. 
+
+Meanwhile Parabhṛtikā enters with Mātā, mother of the courtesan. Vasantasenā scolds her mother too, saying not to touch and defile her! They both think that it is the effect of the venom. Madhukarikā also returns with Rāmilaka, he is also scolded and learns that her behaviour has been incoherent since she has been bitten by the snake. 
+
+Parabhṛtikā runs and fetches the doctor. The doctor also isn’t spared! He goes back to bring the specialist who is a snake doctor! Yamapuruṣa meanwhile returns after being scolded by Yama for his mistake and sees that Vasantasenā is reanimated! Understanding the situation, he places the ātma of Vasantasenā in the body of the Parivrājaka and exits. Parivrājaka gets up calling for Parabhṛtikā and Rāmilaka. Parivrājaka wants to embrace Rāmilaka and also pines for a drink, much to the anguish of Śāṇḍilya who is surprised and disgusted seeing his preceptor’s behaviour. Exasperated, he exclaims that this is neither the Bhagavān, nor the Ajjukā, it is indeed some dreadful combination of both, i.e. Bhagavad-ajjukam. 
+
+When Mātā calls out for Vasantasenā, Parivrājaka answers. While all are perplexed, the snake doctor arrives armed with his book of cures. Vasantasenā debates with him on the types of poisons, corrects his grammar, instructs him on the effects of poisoning and sends him packing! 
+
+Finally Yamapuruṣa following the orders of his master comes back and requests Parivrājaka to come out, exchanges both the ātmas, and exits. Vasantasenā exits with her mother, lover and attendants. When the mesmerised Śāṇḍilya asks Parivrājaka what all this means, he says that it is a long story which he would explain later. The play ends not with the bharatavākya as it usually happens but with a description of the sunset. One version has a bharatavākya which seems like a later addition.
+
+### Languages and Meters
+Again for the sake of completion, here is the list of languages and meters used which is already given by Ramarathnam.
+
+Metres: Anuṣṭup, Āryā, Indravajra, Upendravajra, Praharṣiṇī, Vaṃśasthā, Vasantatilakā, Mālinī, Śārdūlavikrīḍitā, Sragdharā.
+
+Languages: Sanskrit, Prakrits - śaurasenī,
+
+### Critical appreciation
+[The edition by Lockwood and Bhat is perhaps the only edition with a simple English translation which is available over the internet, and hence wherever there are some discrepancies we comment on it since some of them are way off the mark.+++(4)+++ Wherever we have such comments we quote from them verbatim except for changing diacritical marks. Another translation by J. A. B. van Buitenen uses archaic language and has too many literal translations, even the character names translated likewise, Parabhṛtikā → little cuckoo, etc.]
+
+#### Benediction
+Unlike Matta-vilāsa which has a grand invocatory verse in Śārdūlavikrīḍitā, Bhagavad-ajjukam starts with a relatively tame looking verse in Āryā
+
+> त्वां पातु लक्षणाढ्यः  
+सुर-वर-मकुटेन्द्र-चारु-मणि-घृष्टः।  
+रावण-नमिताङ्गुष्ठो  
+रुद्रस्य सद्-अर्चितः पादः ॥१॥
+> 
+> [May Rudra's foot protect you! It is endowed with great qualities, is rubbed by the sapphires adorning the diadem of the best of the deities (when they prostrate before him), which possesses the toe which subdued Rāvaṇa, the king of asuras and is worshipped by the good people]
+
+A seemingly benign verse, but there is a suggestion that the pāda of Rudra has the respect of both the devas and the asuras. It also suggests that while the devas bow down to him of their own accord, Rāvaṇa due to his arrogance was subdued and had his pride crushed before realising his strength.
+
+Lockwood and Bhat in their introduction (page 7) provide an alternative explanation based on the premise that the invocatory verse should hint at the characters and the proceedings of the play. The explanation seems as bit stretched, resting upon the other meaning of Rāvaṇa i.e. lament, equating Śāṇḍilya to Rāvaṇa, Parivrājaka to Rudra.
+
+#### Sūtradhāra
+Then the Sūtradhāra appears but with Vidūṣaka (a comedian) instead of Naṭī, which is interesting since Vidūṣaka is the comic character who we always see in full length dramas like the prakaraṇa. The Sūtradhāra asks him to check and confirm that there is none to overhear what he is about to say and expresses his happiness that an astrologer has prophesied that he would present the play in front of an august audience consisting of the king and earn a lot of fame and money. He then enumerates the types of plays and chooses prahasana as a sure shot way to name and fame since it is based on hāsya. 
+
+Vidūṣaka ironically seems to be ignorant of it and asks him to mentor him. Ramaratnam opines that the allusion to the astrologer hints at the supernatural element of the play and the mentoring alludes to the preceptor-disciple element.+++(4)+++ We note that, here Vidūṣaka seems to be genuinely interested in learning but in the play Śāṇḍilya isn’t. Also Sūtradhāra here seems to rely on the astrologer’s words more than his own expertise. This sets the stage for the appearance of the Parivrājaka who is searching for his lazy disciple, Śāṇḍilya.
