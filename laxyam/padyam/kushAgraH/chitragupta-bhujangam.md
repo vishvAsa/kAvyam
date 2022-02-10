@@ -17,6 +17,7 @@ Presenting a Sanskrit Stotra dedicated to Sri Chitragupta and simultaneously doc
 कटौ राजते मेखला-बद्ध-खड्गो  
 भजे तं विचित्रं प्रभुं चित्र-गुप्तम्॥२  
 
++++(कायदेश is an area in Madhya Pradesh close to Ujjain. It is believed that Sri Chitragupta descended here and performed penance. )+++  
 पुरा ब्रह्म-चित्ते ऽभवद् यस्य सत्ता  
 ततो धर्म-लोके ऽभवद् यस्य राज्यम्।  
 पुनः काय-देशे ऽभवद् यस्य वासो  
@@ -106,6 +107,7 @@ Presenting a Sanskrit Stotra dedicated to Sri Chitragupta and simultaneously doc
 सुभाषोऽभवद् यस्य वंशे सुयोद्धा  
 भजे तं विचित्रं प्रभुं चित्र-गुप्तम्॥१९  
 
++++(चक्रावरोधः - reservation agitations by various communities. Examples are Jat (2016) and Gujjar (2008).)+++  
 स्वदेशैक्य-यज्ञे विशेषाधिकारा  
 हुताः स्वेच्छया यस्य वंश्यैर् निमेषात्।  
 न चक्रावरोधः+++(=“चक्का-जाम” बन्द/हड़ताल)+++ कृतो वा कदाचिद्  
