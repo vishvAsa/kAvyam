@@ -147,7 +147,11 @@ title = "२६ प्रकृतिविकल्पाध्यायः"
 
 <details><summary>Notes</summary>
 
-1 एतञ्च-- Kavi 2. विकृताधाराः Kavi 3. पशुवक्ता-- Kavi
+1 एतञ्च-- Kavi 
+
+[^2]: विकृताधाराः Kavi 
+
+[^3]: पशुवक्ता-- Kavi
 </details>
 
 <pb n="296"/>
