@@ -15,6 +15,7 @@ unicode_script = "devanagari"
 
 ### दर्शन-कलह-पटवः
 - Bourne
+- Lalo Salamanca (Breaking Bad)
 
 #### उपसन्न्यस्ताः
 - Jack Reacher
@@ -75,7 +76,7 @@ unicode_script = "devanagari"
 - Terminator
 - Soldier (Predator)
 - The Bride, Gogo Yubari, O-Ren Ishii, Elle Driver (Kill Bill)
-- Mike (Just Call Saul)
+- Mike Ehrmantraut (Just Call Saul)
 - Maximus Decimus (Gladiator)
 - Monk (The 36th Chamber of Shaolin)
 

@@ -70,53 +70,20 @@ Secondly, there is a phenomenological difference between inferred and implicated
 [^7]: R.G, Ch. 1, p. 27: ānando hyayaṃ na laukika-sukhāntara-sādhāraṇaḥ. From the point of Samkhya philosophy, however, the communication of character mental states does not produce aesthetic delight but only pleasure or
 displeasure as the case may be.
 
-If aesthetic mental states are experientially different from everyday mental states, what can we learn about the latter by studying the former? In other words, can the discipline of psychology, dealing as it does with real-world mental states, be enriched by the study of literature that communicates to us mental states of a different sort? According to Sanskrit poetics, though mental states communicated by literature are qualitatively different from
+If aesthetic mental states are experientially different from everyday mental states, what can we learn about the latter by studying the former? In other words, can the discipline of psychology, dealing as it does with real-world mental states, be enriched by the study of literature that communicates to us mental states of a different sort? 
+
+According to Sanskrit poetics, though mental states communicated by literature are qualitatively different from those we infer in real life, they are still ontologically based in the latter. The same stimulus-response pairs from which we infer the mental states of real-world actors are delineated by poets for communicating the mental states of literary characters.[^8] What must give rise to sorrow in the case of real-world individuals must give rise to sorrow even in the case of literary characters. Likewise, how real-world individuals express their sorrow must also coincide with the way in which literary characters express their sorrow. 
+
+[^8]: Bharata specifically mentions that dramatists must obtain the knowledge of stimuli and responses from the real world (N.S, Vol. 1, Ch. 7, p. 348: tatra vibhāvānubhāvau loka-prasiddhau | loka-svabhāvānugatatvāt tayor lakṣaṇaṃ nocyate)
+
+If we set aside the observation that stimulus-response pairs graduate from being personal to becoming impersonal and generalized in the case of literary characters but retain their personal nature when it comes to real-world actors and that aesthetically communicated mental states are experientially different from the mental states that we infer in real-world others, it is easy to appreciate how mental states of literary characters are not incommensurate with everyday mental states. 
+
+Since this thesis is not particularly about the emotions of literary characters but about how the knowledge of such emotions can help us understand the emotions of realworld individuals, it sidelines the concept of 'implicature' in favor of inference. Put differently, it regards mental states of literary characters as inferable in the same way that those of real-world actors are. In doing so, it takes a position consonant with that of Shankuka, an earlier commentator on the Nāṭyaśāstra.[^9] 
+
+[^9]: According to Shankuka, mental states of characters, when inferred from the dramatized (or literary) depictions of their antecedent stimuli and consequent responses, become transformed into their aesthetic counterparts (A.Bh.4, Vol. 1, Ch. 6, p. 266: tasmād-dhetubhir vibhāvākhyaiḥ kāryaiś cānubhāvātmabhiḥ sahacāri-rūpaiś ca vyabhicāribhiḥ - - - liṅga-balataḥ pratīyamānaḥ sthāyī bhāvo mukhya-rāmādi-gata-sthāyy-anukaraṇa-rūpaḥ - - rasaḥ). +++("विभावाख्यैः कारणैर्" इति स्यात्??)+++
 
 
-A Qualitative Approach to the Psychology of Three Self-conscious Emotions from Sanskrit
-Poetics
-
-Shankar. R, NIAS, 2018
-
-7
-
-those we infer in real life, they are still ontologically based in the latter. The same stimulusresponse pairs from which we infer the mental states of real-world actors are delineated by
-poets for communicating the mental states of literary characters.8 What must give rise to
-sorrow in the case of real-world individuals must give rise to sorrow even in the case of
-literary characters. Likewise, how real-world individuals express their sorrow must also
-coincide with the way in which literary characters express their sorrow. If we set aside the
-observation that stimulus-response pairs graduate from being personal to becoming
-impersonal and generalized in the case of literary characters but retain their personal nature
-when it comes to real-world actors and that aesthetically communicated mental states are
-experientially different from the mental states that we infer in real-world others, it is easy to
-appreciate how mental states of literary characters are not incommensurate with everyday
-mental states. Since this thesis is not particularly about the emotions of literary characters but
-about how the knowledge of such emotions can help us understand the emotions of realworld individuals, it sidelines the concept of 'implicature' in favor of inference. Put
-differently, it regards mental states of literary characters as inferable in the same way that
-those of real-world actors are. In doing so, it takes a position consonant with that of
-Shankuka, an earlier commentator on the Nāṭyaśāstra.9
-The three self-conscious emotions selected for this study figure among the 33
-accessory transient mental states enumerated by Bharata. Here, it is important to note that
-Bharata does not distinguish mental states into cognitions, emotions, or such other
-psychological categories. This is so, because, from the practical standpoint of onstage
-8
-
-Bharata specifically mentions that dramatists must obtain the knowledge of stimuli and responses from the real
-world (N.S, Vol. 1, Ch. 7, p. 348: tatra vibhāvānubhāvau lokaprasiddhau | lokasvabhāvānugatatvāttayorlakṣaṇaṃ nocyate)
-9
-According to Shankuka, mental states of characters, when inferred from the dramatized (or literary) depictions
-of their antecedent stimuli and consequent responses, become transformed into their aesthetic counterparts
-(A.Bh.4, Vol. 1, Ch. 6, p. 266: tasmāddhetubhirvibhāvākhyaiḥ kāryaiścānubhāvātmabhiḥ sahacārirūpaiśca
-vyabhicāribhiḥ - - - liṅgabalataḥ pratīyamānaḥ sthāyī bhāvo mukhyarāmādigata-sthāyyanukaraṇarūpaḥ - - rasaḥ).
-
-A Qualitative Approach to the Psychology of Three Self-conscious Emotions from Sanskrit
-Poetics
-
-Shankar. R, NIAS, 2018
-
-8
-
-representation, it is not important whether a mental state qualifies as cognition or emotion.
+The three self-conscious emotions selected for this study figure among the 33 accessory transient mental states enumerated by Bharata. Here, it is important to note that Bharata does not distinguish mental states into cognitions, emotions, or such other psychological categories. This is so, because, from the practical standpoint of onstage representation, it is not important whether a mental state qualifies as cognition or emotion.
 The only thing that actors are concerned with is that they effectively communicate mental
 states, whatsoever they may be, to the audience.
 1.3 Objectives of the thesis
