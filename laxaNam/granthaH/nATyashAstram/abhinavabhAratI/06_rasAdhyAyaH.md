@@ -822,30 +822,146 @@ discouragement, weakness, apprehension, envy, intoxication, weariness, indolence
 
 <details><summary>मूलम्</summary>
 
-निर्वेद-ग्लानि-शङ्काख्यास्  तथासूया मदः श्रमः।  
-आलस्यं चैव दैन्यं च चिन्ता मोहः स्मृतिर्धृतिः2 ।। १८ ।।  
+1निर्वेदग्लानिशङ्काख्यास्तथासूया मदः श्रमः।  
+आलस्यं चैव दैन्यं च चिन्ता मोहः स्मृतिर्धृतिः2 ।। १८ ।।
 </details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्रीडा चपलता हर्ष  
+आवेगो जडता तथा ।  
+गर्वो विषाद औत्सुक्यं  
+निद्रापस्मार+++(=epilepsy)+++ एव च ।। १९ ।।  
+</details>
+
+<details><summary>English</summary>
+
+shame, inconstancy, joy, agitation, stupor, arrogance, despair, impatience, sleep, epilepsy,
+</details>
+
+<details><summary>मूलम्</summary>
+
 व्रीडा चपलता 3हर्ष आवेगो जडता 4तथा ।  
 गर्वो विषाद औत्सुक्यं निद्रापस्मार एव च ।। १९ ।।  
+</details>
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुप्तं+++(=स्वप्नः)+++ विबोधो ऽमर्षश्  
+चाप्य् अवहित्थम्+++(=निगूहनम्)+++ अथोग्रता ।  
+मतिर्+++(=स्पष्टता)+++ व्याधिस् तथोन्मादस्  
+तथा मरणमेव च ।। २० ।।  
+</details>
+
+<details><summary>English</summary>
+
+dreaming, awakening, indignation,  
+dissimulation, cruelty,  
+assurance, sickness, insanity,  
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 सुप्तं 5विबोधोऽ6मर्षश्चाप्यवहित्थमथोग्रता ।  
 मतिर्व्याधिस्तथो7न्मादस्तथा मरणमेव च ।। २० ।।  
+</details>
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रासश् चैव वितर्कश् च  
+विज्ञेया व्यभिचारिणः ।  
+त्रयस्त्रिंशद् अमी भावाः  
+समाख्यातास् तु नामतः ।। २१ ।।  
+</details>
+
+<details><summary>English</summary>
+
+fright and deliberation.  
+These are the thirty-three Complementary Psychological States (*vyabhicāribhāva*)[^mg9] that are defined by their names.
+
+[^mg9]:  These are also known as sañcāri-bhāva which was translated as ‘transitory emotion or mood’. See SD.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 त्रासश्चैव वितर्कश्च विज्ञेया व्यभिचारिणः ।  
 त्रयस्त्रिंशदमी भावाः समाख्यातास्तु नामतः ।। २१ ।।  
+</details>
 
+
+## सात्त्विकभावाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्तम्भः स्वेदोऽथ रोमाञ्चः  
+स्वर-भङ्गोऽथ वेपथुः।  
+वैवर्ण्यम् अश्रु प्रलय इत्य्  
+अष्टौ सात्त्विकाः स्मृताः ।। २२ ।।  
+</details>
+
+<details><summary>English</summary>
+
+22\. Paralysis, Perspiration, Horripilation, Change of Voice, Trembling, Change of Colour, Weeping and Fainting are the eight Sāttvika States.[^mg10]
+
+
+[^mg10]:  sāttvika-bhāva—The word sāttvika cannot be properly translated into English. Keith does not make any such attempt (see Skt. Drama) Haas translates the sāttvika-bhāva as ‘Involuntary States.’ But this seems to be very misleading, for the NŚ. takes sattva to be connected with manas. (see VII 93), and most of the later writers follow this work in this respect. So the author of the ND. (III. 153) writes “avahitaṃ manaḥ sattvaṃ. tat-prayojanaṃ hetur asyeti sāttvikaḥ; mano'navadhāne hi na śakyante eva svara-bhedādayo nāṭyena darśayitum.”. The NŚ. has also a definition of sattva which is as follows: “dehātmakaṃ bhavet sattvam” (XXIV. 7). The author of the BhP. elaborately defines the term sattva and discusses the psychological process connected with its use; see (pp. 13-14). Viśvanātha in his SD. (164) defines sattva as follows: “sattvaṃ nāma sātma-viśrāma-prakrāśa-karo kaścanāntaro dharmaḥ”.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 स्तम्भः स्वेदोऽथ रोमाञ्चः 8स्वरभङ्गोऽथ वेपथुः।  
 वैवर्ण्यमश्रु प्रलय 9इत्यष्टौ सात्त्विकाः स्मृताः ।। २२ ।।  
+</details>
 
+## अभिनयाः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आङ्गिको वाचिकश् चैव  
+ह्य् आहार्यः सात्त्विकस् तथा ।  
+चत्वारो **ऽभिनया** ह्य् एते  
+विज्ञेया नाट्यसंश्रयाः ।। २३ ।।  
+</details>
+
+<details><summary>English</summary>
+
+
+23\. Four kinds of Histrionic Representation are Gestures (*āṅgika*)[^mg11], Words (*vācika*)[^mg12], Dresses and Make-up (*āhārya*)[^mg13] and the Representation of the Sattva (*sāttvika*).[^mg14]
+
+
+
+[^mg14]:  See XXIII. See XXIV.
+
+[^mg13]:  See XXIII.
+
+
+[^mg12]:  vācika—means words suitable for representation of the different States (bhāva) composed by the playwright. See XV-XXII.
+
+
+[^mg11]:  āṅgikā—means Gestures of special kind defined in the śāstra; see VIII-XII.
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 आङ्गिको वाचिकश्चैव ह्याहार्यः सात्त्विकस्तथा ।  
 चत्वारोऽभिनया ह्येते 10विज्ञेया नाट्यसंश्रयाः ।। २३ ।।  
+</details>
+
 
 <details><summary>Abh</summary>
 
@@ -893,17 +1009,94 @@ discouragement, weakness, apprehension, envy, intoxication, weariness, indolence
 
 <pb n="263"/>
 
-1लोकधर्मी नाट्यधर्मी धर्मीति2 द्विविधः स्मृतः।  
+## धर्मी वृत्तिः, प्रवृत्तिः, सिद्धिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लोकधर्मी नाट्यधर्मी  
+धर्मीति द्विविधः स्मृतः।  
+भारती सात्वती चैव  
+कैशिक्य्-आरभटी तथा ।। २४ ।।  
+</details>
+
+<details><summary>English</summary>
+
+24\. Practice of Representation (*dharmī*)[^mg15] in a dramatic performance is twofold: realistic (*lokadharmī*, lit. popular) and coventional (*nāṭyadharmī*, lit. theatrical).
+
+
+[^mg15]:  dharmī—This word has not been very correctly used. But the meaning is clear; for details about dharmī see XIII. 69-81.
+
+
+And the Verbal (*bhāratī*), the Grand (*sāttvatī*), the Graceful (*kaiśikī*) and the Energetic (*ārabhaṭī*) …
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+लोकधर्मी नाट्यधर्मी  धर्मीति2 द्विविधः स्मृतः।  
 3भारती सात्वती चैव 4कैशिक्यारभटी तथा ।। २४ ।।  
 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चतस्रो वृत्तयो ह्य् एता  
+यासु नाट्यं प्रतिष्ठितम् ।  
+आवन्ती दाक्षिणात्या च  
+तथा चैवोढ्र-मागधी ।। २५ ।।  
+</details>
+
+<details><summary>मूलम्</summary>
 
 चतस्रो वृत्तयो ह्येता यासु5 नाट्यं प्रतिष्ठितम् ।  
 आवन्ती दाक्षिणात्या च तथा चैवो6ढ्रमागधी ।। २५ ।।  
+</details>
 
+
+<details><summary>English</summary>
+
+are the four Styles.[^mg16]
+
+
+
+[^mg16]:  Haas translates vṛttis as Styles of Procedure (DR. p. 67). The four Styles are translated by him as Eloquent (bhāratī), Grandiose (sāttvatī), Gay (kaiśikī) and Horrific (ārabhaṭī). We follow Keith’s translation (Skt. Drama, p. 326). For details about vṛttis see XXII. lff.
+
+25-26. Āvanti, Dākṣinātyā, Oḍramāgadhī 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पाञ्चाल-मध्यमा चेति  
+विज्ञेयास् तु **प्रवृत्तयः** ।  
+दैविकी मानुषी चैव  
+**सिद्धिः** स्याद् द्विविधैव तु ।। २६ ।। 
+</details>
+
+<details><summary>मूलम्</summary>
 
 7पाञ्चालमध्यमा 8चेति 9विज्ञेयास्तु प्रवृत्तयः ।  
-10दैविकी मानुषी चैव 11सिद्धिः स्याद्द्विविधैव तु ।। २६ ।।  
+10दैविकी मानुषी चैव 11सिद्धिः स्याद्द्विविधैव तु ।। २६ ।। 
+</details>
+ 
 
+<details><summary>English</summary>
+
+and Pañcālamadhyamā are the four Local Usages (*pravṛtti*)[^mg17] in a dramatic performance.
+
+
+[^mg17]:  pravṛtti—Haas translates this word as ‘Local Characteristics,’ (See DR, p. 74). The five geographical names (Avanti, Dākṣinātyā, Oḍra, Magadha and Pañcāla) indicate that these were the parts of India where dramatic show gained special popularity. For details about pravṛttis see XIV. 36-56.
+
+The Success[^mg18] in the dramatic performance is of two kinds: divine (*daivikī*) and human (*mānuṣī*).
+
+
+[^mg18]:  siddhi (success)—For details about the Success see XXVII. lff.
+</details>
+
+## स्वराः
 
 12शारीराश्चैव वैणाश्च सप्त षड्जादयः स्वराः ।  
 13(निषादर्षभगान्धारमध्यपञ्चमधैवताः।।)  
@@ -942,8 +1135,7 @@ here line दैविकी etc.of 26 below.
 
 [^6]: प.ब. चैवार्ध । चैवान्ध्र । 
 
-[^7]: प.म.
-पाञ्चालीमध्यमा। 
+[^7]: प.म. पाञ्चालीमध्यमा। 
 
 [^8]: क्ष.प. चैव । 9.N. क्ष. प. ज्ञेया नाट्यप्रवृत्तयः । 
 
