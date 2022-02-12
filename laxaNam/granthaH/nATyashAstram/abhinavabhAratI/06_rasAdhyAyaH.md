@@ -19,6 +19,11 @@ title = "०६ रसाध्यायः"
 प्रश्नान् पञ्चाभिधत्स्व नः ।। १ ।।
 </details>
 
+<details><summary>English</summary>
+
+After hearing about the rules regarding the Preliminaries, the great sages continued their inquiries and said to Bharata, “Answer five of our questions."
+</details>
+
 
 
 <details><summary>मूलम्</summary>
@@ -78,24 +83,47 @@ title = "०६ रसाध्यायः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये रसा इति पठ्यन्ते  
+ये **रसा** इति पठ्यन्ते  
 नाट्ये नाट्य-विचक्षणैः।  
 रसत्वं केन वै तेषाम्  
 एतद् आख्यातुम् अर्हसि ।। २ ।।
+</details>
+
+<details><summary>English</summary>
+
+Explain how the Sentiments enumerated by experts in dramatic art attain their [special] qualities.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**भावाश्** चैव कथं प्रोक्ताः  
+किं वा ते **भावयन्त्य्** अपि ।  
+**संग्रहं कारिकां** चैव  
+**निरुक्तं** चैव तत्त्वतः ।। ३ ।।
+</details>
+
+<details><summary>English</summary>
+
+And why are the *bhāvas* (Psychological States, lit. feelings) so called, and what do they *bhāvayanti* (make us feel)?. Besides these, what are the real meanings of terms, such as, Digest (*saṃgraha*)[^mg1], Memorial Verse (*kārikā*) and Etymology (*nirukta*)”?
 
 
-भावाश् चैव कथं प्रोक्ताः  
-किं वा ते भावयन्त्यपि ।  
-संग्रहं कारिकां चैव  
-निरुक्तं चैव तत्त्वतः ।। ३ ।।
+[^mg1]:  For an assumed chronology of saṃgraha, kārikā, nirukta, sūtra and bhāṣya mentioned here see S. K, De, Skt. Poetics, Vol. I. pp. 28ff.
+</details>
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तु वचनं श्रुत्वा  
 मुनीनां भरतो मुनिः।  
 प्रत्युवाच पुनर् वाक्यं  
 रस-भाव-विकल्पनम् ।। ४ ।।
 
+</details>
 
+<details><summary>English</summary>
+
+4\. At these words of the sages, Bharata continued speaking, and mentioned in reply to their question the distinction between the Sentiments and the Psychological States.
 </details>
 
 
@@ -174,15 +202,34 @@ title = "०६ रसाध्यायः"
 
 अहं वः कथयिष्यामि  
 निखिलेन तपोधनाः ।  
-संग्रहं कारिकां चैव  
-निरुक्तं च यथाक्रमम् ।। ५ ।।
+**संग्रहं कारिकां** चैव  
+**निरुक्तं** च यथाक्रमम् ।। ५ ।।
+</details>
+
+<details><summary>English</summary>
+
+And then he said, “O sages, I shall tell you in detail and in due order about the Digest, the Memorial Verse and the Etymology.
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न शक्यम् अस्य नाट्यस्य  
 गन्तुमन्तं कथञ्चन ।  
 कस्माद् बहुत्वाज् ज्ञानानां  
 शिल्पानां वाप्यनन्ततः ।। ६ ।।
-
 </details>
+
+<details><summary>English</summary>
+
+I am not able by any means to exhaust all the topics about drama; for knowledge,[^mg2] and arts and crafts[^mg3] connected with it are respectively manifold and endless in number.
+
+[^mg3]:  śilpāni citrapustādi-karmāṇi (Ag).
+
+[^mg2]:  jñānāni vyākaraṇādīni śāstrāṇi (Ag).
+</details>
+
 
 
 <details><summary>मूलम्</summary>
@@ -222,6 +269,11 @@ title = "०६ रसाध्यायः"
 अमुं सङ्ग्रहादिप्रकारं वर्जयित्वाऽन्येन प्रतिपदनिरूपणादिनेत्यर्थः । यत्किल प्रतिपदं
 निरूपयितुं न शक्यं तल्लक्षणद्वारेणोच्यते । लक्षणस्यैवाङ्गमुद्देशपरीक्षे । तस्य
 विषयप्रदर्शने परिशुद्धौ च तयोर्व्यापारात् । न चात्र प्रतिपदं निरूपणं युक्तमिति ।
+
+अत्र हेतुमाह--**बहुत्वा**दिति । **ज्ञानाख्यानि** व्याकरणादीनि शास्त्राणि । **शिल्पानि**
+चित्रपुस्तादिकर्माणि । तेषामनन्ता(न्तत्वा)दन्ताभावात् ।(४-६)
+
+
 </details>
 
 <details><summary>Notes</summary>
@@ -252,22 +304,60 @@ title = "०६ रसाध्यायः"
 त्व् अन्तो ज्ञानार्णवस्य हि ।  
 गन्तुं किं पुनर् अन्येषां  
 ज्ञानानाम् अर्थतत्त्वतः ।। ७ ।।
+</details>
+
+<details><summary>English</summary>
+
+I am not able by any means to exhaust all the topics about drama; for knowledge,[^mg2] and arts and crafts[^mg3] connected with it are respectively manifold and endless in number.
+
+
+[^mg3]:  śilpāni citrapustādi-karmāṇi (Ag).
+
+[^mg2]:  jñānāni vyākaraṇādīni śāstrāṇi (Ag).
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किन्त्व् अल्पसूत्र-ग्रन्थार्थम्  
 अनुमान-प्रसाधकम् ।  
 नाट्यस्यास्य प्रवक्ष्यामि  
 रस-भावादि-सङ्ग्रहम् ।। ८ ।।
+</details>
+
+<details><summary>English</summary>
+
+8\. [Hence] I shall tell you about the Digest on Sentiments, Psychological States and such other matters, which has its concepts embodied in a small number of Sūtras but which promotes inference [in connection with the subject].
+
+</details>
+
+## सङ्ग्रहः, कारिका, निरुक्तम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विस्तरेणोपदिष्टानाम्  
 अर्थानां सूत्र-भाष्ययोः ।  
 निबन्धो यः समासेन  
 **सङ्ग्रहं** तं विदुर् बुधाः ।। ९ ।।
+</details>
+
+<details><summary>English</summary>
+
+9\. When subjects taught in detail have been compressed and brought together in [a number of] Sūtras and their Bhāṣyas (commentary), these constitute according to the learned a Digest.
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रसा भावा ह्य् अभिनयाः  
 धर्मी वृत्ति-प्रवृत्तयः ।  
 सिद्धिः स्वरास् तथातोद्यं  
 गानं रङ्गश् च **सङ्ग्रहः** ।। १० ।।
+</details>
 
+
+<details><summary>English</summary>
+
+10\. The Digest [of the Nāṭyaveda treats] the Sentiments, the Psychological States, the Histrionic Representation, the Practices (*dharmī*), the Styles (*vṛtti*), Local Usages (*pravṛtti*), Success (*siddhi*), the notes (*svara*), the instrumental music (*ātodya*), songs and the stage.
 </details>
 
 
@@ -293,10 +383,6 @@ title = "०६ रसाध्यायः"
 
 
 <details><summary>Abh</summary>
-
-
-अत्र हेतुमाह--**बहुत्वा**दिति । **ज्ञानाख्यानि** व्याकरणादीनि शास्त्राणि । **शिल्पानि**
-चित्रपुस्तादिकर्माणि । तेषामनन्ता(न्तत्वा)दन्ताभावात् ।(४-६)
 
 
 एतदेवोद्बलय**त्येकस्येति** । नाट्याङ्गभूतस्य कस्यचिदिति शेषः । **अर्थ**स्याभिधेयस्य
@@ -358,6 +444,14 @@ title = "०६ रसाध्यायः"
 **कारिका**ऽर्थ-प्रदर्शिनी ।। ११ ।।
 
 </details>
+
+<details><summary>English</summary>
+
+11\. When a rule (lit. meaning) is explained (lit. uttered) briefly in a Sūtra with a minimum (lit. small) number of words, it is called the Memorial Verse which shows the meaning [of the rule clearly].[^mg4]
+
+[^mg4]:  One additional characteristic of the kārikā may be that it should be generally composed in metres like āryā or anuṣṭup, e.g. the Sāṃkhyakārikā.
+</details>
+
 
 
 <details><summary>मूलम्</summary>
@@ -421,6 +515,17 @@ title = "०६ रसाध्यायः"
 निघण्टु-निगमान्वितम् ।  
 धात्व्-अर्थ-हेतु-संयुक्तं  
 नाना-सिद्धान्त-साधितम् ।। १२ ।।
+
+स्थापितोऽर्थो भवेद् यत्र  
+समासेनार्थ-सूचकः ।  
+धात्व्-अर्थ-वचनेनेह  
+**निरुक्तं** तत् प्रचक्षते ।। १३ ।।
+</details>
+
+<details><summary>English</summary>
+
+12-13. Etymology is the definitive meaning which arises in connexion with various nouns, is helped by dictionaries (lit. vocabularies), and the rules of grammatical interpretation, includes the significance of the root involved as well as the reasons modifying it, and is helped by various findings [of Śāstras], and this meaning [of a noun] is established [mainly] from a consideration of its root [and *pratyaya* or affix].
+
 </details>
 
 
@@ -429,6 +534,10 @@ title = "०६ रसाध्यायः"
 
 नानानामाश्रयोत्पन्नं निघण्टु1निगमान्वितम् ।  
 धात्वर्थहेतुसंयुक्तं नानासिद्धान्तसाधितम् ।। १२ ।।
+
+
+1स्थापितोऽर्थो भवेद्यत्र समासेनार्थसूचकः2 ।  
+धात्वर्थवचनेनेह निरुक्तं 3तत्प्रचक्षते ।। १३ ।।
 </details>
 
   
@@ -477,28 +586,40 @@ title = "०६ रसाध्यायः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्थापितोऽर्थो भवेद् यत्र  
-समासेनार्थ-सूचकः ।  
-**धात्व्-अर्थ**-वचनेनेह  
-निरुक्तं तत् प्रचक्षते ।। १३ ।।
+**सङ्ग्रहो** यो मया प्रोक्तः  
+समासेन द्विजोत्तमाः ।  
+विस्तरं तस्य वक्ष्यामि  
+**सनिरुक्तं सकारिकम्** ।। १४ ।।
+</details>
+
+<details><summary>English</summary>
+
+14\. O the best of Brahmins, [the subjects included into] the Digest which I mentioned earlier, will now be discussed in detail with the necessary Memorial Verses and Etymologies connected with them.
+
+</details>
 
 
-सङ्ग्रहो यो मया प्रोक्तः समासेन द्विजोत्तमाः ।  
-विस्तरं तस्य वक्ष्यामि सनिरुक्तं सकारिकम् ।। १४ ।।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+शृङ्गार-हास्य-करुणा  
+रौद्र-वीर-भयानकाः ।  
+बीभत्साद्भुत-संज्ञो चेत्य्  
+अष्टौ नाट्ये **रसाः** स्मृताः ।। १५ ।।
 
-4शृङ्गारहास्यकरुणा 5रौद्रवीरभयानकाः ।  
-बीभत्साद्भुतसंज्ञो6 चेत्यष्टौ नाट्ये रसाः7 स्मृताः ।। १५ ।।
+</details>
 
+<details><summary>English</summary>
+
+15\. The eight Sentiments[^mg5] recognized in drama are as follows: Erotic (*śṛṅgāra*), Comic (*hāsya*), Pathetic (*karuṇa*), Furious (*raudra*), Heroic (*vīra*), Terrible (*bhayānaka*), Odious (*bībhatsa*) and Marvellous (*adbhuta*)[^mg6].
+
+[^mg6]:  Later writers on Skt, poetics add one more rasa (śānta) to this number.
+
+[^mg5]:  rasa—A.K. Coomaraswamy is for translating the word as ‘flavour’ (M G. p. 17).
 </details>
 
 
 
 <details><summary>मूलम्</summary>
-
-1स्थापितोऽर्थो भवेद्यत्र समासेनार्थसूचकः2 ।  
-धात्वर्थवचनेनेह निरुक्तं 3तत्प्रचक्षते ।। १३ ।।
-
 
 सङ्ग्रहो यो मया प्रोक्तः समासेन द्विजोत्तमाः ।  
 विस्तरं तस्य वक्ष्यामि सनिरुक्तं सकारिकम् ।। १४ ।।
@@ -569,12 +690,59 @@ title = "०६ रसाध्यायः"
 
 <pb n="261"/>
 
-एते ह्यष्टौ रसाः1 प्रोक्ता2 द्रुहिणेन महात्मना ।  
-पुनश्च भावान्वक्ष्यामि स्थायिसञ्चारिसत्त्वजान्3 ।। १६ ।।  
+## रसाः
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एते ह्य् अष्टौ **रसाः** प्रोक्ता  
+द्रुहिणेन महात्मना ।  
+पुनश् च **भावान्** वक्ष्यामि  
+स्थायि-सञ्चारि-सत्त्वजान् ।। १६ ।।
+</details>
+
+<details><summary>English</summary>
+
+16\. These eight are the Sentiments named by Druhiṇa (Brahmā). I shall now speak of the Durable and the Complementary Psychological States and the Sāttvika ones[^mg7].
+
+
+[^mg7]:  bhāva—A.B. Keith translates this word as ‘feeling’ or ‘emotion.’ See Skt. Drama, p. 319, A. K. Coomaraswamy and others translate it as “mood” (loc. cit.). Haas translates it as ‘State.’ See DR. p. 108.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+एते ह्यष्टौ रसाः1 प्रोक्ता2 द्रुहिणेन महात्मना ।  
+पुनश्च भावान्वक्ष्यामि स्थायिसञ्चारिसत्त्वजान्3 ।। १६ ।।
+
+</details>
+
+## स्थायिभावाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रतिर् हासश् च शोकश् च  
+क्रोधोत्साहौ भयं तथा ।  
+जुगुप्सा विस्मयश् चेति  
+**स्थायि-भावाः** प्रकीर्तिताः ।। १७ ।।
+</details>
+
+<details><summary>English</summary>
+
+
+17\. The Durable Psychological States (*sthāyibhāva*)[^mg8] are known to be the following: love, mirth, sorrow, anger, energy, terror, disgust and astonishment.
+
+[^mg8]:  sthāyibhāva—Keith translates the term as ‘dominant emotion’ (Skt. Drama) and Haas as ‘Permanent State’ (DR.) and others as ‘permanent mood’ (e.g. S. K. De, Skt Poetics, Vol. II. p. 26).
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 रति4र्हासश्च शोकश्च क्रोधोत्साहौ भयं तथा ।  
-जुगुप्सा विस्मयश्चेति5 स्थायिभावाः प्रकीर्तिताः ।। १७ ।।  
+जुगुप्सा विस्मयश्चेति5 स्थायिभावाः प्रकीर्तिताः ।। १७ ।।
+</details>
+
+
 
 <details><summary>Abh</summary>
 
@@ -636,8 +804,28 @@ title = "०६ रसाध्यायः"
 
 <pb n="262"/>
 
-1निर्वेदग्लानिशङ्काख्यास्तथासूया मदः श्रमः।  
+## व्यभिचारिणः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्वेद-ग्लानि-शङ्काख्यास्  
+तथासूया मदः श्रमः।  
+आलस्यं चैव दैन्यं च  
+चिन्ता मोहः स्मृतिर् धृतिः ।। १८ ।।  
+</details>
+
+<details><summary>English</summary>
+
+discouragement, weakness, apprehension, envy, intoxication, weariness, indolence, depression, anxiety, distraction, recollection, contentment,
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+निर्वेद-ग्लानि-शङ्काख्यास्  तथासूया मदः श्रमः।  
 आलस्यं चैव दैन्यं च चिन्ता मोहः स्मृतिर्धृतिः2 ।। १८ ।।  
+</details>
+
 
 
 व्रीडा चपलता 3हर्ष आवेगो जडता 4तथा ।  
