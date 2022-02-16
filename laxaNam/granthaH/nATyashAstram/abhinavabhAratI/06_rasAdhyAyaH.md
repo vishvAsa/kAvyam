@@ -1302,7 +1302,7 @@ Songs which relate to Dhruvās are of five kinds. And the playhouse is of three 
 
 <pb n="265"/>
 
-## सूत्राणि
+## सूत्र-ग्रन्थ-विकल्पनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम् एषो ऽल्प-सूत्रार्थो  
@@ -3736,8 +3736,6 @@ Mahākāla (Śiva) of the Odious, Kāla of the Terrible, Indra of the Heroic, an
 वीरो8 महेन्द्रदेवः स्यादद्भुतो ब्रह्मदैवतः ।। ४५ ।।  
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम् एतेषां रसानाम् उत्पत्ति-वर्ण-दैवतान्य् अभिव्याख्यातानि ।  
@@ -3818,8 +3816,27 @@ We shall now enumerate the Durable Psychological States in different Sentiments.
 
 <pb n="294"/>
 
-तत्र शृङ्गारो नाम रतिस्थायिभावप्रभवः । उज्जवलवेषात्मकः1 ।  
+### शृङ्गारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र शृङ्गारो नाम रति-स्थायि-भाव-प्रभवः । उज्ज्वल-वेषात्मकः ।  
+यत् किञ्चिल् लोके शुचि मेध्यम् उज्ज्वलं दर्शनीयं वा तच् छृङ्गारेणोपमीयते ।  
+
+</details>
+
+<details><summary>English</summary>
+
+Of these, the Erotic (*śṛṅgāra*) Sentiment proceeds from the Durable Psychological State of love (*rati*), and it has as its basis (lit. soul) a bright attire; for whatever in this world is white, pure, bright and beautiful is appreciated in terms of the Durable Psychological State of love. 
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र शृङ्गारो नाम रतिस्थायिभावप्रभवः । उज्ज्वलवेषात्मकः1 ।  
 2यत्किञ्चिल्लोके शुचि मेध्यमुज्ज्वलं दर्शनीयं3 वा तच्छृङ्गारेणोपमीयते ।  
+
+</details>
 
 <details><summary>Abh</summary>
 
@@ -3882,11 +3899,46 @@ We shall now enumerate the Durable Psychological States in different Sentiments.
 
 <pb n="295"/>
 
-यस्तावदुज्ज्वलवेषः1 स शृङ्गारवानित्युच्यते । यथा च गोत्रकुलाचारो-  
-त्पन्नान्याप्तोदेशसिद्धानि पुंसां नामानि भवन्ति 2तथैवैषां रसानां भावानां  
-च नाट्याश्रितानां चार्थानामाचारोत्पन्नान्याप्तोपदेशसिद्धानि नामानि ।  
-3एवमेष आचारसिद्धो ह्यद्योज्ज्वलवेषात्मककत्वाच्छृङ्गारो4 रसः । स च  
-5स्त्रीपुरुषहेतुक 6उत्तमयुवप्रकृतिः ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस् तावद् उज्ज्वल-वेषः स शृङ्गारवान् इत्य् उच्यते ।  
+यथा च गोत्र-कुलाचारोत्पन्नान्य् आप्तोपदेशसिद्धानि पुंसां नामानि भवन्ति,  
+तथैवैषां रसानां भावानां च नाट्याश्रितानां चार्थानाम् आचारोत्पन्नान्य् आप्तोपदेश-सिद्धानि नामानि ।  
+
+</details>
+<details><summary>English</summary>
+
+For example, one who is elegantly dressed is called a lovely person (*śṛṅgārin*).  
+Just as persons are named, after the profession of their father, mother or family in accordance with the traditional authority, so the Sentiments, the Psychological States and other objects connected with drama are given names in pursuance of the practice and the traditional authority. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यस्तावदुज्ज्वलवेषः1 स शृङ्गारवानित्युच्यते । यथा च गोत्रकुलाचारोत्पन्नान्याप्तोपदेशसिद्धानि पुंसां नामानि भवन्ति 2तथैवैषां रसानां भावानां च नाट्याश्रितानां चार्थानामाचारोत्पन्नान्याप्तोपदेशसिद्धानि नामानि ।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवमेष आचार-सिद्धो ह्य् अद्योज्ज्वल-वेषात्मकत्वाच् छृङ्गारो रसः ।  
+स च स्त्री-पुरुष-हेतुक  
+उत्तम-युव-प्रकृतिः ।
+</details>
+
+<details><summary>English</summary>
+
+Hence the Erotic Sentiment has been so named on account of its usually being associated with a bright and elegant attire.  
+It owes its origin to men and women and relates to the fulness of youth.
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+3एवमेष आचारसिद्धो ह्यद्योज्ज्वलवेषात्मककत्वाच्छृङ्गारो4 रसः । स च 5स्त्रीपुरुषहेतुक 6उत्तमयुवप्रकृतिः ।
+</details>
 
 <details><summary>Abh</summary>
 
@@ -4009,9 +4061,42 @@ We shall now enumerate the Durable Psychological States in different Sentiments.
 
 <pb n="297"/>
 
-तस्य द्वे अधिष्ठाने सम्भोगो विप्रलम्भश्च । तत्र सम्भोगस्तावत्  
-ऋतुमाल्या1नुलेपनालङ्कारेष्टजनविषयवरभवनोपभोगोपवन2गमनानु-  
-भवनश्रवणदर्शनक्रीडालीलादिभिर्विभावैरुत्पद्यते3 ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य द्वे अधिष्ठाने सम्भोगो विप्रलम्भश् च ।  
+
+</details>
+
+<details><summary>English</summary>
+
+It has two bases: union and separation.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+तस्य द्वे अधिष्ठाने सम्भोगो विप्रलम्भश् च ।  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र सम्भोगस् तावद् ऋतु-माल्यानुलेपन+अलङ्कार+इष्टजन-विषय--वर-भवनोपभोग+उपवन-गमनानुभवन-श्रवण-दर्शन-क्रीडा-लीलादिभिर् विभावैर् उत्पद्यते ।  
+</details>
+
+<details><summary>English</summary>
+
+Of these two, the Erotic Sentiment in union arises from Determinants like the pleasures of the season, the enjoyment of garlands, unguents, ornaments, [the company of] beloved persons, objects [of senses], splendid mansions, going to a garden, and enjoying [oneself] there, seeing [the beloved one], hearing [his or her words], playing and dallying [with him or her].  
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+तत्र सम्भोगस् तावद् ऋतुमाल्या1नुलेपनालङ्कारेष्टजनविषयवरभवनोपभोगोपवन2गमनानुभवनश्रवणदर्शनक्रीडालीलादिभिर्विभावैरुत्पद्यते3 ।  
+</details>
+
 
 <details><summary>Abh</summary>
 
@@ -4130,8 +4215,24 @@ We shall now enumerate the Durable Psychological States in different Sentiments.
 
 <pb n="299"/>
 
-तस्य 1नयनचातुर्यभ्रूक्षेपकटाक्षसञ्चार2ललितमधुराङ्गहार3-  
-वाक्यादिभिरनुभावैरभिनयः4 प्रयोक्तव्यः ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य नयन-चातुर्य--भ्रू-क्षेप--कटाक्ष-सञ्चार--ललित-मधुराङ्ग-हार--वाक्यादिभिर् अनुभावैर् अभिनयः प्रयोक्तव्यः ।
+</details>
+
+<details><summary>English</summary>
+
+It should be represented on the stage by Consequents such as clever movement of eyes, eyebrows, glances, soft and delicate movement of limbs, and sweet words and similar other things.
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+तस्य 1नयनचातुर्यभ्रूक्षेपकटाक्षसञ्चार2ललितमधुराङ्गहार3-वाक्यादिभिरनुभावैरभिनयः4 प्रयोक्तव्यः ।
+</details>
+  
 
 <details><summary>Abh</summary>
 
@@ -4223,9 +4324,44 @@ Kan.)
 
 <pb n="300"/>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यभिचारिणश् चास्यालस्यौग्य्र-जुगुप्सा-वर्ज्याः ।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Complimentary Psychological States in it do not include fear, indolence, cruelty and disgust. 
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+1व्यभिचारिणश्चास्यालस्यौग्य्रजुगुप्सावर्ज्याः2 ।
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विप्रलम्भ-कृतस् तु निर्वेद-ग्लानि-शङ्काऽसूयाश्रम-चिन्तौत्सुक्य-निद्रा-स्वप्न-विबोध-व्याध्य्-उन्मादापस्मार-जाड्य-मरणादिभिर् अनुभावैर् अभिनेतव्यः ।
+</details>
+<details><summary>English</summary>
+
+[The Erotic Sentiment] in separation should be represented on the stage by Consequents such as, indifference, langour, fear, jealousy, fatigue anxiety, yearning, drowsiness, sleep, dreaming, awakening, illness, insanity, epilepsy, inactivity, fainting, death and other conditions.
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 1व्यभिचारिणश्चास्यालस्यौग्य्रजुगुप्सावर्ज्याः2 । विप्रलम्भकृतस्तु  
 निर्वेदग्लानिशङ्कासूयाश्रमचिन्तौत्सुक्यनिद्रा3स्वप्नविबोधव्याध्युन्मादाप-  
-स्मारजाङ्यमरणादिभिरनुभावैरभिनेतव्यः ।  
+स्मारजाङ्यमरणादिभिरनुभावैरभिनेतव्यः । 
+</details>
+  
 
 <details><summary>Abh</summary>
 
@@ -4363,8 +4499,44 @@ Kan.)
 
 <pb n="302"/>
 
-अत्राह--यद्ययं रतिप्रभवः शृङ्गारः कथमस्य करुणाश्रयिणो भाव1
-भवन्ति। अत्रोच्यते--2पूर्वमेवाभिहितं सम्भोगविप्रलम्भकृतः शृङ्गार
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्राह-- यद्य् अयं रति-प्रभवः शृङ्गारः,  
+कथम् अस्य करुणाश्रयिणो भावा भवन्ति।
+</details>
+
+<details><summary>English</summary>
+
+Now it has been asked, “If the Erotic Sentiment Has its origin in love, why does it [sometimes] manifest itself through pathetic conditions?”  
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+अत्राह--यद्ययं रतिप्रभवः शृङ्गारः कथमस्य करुणाश्रयिणो भाव1 भवन्ति।
+</details>
+ 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्रोच्यते-- पूर्वम् एवाभिहितं सम्भोग-विप्रलम्भ-कृतः शृङ्गार इति।
+
+</details>
+
+<details><summary>English</summary>
+
+[In reply to this] it is said, “It has been mentioned before that the Erotic Sentiment has its basis in union as well as in separation". 
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्रोच्यते--2पूर्वमेवाभिहितं सम्भोगविप्रलम्भकृतः शृङ्गार इति।
+
+</details>
 
 <details><summary>Abh</summary>
 
@@ -4423,12 +4595,59 @@ Kan.)
 
 <pb n="303"/>
 
-इति। वै1शिकशास्त्रकारैश्च2 दशावस्थोऽभिहितः। 3ताश्च सामान्याभिनये
-वक्ष्यामः ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वैशिक-शास्त्र-कारैश् च दशावस्थो ऽभिहितः।  
+ताश् च सामान्याभिनये वक्ष्यामः ।
+</details>
+
+<details><summary>English</summary>
+
+Authorities on *ars amatoria (vaiśikaśāstra*) have mentioned ten conditions [of the persons separated from their beloved ones, which are pathetic]. We shall discuss them in the chapter on the Harmonious Histrionic Representation.[^28]
+
+[^28]:  An example of this is the Prahasana.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वै1शिकशास्त्रकारैश्च2 दशावस्थोऽभिहितः।  
+3ताश्च सामान्याभिनये वक्ष्यामः ।
+</details>
 
 
-4करुणस्तु 5शापक्लेशविनिपतितेष्टजनविभवनाशवधबन्धसमुत्थो
-निरपेक्षभावः। औत्सुक्यचिन्तासमुत्थः6 सापेक्षभावो7 विप्रलम्भकृतः।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+करुणस् तु शाप-क्लेश-विनिपतित+इष्ट-जन-विभव-नाश--वध--बन्ध--समुत्थो निरपेक्ष-भावः।
+</details>
+<details><summary>English</summary>
+
+The Pathetic Sentiment relates to a condition of despair owing to the affliction under a curse, separation from dear ones, loss of wealth, death or captivity, 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+4करुणस्तु 5शापक्लेशविनिपतितेष्टजनविभवनाशवधबन्धसमुत्थो निरपेक्षभावः।
+</details>
+  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+औत्सुक्य-चिन्ता-समुत्थः सापेक्ष-भावो विप्रलम्भ-कृतः।
+</details>
+
+<details><summary>English</summary>
+
+while the Erotic Sentiment based on separation relates to a condition of retaining optimism arising out of yearning and anxiety.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+औत्सुक्यचिन्तासमुत्थः6 सापेक्षभावो7 विप्रलम्भकृतः।
+</details>
+
 
 <details><summary>Abh</summary>
 
@@ -4483,15 +4702,69 @@ Kan.)
 
 <pb n="304"/>
 
-एवमन्यः करुणोऽन्यश्च1 विप्रलम्भ इति । एवमेष सर्वभाव-
-संयुक्तः शृङ्गारो भवति2 ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+एवम् अन्यः करुणोऽन्यश् च विप्रलम्भ इति ।  
+</details>
+
+<details><summary>English</summary>
+
+Hence the Pathetic Sentiment, and the Erotic Sentiment in separation differ from each other.  
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमन्यः करुणोऽन्यश्च1 विप्रलम्भ इति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवमेष सर्वभाव-संयुक्तः शृङ्गारो भवति ।
+</details>
+
+<details><summary>English</summary>
+
+And this is the reason why the Erotic Sentiment includes conditions available in all other Sentiments.
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमेष सर्वभावसंयुक्तः शृङ्गारो भवति2 ।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च
+
+
+सुख-प्रायेषु सम्पन्नः  
+ऋतु-माल्यादि-सेवकः ।  
+पुरुष-प्रमदा-युक्तः  
+शृङ्गार इति संज्ञितः ।। ४६ ।।  
+
+</details>
+
+<details><summary>English</summary>
+
+46\. And the Sentiment called Erotic is generally happy, connected with desired objects, enjoyment of seasons, garlands and similar other things, and it relates to [the union of] man and woman.
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 अपि च3
 
 
 सुखप्रायेषु4 सम्पन्नः ऋतुमाल्या5दिसेवकः ।  
 पुरुषः6 प्रमदायुक्तः शृङ्गार इति संज्ञितः ।। ४६ ।।  
+
+</details>
 
 <details><summary>Abh</summary>
 
@@ -4550,13 +4823,68 @@ Kan.)
 
 <pb n="305"/>
 
-अपि चात्र सूत्रार्थानुविद्धे1 आर्ये भवतः ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि चात्र सूत्रार्थानुविद्धे आर्ये भवतः ।
+</details>
+
+<details><summary>English</summary>
+
+There are besides two Āryās related to the preceding Sūtra:
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+अपि चात्र सूत्रार्थानुविद्धे1 आर्ये भवतः ।
+</details>
+  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋतु-माल्यालङ्कारैः  
+प्रियजन-गान्धर्व-काव्य-सेवाभिः।  
+उपवन-गमन-विहारैः  
+शृङ्गार-रसः समुद्भवति ।। ४७ ।।  
+
+</details>
+
+<details><summary>English</summary>
+
+The Erotic Sentiment arises in connexion with favourable seasons, garlands, ornaments, enjoyment of the company of beloved ones, music and poetry, and going to the garden and roaming there.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ऋतुमाल्यालङ्कारैः प्रियजनगान्धर्वकाव्यसेवाभिः।  
 उपवनगमनविहारैः शृङ्गाररसः समुद्भवति ।। ४७ ।।  
 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नयन-वदन-प्रसादैः  
+स्मित-मधुर-वचो-धृति-प्रमोदैश् च ।  
+मधुरैश् चाङ्ग-विहारैस्  
+तस्याभिनयः प्रयोक्तव्यः ।। ४८ ।।  
+
+</details>
+
+<details><summary>English</summary>
+
+It should be represented on the stage by means of composure of the eyes and the face, sweet and smiling words, satisfaction and delight, and graceful movements of limbs.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 नयनवदनप्रसादैः 3स्मितमधुरवचोधृतिप्रमोदैश्च4 ।  
 5मधुरैश्चाङ्गविहारैस्तस्याभिनयः प्रयोक्तव्यः ।। ४८ ।।  
+
+</details>
 
 <details><summary>Abh</summary>
 
@@ -4620,6 +4948,7 @@ Kan.)
 
 <pb n="306"/>
 
+### हास्यः
 अथ हास्यो नाम हासस्थायिभावात्मकः । स च 1विकृत--
 परवेषालङ्कारधाष्ट्र्यलौल्य2कुहकासत्प्रलापव्यङ्गदर्शन3दोषोदाहरादि -
 
