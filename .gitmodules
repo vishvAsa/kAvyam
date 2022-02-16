@@ -7,3 +7,7 @@
 	url = https://github.com/vishvAsa/kAvyam.git
 	branch = content
 	update = merge
+[submodule "static"]
+	path = static
+	url = https://github.com/vishvAsa/kAvyam.git
+	branch = static_files
