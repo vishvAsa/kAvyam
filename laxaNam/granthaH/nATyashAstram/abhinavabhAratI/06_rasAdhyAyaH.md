@@ -2109,7 +2109,7 @@ emandation /?/विलक्षणेन uncalled for.
 सम्भवेऽपि न प्रतीतिर्विश्राम्यति । स्फुटप्रतीतिरूपप्रत्यक्षोचितप्रत्ययसाकाङ्क्षत्वात् ।
 
 
-यथाऽऽहुः 'सर्वा चेयं प्रमितिः प्रत्यक्षपरा' (न्यायसू. भा. १.१-१३ इति ।
+यथाऽऽहुः 'सर्वा चेयं प्रमितिः प्रत्यक्षपरा' (न्यायसू. भा. १.१-१३) इति ।
 स्वसाक्षात्कृते आगमानुमानशतैरप्य12नन्यथाभावस्य स्वसंवेदनात् । अलातचक्रादौ
 साक्षात्कारान्तरेणैव बलवता तप्तमित्यपसारणादिति लौकिकस्तावदयं क्रमः ।
 तस्मात्तदुभयविघ्नविघातेऽभिनया लोकधर्मिवृत्तिप्रवृत्त्युपस्कृताः समभिषिच्यन्ते ।
@@ -2808,7 +2808,7 @@ so the learned people taste in their heart (*manas*) the Durable Psychological S
 एतदुक्तं भवति-न रसनाव्यापार आस्वादनम् । अपि तु मानस एव । स
 चात्राविकलोऽस्ति । केवलं लोके रसनाव्यापारानन्तरभावी स प्रसिद्ध इत्युपचार इह
 दर्शित इति। (2शुद्धतत्स्वरूपज्ञानस्वभावा) अत्र **भावा** विभावव्यभिचारिणः। **आभिनया**
-अनुभावा एव। (इयं (दं)3 पृथग्वचनं प्राधान्यात् । तैर्ये4 सम्य**ग्बद्धा** हृदयसंवादक्रमेण
+अनुभावा एव। इयं(दं)3 पृथग्वचनं प्राधान्यात् । तैर्ये4 सम्य**ग्बद्धा** हृदयसंवादक्रमेण
 तन्मयीभावापन्नप्रमातृभूम्यभेदमुपसम्प्राप्ता अचिन्त्याः स्थायिनः तान्5 **आ**
 समन्तात्साधारणीभावेन निर्विघ्नप्रतिपत्तिवशात् । **मनसा** इन्द्रियान्तरविघ्नसंभावनाशून्येन
 **स्वादयन्ति** स्वपरविवेकशून्यस्वादचमत्कारपरवशतया लौकिकात्प्रत्ययादु-
@@ -3016,7 +3016,7 @@ For [on this point] there are [traditional] couplets such as:
 
 नानाभिनय-सम्बद्धान्  
 भावयन्ति रसान् इमान् ।  
-यस्मात् तस्माद् अमी भावा  
+यस्मात् तस्माद् अमी **भावा**  
 विज्ञेया नाट्य-योक्तृभिः ।। ३४ ।।  
 </details>
 
@@ -3033,16 +3033,77 @@ The Psychological States are so called by experts it drama, for they make one fe
 यस्मात्तस्मादमी भावा विज्ञेया नाट्ययोक्तृभिः ।। ३४ ।।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाना-द्रव्यैर् बहु-विधैर्  
+व्यञ्जनं भाव्यते यथा ।  
+एवं **भावा** भावयन्ति  
+रसान् अभिनयैः सह ।। ३५ ।।  
+</details>
+
+<details><summary>English</summary>
+
+Just as by many articles of various kinds, auxiliary cooked eatable (*vyañjana*)[^mg25] is brought forth, so the Psychological States along with different kinds of Histrionic Representation will cause the Sentiments to be felt.
+
+
+[^mg25]:  The reading of this passage seems to be confused.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 नानाद्रव्यैर्बहुविधैर्व्यञ्जनं भाव्यते यथा ।  
 एवं भावा भावयन्ति रसानभिनयैः सह ।। ३५ ।।  
+</details>
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न भाव-हीनो ऽस्ति रसो  
+न भावो रसवर्जितः ।  
+**परस्पर-कृता सिद्धिस्**  
+तयोर् अभिनये भवेत् ।। ३६ ।।  
+</details>
+
+<details><summary>English</summary>
+
+36\. There can be no Sentiment prior to (lit. without) the Psychological States, and no Psychological States without the Sentiments [following it], and during the Histrionic Representation they result from their interaction.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 न भावहीनोऽस्ति रसो 2न भावो रसवर्जितः ।  
 परस्परकृता सिद्धिस्तयोरभि3नये भवेत् ।। ३६ ।।  
+</details>
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यञ्जनौषधि-संयोगो  
+यथा ऽन्नं स्वादुतां नयेत् ।  
+एवं **भावा रसाश्** चैव  
+भावयन्ति परस्परम् ।। ३७ ।। 
+</details>
+
+<details><summary>English</summary>
+
+37\. Just as a combination of auxiliary cooked eatables (*vyañjana*) and rice, imparts good taste to the food [in totality], so the Psychological States and the Sentiments cause one another to manifest themselves (*bhāvayanti*).
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 व्यञ्जनौषधिसंयोगो यथाऽन्नं 4स्वादुतां नयेत् ।  
-एवं भावा रसाश्चैव भावयन्ति परस्परम्5 ।। ३७ ।।  
+एवं भावा रसाश्चैव भावयन्ति परस्परम्5 ।। ३७ ।। 
+</details>
+ 
 
 <details><summary>Abh</summary>
 
@@ -3103,11 +3164,40 @@ The Psychological States are so called by experts it drama, for they make one fe
 
 <pb n="288"/>
 
-यथा बीजाद्भवेदवृक्षो वृक्षां1त्पुष्पं फलं यथा ।  
-तथा मूलं रसाः सर्वे तेभ्यो2 भावा व्यवस्थिताः3 ।। ३८ ।।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा बीजाद् भवेद् वृक्षो  
+वृक्षात् पुष्पं फलं यथा ।  
+तथा मूलं रसाः सर्वे  
+तेभ्यो भावा व्यवस्थिताः ।। ३८ ।।
+</details>
+
+<details><summary>English</summary>
+
+38\. Just as a tree grows from a seed, and flowers and fruits from a tree, to the Sentiments are the source (lit. root) of all the Psychological States, and likewise the Psychological States exist [as the source of all the Sentiments],
+
+</details>
 
 
-4तदेषां रसानामुत्पत्तिवर्णदैव5तनिदर्शनान्यभिव्याख्यास्यामः।  
+
+<details><summary>मूलम्</summary>
+
+यथा बीजाद्भवेद्वृक्षो वृक्षात्1पुष्पं फलं यथा ।  
+तथा मूलं रसाः सर्वे तेभ्यो2 भावा व्यवस्थिताः3 ।। ३८ ।।
+</details>
+
+
+### रसविवृद्धिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् एषां रसानाम् उत्पत्ति-वर्ण-दैवत-निदर्शनान्य् अभिव्याख्यास्यामः। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+4तदेषां रसानामुत्पत्तिवर्णदैव5तनिदर्शनान्यभिव्याख्यास्यामः। 
+</details>
+ 
 
 <details><summary>Abh</summary>
 
@@ -3171,15 +3261,83 @@ H..MS....ब. ततो ।
 
 <pb n="289"/>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेषाम् उत्पत्तिहेतवश् चत्वारो रसाः।  
+तद्यथा-- शृङ्गारो रौद्रौ वीरो बीभत्स इति । +++(5)+++
+
+</details>
+<details><summary>English</summary>
+
+Sources of these [eight] Sentiments are the four [original] Sentiments *e.g*. Erotic, Furious, Heroic and Odious.[^26]
+
+[^26]:  According to Indian practice, boiled rice is the principle food (anna), and the various preparations from vegetables, meat and fish are only auxiliary eatables (vyañjana).
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 तेषामुत्पत्तिहेतवश्चत्वारो रसाः। तद्यथा--शृङ्गारो रौद्रौ1 वीरो
-बीभत्स इति । 2अत्र--
+बीभत्स इति । 
+
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र--
+
+शृङ्गाराद् +धि भवेद् +धास्यो  
+रौद्राच् च करुणो रसः।  
+वीराच् चैवाद्भुतोत्पत्तिर्  
+बीभत्साच् च भयानकः ।। ३९ ।।  
+
+</details>
+
+<details><summary>English</summary>
+
+39\. The Comic [Sentiment] arises from the Erotic, the Pathetic from the Furious, the Marvellous from the Heroic, and the Terrible from the Odious.
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+2अत्र--
 
 शृङ्गाराद्धि3 भवेद्धास्यो रौद्राच्च4 करुणो रसः।  
 वीराच्चैवाद्भुतोत्पत्तिर्बीभत्साच्च भयानकः ।। ३९ ।।  
 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शृङ्गारानुकृतिर् या तु  
+स हास्यस् तु प्रकीर्तितः।  
+रौद्रस्यैव च यत् कर्म  
+स ज्ञेयः करुणो रसः ।। ४० ।।+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+A mimicry of the Erotic [Sentiment] is called the Comic,[^27] and the result of the Furious Sentiment is the Pathetic
+
+[^27]:  Bhoja criticises this view of the author of the NŚ. in his Sr. Pr. See Ramaswamy Sastri, Bh. P. introduction p. 28; also V. Raghavan, Śr. Pr, 27.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 शृङ्गारानुकृतिर्या तु स 5हास्यस्तु प्रकीर्तितः।  
 रौद्रस्यैव6 च यत्कर्म स ज्ञेयः करुणो रसः ।। ४० ।।  
+</details>
+
 
 <details><summary>Abh</summary>
 
@@ -3313,7 +3471,7 @@ H..MS....ब. ततो ।
 इत्यादौ ते इति प्राणभूतं (पदं) निरुपयोगतां गमितं स्यात् ।
 रतिप्रलापेषु च शृङ्गार एव करुणस्य जीवितम्-
 
-'हृदये वससीति (मत्प्रियं यदवोचस्तदवैमि कैतवम् ।  
+'हृदये वससीति मत्प्रियं यदवोचस्तदवैमि कैतवम् ।  
 उपचारपदं न चेदिदं त्वमनङ्गः कथमक्षता रतिः ।। (कुमार. ४-९)  
 
 इत्याद्युक्तिषु ।
@@ -3373,8 +3531,28 @@ H..MS....ब. ततो ।
 
 <pb n="292"/>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वीरस्यापि च यत् कर्म  
+सोऽद्भुतः परिकीर्तितः ।  
+बीभत्स-दर्शनं यच् च   
+ज्ञेयः स तु भयानकः ।। ४१ ।।  
+</details>
+
+<details><summary>English</summary>
+
+the result of the Heroic Sentiment is called the Marvellous, and that which is Odious to see, results in the Terrible.
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 वीरस्यापि1 च यत्कर्म सोऽद्भुतः परिकीर्तितः ।  
 बीभत्सदर्शनं यच्च2 ज्ञेयः स तु भयानकः ।। ४१ ।।  
+</details>
+
 
 <details><summary>Abh</summary>
 
@@ -3453,28 +3631,138 @@ VR's emendation accepted.
 
 <pb n="293"/>
 
+### वर्णाः
 अथ वर्णाः-
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्यामो भवति श्रृङ्गारः  
+सितो हास्यः प्रकीर्तितः ।  
+कपोतः+++(=विधूसरः)+++ करुणश् चैव  
+रक्तो रौद्रः प्रकीर्तितः ।। ४२ ।।  
+</details>
+
+<details><summary>English</summary>
+
+The Erotic Sentiment is light green (*śyāma*), the Comic Sentiment white, the Pathetic (Sentiment) grey (*kapota*), the Furious Sentiment red,
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 1श्यामो भवति श्रृङ्गारः सितो हास्यः प्रकीर्तितः ।  
 2कपोतः करुणश्चैव रक्तो रौद्रः प्रकीर्तितः ।। ४२ ।।  
+</details>
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गौरो वीरस् तु विज्ञेयः  
+कृष्णश् चैव भयानकः ।  
+नीलवर्णस् तु बीभत्सः  
+पीतश् चैवाद्भुतः स्मृतः ।। ४३ ।।  
+</details>
+
+<details><summary>English</summary>
+
+the Heroic (Sentiment) yellowish (*gaura*), the Terrible (Sentiment) black,  
+the Odious (Sentiment) blue and the Marvellous (Sentiment) yellow.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 गौरो वीरस्तु विज्ञेयः 3कृष्णश्चैव भयानकः ।  
 नीलवर्णस्तु बीभत्सः पीतश्चैवाद्भुतः स्मृतः ।। ४३ ।।  
+</details>
+
+### दैवतानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ दैवतानि
+</details>
+
+<details><summary>मूलम्</summary>
 
 4अथ दैवतानि
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रृङ्गारो विष्णु-दैवत्यो  
+हास्यः प्रमथ-दैवतः ।  
+रौद्रो रुद्राधिदैवत्यः  
+करुणो यम-दैवतः ।। ४४ ।।  
+</details>
+
+<details><summary>English</summary>
+
+Viṣṇu is the god of the Erotic, Pramathas of the Comic, Rudra of the Furious, Yama of the Pathetic,
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 श्रृङ्गारो विष्णुदैवत्यो5 हास्यः प्रमथदैवतः ।  
 रौद्रो रुद्राधिदैवत्यः6 करुणो यमदैवतः ।। ४४ ।।  
+</details>
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बीभत्सस्य महाकालः  
+काल-देवो भयानकः ।  
+वीरो महेन्द्र-देवः स्याद्  
+अद्भुतो ब्रह्म-दैवतः ।। ४५ ।।  
+</details>
+
+<details><summary>English</summary>
+
+Mahākāla (Śiva) of the Odious, Kāla of the Terrible, Indra of the Heroic, and Brahmā of the Marvellous Sentiments.
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 बीभत्सस्य महाकालः 7कालदेवो भयानकः ।  
 वीरो8 महेन्द्रदेवः स्यादद्भुतो ब्रह्मदैवतः ।। ४५ ।।  
+</details>
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् एतेषां रसानाम् उत्पत्ति-वर्ण-दैवतान्य् अभिव्याख्यातानि ।  
+इदानीम् अनुभाव-विभाव-व्यभिचारि-संयुक्तानां लक्षण-निदर्शनान्य् अभिव्याख्यास्यामः ।  
+स्थायिभावांश् च रसत्वम् उपनेष्यामः ।  
+
+</details>
+
+<details><summary>English</summary>
+
+Thus have been described the origin, colours and deities of these [Sentiments].  
+Now we shall explain the Determinants, the Consequents, the Complementary Psychological States, their combination, definition and examples.
+
+We shall now enumerate the Durable Psychological States in different Sentiments.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 एवमेतेषां रसानामुत्पत्तिवर्णदैवतान्यभिव्याख्यातानि ।  
-इदानीमनुभावविभा9वव्यभिचारिसंयुक्तानां लक्षण10निदर्शनान्यभि-  
-व्याख्यास्यामः । 11स्थायिभावांश्च रसत्वमुपनेष्यामः ।  
+इदानीमनुभावविभा9वव्यभिचारिसंयुक्तानां लक्षण10निदर्शनान्यभिव्याख्यास्यामः ।  
+11स्थायिभावांश्च रसत्वमुपनेष्यामः ।  
+
+</details>
 
 <details><summary>Abh</summary>
 
