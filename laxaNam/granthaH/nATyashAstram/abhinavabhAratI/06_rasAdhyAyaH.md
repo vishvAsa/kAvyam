@@ -4949,8 +4949,31 @@ It should be represented on the stage by means of composure of the eyes and the 
 <pb n="306"/>
 
 ### हास्यः
-अथ हास्यो नाम हासस्थायिभावात्मकः । स च 1विकृत--
-परवेषालङ्कारधाष्ट्र्यलौल्य2कुहकासत्प्रलापव्यङ्गदर्शन3दोषोदाहरादि -
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+
+अथ हास्यो नाम हास-स्थायि-भावात्मकः ।  
+स च विकृत-पर-वेषालङ्कार--धाष्ट्र्य--लौल्य--कुहक+++(=कलह)++++असत्-प्रलाप--व्यङ्ग+++(=विकृताङ्ग)+++-दर्शन--दोषोदाहरादिभिर् विभावैर् उत्पद्यते ।
+
+</details>
+
+<details><summary>English</summary>
+
+Now the Comic (*hāsya*) has as its basis the Durable Psychological State of laughter.  
+This is created by Determinants such as, showing unseemly dress or ornament, impudence, greediness, quarrel, defective limb, use of irrelevant words, mentioning of different faults, and similar other things.  
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+अथ हास्यो नाम हासस्थायिभावात्मकः ।  
+स च 1विकृत-परवेषालङ्कारधाष्ट्र्यलौल्य2कुहकासत्प्रलापव्यङ्गदर्शन3दोषोदाहरादिभिर्विभावैरुत्पद्यते ।
+
+</details>
+
+
 
 <details><summary>Abh</summary>
 
@@ -5024,11 +5047,79 @@ Kan.
 
 <pb n="307"/>
 
-भिर्विभावैरूत्पद्यते । 1तस्योष्ठनासाकपोलस्पन्दनदृष्टि2व्याकोशाकुञ्चन-
-स्वेदास्यरागपार्श्वग्रहणादिभिरनुभावैरभिनयः प्रयोक्तव्यः । 3व्यभिचारिण-
-श्चास्यावहित्थालस्यतन्द्रानिद्रास्वप्नप्रबोधासूयादयः4 । द्विविध-
-श्चायमात्मस्थः परस्थश्च । 5यदा स्वयं हसति तदाऽऽत्मस्थः । यदा
-तु6 परं हासयति तदा परस्यः।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्योष्ठ-नासा-कपोल-स्पन्दन--दृष्टि-व्याकोश+++(=विस्तार)++++आकुञ्चन-स्वेद+आस्य-राग--पार्श्व-ग्रहणादिभिर् अनुभावैर् अभिनयः प्रयोक्तव्यः । 
+
+</details>
+
+<details><summary>English</summary>
+
+This (the Comic Sentiment) is to be represented on the stage by Consequents like the throbbing of the lips, the nose and the cheek, opening the eyes wide or contracting them, perspiration, colour of the face, and taking hold of the sides.  
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+1तस्योष्ठनासाकपोलस्पन्दनदृष्टि2व्याकोशाकुञ्चन-स्वेदास्यरागपार्श्वग्रहणादिभिरनुभावैरभिनयः प्रयोक्तव्यः । 
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यभिचारिणश् चास्यावहित्थालस्य-तन्द्रा-निद्रा-स्वप्न-प्रबोधासूयादयः।
+</details>
+
+<details><summary>English</summary>
+
+Complementary Psychological States in it are indolence, dissimulation, drowsiness, sleep, dreaming, insomnia, envy and the like.  
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+3व्यभिचारिणश्चास्यावहित्थालस्यतन्द्रानिद्रास्वप्नप्रबोधासूयादयः4 ।
+</details>
+  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्विविधश् चायम् - आत्मस्थः परस्थश् च ।  
+</details>
+<details><summary>English</summary>
+
+This (Sentiment), is of two kinds: self-centred and centred in others.
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्विविधश्चायमात्मस्थः परस्थश्च ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदा स्वयं हसति तदाऽऽत्मस्थः ।  
+यदा तु परं हासयति तदा परस्यः।
+</details>
+
+<details><summary>English</summary>
+
+When a person himself laughs, it relates to the self-centred (Comic Sentiment), but when he makes others laugh, it (the Comic Sentiments therein) is centred in others.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+5यदा स्वयं हसति तदाऽऽत्मस्थः ।  
+यदा तु6 परं हासयति तदा परस्यः।
+</details>
+
 
 <details><summary>Abh</summary>
 
@@ -5075,23 +5166,114 @@ Kan.
 
 <pb n="308"/>
 
-1अत्रानुवंश्ये आर्ये भवतः ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+1अत्रानुवंश्ये आर्ये भवतः ।  
+</details>
+
+<details><summary>English</summary>
+
+There are two traditional Āryās here:
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+1अत्रानुवंश्ये आर्ये भवतः ।  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विपरीतालङ्कारैर्  
+विकृताचाराभिधान-वेषैश् च ।  
+विकृतैर् अर्थविशेषैर्  
+हसतीति रसः स्मृतो हास्यः ।। ४९ ।।  
+</details>
+
+<details><summary>English</summary>
+
+49\. As one laughs with an exhibition of oddly placed ornaments, uncouth behaviour, words and dress and strange movements of limbs, it is called the Comic Sentiment.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 विपरीतालङ्कारैर्विकृताचाराभिधानवेषैश्च2 ।  
 विकृतैरर्थवि3शेषैर्हसतीति रसः स्मृतो हास्यः ।। ४९ ।।  
+</details>
 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विकृताचारैर् वाक्यैर्  
+अङ्ग-विकारैश् च विकृत-वेषैश् च ।  
+हासयति जनं यस्मात्  
+तस्माज् ज्ञेयो रसो हास्यः ।। ५० ।।  
+
+</details>
+
+<details><summary>English</summary>
+
+50\. As this makes [other] persons laugh by means of his uncouth behaviour, words, movement of the limbs and strange dress, it is known as the Comic Sentiment.
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 4विकृताचारैर्वाक्यैरङ्गविकारैश्च विकृतवेषैश्च5 ।  
 हासयति जनं यस्मात्तस्माज्ज्ञेयो रसो हास्यः ।। ५० ।।  
 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्त्रीनीच-प्रकृताव् एष  
+भूयिष्ठं दृश्यते रसः ।  
+षड् भेदाश् चास्य विज्ञेयास्  
+तांश् च वक्ष्याम्य् अहं पुनः ।। ५१ ।।  
+</details>
+
+<details><summary>English</summary>
+
+51\. This Sentiment is mostly to be seen in women and men of the inferior type, and it has six varieties of which I shall speak presently.
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 स्त्रीनीचप्रकृतावेष6 भूयिष्ठं दृश्यते रसः ।  
 षड्भेदाश्चास्य विज्ञेयास्तांश्च वक्ष्याम्यहं पुनः ।। ५१ ।।  
+</details>
 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्मितम् अथ हसितं  
+विहसितम् उपहसितं चापहसितम् अतिहसितम् ।  
+द्वौ द्वौ भेदौ स्याताम्  
+उत्तम-मध्याधम-प्रकृतौ ।। ५२ ।।  
+
+</details>
+<details><summary>English</summary>
+
+52\. They are: Slight Smile (*smita*), Smile (*hasita*), Gentle Laughter (*vihasita*), Laughter of Ridicule (*upahasita*), Vulgar Laughter (*apahasita*) and Excessive Laughter (*atihasita*). Two by two they belong respectively to the superior, the middling and the inferior types [of persons].
+</details>
+
+<details><summary>मूलम्</summary>
 
 स्मितमथ हसितं विहसितमुपहसितं चापहसितमतिहसितम् ।  
 द्वौ द्वौ भेदौ स्यातामुत्तममध्याधमप्रकृतौ7 ।। ५२ ।।  
+
+</details>
 
 8तत्र
 
