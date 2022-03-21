@@ -3,6 +3,6 @@ title = "+मन्त्रः (पूर्णपाठः)"
 
 +++
 
-<div class="js_include" url="../"  newLevelForH1="1" includeTitle="false"> </div>
-<div class="js_include" url="../mantraNa-auchitya/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../vAk-paTutA/"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="../"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../mantraNa-auchitya/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../vAk-paTutA/"></div>

@@ -1,9 +1,7 @@
 ---
 title: ०१-०५अ तुङ्गबलो नाम राजपुत्रस्य कथा
 
-unicode_script: devanagari
 ---
-
   - अस्ति कान्यकुब्जविषये वीरसेनो नाम राजा । तेन वीरपुरनाम्नि नगरे तुङ्गबलो नाम राजपुत्रो भोगपतिः कृतः । स च महाधनस्तरुण एकदा स्वनगरे भ्राम्यन्नतिप्रौढयौवनां लावण्यवतीं नाम वणिक्पुत्रवधूमालोकयामास । ततः स्वहर्म्यं गत्वा स्मराकुलमतिस्तस्याः कृते दूतीं प्रेषितवान् ।
 
 
@@ -41,7 +39,7 @@ unicode_script: devanagari
 
   राजपुत्रः पृच्छति— कथमेतत्? सा कथयति– +++(सम्पादकटिप्पनी- पुस्तकेऽत्रायमधिकः पाठः । )+++
 
-<div class="js_include" url="../../upakathAH/01-06_karpUratilako_nAma_hastinaH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-06_karpUratilako_nAma_hastinaH_kathA/"></div>
 
 अतो ऽहं ब्रवीमि-उपायेन हि यच् छक्यम् इत्य् आदि ।  
 

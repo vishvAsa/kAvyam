@@ -1,8 +1,7 @@
 ---
 title: ४-०५ मर्कटस्य निर्भर्त्सनम्
-unicode_script: devanagari
----
 
+---
 अथ विहस्य निर्भर्त्सयन् वानरस् तम् आह-धिग् धिङ् मूर्ख विश्वास-घातक ! किं कस्यचिद् धृदय-द्वयं भवति ? तद् आशु गम्यतां जम्बू-वृक्षस्याधस्तान् न भूयो ऽपि त्वयात्रागन्तव्यम् । उक्तं च यतः-  
 
 सकृद् दुष्टं च यो मित्रं पुनः सन्धातुम् इच्छति ।  
@@ -21,7 +20,7 @@ unicode_script: devanagari
 
 स आह-  
 
-<div class="js_include" url="../../upakathAH/04-01_gangadattapriyadarshanakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-01_gangadattapriyadarshanakathA/"></div>
 
 तद् भो दुष्ट-जलचर ! अहम् अपि गङ्गदत्त इव त्वद्-गृहे न कथञ्चिद् अपि यास्यामि ।  
 
@@ -34,7 +33,7 @@ unicode_script: devanagari
 
 मकर आह-भद्र ! स को लम्भ-कर्णः । कथं दृष्टापायो ऽपि मृतः ? तन् मे निवेद्यताम् ।  
 वानर आह-  
-<div class="js_include" url="../../upakathAH/04-02_karAlakEsarakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-02_karAlakEsarakathA/"></div>
 
 अतो ऽहं ब्रवीमि-आगतश् च गतश् चैव इति । तन् मूर्ख ! कपटं कृतं त्वया । परं युधिष्ठिरेणेव सत्य-वचनेन विनाशितम् । अथवा साध्व् इदम् उच्यते-  
 
@@ -45,7 +44,7 @@ unicode_script: devanagari
 
 स आह-  
 
-<div class="js_include" url="../../upakathAH/04-03_yudhiShThirAkhyakumbhakArakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-03_yudhiShThirAkhyakumbhakArakathA/"></div>
 
 अतो ऽहं ब्रवीमि-स्वार्थम् उत्सृज्य यो दम्भी (३८) इति ।  
 
@@ -58,7 +57,7 @@ unicode_script: devanagari
 
 वानर आह-  
 
-<div class="js_include" url="../../upakathAH/04-05_brAhmaNakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-05_brAhmaNakathA/"></div>
 
 अतो ऽहं ब्रवीमि-यद्-अर्थे स्व-कुलं त्यक्तम् (४४) इति ।  
 
@@ -71,7 +70,7 @@ unicode_script: devanagari
 
 वानरः कथयति-  
 
-<div class="js_include" url="../../upakathAH/04-06_nandavararuchikathA/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-06_nandavararuchikathA/"></div>  
 
 सो ऽब्रवीत्-न किं दद्यात् (४५) इत्य् आदि । तद् भो दुस्ट मकर ! त्वम् अपि नन्द-वररुचि-वत् स्त्री-वश्यः । ततो भद्र आगतेन त्वया मां प्रति वधोपाय-प्रयासः प्रारब्धः । परं स्व-वाग्-दोषेणैव प्रकटीभूतः । अथवा साध्व् इदम् उच्यते-  
 
@@ -86,7 +85,7 @@ unicode_script: devanagari
 
 वानरः कथयति-  
 
-<div class="js_include" url="../../upakathAH/04-07_shuddhapaTanAmarajakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-07_shuddhapaTanAmarajakakathA/"></div>
 
 अतो ऽहं ब्रवीमि-सुगुप्तं रक्ष्यमाणो ऽपि (४७) इति ।    
 
@@ -100,7 +99,7 @@ unicode_script: devanagari
 
 वानर आह-  
 
-<div class="js_include" url="../../upakathAH/04-08_bhAnDapatikathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-08_bhAnDapatikathA/"></div>
 
 अतो ऽहं ब्रवीमि-  
 
@@ -116,7 +115,7 @@ unicode_script: devanagari
 
 वानरः कथयति-  
 
-<div class="js_include" url="../../upakathAH/04-09_rathakArakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-09_rathakArakathA/"></div>
 
 अतो ऽहं ब्रवीमि-प्रत्यक्षेऽपि कृते पापे (४९) ।  
 
@@ -134,7 +133,7 @@ unicode_script: devanagari
 
 वानरो ऽब्रवीत्-  
 
-<div class="js_include" url="../../upakathAH/04-10_kAmAturakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-10_kAmAturakathA/"></div>
 
 अतोऽहं ब्रवीमि या ममोद्विजते इत्यादि ।
 

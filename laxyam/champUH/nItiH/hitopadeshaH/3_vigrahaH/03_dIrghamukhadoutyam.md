@@ -1,8 +1,7 @@
 ---
 title: ३-०२ दीर्घमुखदौत्यम्
-unicode_script: devanagari
----
 
+---
 दीर्घमुखो ब्रूते-ततः पश्चात् तैः पक्षिभिर् उक्तम्-अरे पापा दुष्ट-बक ! अस्माकं भूमौ चरन्न् अस्माकं स्वामिनम् अधिक्षिपसि । तन् न क्षन्तव्यम् इदानीम् । इत्य् उक्त्वा सर्वे मां चञ्चुभिर् हत्वा, स-कोपा ऊचुः-पश्य रे मूर्ख ! स हंसस् तव राजा सर्वथा मृदुः । तस्य राज्याधिकारो नास्ति । यत एकान्त-मृदुः करतलस्थम् अप्य् अर्थं रक्षितुम् अक्षमः । स कथं पृथिवीं शास्ति ? राज्यं वा तस्य किम् ? त्वं च कूप-मण्डूकः । तेन तद्-आश्रयम् उपदिशसि । शृणु-  
 
 सेवितव्यो महा-वृक्षः फल-च्छाया-समन्वितः ।  
@@ -32,7 +31,7 @@ unicode_script: devanagari
 
 पक्षिणः कथयन्ति-  
 
-<div class="js_include" url="../../upakathAH/03-03_gajashashakayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-03_gajashashakayoH_kathA/"></div>
 
 अतो वयं ब्रूमः-व्यपदेशेऽपि सिद्धिः स्यात् इति ।  
 
@@ -95,13 +94,13 @@ unicode_script: devanagari
 शुकः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/03-04_kAkahamsayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-04_kAkahamsayoH_kathA/"></div>
 
 अतो ऽहं ब्रवीमि-न स्थातव्यम् इति ।  
 
 देव ! वर्तक-कथाम् अपि कथयामि । श्रूयताम्-  
 
-<div class="js_include" url="../../upakathAH/03-04a_kAkavartakayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-04a_kAkavartakayoH_kathA/"></div>  
 
 अतो ऽहं ब्रवीमि-न गन्तव्यम् इत्य् आदि ।  
 
@@ -121,7 +120,7 @@ unicode_script: devanagari
 शुकः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/03-05_mandamatirathakArasya_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-05_mandamatirathakArasya_kathA/"></div>
 
 अतो ऽहं ब्रवीमि प्रयक्षेऽपि कृते दोषे इत्य् आदि ।  
 

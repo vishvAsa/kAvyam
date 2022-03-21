@@ -1,6 +1,6 @@
 ---
 title: ४-०१ राजहंसचक्रयोः संवादः
-unicode_script: devanagari
+
 ---
 ततस् तेन राजहंसेन उक्तम्-केनास्मद्-दुर्गे निक्षिप्तो ऽग्निः ? किं पारक्येण ? किं वास्मद्-दुर्ग-वासिना केनापि विपक्ष-प्रयुक्तेन ?  
 
@@ -29,7 +29,7 @@ unicode_script: devanagari
 मन्त्री कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/04-01_hamsakUrmayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-01_hamsakUrmayoH_kathA/"></div>
 
 अतो ऽहं ब्रवीमि-सुहृदां हित-कामानाम् इत्य् आदि ।   
 
@@ -62,7 +62,7 @@ unicode_script: devanagari
 मन्त्री कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/04-05_munimUShikayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-05_munimUShikayoH_kathA/"></div>
 
 अतो ऽहं ब्रवीमि-नीचः श्लाघ्य-पदं प्राप्येत्य् आदि ॥  
 
@@ -76,7 +76,7 @@ unicode_script: devanagari
 मन्त्री कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/04-06_atilobhI_bakaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-06_atilobhI_bakaH/"></div>
 
 अतो ऽहं ब्रवीमि-भक्षयित्वा बहून् मत्स्यान् इत्य् आदि ।  
 
@@ -89,7 +89,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति-  
 
-<div class="js_include" url="../../upakathAH/04-07_bhagnabhAnDo_dvijaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-07_bhagnabhAnDo_dvijaH/"></div>
 
 अतो ऽहं ब्रवीमि - अनागतवतीं चिन्ताम् इत्य् आदि ।  
 
@@ -127,7 +127,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति-  
 
-<div class="js_include" url="../../upakathAH/04-08_sundopasundakathA/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-08_sundopasundakathA/"></div>  
 
 अतो ऽहं ब्रवीमि-सन्धिम् इच्छेत् समेनापि इत्य् आदि ।  
 
@@ -261,7 +261,7 @@ unicode_script: devanagari
 मेघवर्णः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/04-09_duShTavanchakAnAm_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-09_duShTavanchakAnAm_kathA/"></div>
 
 अतो ऽहं ब्रवीमि-आत्मौपम्येन यो वेत्तीत्य् आदि ।  
 
@@ -281,7 +281,7 @@ unicode_script: devanagari
 
 मेघवर्णः कथयति-  
 
-<div class="js_include" url="../../upakathAH/04-11_mandaviShasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-11_mandaviShasarpakathA/"></div>
 
 अतो ऽहं ब्रवीमि-स्कन्धेनापि वहेच् छत्रून् इत्य् आदि ।  
 
@@ -317,7 +317,7 @@ unicode_script: devanagari
 दूरदर्शी कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/04-12_brAhmaNanakulakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-12_brAhmaNanakulakathA/"></div>
 
 अतो ऽहं ब्रवीमि-यो ऽर्थ-तत्त्वम् अविज्ञाय इत्य् आदि ।  
 

@@ -1,6 +1,6 @@
 ---
 title: ०२-०५ सोमिलककथा
-unicode_script: devanagari
+
 ---
 अर्थस्योपार्जनं कृत्वा नैवाभाग्यः समश्नुते ।  
 अरण्यं महदासाद्य मूढः सोमिलको यथा ॥२.१२७॥  
@@ -96,7 +96,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्-  
 
-<div class="js_include" url="../02-06_tIkShNaviShANashrugAlakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../02-06_tIkShNaviShANashrugAlakathA/"></div>
 
 अतोऽहं ब्रवीमि– "शिथिलौ च सुबद्धौ च" (१४१) इति ।  
 

@@ -1,6 +1,6 @@
 ---
 title: ०४-०२ दूरदर्शीमत्स्यानां कथा
-unicode_script: devanagari
+
 ---
 अनागत-विधाता च प्रत्युत्पन्न-मतिस् तथा ।  
 द्वाव् एव सुखम् एधेते यद्-भविष्यो विनश्यति ॥ हित्_४।६ ॥  
@@ -15,7 +15,7 @@ unicode_script: devanagari
 प्रत्युत्पन्नमतिः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/04-03_ratnaprabhAyAH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-03_ratnaprabhAyAH_kathA/"></div>
 
 अतो ऽहं ब्रवीमि-उत्पन्नाम् आपदम् इत्य् आदि ।  
 

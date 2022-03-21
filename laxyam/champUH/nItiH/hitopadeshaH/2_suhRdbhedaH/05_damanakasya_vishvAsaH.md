@@ -1,6 +1,6 @@
 ---
 title: २-०४ दमनकस्य विश्वासः
-unicode_script: devanagari
+
 ---
 करटको गच्छन् दमनकम् आह-सखे ! किं शक्त्य-प्रतीकारो भय-हेतुर् अशक्य-प्रतीकारो वेति न ज्ञात्वा भयोपशमं प्रतिज्ञाय कथम् अयं महा-प्रसादो गृहीतः ? यतो ऽनुपकुर्वाणो न कस्याप्य् उपायनं गृह्णीयाद् विशेषतो राज्ञः । पश्य-  
 
@@ -26,7 +26,7 @@ unicode_script: devanagari
 दमनकः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/02-03_durdAntanAmasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/02-03_durdAntanAmasimhakathA/"></div>
 
 अतोहं ब्रवीमि "निरपेक्षो न कर्तव्यः" इत्यादि।  
 
@@ -71,7 +71,7 @@ unicode_script: devanagari
 
 दमनकः कथयति-  
 
-<div class="js_include" url="../../upakathAH/02-04_karAlakuTTinIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/02-04_karAlakuTTinIkathA/"></div>
 
 अतो ऽहं ब्रवीमि-शब्द-मात्रान् न भेतव्यम् इत्य् आदि ।  
 

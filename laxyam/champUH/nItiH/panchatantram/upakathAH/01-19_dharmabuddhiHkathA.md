@@ -1,8 +1,7 @@
 ---
 title: ०१-१९ धर्मबुद्धिकथा
-unicode_script: devanagari
----
 
+---
 धर्म-बुद्धिः कुबुद्धिश् च द्वाव् एतौ विदितौ मम ।  
 पुत्रेण व्यर्थ-पाण्डित्यात् पिता धूमेन घातितः ॥पन्च्_१.४२९॥
 
@@ -89,6 +88,6 @@ unicode_script: devanagari
 
 ते प्रोचुः-  
 
-<div class="js_include" url="../01-20_kriShNasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../01-20_kriShNasarpakathA/"></div>
 
 अतो वयं ब्रूमः– "उपायं चिन्तयेद्" इति ।  

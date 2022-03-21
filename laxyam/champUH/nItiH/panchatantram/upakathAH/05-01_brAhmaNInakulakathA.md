@@ -1,6 +1,6 @@
 ---
 title: ०५-०१ ब्राह्मणीनकुलकथा
-unicode_script: devanagari
+
 ---
 अपरीक्ष्य न कर्तव्यं कर्तव्यं सुपरीक्षितम् ।  
 पश्चाद् भवति सन्तापो ब्राह्मणी नकुलं यथा ॥पन्च्_५.१७॥  
@@ -28,4 +28,4 @@ unicode_script: devanagari
 
   सा प्राह- +++(सम्पादकटिप्पनी- पुस्तकेऽत्रायमधिकः पाठः ।)+++
 
-<div class="js_include" url="../05-02_lObhAviShTachakradharakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-02_lObhAviShTachakradharakathA/"></div>

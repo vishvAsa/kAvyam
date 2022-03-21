@@ -1,6 +1,6 @@
 ---
 title: ०५-०२ लोभाविष्टचक्रधरकथा
-unicode_script: devanagari
+
 ---
 अतिलोभो न कर्तव्यः कर्तव्यस् तु प्रमाणतः ।   अतिलोभज-दोषेण जम्बुको निधनं गतः ॥पन्च्_५.२१॥  
 
@@ -117,7 +117,7 @@ unicode_script: devanagari
 
   सुवर्णसिद्धिर् आह- +++(सम्पादकटिप्पनी - पुस्तकेऽधिकः पाठः ।)+++  
 
-<div class="js_include" url="../05-03_simhakArakamUrkhabrAhmaNakathA/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-03_simhakArakamUrkhabrAhmaNakathA/"></div>  
 
 अतो ऽहं ब्रवीमि-वरं बुद्धिर् न सा विद्या इति ।  
 
@@ -131,7 +131,7 @@ unicode_script: devanagari
 
   सो ऽब्रवीत्-  
 
-<div class="js_include" url="../05-04_mUrkhapanDitakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-04_mUrkhapanDitakathA/"></div>
 
 अथ सुवर्ण-सिद्धिर् आह-यत् त्वं लोक-व्यवहारम् अजानन् मया वार्यमाणो ऽपि न स्थितः तत ईदृशीम् अवस्थातुम् उपगतः । अतो ऽहं ब्रवीमि-अपि शास्त्रेषु कुशलाः इति ।
 
@@ -154,7 +154,7 @@ unicode_script: devanagari
 स आह-  
 
 
-<div class="js_include" url="../05-05_matsyamanDUkakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-05_matsyamanDUkakathA/"></div>
 
 
   - अतोऽहं ब्रवीमि - न एकान्ते बुद्धिरपि प्रमाणम् । +++(सम्पादकटिप्पनी- इदं पुस्तकेऽधिकः पाठः)+++
@@ -170,7 +170,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्-  
 
-<div class="js_include" url="../05-06_rAsabhashrugAlakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-06_rAsabhashrugAlakathA/"></div>
 
 तद् भवान् अपि मया वार्यमाणो ऽपि न स्थितः ।  
 
@@ -183,7 +183,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्-  
 
-<div class="js_include" url="../05-07_mantharakaulikakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-07_mantharakaulikakathA/"></div>
 
 अतो ऽहं ब्रवीमि-यस्य नास्ति स्वयं प्रज्ञा इति ।  
 
@@ -197,7 +197,7 @@ unicode_script: devanagari
 सो ऽब्रवीत्-
 
 
-<div class="js_include" url="../05-08_sOmasharmapitrukathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-08_sOmasharmapitrukathA/"></div>
 
 अतो ऽहं ब्रवीमि-अनागतवतीं चिन्ताम् इति ।  
 
@@ -210,7 +210,7 @@ unicode_script: devanagari
 
 स आह-  
 
-<div class="js_include" url="../05-09_chandrabhUpatikathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-09_chandrabhUpatikathA/"></div>
 
 अतो ऽहं ब्रवीमि-यो लौल्यात् कुरुते कर्म इति ।  
 
@@ -230,7 +230,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्-  
 
-<div class="js_include" url="../05-10_vikAlavAnarakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-10_vikAlavAnarakathA/"></div>
 
   - उक्त्वा प्रनष्टश्च ।
 
@@ -252,7 +252,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्-  
 
-<div class="js_include" url="../05-11_andhakakubjakatristanIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-11_andhakakubjakatristanIkathA/"></div>
 
 अतो ऽहं ब्रवीमि-अन्धकः कुब्जकश् चैव (८४) इति ।  
 
@@ -266,7 +266,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्-  
 
-<div class="js_include" url="../05-13_bhArunDapakShikathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-13_bhArunDapakShikathA/"></div>
 
 अतो ऽहं ब्रवीमि-एकोदराः पृथग्-ग्रीवाः (९२) इति ।  
 
@@ -284,7 +284,7 @@ unicode_script: devanagari
 सो ऽब्रवीत्-   
 
 
-<div class="js_include" url="../05-14_brAhmaNakarkaTakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-14_brAhmaNakarkaTakathA/"></div>
 
 
   - एवमुक्त्वा असौ ब्राह्मणो यथाभिप्रेतं गतः ।   अतोऽहं ब्रवीमि-

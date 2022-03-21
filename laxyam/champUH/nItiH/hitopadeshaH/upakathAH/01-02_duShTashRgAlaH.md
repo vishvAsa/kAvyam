@@ -1,8 +1,7 @@
 ---
 title: ०१-०२ दुष्टशृगालः
-unicode_script: devanagari
----
 
+---
 भक्ष्य-भक्षयोः प्रीतिर् विपत्तेः कारणं मतम् ।  
 शृगालात् पाशबद्धो ऽसौ मृगः काकेन रक्षितः ॥ हित्_१।५५ ॥  
 
@@ -25,7 +24,7 @@ unicode_script: devanagari
 काकः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/01-03_jaradgavanAmagRdhrakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-03_jaradgavanAmagRdhrakathA/"></div>
 
 
 अतो ऽहं ब्रवीमि-अज्ञात-कुल-शीलस्य इत्य् आदि ।  

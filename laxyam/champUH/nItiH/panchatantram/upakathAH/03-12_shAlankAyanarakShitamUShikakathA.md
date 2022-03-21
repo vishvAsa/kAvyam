@@ -1,6 +1,6 @@
 ---
 title: ०३-१२ शालङ्कायनरक्षितमूषिककथा
-unicode_script: devanagari
+
 ---
 सूर्यं भर्तारम् उत्सृज्य पर्जन्यं मारुतं गिरिम् ।  
 स्व-जातिं मूषिका प्राप्ता स्वजातिर् दुरतिक्रमा ॥३.१९९॥  
@@ -38,7 +38,7 @@ unicode_script: devanagari
 
 श्येन आह-  
 
-<div class="js_include" url="../03-13_trimunikathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../03-13_trimunikathA/"></div>
 
 अतो ऽहं ब्रवीमि-मुञ्च मुञ्च पतत्य् एक इत्य् आदि ।  
 

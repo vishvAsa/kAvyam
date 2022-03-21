@@ -91,7 +91,7 @@ unicode_script: devanagari
 
 स्थिरजीवी कथयति-  
 
-<div class="js_include" url="../../upakathAH/03-15_mandaviShasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-15_mandaviShasarpakathA/"></div>
 
 अतो ऽहं ब्रवीमि- स्कन्धेनापि वहेच् छत्रुम् (२३८) इत्य् आदि ।  
 

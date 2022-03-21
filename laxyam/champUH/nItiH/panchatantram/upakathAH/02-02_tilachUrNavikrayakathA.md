@@ -1,6 +1,6 @@
 ---
 title: ०२-०२ तिलचूर्णविक्रेतृ-कथा
-unicode_script: devanagari
+
 ---
 नाकस्माच् छाण्डिली मातर् विक्रीणाति तिलैस् तिलान् ।  
 लुञ्चितान् इतरैर् येन हेतुर् अत्र भविष्यति ॥पन्च्_२.७१॥  
@@ -46,7 +46,7 @@ unicode_script: devanagari
 
 स आह-  
 
-<div class="js_include" url="../02-03_shavarashUkarakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../02-03_shavarashUkarakathA/"></div>
 
 अतोऽहं ब्रवीमि "अतितृष्णा न कर्तव्या" इति ।  
 

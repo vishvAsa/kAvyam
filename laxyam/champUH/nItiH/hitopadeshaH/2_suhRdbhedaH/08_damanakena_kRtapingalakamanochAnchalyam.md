@@ -1,8 +1,7 @@
 ---
 title: २-०७ दमनकेन कृतपिङ्गलकमनोचाञ्चल्यम्
-unicode_script: devanagari
----
 
+---
 अतो ऽहं ब्रवीमि-उपायेन हि यच् छक्यम् इतेन हि यच् छक्यम् इत्य् आदि ।  
 
 करटको ब्रूते-यद्य् एवं तर्हि गच्छ । शिवास् ते सन्तु पन्थानः ।  
@@ -152,7 +151,7 @@ unicode_script: devanagari
 
 दमनकः कथयति-  
 
-<div class="js_include" url="../../upakathAH/02-09_TiTTibhadampatIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/02-09_TiTTibhadampatIkathA/"></div>
 
 अतो ऽहं ब्रवीमि-अङ्गाङ्गि-भावम् अज्ञात्वा इत्य् आदि ।  
 

@@ -3,11 +3,11 @@ title = "+३ काकोलूकीयम् (पूर्णपाठः)"
 
 +++
 
-<div class="js_include" url="../"  newLevelForH1="1" includeTitle="false"> </div>
-<div class="js_include" url="../00-meghavarNasya_chintA/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../01-vAyasamantribhiH_mantraNam/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../02-kAkolUka-vaira-kAraNam/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../03-sthirajIvi-meghavarNa-samvAdaH/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../04-sthirajIvina_upAyam/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../05-ulUkamantriNAm_samvAdaH/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../06-ulUkasamhAraH/"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="../"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../00-meghavarNasya_chintA/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../01-vAyasamantribhiH_mantraNam/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../02-kAkolUka-vaira-kAraNam/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../03-sthirajIvi-meghavarNa-samvAdaH/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../04-sthirajIvina_upAyam/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../05-ulUkamantriNAm_samvAdaH/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../06-ulUkasamhAraH/"></div>

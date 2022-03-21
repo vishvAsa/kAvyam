@@ -1,8 +1,7 @@
 ---
 title: १-०४ दमनककरटकयोश्चिन्ता
-unicode_script: devanagari
----
 
+---
 ततः स्वामि-प्रसाद-रहितौ क्षुत्-क्षाम-कण्ठौ परस्परं करटक-दमनकौ मन्त्रयेते । तत्र दमनको ब्रूते– आर्य करटक ! आवां तावद् अप्रधानतां गतौ । एष पिङ्गलकः संजीवकानुरक्तः स्व-व्यापार-पराङ्मुखः संजातः । सर्वोऽपि परिजनो गतः । तत् किं क्रियते ।  
 
 करटक आह– यद्यपि त्वदीय-वचनं न करोति तथापि स्वामी स्व-दोष-नाशाय वाच्यः । उक्तं च–  
@@ -26,7 +25,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्–
 
-<div class="js_include" url="../../upakathAH/01-04_devasharmaparivrAjakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-04_devasharmaparivrAjakakathA/"></div>
 
 अतोऽहं ब्रवीमि– "जम्बूको हुडु-युद्धेन" (१.१७३) इति ।
 
@@ -64,7 +63,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्–
 
-<div class="js_include" url="../../upakathAH/01-05_koulikarathakArakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-05_koulikarathakArakathA/"></div>
 अतस् तूच्यते "सुगुप्तस्यापि दम्भस्य" (२१८) इति ।  
 
 तच् छ्रुत्वा करटक आह– भद्र, अस्त्य् एवम् । परं तथापि महन् मे भयम् । यतो बुद्धिमान् सञ्जीवको रौद्रश् च सिंहः । यद्यपि ते बुद्धि-प्रागल्भ्यं तथापि त्वं पिङ्गलकात् तं वियोजयितुम् असमर्थ एव ।  
@@ -81,7 +80,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्–
 
-<div class="js_include" url="../../upakathAH/01-06_vAyasadampatikathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-06_vAyasadampatikathA/"></div>
 
 अतोऽहं ब्रवीमि– "उपायेन हि यत् कुर्यात्" इति ।  
 
@@ -94,7 +93,7 @@ unicode_script: devanagari
 
 स आह–  
 
-<div class="js_include" url="../../upakathAH/01-08_bhAsurakAkhyasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-08_bhAsurakAkhyasimhakathA/"></div>
 
 अतोऽहं ब्रवीमि– "यस्य बुद्धिर् बलं तस्य" इति ।  
 

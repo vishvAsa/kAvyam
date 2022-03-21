@@ -3,5 +3,5 @@ title = "+विद्याप्रशम्सा (पूर्णपाठ�
 
 +++
 
-<div class="js_include" url="../"  newLevelForH1="1" includeTitle="false"> </div>
-<div class="js_include" url="../vidyA/"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="../"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../vidyA/"></div>

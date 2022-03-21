@@ -1,8 +1,7 @@
 ---
 title: २-०३ मन्थरकमैत्रि-सम्प्राप्तिः
-unicode_script: devanagari
----
 
+---
 तच् छ्रुत्वा हिरण्यकस् तत्-क्षणाद् एव तद् उपरि समारूढः । सो ऽपि शनैः शनैस् तम् आदाय सम्पातोड्डीन-प्रस्थितः क्रमेण तत्-सरः प्राप्तः । ततो लघुपतनकं मूषकाधिष्ठितं विलोक्य दूरतो ऽपि देश-काल-विद-सामान्य-काको ऽयम् इति ज्ञात्वा सत्वरं मन्थरको जले प्रविष्टः । लघुपतनको ऽपि तीरस्थ-तरु-कोटरे हिरण्यकं मुक्त्वा शाखाग्रम् आरुह्य तार-स्वरेण प्रोवाच-भो मन्थरक ! आगच्छागच्छ । तव मित्रम् अहं लघुपतनको नाम वायसश् चिरात् सोत्कण्ठः समायातः । तद् आगत्यालिङ्गय माम् । उक्तं च-  
 
 किं चन्दनैः स-कर्पूरैस् तुहिनैः किं च शीतलैः ।  
@@ -35,7 +34,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्-  
 
-<div class="js_include" url="../../upakathAH/02-01_hiraNyakatAmrachUDakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/02-01_hiraNyakatAmrachUDakathA/"></div>
 
   - उक्तं च-  
 
@@ -48,7 +47,7 @@ unicode_script: devanagari
 
 हिरण्यक आह-  
 
-<div class="js_include" url="../../upakathAH/02-04_sAgaradattakathA/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/02-04_sAgaradattakathA/"></div>  
 
 अतो ऽहं ब्रवीमि-प्राप्तव्यम् अर्थं लभते मनुष्यः इति ।  
 
@@ -128,7 +127,7 @@ unicode_script: devanagari
 
 स आह-  
 
-<div class="js_include" url="../../upakathAH/02-05_sOmilakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/02-05_sOmilakakathA/"></div>
 
 अतो ऽहं ब्रवीमि-अर्थस्योपार्जनं कृत्वा इति ।  
 

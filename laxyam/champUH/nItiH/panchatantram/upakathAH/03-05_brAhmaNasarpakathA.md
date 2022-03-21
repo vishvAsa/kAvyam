@@ -1,8 +1,7 @@
 ---
 title: ०३-०५ ब्राह्मणसर्पकथा
-unicode_script: devanagari
----
 
+---
 कश्चित् क्षुद्र-समाचारः प्राणिनां काल-सन्निभः ।  
 विचचार महारण्ये घोरः शुनि-लुब्धकः ॥पन्च्_३.१३२॥ +++(सम्पादकटिप्पनी - पुस्तके इदं पद्यं नास्ति ।)+++  
 
@@ -22,7 +21,7 @@ unicode_script: devanagari
 
 ब्राह्मणः कथयति-  
 
-<div class="js_include" url="../03-06_haimahamsakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../03-06_haimahamsakathA/"></div>
 
 अतो ऽहं ब्रवीमि-भूतान् यो नानुगृह्णाति (१३३) इति ।  
 

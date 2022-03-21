@@ -1,8 +1,7 @@
 ---
 title: ०१-०६ वायसदम्पतीकथा
-unicode_script: devanagari
----
 
+---
 उपायेन हि यच् छक्यं न तच् छक्यं पराक्रमैः ।  
 काकी कनक-सूत्रेण कृष्ण-सर्पम् अघातयत् ॥१.२२८॥  
 
@@ -36,7 +35,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्–  
 
-<div class="js_include" url="../01-07_bakakulIrakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../01-07_bakakulIrakakathA/"></div>
 
 अतोऽहं ब्रवीमि "भक्षयित्वा बहून् मत्स्यान्" इति ।  
 

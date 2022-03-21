@@ -1,8 +1,7 @@
 ---
 title: २-०२ दमनककरटकयोः संवादः
-unicode_script: devanagari
----
 
+---
 करटको ब्रूते-मित्र दमनक ! अस्मन्-मतेनास्य सेवैव न क्रियते । यदि तथा भवति तर्हि किम् अनेन स्वामि-चेष्टानिरूपेणास्माकम् । यतो ऽनेन राज्ञा विनापराधेन चिरम् अवधीरिताभ्याम् आवाभ्यां महद्-दुःखम् अनुभूतम् ।  
 
 सेवया धनम् इच्छद्भिः सेवकैः पश्य यत् कृतम् ।  
@@ -70,7 +69,7 @@ unicode_script: devanagari
 करकटः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/02-01_kIlAbhihatamarkaTaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/02-01_kIlAbhihatamarkaTaH/"></div>
 
 अतो ऽहं ब्रवीमि-अव्यापरेषु व्यापारम् इत्य् आदि ।  
 
@@ -85,7 +84,7 @@ unicode_script: devanagari
 
 करटको ब्रूते-  
 
-<div class="js_include" url="../../upakathAH/02-02_shvAnagardabhakathA/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/02-02_shvAnagardabhakathA/"></div>  
 
 अतो ऽहं ब्रवीमि-पराधिकार-चर्चाम् इत्य् आदि । पश्य, पशूनाम् अन्वेषणम् एवास्मन्-नियोगः । स्व-नियोग-चर्चा क्रियताम् । किन्त्व् अद्य तया चर्चया न प्रयोजनम् । यत आवयोर् भक्षित-शेषाहारः प्रचुरो ऽस्ति ।  
 

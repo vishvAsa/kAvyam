@@ -3,9 +3,9 @@ title = "+अर्थः (पूर्णपाठः)"
 
 +++
 
-<div class="js_include" url="../"  newLevelForH1="1" includeTitle="false"> </div>
-<div class="js_include" url="../arthArjana-upAyAH/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../arthaprashaMsA/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../bhavya-jIvana/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../dAridryam/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../vANijya-vibhAgAH/"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="../"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../arthArjana-upAyAH/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../arthaprashaMsA/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../bhavya-jIvana/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../dAridryam/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../vANijya-vibhAgAH/"></div>

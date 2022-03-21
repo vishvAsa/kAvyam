@@ -1,9 +1,7 @@
 ---
 title: १-०३ कपोतकथा
-unicode_script: devanagari
+
 ---
-
-
 सो ऽब्रवीत्-अस्ति गोदावरी-तीरे विशालः शाल्मली-तरुः । तत्र नाना-दिग्-देशाद् आगत्य रात्रौ पक्षिणो निवसन्ति । अथ कदाचिद् अवसन्नायां रात्रौ अस्ताचल-चूडावलम्बिनि भगवति कुमुदिनी-नायके चन्द्रमसि । लघुपतन-नामा वायसः प्रबुद्धः कृतान्तम् इव द्वितीयम् अटन्तं पाश-हस्तं व्याघम् अपश्यत् । तम् आलोक्याचिन्तयत्-अद्य प्रातर् एवानिष्ट-दर्शनं जातम् । न जाने किम् अनभिमतं दर्शयिष्यति । इत्य् उक्त्वा तद् अनुसरण-क्रमेण व्याकुलश् चलति । यतः-  
 
    शोक-स्थान-सहस्राणि भय-स्थान-शतानि च ।  
@@ -21,7 +19,7 @@ unicode_script: devanagari
 कपोता ऊचुः-कथम् एतत् ?  
 
 
-<div class="js_include" url="../../upakathAH/01-01_kankaNalobhaH/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-01_kankaNalobhaH/"></div>  
 
 अतो ऽहं ब्रवीमि-कङ्कणस्य तु लोभेनेत्य् आदि । अत एव सर्वथाविचारितं कर्म न कर्तव्यम् इति । यतः-  
 
@@ -216,7 +214,7 @@ unicode_script: devanagari
 हिरण्यकः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/01-02_duShTashRgAlaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-02_duShTashRgAlaH/"></div>
 
 अतो ऽहं ब्रवीमि-भक्ष्य-भक्ष्यकयोः प्रीतिर् इत्य् आदि ।  
 

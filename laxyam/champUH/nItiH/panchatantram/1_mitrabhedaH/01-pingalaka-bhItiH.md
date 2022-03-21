@@ -1,8 +1,7 @@
 ---
 title: १-०१ पिङ्गलकभीतिः
-unicode_script: devanagari
----
 
+---
 ## सञ्जीवको जीवति
 संजीवको ऽप्यायुः-शेषतया यमुना-सलिल-मिश्रैः शिशिरतरवातैर् आप्यायित-शरीरः कथंचिद् अप्य् उत्थाय यमुना-तटम् उपपेदे । +++(र४)+++  
 तत्र मरकत-सदृशानि बाल-तृणाग्राणि भक्षयन् कतिपयैर् अहोभिर् हर-वृषभ इव पीनः ककुद्मान् बलवांश् च संवृत्तः ।  
@@ -29,7 +28,7 @@ unicode_script: devanagari
 अव्यापरेषु व्यापारं यो नरः कर्त्तुम् इच्छति ।  
 स एव निधनं याति कीलोत्पाटीव वानरः ॥१.२१॥  
 
-<div class="js_include" url="../../upakathAH/01-01_kIlotpATi-vAnara/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-01_kIlotpATi-vAnara/"></div>  
 
 अतोऽहं ब्रवीमि - अव्यापारेषु इति ।
 
@@ -37,15 +36,15 @@ unicode_script: devanagari
 
 दमनक आह - "तत् किं भवान् आहारार्थी केवलम् एव । तन् न युक्तम् ।"
 
-<div class="js_include" url="../../upadeshAH/arthaH/bhavya-jIvana/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/arthaH/bhavya-jIvana/"></div>  
 
 करटक आह - आवां तावद् अप्रधानौ तत् किम् आवयोर् अनेन व्यापारेण?  
 
-<div class="js_include" url="../../upadeshAH/mantraH/mantraNa-auchitya/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/mantraH/mantraNa-auchitya/"></div>  
 
 दमनक आह - मा मैवं वद ।  
 
-<div class="js_include" url="../../upadeshAH/sevA/rAja-sevA-stuti/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/sevA/rAja-sevA-stuti/"></div>  
 
 करटक आह - अथ भवान् किं कर्तुमनाः ?
 
@@ -55,7 +54,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत् - ज्ञेयं किम् अत्र ।  
 
-<div class="js_include" url="../../upadeshAH/ingitajnaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/ingitajnaH/"></div>
 
 तद् अद्यैनं भयाकुलं प्राप्य स्व-बुद्धि-प्रभावेन निर्भयं कृत्वा वशीकृत्य च निजां साचिव्य-पदवीं समासादयिष्यामि ।  
 
@@ -65,22 +64,22 @@ unicode_script: devanagari
 
 श्रूयतां तच् चेदम् -  
 
-<div class="js_include" url="../../upadeshAH/sevA/sevA-nIti/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/sevA/sevA-nIti/"></div>
 
 करटक आह - अथ भवांस् तत्र गत्वा किं तावत् प्रथमं
 वक्ष्यति तत् तावद् उच्यताम् ।  
 
 दमनक आह -
 
-<div class="js_include" url="../../upadeshAH/mantraH/vAk-paTutA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/mantraH/vAk-paTutA/"></div>
 
 करटक आह -
 
-<div class="js_include" url="../../upadeshAH/sevA/sevA-kAThinya/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/sevA/sevA-kAThinya/"></div>
 
 दमनक आह - सत्यम् एतत् परम् । किन्तु -
 
-<div class="js_include" url="../../upadeshAH/sevA/svAmi-vashIkaraNa/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/sevA/svAmi-vashIkaraNa/"></div>
 
 करटक आह - यद्य् एवम् अभिमतं तर्हि शिवास् ते पन्थानः
 सन्तु । यथाभिलषितम् अनुष्ठीयताम् । सोऽपि प्रणम्य

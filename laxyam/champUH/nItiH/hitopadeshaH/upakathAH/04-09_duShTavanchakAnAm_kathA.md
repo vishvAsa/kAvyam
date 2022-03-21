@@ -1,8 +1,7 @@
 ---
 title: ०४-०९ दुष्टवञ्चकानां कथा
-unicode_script: devanagari
----
 
+---
 आत्मौपम्येन यो वेत्ति दुर्जनं सत्य-वादिनम् ।  
 स तथा वञ्च्यते धूर्तैर् ब्राह्मणाश् छागतो यथा ॥ हित्_४।५८ ॥  
 
@@ -22,7 +21,7 @@ unicode_script: devanagari
 स कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/04-10_madotkaTa-simha-kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-10_madotkaTa-simha-kathA/"></div>
 
 अतो ऽहं ब्रवीमि-मतिर् दोलायते सत्यम् इत्य् आदि ।  
 

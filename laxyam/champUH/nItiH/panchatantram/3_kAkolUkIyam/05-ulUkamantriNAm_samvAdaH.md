@@ -1,6 +1,6 @@
 ---
 title: ३-०६ उलूकमन्त्रिणां संवादः
-unicode_script: devanagari
+
 ---
 अथारिमर्दनस् तद् आकर्ण्य पितृ-पितामह-क्रमागत-मन्त्रिभिः सार्धं मन्त्रयांचक्रे । तस्य च पञ्च मन्त्रिणः । तद् यथा-रक्ताक्षः, क्रूराक्षः, दीप्ताक्षः, वक्रनासः, प्राकारकर्णश् चेति । तत्रादौ रक्ताक्षम् अपृच्छत्-भद्र ! एष तावत् तस्य रिपोर् मन्त्री मम हस्त-गतः । तत् किं क्रियताम् ? इति ।  
 
@@ -27,7 +27,7 @@ unicode_script: devanagari
 
 रक्ताक्षः कथयति–
 
-<div class="js_include" url="../../upakathAH/03-05_brAhmaNasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-05_brAhmaNasarpakathA/"></div>
 
 अतो ऽहं ब्रवीमि-चितिकां दीपितां पश्य इति । तद् अस्मिन् हतेऽयत्नाद् एव राज्यम् अकण्टकं भवतो भवति ।  
 
@@ -42,7 +42,7 @@ unicode_script: devanagari
 
 क्रूराक्षः कथयति-  
 
-<div class="js_include" url="../../upakathAH/03-07_kapOtalubdhakakathA/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-07_kapOtalubdhakakathA/"></div>  
 
 अतो ऽहं ब्रवीमि-श्रूयते हि कपोतेन (१३४) इत्य् आदि ।  
 
@@ -63,7 +63,7 @@ unicode_script: devanagari
 दीप्ताक्षः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/03-08_kAmAturavaNikkathA/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-08_kAmAturavaNikkathA/"></div>  
 
 तच् छ्रुत्वा चौरो ऽप्य् आह-हर्तव्यं ते न पश्यामि (१८७) इत्य् आदि । तस्माच् चौरस्याप्य् उपकारः श्रेयश् चिन्त्यते किं पुनः शरणागतस्य । अपि चायं तैर् विप्रकृतो ऽस्माकम् एव पुष्टये भविष्यति तदीय-रन्ध्र-दर्शनाय चेति अनेन कारणेनायम् अवध्य इति ।  
 
@@ -79,7 +79,7 @@ unicode_script: devanagari
 वक्रनासः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/03-09_drONAkhyabrAhmaNakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-09_drONAkhyabrAhmaNakathA/"></div>
 
 अतो ऽहं ब्रवीमि-शत्रवो ऽपि हितार्थैव (१९०) इति ।  
 
@@ -94,7 +94,7 @@ unicode_script: devanagari
 
 प्राकारकर्णः कथयति-  
 
-<div class="js_include" url="../../upakathAH/03-10_valmIkOdaragatasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-10_valmIkOdaragatasarpakathA/"></div>
 
 अतो ऽहं ब्रवीमि-परस्परस्य मर्माणि इति ।  
 
@@ -112,7 +112,7 @@ unicode_script: devanagari
 
 रक्ताक्षः कथयति-  
 
-<div class="js_include" url="../../upakathAH/03-11_vIravararathakAratatpatnIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-11_vIravararathakAratatpatnIkathA/"></div>
 
 अतो ऽहं ब्रवीमि-प्रत्यक्षेऽपि कृते पापे (१९३) इति ।
 
@@ -143,10 +143,8 @@ unicode_script: devanagari
 
 
 +++(सम्पादकटिप्पनी- इतः अग्रिमा कथा पुस्तके नास्ति । )+++  
-<div class="js_include" url="../../upakathAH/03-12_shAlankAyanarakShitamUShikakathA/"  newLevelForH1="3" includeTitle="true"> </div>
-
-
-<div class="js_include" url="../../upakathAH/03-12a_mUShikakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-12_shAlankAyanarakShitamUShikakathA/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-12a_mUShikakathA/"></div>
 
 अतो ऽहं ब्रवीमि-सूर्यं भर्तारम् उत्सृज्य इत्यादि ।  
 
@@ -171,7 +169,7 @@ unicode_script: devanagari
 रक्ताक्षः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/03-13a_swarNaShThIvIsindhukapakShIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-13a_swarNaShThIvIsindhukapakShIkathA/"></div>
 
 अतो ऽहं ब्रवीमि-पूर्वं तावद् अहं मूर्खः इति ।  
 
@@ -186,7 +184,7 @@ unicode_script: devanagari
 
 रक्ताक्षः कथयति-  
 
-<div class="js_include" url="../../upakathAH/03-14_kharanakharasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-14_kharanakharasimhakathA/"></div>
 
 शृगालो ऽपि पलायमान इमं श्लोकम् अपठत्-अनागतं यः कुरुते स शोभते इत्य् आदि ।  
 

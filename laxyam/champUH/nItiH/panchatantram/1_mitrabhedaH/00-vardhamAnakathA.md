@@ -1,8 +1,7 @@
 ---
 title: १-०० वर्धमानकयात्रा
-unicode_script: devanagari
----
 
+---
 टीका [ऽत्र](https://archive.org/details/PanchatantraSanskritHindi-JpMishra1910)।
 
 ## प्रवेशः
@@ -18,11 +17,9 @@ unicode_script: devanagari
 ## वणिक्चिन्ता
 तद् यथानुश्रूयते । अस्ति दक्षिणात्ये जनपदे महिलारोप्यं नाम नगरम् । तत्र धर्मोपार्जित-भूरि-विभवो वर्धमानको नाम वणिक्-पुत्रो बभूव । तस्य कदाचिद् रात्रौ शय्यारूढस्य चिन्ता समुत्पन्ना । तत् प्रभूतेऽपि वित्तेऽर्थोपायाश् चिन्तनीयाः कर्तव्याश् चेति । यत उक्तं च -  
 
-<div class="js_include" url="../../upadeshAH/arthaH/arthaprashaMsA/"  newLevelForH1="3" includeTitle="true"> </div>  
-
-<div class="js_include" url="../../upadeshAH/arthaH/arthArjana-upAyAH/"  newLevelForH1="3" includeTitle="true"> </div>  
-
-<div class="js_include" url="../../upadeshAH/arthaH/vANijya-vibhAgAH/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/arthaH/arthaprashaMsA/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/arthaH/arthArjana-upAyAH/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/arthaH/vANijya-vibhAgAH/"></div>  
 
 
 

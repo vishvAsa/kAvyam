@@ -1,6 +1,6 @@
 ---
 title: ०४-०१ हंसकूर्मयोः कथा
-unicode_script: devanagari
+
 ---
 सुहृदां हितकामानां यो वाक्यं नाभिनन्दति ।  
 स कूर्म इव दुर्बुद्धिः काष्ठाद्भ्रष्टो विनश्यति ॥ ४॥  
@@ -24,7 +24,7 @@ unicode_script: devanagari
 कूर्मः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/04-02_dUradarshImatsyAnAm_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-02_dUradarshImatsyAnAm_kathA/"></div>
 
 अतो ऽहं ब्रवीमि-अनागत-विधाता च इत्य् आदि ।  
 
@@ -46,7 +46,7 @@ unicode_script: devanagari
 तौ कथयतः-  
 
 
-<div class="js_include" url="../../upakathAH/04-04_bakasarpanakulAnAm_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-04_bakasarpanakulAnAm_kathA/"></div>
 
 अत आवां ब्रूवः-उपायं चिन्तयन् इत्य् आदि ।   
 

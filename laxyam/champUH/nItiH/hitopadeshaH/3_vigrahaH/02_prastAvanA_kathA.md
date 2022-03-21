@@ -1,8 +1,7 @@
 ---
 title: ३-०१ प्रस्तावना कथा
-unicode_script: devanagari
----
 
+---
 हंसैः सह मयूराणां विग्रहे तुल्य-विक्रमे ।  
 विश्वास्य वञ्चिता हंसाः काकैः स्थित्वारि-मन्दिरे ॥ हित्_३।१ ॥  
 
@@ -41,7 +40,7 @@ unicode_script: devanagari
 दीर्घमुखः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/03-01_duShTamarkaTAH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-01_duShTamarkaTAH/"></div>
 
 अतो ऽहं ब्रवीमि विद्वान् एवोपदेष्टव्यः इत्य् आदि ।  
 
@@ -69,6 +68,6 @@ unicode_script: devanagari
 राजा कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/03-02_mUrkhagardabhaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-02_mUrkhagardabhaH/"></div>
 
 अतो ऽहं ब्रवीमि-सुचिरं हि चरन् नित्यम् इत्य् आदि  ॥  

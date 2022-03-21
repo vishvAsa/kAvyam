@@ -1,8 +1,7 @@
 ---
 title: ०४-०३ युधिष्ठिराख्यकुम्भकारकथा
-unicode_script: devanagari
----
 
+---
 स्वार्थम् उत्सृज्य यो दम्भी सत्यं ब्रूते सुमन्द-धीः ।  
 स स्वार्थाद् भ्रश्यते नूनं युधिष्ठिर इवापरः ॥पन्च्_४.३८॥  
 
@@ -29,6 +28,6 @@ unicode_script: devanagari
 
 राजा कथयति-  
 
-<div class="js_include" url="../04-04_simhadampatIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../04-04_simhadampatIkathA/"></div>
 
 तस्मात् त्वं अपि यावद् एते राज-पुत्रास् त्वां कुलालं नजानन्ति, तावद् द्रुततरम् अपसर । नो चेद् एतेषां सकाशाद् विडम्बनां प्राप्य मरिष्यामि । कुलालो ऽपि तद् आकर्ण्य सत्वरं प्रणष्टः ।    

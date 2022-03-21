@@ -1,8 +1,7 @@
 ---
-title: १-०७ करटकदमनकयोस् संवादः  
-unicode_script: devanagari
----
+title: १-०७ करटकदमनकयोस् संवादः
 
+---
 एवम् अभिधाय दमनकः करटक-सकाशम् अगमत् । करटको ऽपि तम् आयान्तं दृष्ट्वा प्रोवाच-भद्र ! किं कृतं तत्रभवता ?
 
 दमनक आह-मया तावन् नीति-बीज-निर्वापणं कृतम् । परतो दैव-विहितायत्तम् । उक्तं च-
@@ -59,7 +58,7 @@ unicode_script: devanagari
 
 स आह-
 
-<div class="js_include" url="../../upakathAH/01-16_vajradamShtranAmasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-16_vajradamShtranAmasimhakathA/"></div>
 
 अतोऽहं ब्रवीमि "परस्य पीडनं कुर्वन्" (३९९) इति ।  
 
@@ -155,7 +154,7 @@ unicode_script: devanagari
 
   दमनक आह– कथम् एतत् ?
 
-<div class="js_include" url="../../upakathAH/01-17_vAnarayUthakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-17_vAnarayUthakathA/"></div>
 
 अतोऽहं ब्रवीमि "नानाम्यं नमते दारु" इत्यादि।
 
@@ -171,7 +170,7 @@ unicode_script: devanagari
 दमनक आह कथमेतत्?
 
 सोऽब्रवीत्
-<div class="js_include" url="../../upakathAH/01-18_mUrkhavAnaraH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-18_mUrkhavAnaraH/"></div>
 
 अतोऽहं ब्रवीमि "उपदेशो न दातव्यः" इति ।  
 
@@ -201,7 +200,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्-  
 
-<div class="js_include" url="../../upakathAH/01-19_dharmabuddhiHkathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-19_dharmabuddhiHkathA/"></div>
 
 तदनेन पापबुद्धिना उपायश्चिन्तितो नापायः । ततस्तत्फलं प्राप्तम् ।
 
@@ -222,7 +221,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्-  
 
-<div class="js_include" url="../../upakathAH/01-21_jIrNadhananAmavaNikputrakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-21_jIrNadhananAmavaNikputrakathA/"></div>
 
 अतो ऽहं ब्रवीमि-तुलां लोह-सहस्रस्य इति ।
 तन् मूर्ख ! सञ्जीवक-प्रसादम् असहमानेन त्वयैतत् कृतम् । अहो साध्व् इदम् उच्यते-  
@@ -245,7 +244,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्–
 
-<div class="js_include" url="../../upakathAH/01-22_dhUrtamarkaTaH_prANatyAgI_viprashcha/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-22_dhUrtamarkaTaH_prANatyAgI_viprashcha/"></div>
 
 अतो ऽहं ब्रवीमि- पण्डितो ऽपि वरं शत्रुः इति ।  
 

@@ -1,8 +1,7 @@
 ---
 title: ३-०३ सर्वज्ञहिरण्यगर्भयोः संवादः
-unicode_script: devanagari
----
 
+---
 चक्रवाको विहस्याह-देव ! बकेन तावद् देशान्तरम् अपि गत्वा यथा-शक्ति राज-कार्यम् अनुष्ठितम् । किन्तु देव स्वभाव एष मूर्खानाम् । यतः,  
 
 शतं दद्यान् न विवदेद् इति विज्ञस्य सम्मतम् ।  
@@ -158,7 +157,7 @@ unicode_script: devanagari
 मन्त्री कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/03-06_nIlavarNashRgAlakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-06_nIlavarNashRgAlakathA/"></div>
 
 अतो ऽहं ब्रवीमि-आत्म-पक्षं परित्यज्येत्य् आदि ।  
 
@@ -343,7 +342,7 @@ unicode_script: devanagari
 राजा कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/03-07_vIravaranAmasevaka-kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-07_vIravaranAmasevaka-kathA/"></div>
 
 
 तत् किम् आगन्तुको जाति-मात्राद् दुष्टः ? तत्राप्य् उत्तमाधम-मध्यमाः सन्ति ।  
@@ -365,7 +364,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति-  
 
-<div class="js_include" url="../../upakathAH/03-08_mUrkhanApitaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-08_mUrkhanApitaH/"></div>
 
 अतो ऽहं ब्रवीमि-पुण्याल् लब्धं यद् एकेन इत्य् आदि ।  
 

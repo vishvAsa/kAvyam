@@ -1,6 +1,6 @@
 ---
 title: ०२-०७ वायसदंपतीकथा
-unicode_script: devanagari
+
 ---
 उपायेन जयो यादृग् रिपोस् तादृङ् न हेतिभिः ।  
 उपाय-ज्ञो ऽल्प-कायो ऽपि न शूरैः परिभूयते ॥ हित्_२।१२० ॥  
@@ -23,7 +23,7 @@ unicode_script: devanagari
 वायसः कथयति-  
 
 
-<div class="js_include" url="../../upakathAH/02-08_chaturashashakaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/02-08_chaturashashakaH/"></div>
 
 अतो ऽहं ब्रवीमि बुद्धिर् यस्य इत्य् आदि ।  
 

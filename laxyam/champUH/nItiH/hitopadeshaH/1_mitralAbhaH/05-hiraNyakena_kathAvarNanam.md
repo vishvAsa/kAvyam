@@ -1,13 +1,12 @@
 ---
 title: १-०५ हिरण्यकेन कथावर्णनम्
-unicode_script: devanagari
----
 
+---
 वायसो ऽवदत्-सखे ! मन्थर ! स-विशेष-पूजाम् असमि विधेहि, यतो ऽयं पुण्य-कर्मणां धुरीणः कारुण्य-रत्नाकरो हिरण्यक-नामा मूषिक-राजः । एतस्य गुण-स्तुतिं जिह्वा-सहस्र-द्वयेनापि यदि सर्प-राजः कदाचित् कर्तुं समर्थः स्यात् इत्य् उक्त्वा चित्रग्रीवोपाख्यानं वर्णितवान् । ततो मन्थरः सादरं हिरण्यकं सम्पूज्याह-भद्र ! आत्मनो निर्जन-वनागमन-कारणम् आख्यातुम् अर्हसि ?  
 
 हिरण्यको ऽवदत्-कथयामि, श्रूयताम् ।  
 
-<div class="js_include" url="../../upakathAH/01-04_sanyAsImUShikayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-04_sanyAsImUShikayoH_kathA/"></div>
 
 यतः–  
 
@@ -92,7 +91,7 @@ unicode_script: devanagari
 
 मन्थरः कथयति-
 
-<div class="js_include" url="../../upakathAH/01-05_mUrkhajambukaH/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-05_mUrkhajambukaH/"></div>  
 
 अतो ऽहं ब्रवीमि कर्तव्यः सञ्चयो नित्यम् इत्य् आदि । तथा च-  
 

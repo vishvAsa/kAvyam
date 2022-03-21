@@ -1,8 +1,7 @@
 ---
 title: १-०२ पिङ्गलकाश्वासनम्
-unicode_script: devanagari
----
 
+---
 ## दमनकप्रस्तावः
 अथागच्छन्तं दमनकम् आलोक्य पिङ्गलको द्वाःस्थम् अब्रवीत् -  
 "अपसार्यतां वेत्र-लता । अयम् अस्माकं चिरन्तनो मन्त्रिपुत्रो दमनको ऽव्याहत-प्रवेशः । तत् प्रवेश्यतां द्वितीय-मण्डल-भागी ।" इति ।  
@@ -24,11 +23,9 @@ unicode_script: devanagari
 
 तथा वयं देव-पादानाम् अन्वयागता भृत्या आपत्स्व् अपि पृष्ठ-गामिनो, यद्यपि स्वम् अधिकारं न लभामहे। तथापि देव-पादानाम् एतद् युक्तं न भवति । उक्तं च—  
 
-<div class="js_include" url="../../upadeshAH/sevA/bhRtya-chyuti/"  newLevelForH1="3" includeTitle="true"> </div>  
-
-<div class="js_include" url="../../upadeshAH/sevA/bhRtya-mahattva/"  newLevelForH1="3" includeTitle="true"> </div>  
-
-<div class="js_include" url="../../upadeshAH/sevA/sat-bhRtya-laxaNa/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/sevA/bhRtya-chyuti/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/sevA/bhRtya-mahattva/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upadeshAH/sevA/sat-bhRtya-laxaNa/"></div>  
 
 तथा शृगालो ऽयमि इति मन्यमानेन ममोपरि स्वामिना यद्य् अवज्ञा क्रियते तद् अप्य् अयुक्तम् । उक्तं च यतः –  
 
@@ -129,7 +126,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्–  
 
-<div class="js_include" url="../../upakathAH/01-02_shrugAladundibhikathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-02_shrugAladundibhikathA/"></div>
 
 अथ निराशीभूतस् तद्-दारु-शेषम् अवलोक्य श्लोकम् एनम् अपठत् । "पूर्वम् एव मया ज्ञातम्" इति । अतो न शब्द-मात्राद् भेतव्यम् ।  
 

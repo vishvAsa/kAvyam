@@ -1,6 +1,6 @@
 ---
 title: ३-०४ स्थिरजीवि-मेघवर्ण-संवादः
-unicode_script: devanagari
+
 ---
 मेघवर्ण आह-तात ! एवं गतेऽस्माभिः किं क्रियते ?  
 
@@ -13,7 +13,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्-  
 
-<div class="js_include" url="../../upakathAH/03-03_mitrasharmabrAhmaNakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-03_mitrasharmabrAhmaNakathA/"></div>
 
 अतो ऽहं ब्रवीमि-बहु-बुद्धि-समायुक्ताः (११६) इति । अथवा साध्व् इदम् उच्यते-  
 
@@ -29,7 +29,7 @@ unicode_script: devanagari
 
 स्थिरजीवी कथयति-  
 
-<div class="js_include" url="../../upakathAH/03-04_atidarpanAmasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-04_atidarpanAmasarpakathA/"></div>
 
 अतो ऽहं ब्रवीमि-बहवो न विरोद्धव्या (१२१) इति । तद् अत्रास्ति मे किञ्चिद् वक्तव्यम् एव । तद् अवधार्य यथोक्तम् अनुष्ठीयताम् ।  
 

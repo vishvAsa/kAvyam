@@ -1,6 +1,6 @@
 ---
 title: ०३-१५ मन्दविषसर्पकथा
-unicode_script: devanagari
+
 ---
 स्कन्धेनापि वहेच् छत्रुं कालम् आसाद्य बुद्धिमान् ।  
 महता कृष्ण-सर्पेण मण्डूका बहवो हताः ॥पन्च्_३.२३८॥  
@@ -43,7 +43,7 @@ unicode_script: devanagari
 
 मन्दविषः कथयति-  
 
-<div class="js_include" url="../03-16_dhrutAndhabrAhmaNakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../03-16_dhrutAndhabrAhmaNakathA/"></div>
 
 अतोऽहं ब्रवीमि- सर्वम् एतद् विजानामीत्यादि ।
 

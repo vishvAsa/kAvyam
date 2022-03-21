@@ -1,6 +1,6 @@
 ---
 title: ४-०७ मर्कटस्य पुनर्भर्त्सनम्
-unicode_script: devanagari
+
 ---
 वानर आह-नाहं ते कथयिष्यामि । यद् भार्या-वाक्येन भवताहं समुद्रे प्रक्षिप्तुं नीतः । तद् एवं न युक्तम् । यद्यपि भार्या सर्व-लोकाद् अपि वल्लभा भवति, तथापि न मित्राणि बान्धवाश् च भार्या-वाक्येन समुद्रे प्रक्षिप्यन्ते । तन् मूर्ख ! मूढत्वेन नाशस् तव मया प्राग् एव निवेदित आसीत्, यतः-  
 
@@ -12,7 +12,7 @@ unicode_script: devanagari
 सो ऽब्रवीत्-  
 
 
-<div class="js_include" url="../../upakathAH/04-12_ujwalakarathakArakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-12_ujwalakarathakArakathA/"></div>
 
 अतो ऽहं ब्रवीमि-सतां वचनम् आदिष्टम् (७४) इति ।
 
@@ -40,7 +40,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्-  
 
-<div class="js_include" url="../../upakathAH/04-13_mahAchaturakAkhyashrugAlakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-13_mahAchaturakAkhyashrugAlakathA/"></div>
 
 
   -  एवं त्वम् अपि तं रिपुं स्व-जातीयं युद्धेन परिभूय दिशो-भागं कुरु । नो चेत् पश्चाद् बद्ध-मूलाद् अस्मात् त्वम् अपि विनाशम् अवाप्स्यसि । उक्तं च यतः-  
@@ -58,7 +58,7 @@ unicode_script: devanagari
 
 वानरो ऽब्रवीत्-  
 
-<div class="js_include" url="../../upakathAH/04-14_chitrAnganAmasAramEyakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-14_chitrAnganAmasAramEyakathA/"></div>
 
 सुभिक्षाणि विचित्राणि शिथिलाः पौर-योषितः (८३) इति पठति ।  
 

@@ -1,6 +1,6 @@
 ---
 title: १-०३ पिङ्गलकान्तिके सञ्जीवकनयनम्
-unicode_script: devanagari
+
 ---
 दमनकोऽपि सञ्जीवक-सकाशं गत्वा वृषभोऽयमिति परिज्ञाय हृष्ट-मना व्यचिन्तयत्– अहो! शोभनम् आपतितम् । अनेनैतस्य सन्धि-विग्रह-द्वारेण मम पिङ्गलको वश्यो भविष्यतीति । उक्तं च –
 
@@ -102,7 +102,7 @@ unicode_script: devanagari
 
 संजीवक आह– कथम् एतत् ? सो ऽब्रवीत्–  
 
-<div class="js_include" url="../../upakathAH/01-03_dantilagOrambhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-03_dantilagOrambhakathA/"></div>
 
 अतो ऽहं ब्रवीमि– "यो न पूजयते गर्वात्" इति ।  
 

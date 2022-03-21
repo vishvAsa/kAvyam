@@ -1,8 +1,7 @@
 ---
 title: ०१-१२ टिट्टिभदम्पतीकथा
-unicode_script: devanagari
----
 
+---
 शत्रोर् विक्रमम् अज्ञात्वा वैरम् आरभते हि यः ।  
 स पराभवम् आप्नोति समुद्रष् टिट्टिभाद् यथा ॥१.३३७॥  
 
@@ -45,7 +44,7 @@ unicode_script: devanagari
 
 साब्रवीत्–  
 
- <div class="js_include" url="../01-13_kambugrIvaH_kUrmaH/"  newLevelForH1="3" includeTitle="true"> </div>
+ <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../01-13_kambugrIvaH_kUrmaH/"></div>
 
 अतोऽहं ब्रवीमि- "सुहृदां हितकामानाम्" इति ।  
 
@@ -58,7 +57,7 @@ unicode_script: devanagari
 
 साब्रवीत्–  
 
-<div class="js_include" url="../01-14_matsyatrayakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../01-14_matsyatrayakathA/"></div>
 
 अतोऽहं ब्रवीमि– "अनागत-विधाता" चेति ।  
 
@@ -121,7 +120,7 @@ unicode_script: devanagari
 
 सा प्राह–  
 
-<div class="js_include" url="../01-15_kunjarachaTakadampatIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../01-15_kunjarachaTakadampatIkathA/"></div>
 
 अतो ऽहं ब्रवीमि-चटका काष्ठ-कूटेन इति ।
 

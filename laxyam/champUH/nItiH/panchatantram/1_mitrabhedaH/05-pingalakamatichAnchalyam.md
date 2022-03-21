@@ -1,6 +1,6 @@
 ---
-title: १-०५ पिङ्गलकमतिचाञ्चल्यम्   
-unicode_script: devanagari
+title: १-०५ पिङ्गलकमतिचाञ्चल्यम्
+
 ---
 अथ दमनकः सञ्जीवक-वियुक्तं पिङ्गलकम् अवलोक्य तत्रान्तरे प्रणम्याग्रे समुपविष्टः । पिङ्गलकोऽपि तम् आह– भद्र, किं चिराद् दृष्टः ?  
 
@@ -92,7 +92,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्–  
 
-<div class="js_include" url="../../upakathAH/01-09_mandavisarpiNIyUkA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-09_mandavisarpiNIyUkA/"></div>
 
 अतोऽहं ब्रवीमि– "न ह्य् अविज्ञात-शीलस्य" इति ।  
 
@@ -105,7 +105,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्–
 
-<div class="js_include" url="../../upakathAH/01-10_chanDaravaH_shrugAlah/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-10_chanDaravaH_shrugAlah/"></div>
 
 अतोऽहं ब्रवीमि– "त्यक्ताश् चाभ्यन्तरा येन" इति ।  
 

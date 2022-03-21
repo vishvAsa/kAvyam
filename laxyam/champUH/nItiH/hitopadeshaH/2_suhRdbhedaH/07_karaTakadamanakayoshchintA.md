@@ -1,8 +1,7 @@
 ---
 title: २-०६ करटकदमनकयोश्चिन्ता
-unicode_script: devanagari
----
 
+---
 ततो ऽनुजीविनाम् अप्याहार-दाने शैथिल्य-दर्शनाद् दमनक-करटकाव् अन्योन्यं चिन्तयतः । तद् आह दमनकः करटकम्-मित्र ! किं कर्तव्यम् ? आत्म-कृतो ऽयं दोषः । स्वयं कृतेऽपि दोषे परिदेवनम् अप्य् अनुचितम् । तथा चोक्तम्-  
 
 स्वर्ण-रेखाम् अहं स्पृष्ट्वा बद्ध्वात्मानं च दूतिका ।  
@@ -12,7 +11,7 @@ unicode_script: devanagari
 
 दमनकः कथयति-  
 
-<div class="js_include" url="../../upakathAH/02-05_kandarpa-ketu-parivrAjaka-kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/02-05_kandarpa-ketu-parivrAjaka-kathA/"></div>
 
 अतोऽहं ब्रवीमि-"स्वर्णरेखामहं स्पृष्ट्वा" इत्यादि ॥  
 
@@ -32,7 +31,7 @@ unicode_script: devanagari
 
 दमनकः कथयति-  
 
-<div class="js_include" url="../../upakathAH/02-06_gopIjAradvayakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/02-06_gopIjAradvayakathA/"></div>
 
 अतो ऽहं ब्रवीमि-उतपन्नेष्व् अपि कार्येषु इत्य् आदि ।  
 
@@ -47,7 +46,7 @@ unicode_script: devanagari
 
 दमनकः कथयति-  
 
-<div class="js_include" url="../../upakathAH/02-07_vAyasadampatIkathA/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/02-07_vAyasadampatIkathA/"></div>  
 
 अतो ऽहं ब्रवीमि-उपायेन हि यच् छक्यम् इतेन हि यच् छक्यम् इत्य् आदि ।  
 

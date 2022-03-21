@@ -1,8 +1,7 @@
 ---
 title: ४-०६ मकरस्य मर्कटसान्त्वनम्
-unicode_script: devanagari
----
 
+---
 मकर आह-भो मित्र ! अस्त्व् एतत् । परं किं करोमि ? ममानर्थ-द्वयम् एतत् सञ्जातम् । एकस् तावद् गृह-भङ्गः । अपरस् त्वद्-विधेन मित्रेण सह चित्त-विश्लेषः । अथवा भवत्य् एवं दैव-योगात् । उक्तं च यतः-  
 
 यादृशं मम पाण्डित्यं तादृशं द्विगुणं तव ।  
@@ -12,7 +11,7 @@ unicode_script: devanagari
 
 मकरो ऽब्रवीत्-  
 
-<div class="js_include" url="../../upakathAH/04-11_hAlikadampatIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/04-11_hAlikadampatIkathA/"></div>
 
 तत् किं करोमि ? किम् अनेन सह युद्धं करोमि ? किं वा साम्नैव सम्बोध्य गृहान् निःसारयामि ? किं वा भेदं दानं वा करोमि ? अथवामुम् एव वानर-मित्रं पृच्छामि ? उक्तं च-  
 

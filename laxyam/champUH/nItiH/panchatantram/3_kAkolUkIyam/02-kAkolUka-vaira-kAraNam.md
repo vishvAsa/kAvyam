@@ -1,8 +1,7 @@
 ---
 title: ३-०३ काकोलूकवैरकारणम्
-unicode_script: devanagari
----
 
+---
 एवं मन्त्रि-वाक्यम् आकर्ण्यात्रान्तरे मेघवर्ण आह-तात ! अथ किं निमित्तम् एवंविधं प्राणान्तिकं सदैव वायसोलूकानां वैरम् ?  
 
 स आह-वत्स ! कदाचिद् धंस-शुक-कोकिल-चातक-उलूक-मयूर-कपात-पारावत-विष्किर-प्रभृतयः सर्वेऽपि पक्षिणः समेत्य सोद्वेगं मन्त्रयितुम् आरब्धाः । अहो अस्माकं तावद् वैनतेयो राजा, स च वासुदेव-भक्तो न काम् अपि चिन्ताम् अस्माकं करोति । तत् किं तेन वृथास्वामिना ? यो लुब्धक-पाशैर् नित्यं निबध्यमानानां न रक्षां विधत्ते । उक्तं च-  
@@ -62,7 +61,7 @@ unicode_script: devanagari
 
 स आह-  
 
-<div class="js_include" url="../../upakathAH/03-01_chaturdantanAmagajaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-01_chaturdantanAmagajaH/"></div>
 
 अतो ऽहं ब्रवीमि व्यपदेशेन महताम् इति । अपि च-  
 
@@ -82,7 +81,7 @@ unicode_script: devanagari
 
 स आह-  
 
-<div class="js_include" url="../../upakathAH/03-02_shashakapinjalakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/03-02_shashakapinjalakathA/"></div>
 
 अतो ऽहं ब्रवीमि-क्षुद्रम् अर्थ-पतिं प्राप्य (९१) इति ।  
 

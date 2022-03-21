@@ -1,8 +1,7 @@
 ---
-title: १-०६ दमनकेन सञ्जीवकबुद्धिभ्रंशनम्   
-unicode_script: devanagari
----
+title: १-०६ दमनकेन सञ्जीवकबुद्धिभ्रंशनम्
 
+---
 इति कथयित्वा सञ्जीवक-सकाशं गतस् तं प्रणम्योपविष्टः । सञ्जीवको ऽपि सोद्वेगाकारं मन्द-गत्या समायान्तं तम् उद्वीक्ष्य सादरतरम् उवाच– भो मित्र ! स्वागतम् । चिराद् दृष्टो ऽसि । अपि शिवं भवतः । तत् कथय येनादेयम् अपि तुभ्यं गृहागताय प्रयच्छामि । उक्तं च–  
 
 ते धन्यास् ते विवेकज्ञास् ते सभ्या इह भूतले ।  
@@ -134,7 +133,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्–  
 
-<div class="js_include" url="../../upakathAH/01-11_madOtkaTasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-11_madOtkaTasimhakathA/"></div>
 
 अतोऽहं ब्रवीमि– "बहवः पण्डिताः क्षुद्राः" इति ।  
 
@@ -217,7 +216,7 @@ unicode_script: devanagari
 
 सो ऽब्रवीत्–  
 
-<div class="js_include" url="../../upakathAH/01-12_TiTTibhadampatIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../upakathAH/01-12_TiTTibhadampatIkathA/"></div>
 
 अतो ऽहं ब्रवीमि-शत्रोर् बलम् अविज्ञाय इति । तस्मात् पुरुषेणोद्यमो न त्याज्यः ।
 

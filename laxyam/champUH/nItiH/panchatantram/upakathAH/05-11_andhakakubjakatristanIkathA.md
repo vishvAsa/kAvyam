@@ -21,7 +21,7 @@ unicode_script: devanagari
 
   ते प्रोचुः-  
 
-<div class="js_include" url="../05-12_chanDakarmAnAmarAkshasakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-12_chanDakarmAnAmarAkshasakathA/"></div>
 
 अतो ऽहं ब्रवीमि-पृच्छकेन सदा भाव्यम् इति ।  
 

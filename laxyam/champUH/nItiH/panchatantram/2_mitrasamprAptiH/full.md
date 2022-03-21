@@ -3,10 +3,10 @@ title = "+२ मित्रसम्प्राप्तिः (पूर्�
 
 +++
 
-<div class="js_include" url="../"  newLevelForH1="1" includeTitle="false"> </div>
-<div class="js_include" url="../00-laghupatanakachitragrIvakathA/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../01-laghupatanakaviraktiH/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../02-mantharakamaitrisamprAptiH/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../03-chitrAngamaitrisamprAptiH/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../04-lubdhakena_mantharakApaharaNam/"  newLevelForH1="1" includeTitle="true"> </div>
-<div class="js_include" url="../05-vAyasopAyena_mantharakarakShaNam/"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="../"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../00-laghupatanakachitragrIvakathA/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../01-laghupatanakaviraktiH/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../02-mantharakamaitrisamprAptiH/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../03-chitrAngamaitrisamprAptiH/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../04-lubdhakena_mantharakApaharaNam/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../05-vAyasopAyena_mantharakarakShaNam/"></div>
