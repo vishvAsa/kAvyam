@@ -21,7 +21,7 @@ Rasa being the foremost objective, the next question is – What is meant by ras
 Hāsya[1] which can be found right from the vedic passages - lampooning the chanting of the vedas themselves which is being compared to the croaking of frogs - has been constantly present in even the most profound and serious literature in Sanskrit. Since then Sanskrit poets have employed Hāsya in their works. While some examples can be found in Ramaratnam’s thesis, some more interesting episodes which have been left out are mentioned here.
 
 ### Rāmayaṇa
-Rāmayaṇa has its own share of Hāsya, and that appears in and around many grave and poignant situations, Rāma who had just lost his kingdom and is about to go to the forest,  gives away his belongings to the poor and needy. A poor brāhmaṇa called Trijaṭa asks him for cows, Rāma in such grave situation jovially asks him to throw his staff and collect all the cows in that range where the staff falls. Trijaṭa fastens up his garments and prepares himself like a javelin thrower and throws his staff with all his might which falls on the banks of Sarayu, Rāma happily gives him all the cows as promised. Even in such a dire situation this episode lightens the gravity and also gives us a peek into Rāma’s equanimity (Vālmīki Rāmayana, Ayodhya kāṇḍa 2.32.29-2.32.43). Later the people of Ayodhya who are treated with festivities in the āśrama of Bharadvāja declares
+Rāmayaṇa has its own share of Hāsya, and that appears in and around many grave and poignant situations, Rāma who had just lost his kingdom and is about to go to the forest,  gives away his belongings to the poor and needy. A poor brāhmaṇa called Trijaṭa asks him for cows, Rāma in such grave situation jovially asks him to throw his staff and collect all the cows in that range where the staff falls. Trijaṭa fastens up his garments and prepares himself like a javelin thrower and throws his staff with all his might which falls on the banks of Sarayu, Rāma happily gives him all the cows as promised. Even in such a dire situation this episode lightens the gravity and also gives us a peek into Rāma’s equanimity (Vālmīki Rāmayana, Ayodhya kāṇḍa 2.32.29-2.32.43). Later the people of Ayodhya who are treated with festivities in the āśrama of Bharadvāja declare
 
 > नैवायोध्यां गमिष्यामो  
 > गमिष्यामो न दण्डकान्।
@@ -58,9 +58,9 @@ Kālidāsa also masterfully inserts Hāsya in all his dramas through the behavio
 The overall attitude of our poets regarding Hāsya can be well-summarised by quoting a famous verse from one of the four bhāṇas, Pādatāḍitakam by Śyāmilaka in the Caturbhāṇī.
 
 > न प्राप्नुवन्ति यतयो रुदितेन मोक्षं  
-> स्वर्गायतिं न परिहासकथा रुणद्धि  
+> स्वर्गायतिं न परिहासकथा रुणद्धि।  
 > तस्मात् प्रतीत-मनसा हसितव्यम् एव  
-> वृत्तिम् बुधेन खलु कौरुकुचीं विहाय+++(5)+++
+> वृत्तिम् बुधेन खलु कौरुकुचीं विहाय॥ +++(5)+++
 > 
 > [The sages don’t attain the mukti by lamenting continuously, nor do the gates of svarga stop someone who indulges in laughter and mirth. Therefore the wise should always leave inhibitions and happily laugh with clear minds and lighten themselves.]
 > 
@@ -135,7 +135,7 @@ Languages: Sanskrit, Prakrits - Śaurasenī, Māgadhī.
 #### sthāpana
 Mahendravarman starts with a brilliant invocatory verse
 
-> भाषा-वेश-वपुः-क्रिया-गुण-कृतानाश्रित्य भेदान् गतं  
+> भाषा-वेश-वपुः-क्रिया-गुण-कृतान् आश्रित्य भेदान् गतं  
 > भावावेश-वशाद् अनेक-रसतां त्रैलोक्य-यात्रामयम् ।  
 > नृत्तं निष्प्रतिबद्ध-बोध-महिमा यः प्रेक्षकश् च स्वयं  
 > स व्याप्तावनि-भाजनं दिशतु वो दिव्यः कपाली यशः॥१॥
@@ -202,7 +202,7 @@ To be enjoyed through the senses.]
 
 Contrast this with the profound verse in the seventh act of Abhijñānaśākuntalam
 
-> प्राणानाम् अनिलेन वृत्तिर् उचिता सत्कल्पवृक्षे वने  
+> प्राणानाम् अनिलेन वृत्तिर् उचिता सत्-कल्पवृक्षे वने  
 > तोये काञ्चन-पद्म-रेणु-कपिशे धर्माभिषेक-क्रिया ।  
 > ध्यानं रत्न-शिला-तलेषु विबुध-स्त्री-संनिधौ संयमो  
 > यत् काङ्क्षन्ति तपोभिर् अन्य-मुनयस् तस्मिंस् तपस्यन्त्य् अमी ॥७.१२॥+++(5)+++
@@ -465,3 +465,287 @@ Lockwood and Bhat in their introduction (page 7) provide an alternative explanat
 Then the Sūtradhāra appears but with Vidūṣaka (a comedian) instead of Naṭī, which is interesting since Vidūṣaka is the comic character who we always see in full length dramas like the prakaraṇa. The Sūtradhāra asks him to check and confirm that there is none to overhear what he is about to say and expresses his happiness that an astrologer has prophesied that he would present the play in front of an august audience consisting of the king and earn a lot of fame and money. He then enumerates the types of plays and chooses prahasana as a sure shot way to name and fame since it is based on hāsya. 
 
 Vidūṣaka ironically seems to be ignorant of it and asks him to mentor him. Ramaratnam opines that the allusion to the astrologer hints at the supernatural element of the play and the mentoring alludes to the preceptor-disciple element.+++(4)+++ We note that, here Vidūṣaka seems to be genuinely interested in learning but in the play Śāṇḍilya isn’t. Also Sūtradhāra here seems to rely on the astrologer’s words more than his own expertise. This sets the stage for the appearance of the Parivrājaka who is searching for his lazy disciple, Śāṇḍilya.
+
+####  Parivrājaka and Śāṇḍilya
+While Parivrājaka seems to be miffed, he is also compassionate enough to reconcile that Śāṇḍilya being in this ephemeral world is bound to be behave that way! The verse which describes his rationale while not being as brilliant as Bhartṛhari can well be a part of an extrapolated vairagya collection.
+
+> देहो रोगनिधिर्जरावशगतो लीनान्तकाधिष्ठितो  
+> यो नित्यप्रतिघातरुद्धविषयस्तीरे यथा पादपः।  
+> तं लब्ध्वा सुकृतैरनेकगुणितैर्देहात्मना विस्मितो  
+> मत्तो यो बलरूपयौवनगुणैर्देीषान्न तान् पश्यति ॥३॥
+>
+> [The body is indeed the treasure of maladies, slave to the old age, on the brink of death which lies hidden.  
+> It is battered continuously like the tree which stands on the river bank about to be uprooted.  
+> Even though it is earned by great amount of good deeds, mesmerised and  
+> intoxicated by strength, looks and youth, one doesn’t realise it’s flaws]
+
+A very good phrase लीनान्तक is used, which says that death is hidden inside us. This is immediately followed by the introduction of the disciple Śāṇḍilya. His introduction is at its idiomatic best and any translation would pale in comparison.
+
+> प्रथमम् एवाहं करटक-शेष-समिद्धे निर्-अक्षर-प्रक्षिप्त-जिह्वे कण्ठ-प्रसक्त-यज्ञोपवीते ब्राह्मण्य-मात्र-परितुष्टे कुले प्रसूतः ।+++(5)+++  
+> ततो द्वितीयम् अस्माकं गृहे ऽशन-नाशेन बुभुक्षितः प्रातर्-अशन-लोभेन शाक्य-श्रमणकं प्रवजितो ऽस्मि ।  
+> ततस् तत्र दास्याःपुत्राणां एक-काल-भक्तत्वेन बुभुक्षितः तम् अपि विसृज्य चीवरं छित्वा पात्रं प्रतोल्य छत्र-मात्रं गृहीत्वा निर्गतोऽस्मि ।  
+> ततस् तृतीयम् अस्य दुष्टाचार्यस्य भाण्ड-भार-गर्दभस् संवृत्तः । कुत्र खलु कुतः खलु गतो भगवान् । एष दुष्टलिङ्गी प्रातर् अशन-लोभेन एकाकी भिक्षाम् आहिण्डितुं गत इति तर्कयामि ।
+>
+> [Firstly I was born in the lineage which sustained (lit. fuelled by) itself by leftovers of the crows in death ceremonies, having tongues which have never uttered (lit. thrown out) a single meaningful syllable, whose brāhmaṇya is limited to and sufficed by the yajñopavīta (sacred thread) which adheres to their necks. Secondly due to paucity of food, greed for breakfast made me take the vows of buddhism and become a mendicant. But due to those bastards’ one meal per day rule, I deserted it, I tore my robes, threw away my begging bowl and ran away only with the umbrella. Thirdly I ended up being the donkey bearing the burden of this vile preceptor. Where has he disappeared? This imposter of a preceptor, greedy to partake of breakfast alone has left me and has gone begging I presume!]
+
+In this passage the phrases करटकशेषसमिद्धे, निरक्षरप्रक्षिप्तजिह्वे, कण्ठप्रसक्तयज्ञोपवीते, ब्राह्मण्य-मात्रपरितुष्टे, एक-काल-भक्तत्वेन, भाण्ड-भार-गर्दभः are very good constructions which were and still are used to great effect in Sanskrit. The fact that they sustained their living by attending death ceremonies alludes to the fact that one need not be a learned person for that, which continues to be so till this day.
+
+Also contrast Śāṇḍilya’s claims with the Nāgasena from Matta-vilāsa, where he being a bauddha bhikṣu is extremely satisfied with the sumptuous food he gets from the merchants but has complaints about other tenets, one can claim that buddhism during the time of this prahasana was far more genuine compared to the setting of Matta-vilāsa.
+
+Regarding निरक्षरप्रक्षिप्तजिह्वे Lockwood and Bhat has the following note (numbered 14 in their edition)
+
+“14. In some communities there is, at the beginning of a child’s education, a ceremony in which a letter or letters are gently traced on the child’s tongue with a gold object (a ring or some such thing). Śāṇḍilya’s remark indicates that his family never observed this ceremony, and thus implies that they were illiterates.”
+
+While there is a custom in which the child is made to trace letters (particularly starting with ॐ) either on cloth or rice we are not aware of any such tradition where letters are traced on the child’s tongue.+++(5)+++
+
+Again we see that Parivrājaka seems to genuinely care about his disciple and assures him not to be afraid even though he has failed to keep up. In many places he refers to him as tapasvī, which means a pitiable soul. He also seems to be extremely patient which we see time and again throughout this play. Most of the verses uttered by him have parallels in philosophical texts like the bhagavadgītā, Ramaratnam in his thesis provides the verses in the bhagavadgītā and other texts which serves as the inspiration of the verses uttered by Parivrājaka, one can refer to that to see the parallels, here instead we shall try to highlight other aspects.
+
+Śāṇḍilya comes straight to the point by asking about what is his way of arranging for food in the world full of festivities and fanfare. This starts an interesting conversation which goes on for a long time till it is somewhat interrupted by the appearance of Vasantasenā later. Parivrājaka replies to this query saying that he partakes food only from what good people give him, not caring about bouquets or brickbats, crossing the worldly lake unperturbed by the crocodile-like vices. Ramaratnam opines that this metaphor involving the crossing of the worldly lake might have been inspired by the lines ‘मारुतिस् सागरं तीर्णः संसार इव निर्ममः’ (Raghuvaṃśa 12.60), while it may be so, but it still comes as a distant second! With this verse and the previous quoted verse, we the readers are assured that Parivrājaka seems to be a genuine yogin and not a charlatan. We also see that there are very few lines of svagata or soliloquy for the Parivrājaka showing that he is transparent. Śāṇḍilya also has very few svagata lines showing he also has no problems stating his opinions however wrong they may be!
+
+Śāṇḍilya on the other hand declares that he is orphaned and he has become his disciple just to fill his stomach and he is not at all interested in knowledge! When Parivrājaka asks why he says so, he turns his instructor’s words on its head saying dishonesty leads to bondage, so he is stating the truth! Śāṇḍilya is no dullard but definitely streetsmart when it comes to his interests! When Parivrājaka says that the fruits are obtained if we do karma without desires and selfish motives, Śāṇḍilya is irritated with all the nonsense about this ‘non- attachment’ He is also not convinced that anyone can attain such a thing. When Parivrājaka says it is attainable he again retorts back asking then why is Parivrājaka angry about his behaviour time and again. Parivrājaka replies that the cause for his anger is Śāṇḍilya not willing to learn. Śāṇḍilya pulls out the trump card saying that how can a ‘liberated’ person be bothered whether he learns or not. Parivrājaka says that since it is beneficial to the disciple he beats him without being angry!
+
+Lockwood and Bhat in their introduction (page 10) use this conversation where Parivrājaka punishes Śāṇḍilya as an example to prove that Parivrājaka himself isn’t on par with the standards he had set earlier. And this alone would prove that Parivrājaka isn’t a true ascetic. They also say that by such an assumption, the play becomes more entertaining since everything Parivrājaka utters would be hypocritical. While there seems to be a contradiction in the behaviour of the Parivrājaka here, this alone isn’t sufficient to say that he is a quack! Many of the great ṛṣis too would sometime become angry, that doesn’t mean that they aren’t true ascetics. Even bhagavān Śri-kṛṣṇa acts inappropriately and expresses his happiness in an untimely manner when Ghaṭotkaca is killed, but that doesn’t make the bhagavadgītā null and void! He is still considered Yogeśvara. Moreover in the present context the Parivrājaka is able to do parakāyapraveśa later in this story which would establish that the Parivrājaka is not a quack like other mendicants who appear in prahasanas of the later period who are neither seekers nor do they possess any such skills, but instead try to fool people with extraordinary claims and fail miserably (one example being ‘Jñānarāśī’ from the prahasana Hāsyacūḍāmaṇi which we shall analyse next.). In those prahasanas their incompetence actually contribute to the humour, but in case of this prahasana the claims made by Lockwood and Bhat hold no water. Here it is the contrasting behaviour of the preceptor and the disciple that generates humour.
+
+Śāṇḍilya doesn’t buy his preceptor's thoughts about punishment, instead he again reminds that it's time for food, Parivrājaka corrects him saying that it isn’t noon yet, the way Parivrājaka describes the right time for bhikṣā is very interesting, he says
+
+> न्यस्तमुसले व्यङ्गारे सर्वभुक्तजने काल इत्युपदेशः
+> 
+> [the pounding staff is at rest, the embers calmed, everyone has finished their meals, then one should go for bhikṣā]
+
+He says that they can rest for sometime in the nearby garden. Again Śāṇḍilya asks how a ‘liberated’ person can be tired, the preceptor patiently corrects him saying that the body still needs rest. The discussion veers to the concept of the deha, the ātman, their differences and so on. Time and again Śāṇḍilya seem to take things literally instead of grasping the underlying spirit. Still he seems to know the nature of ātman which he states without mistakes! When he asks ‘Who are you?’ Parivrājaka answers as follows.
+
+> खपवनसलिलानां तेजसश्चैकदेशा-  
+> दुपचितचलमूर्तिः पार्थिवद्रव्यराशिः ।  
+> श्रवणनयनजिह्वानासिकास्पर्शवेदी  
+> नर इति कृतसंज्ञः कोऽप्यहं प्राणिधर्मा ॥९॥
+>
+> [Comprising of five primordial elements, sky, air, water, fire and earth is this dynamic but mortal body, perceiving the world through the five senses I’m some animate object called as man]
+
+Compare this with the verse from Nirvāṇaṣaṭkam of Ādiśaṅkara,
+
+> मनोबुद्ध्यहङ्कारचित्तानि नाहं  
+> न च श्रोत्रजिह्वे न च घ्राणनेत्रे ।  
+> न च व्योमभूमिर्न तेजो न वायु-  
+> श्चिदानन्दरूपश्शिवोऽहं शिवोऽहम् ॥१॥
+
+> [ I’m neither the mind nor the intellect nor the ego nor thought  
+> Nor am I the ears, the tongue, the nose, eyes  
+> Nor am I the space, the earth, the fire, the air  
+> I’m indeed that Ānandasvarūpa, Śiva ]
+
+Or in terms of construction it has some similarities with the famous verse from Meghadūta of Kālidāsa.
+
+> धूमज्योतिस्सलिलमरुतां संनिपातः क्व मेघः  
+> सन्देशार्थाः क्व पटुकरणैः प्राणिभिः प्रापणीयाः ।  
+> इत्यौत्सुक्यादपरिगणयन् गुह्यकस्तं ययाचे  
+> कामार्ता हि प्रकृतिकृपणाश्चेतनाचेतनेषु ॥ १.५ ॥
+
+They arrive at the garden, Śāṇḍilya insists that the Parivrājaka should enter first since there is a tiger hiding somewhere inside ready to pounce upon him! Parivrājaka agrees and he is followed by Śāṇḍilya who starts screaming that he has been caught by the tiger! When Parivrājaka corrects him and says that it is a peacock, Śāṇḍilya calls it a coward tiger which, after seeing him transformed itself into the peacock and is retreating! Here we see a streak of Śakāra from the famous Mṛcchakaṭika, it is interesting to note that parts of both the prahasanas i.e. Matta-vilāsa and Bhagavad-ajjukam have some elements inspired by Mṛcchakaṭika. If not for its appearance in a prahasana one would be tempted to bring in comparisons of the sarpa-rajju-nyāya when Śāṇḍilya sees a tiger where there is a peacock!
+
+Śāṇḍilya follows that with the description of the garden, which is done well with good diction and style, but it ends up as an enumeration since it betrays the lacks knowledge of the flowering seasons and lowers the propriety! Since it is Śāṇḍilya who describes it, it isn’t totally inappropriate.
+
+Parivrājaka meanwhile takes this opportunity to correct his disciple and tries to make him understand the transient nature of life. This leads to a couple of good verses.
+
+> अभ्यागतः किसलयाभरणो वसन्तः  
+> प्राप्ता शरत्कुमुदषण्डविभूषणेति ।  
+> बालो नवेष्वृतुषु रज्यति नाम लोके  
+> यज्जीवितं हरति तत्किल रम्यमस्य ॥१०॥
+
+> [Here comes the spring adorned with the shoots,  
+> Here comes the autumn adorned with the lilies  
+> Thus the naive are entertained with such thoughts  
+> While that thing of beauty steals one’s very own life]
+
+> अनागतं प्रार्थयतामतिक्रान्तं च शोचताम् ।  
+> वर्तमानैरतुष्टानां निर्वाणं नोपपद्यते ॥११॥
+
+> [Those who yearn for things beyond their reach (future),  
+> Who worry about the things which are lost (past)  
+> Who are forever sorrow about their present  
+> Such people never attain nirvāṇa]
+
+The second verse sounds like an all time truth masquerading as a maxim. One can find similar verses in bhagavadgītā and the below verse uttered by Kṛṣṇa elsewhere. (Two verses which are variations of the same idea.)
+
+> गतार्थान्नानुशोचन्ति नार्थयन्ते मनोरथान् ।  
+> वर्तमानेन वर्तन्ते तेन मे पाण्डवाः प्रियाः॥
+> गते शोकं न कुर्वन्ति भवितव्ये न कातराः।  
+> वर्तमानेन वर्तन्ते तस्मान्मे पाण्डवाः प्रियाः॥
+
+> [They don’t lament about the past nor they are anxious about the future  
+> They always stay in the present, so the pandavas are dear to me]
+
+Finally when it comes to finding a place to sit Śāṇḍilya is bothered by cleanliness while the Parivrājaka isn’t.
+
+Lockwood and Bhat again have few notes regarding the small conversation below where nothing seems to be special.
+
+> शाण्डिल्य: -- आयतमानः पन्थाः । ननुं कुत्रेदानीमुपविशामः ।  
+> “71 Disciple: A tedious path! Where can we rest? 20” (20. A double entendre, the other meaning being that Śāṇḍilya considers his guru’s lecture tiring and wants a rest from it.)
+>
+> परिव्राजकः -- इहैव वसिष्यावहे ।  
+> “72 Mendicant: We’ll sit down here. 21” (21. A double entendre, the other meaning being that the Mendicant is suggesting that they can rest in the position (philosophical) put forward by him.)
+>
+> शाण्डिल्य: -- अपोक्षमपोक्षम् !  
+> “73 Disciple: Filth! Filth! 22” (22. A double entendre, the other meaning being an expression of what Śāṇḍilya thinks of his guru’s philosophy. ‘Crap’ is a term which more exactly translates the implied meaning, here.”)
+
+
+Again it seems stretched to gather such meanings from this casual conversation.
+
+A discussion about scriptural authority follows. Finally the fundamental question of the utility of learning itself comes up. Parivrājaka patiently explains everything with verses which are alluded to before already. He also says that sometimes just to know the utility of learning one needs to learn first!
+
+During these discussions, one might wonder what value it brings into a prahasana which should evoke mirth. Firstly, it establishes the nature of the characters firmly, secondly, this build up finds its fruition in the next part where the exchange of ātmās happen! Still it could have been trimmed a bit. Especially since the introduction of Śāṇḍilya which happens in the very beginning, almost half the play consists of just such deliberations.
+
+At this juncture we see some humour again when Śāṇḍilya asks if the Parivrājaka can use all his learning and enter someone’s house unseen, so that his skills can aid in thievery! But Śāṇḍilya’s interest in thievery too is limited to finding food.
+
+Here Lockwood and Bhat again find some suggestions which seem stretched.
+
+> “23. The word, here, for ‘house’ (gehāni) also has the meaning of ‘body’. There is thus the irony of the question whether the Mendicant can enter other people’s bodies – the foreshadowing of something which the Mendicant, in fact, does later in the play.”
+
+While the body is figuratively compared to house or city (pura) in many places there is no literal meaning for a house which would mean to be the body.
+
+Then the discussion veers towards Yoga and its definition. Śāṇḍilya rebels saying that let the Parivrājaka worry about Yoga while he worries about the next meal! He finally snaps and says that he is grateful to Buddha who has said that neglecting food amounts to neglecting everything! When Parivrājaka is curious he says as a matter of fact the preceptor already knows that he was following buddhism and when asked about his learning he quotes Sāṅkhyā maxims saying, that is what ‘Jina’ has said in the piṭakas, oblivious to the fact that piṭakas are related to Buddhism, ‘Jina’ though can mean any jīvanmukta it is mostly used to denote Mahāvīra, and the content is also not from piṭakas. He blames his preceptor saying without food his mind is confused now and the preceptor is the reason for that! As if to prove that he has indeed learnt something he also quotes the same five tenets like Nāgasena in Matta-vilāsa
+
+
+> अदत्तादानाद्विरमणं शिक्षापदम् ।  
+> [Not taking what isn’t readily given, is what is ordered]
+> मृषावादाद्विरमणं शिक्षापदम् ।  
+> [Not speaking lies, is what is ordered]  
+> अब्रह्मचार्याद्विरमणं शिक्षापदम् ।  
+> [following brahmacarya, is what is ordered]  
+> प्राणातिपाताद्विरमणं शिक्षापदम् ।  
+> [Not killing any living being, is what is ordered]
+> अकालभोजनाद्विरमणं शिक्षापदम् ।  
+> [Not eating at inappropriate times, is what is ordered]
+
+
+While there Nāgasena is well fed and he wants to violate अब्रह्मचार्याद्विरमणं here Śāṇḍilya has left Buddhism not being able to adhere to अकालभोजनाद्विरमणं as he always thinks about the next meal! In the subsequent events we also see that it would have been difficult for him to adhere to अब्रह्मचार्याद्विरमणं too!
+
+#### Vasantasenā
+Here we finally come out of philosophical discussions to the crux of the play. Vasantasenā enters with the two attendants Madhukarikā and Parabhṛtikā. Here like the Vasantasenā of Mṛcchakaṭika she seems to have fallen in love even though she is a courtesan. So the name perhaps is befitting to her character! The relationship has become so certain that Madhukarikā calls Rāmilaka as brother-in-law! (आवुत्तः)  Madhukarikā is sent to fetch Rāmilaka who is her lover. Meanwhile she sings in a sweet voice which attracts Śāṇḍilya’s attention. The verse she sings is also appropriate considering its meaning.
+
+> परभृतमधुकरनादज्याघोषः  काम एष उद्याने ।  
+> तिष्ठति सहकारशरो मुह्यति नूनं मनोऽपि मुनेः ॥१८॥  
+> [With his bow string sounding like the buzzing of bees and the singing of the cuckoos,  
+> Manmatha is here in this garden,  
+> His arrows are the shoots of mango,  
+> He distracts even the minds of the munis]
+
+As if by cue Śāṇḍilya is instantly distracted hearing it! He describes her singing to be the pāyasam in which extra ghee has been added to elevate its taste!.
+
+Here too, Lockwood and Bhat, goes on a tangent and describes a story which has nothing to do with the plot.
+
+“29. Pāyasam is a sweet pudding. The playwright, here, is satirizing fallen Buddhism. This mention of pāyasam would bring to mind an important episode in the life of the Buddha, an event which followed the momentous decision of the fasting Gautama (the Buddha-to-be) to give up his severe austerities. On the morning of that day, when he became determined to achieve enlightenment or never again to rise from his seat under the pïpal tree, he was offered päyasam by a village girl named Sujātā – and he then accepted this päyasam, ending his near-death fasting. Against this well-known background (well-known, surely, to those who lived in South India in the seventh century), King Mahendra juxtaposes his gluttonous character, a fallen-away Buddhist monk, Śāṇḍilya, who compares the melodious singing of a courtesan to sweet pāyasam (Pāli: madhura pāyasa).”
+
+Pāyasam would have been a well-known sweet and Śāṇḍilya would have used this simile as though making a routine statement. Too much suggestion shouldn’t be extracted from such statements!
+
+As soon as he recognises that she is the courtesan Vasantasenā, he immediately exclaims that the rich are indeed fortunate! Śāṇḍilya also asks his preceptor to listen and again taunts him that he would have enjoyed her company only if he had money. Even here Parivrājaka seems quite patient.
+
+Yamapuruṣa meanwhile enters the scene and declares his intent to us, the audience. He describes her beauty, which is interesting since he out of all people should know how transient it is!
+
+We quote the translation of  the verse uttered by Yamapuruṣa as rendered by Lockwood and Bhat to further the discussion.
+
+> श्यामां प्रसन्नवदनां मधुरप्रलापां  
+> मत्तां विशालजघनां वरचन्दनार्द्राम् ।  
+> रक्तोत्पलाभनयनां  नयनाभिरामां  
+> क्षिप्रं नयानि यमसादनमेव बालाम् ॥२३॥
+>
+> “Dusky young woman with sweet speech and lovely face,  
+> Broad hips, body painted with excellent sandal paste,38  
+> Passionate, bright pink lotus eyes, most pleasing grace,  
+> I’ll carry her soul to Yama’s place. (23)
+>
+> 38. In early times, Indian women often went undraped above the waist. Designs in sandal paste decorated their breasts. See also line 172.”
+
+The note number 38 by Lockwood and Bhat is not the whole truth, while women would be undraped in privacy, in public this wasn’t the case. They repeat this further in note 49 too, which we quote.
+
+> “49. In the seventh century, A.D., when this play was first staged, Ajjukä was obviously undraped above the waist, and her breasts would have been decorated with designs in sandal paste. This was a common practice in those days.”
+
+Just because a character in the play describes sandal paste designs on a woman’s breast doesn’t mean she roams around half-naked. Such designs have been described by a lot of poets in their works. Such blanket statements have caused a lot of misconceptions especially when it is evident that such practice is totally against modern sensibilities. Such extraordinary claims require extraordinary evidence which the authors fail to provide. They take sculptures to be an evidence for their claim, but sculptures are creative representations and are not always realistic, also sometimes it is done to highlight bodily features. It can’t be extended universally. We shall provide just one literary evidence contrary to their claim from Abhijñānaśākuntalam of Kālidāsa (Act I), when Śakuntalā feels that her upper garment is too tight (अतिपिनद्धेन वल्कलेन नियंत्रितास्मि) she blames priyamvadā who replies to her saying its not her fault but its the fault of Śakuntalā’s youth (अत्र पयोधरविस्तारयितुर् आत्मानो यौवनं उपालम्भस्व)!+++(5)+++
+
+Coming back to the present discussion, when Vasantasenā is about to pluck some shoots of aśoka, Yamapuruṣa assumes the form of a snake and bites her. By the time they realise, Vasantasenā collapses. Śāṇḍilya relays the news to his preceptor who seems cold hearted and says that her time has come and so she has departed. Vasantasenā asks Parabhṛtikā to convey her last respects to her mother and also embrace Rāmilaka on her behalf!
+
+Yamapuruṣa describes the path to his destination which is towards the southern direction which is the direction of Yama and he reaches Citragupta who sits under a banyan tree.
+
+Śāṇḍilya is at once filled with sorrow and laments that the courtesan has left her body. Parivrājaka corrects him and drives home the all time truth saying that, everyone is fond of their life and hence none wants to give it up, rather it is the life itself which discards the body. Śāṇḍilya scolds him with words which again showcases some of the routine rebukes present in the language. Few are of particular interest, कूरशकट - a cart filled with vegetables, someone who is just there to eat but not react like normal human beings, an animal,  मुधामुण्ड - one with his head shaven in vain, i.e. even though a sannyāsin he seems to be not having compassion. Not satisfied by calling him names he also says that he’ll call hundred and eight names which is an idiom still used even today when one wants to scold someone. When Parivrājaka seems to be indifferent, he starts crying that she is his relative (स्वजन), the preceptor seems surprised, so he continues to explain saying that she also is like a sannyāsin who isn’t attached with anyone! Such statements from Śāṇḍilya conveys the reader that he isn’t as foolish as it seems, rather he is cunning but lazy! It is interesting to note that he doesn’t have the same attitude even towards his preceptor whom he is trying to follow! We don’t see him calling the Parivrājaka as स्वजन later.
+
+Despite his preceptor’s reservations, he goes near Vasantasenā and laments calling her a sweet singer, Parabhṛtikā is initially surprised, she asks what he is doing! He replies that he has been just overcome by compassion! She gathers that he being a sannyāsin is compassionate to one and all! He holds her feet and when asked why, he replies that he is so sad that he can’t differentiate between her head or her feet and describes her beauty saying that he is indeed unlucky to not have enjoyed it when she was alive.
+
+Parabhṛtikā thinks that he will not desert Vasantasenā and request to look after her while she goes to fetch Mātā. Śāṇḍilya says that he indeed is like a mother to everyone who is orphaned! While this emotion, if true, is really profound and is supposed to be how a sannyāsin should be, here we know that it is just hyperbole!
+
+#### Parakāyapraveśa
+Parivrājaka still seems to worry about his disciple’s learning and asks him to study! He instead asks if there is any solution for Vasantasenā’s situation. Parivrājaka offers a course on medicine! Śāṇḍilya snaps back saying all his learning is just sinful. This is when Parivrājaka decides to enter Vasantasenā’s body using his supernatural power of ‘parakāyapraveśa’ the reason he gives is also worth listening, he says even though one should remain unattached, here for the sake of the welfare of the disciple whatever he wants to undertake is harmless and hence has the approval of the great masters of yoga. With this reasoning he enters Vasantasenā’s body.
+
+As soon as Vasantasenā gets up she calls Śāṇḍilya, who however doesn’t think for a moment how she knows his name and instead is happy that she is calling him! Immediately she withdraws herself scolding him not to touch her with unwashed hands. He expresses his surprise saying, ‘Oh she is so pure!’ She then tells him to come and resume his studies which enrages him. He thinks, ‘She too talks about studies!’ let me go back to the Parivrājaka only to see him lying motionless.
+
+Śāṇḍilya who had cried hoarse seeing Vasantasenā body isn’t so sad seeing his preceptor dead, he calls him vācāla - which positively means a great orator but also has a negative connotation signifying that he blabbers a lot! Calls him yogavit - knower of yoga but finally ends his words by stating “even scholars would finally die!” as a matter of fact!
+
+Meanwhile we see Mātā who is disturbed by the news, comes along with Parabhṛtikā to see her daughter, is surprised and happy to see her daughter alive. All the happiness vanishes when her daughter addresses her as vṛśalavṛddhe i.e. old woman of a lowly birth and orders her not to touch her!  Parabhṛtikā guesses that it should be the poison which has made her behave like that and runs to get the doctor.
+
+Twice we see that Vasantasenā (i.e. Parivrājaka) withdraws and orders both Śāṇḍilya and Mātā not to touch her as they are unclean, contrast this to his own behaviour where he isn’t bothered about the cleanliness when Śāṇḍilya asks him where to sit! So is he really bothered by that? It is unlikely, here he is rather putting up an act which he feels is the most appropriate!
+
+Rāmilaka arrives and he is also likewise shunned, after being called by names like fool etc. After getting to know the full story he can’t believe that the mere snake-bite to be the cause, and instead guesses that some malevolent being has possessed her!
+
+The doctor arrives. It is interesting to note that he speaks Prakrit. He creates a maṇḍala and tries to call the snake which has bitten her. Vasantasenā ridicules him saying that his efforts are futile, he says that she also has pittha and overpromises saying he will not only get rid of pittha but he will remove vāta and śleṣma too. Rāmilaka asks him to continue his efforts and says “we are not an ungrateful crowd!” which means he would be handsomely rewarded. The doctor excuses himself saying that he’ll bring the snake doctor as this case seems beyond his expertise!
+
+Meanwhile Yamapuruṣa is taken to task by his master for bringing the wrong Vasantasenā, he comes back to correct his mistake only to see that the Parivrājaka has entered Vasantasenā’s body! He is extremely busy since he has to bring more dead people, appreciating Parivrājaka’s prowess, without much of a choice, he places Vasantasenā in his body and disappears!
+
+Parivrājaka wakes up calling Parabhṛtikā, causing anguish in Śāṇḍilya, who instead of being happy concludes that miserable people never die early! ‘Great scholar’ when he died, but a ‘miserable fellow’ if he is alive!
+
+Further Parivrājaka calls Rāmilaka and asks him to embrace him! Śāṇḍilya is stunned, and curses his preceptor asking him to embrace his staff made of kimśuka instead! Parivrājaka says that he is intoxicated for which Śāṇḍilya replies that he has gone mad! Even Rāmilaka says that the behaviour isn’t befitting of his stature but Parivrājaka ignores him and asks for a strong drink. Śāṇḍilya is enraged and tells him to drink poison instead! Readers should note that the mad person says the same thing to Satyasoma in the Matta-vilāsa. Śāṇḍilya also expresses his confusion saying that it has gone beyond all limits and it is neither the Bhagavān nor Ajjukā but some farcical combination of both! 
+
+Here again in note 60, Lockwood and Bhat think that this is somehow a parody of the concept of Ardhanārīśvara!
+
+> नैव भगवान् । नैव अज्जुका । अथवा भगवदज्जुकं नामेदं संवृत्तम् ।  
+> “This is neither the Bhagavan nor Ajjukā. Better call it ‘Bhagavadajjuka’! 60
+>
+> 60. In these last three sentences, the actor is emphasizing his Buffoon role. This is a two-fold parody of the Ardhanārīśvara concept: first, ‘Bhagavad-Ajjuka’, and second, ‘Ajjuka-Bhagavan’ (implied).”
+
+It looks like Lockwood and Bhat are unaware of the concept of Ardhanārīśvara which has nothing to do with exchange of atmas instead it is to do with the inseparable union.
+
+Parivrājaka further asks Parabhṛtikā to embrace him! When Mātā calls out for Vasantasenā, Parivrājaka answers!
+
+The snake doctor finally arrives with his curebook muttering that he has brought some medicine with eight ingredients and so on, just to show off his knowledge, and starts bossing around asking to bring water and acting busy, he is convinced now that Vasantasenā is being possessed,  but he is subjected to a stern examination by her! She first asks him if there is a cure and asks him his sources, when he mutters trying to remember, Śāṇḍilya is impressed even by that, but he understands that they both are similar and he might have forgotten his learning or hadn’t even bothered to learn anything in the first place! He helps the doctor with the book and the doctor again makes an elementary mistake and caught by Vasantasenā who teaches him grammar saying that ‘sarpa’ being of masculine gender, one should say, ‘trayaḥ sarpāḥ’ not ‘trīṇi sarpāḥ’! The doctor interjects saying, ‘Indeed it’s the grammar-snake which has bitten her!’ He is further examined about the stages of deterioration caused by poisoning, he says there are hundred stages which is again corrected by Vasantasenā who says there are only seven stages - goose bumps, parched mouth, draining of colour, shivers, hiccups, gasping for breath and losing consciousness. Beyond this even the doctors of the devas, the aśvins can’t help!
+
+The doctor is exposed as a quack while Parivrājaka seems to be an expert in everything! The doctor runs away humiliated!
+
+Finally when there seems to be no resolution in sight, Yamapuruṣa comes back and requests Parivrājaka to come out of Vasantasenā’s body so that he can perform the swap and finish his work. Parivrājaka accepts and finally the bodies are swapped to the delight of everyone.
+
+#### Ending
+When Śāṇḍilya asks Parivrājaka about all the events, he says that its a huge story which he will expand upon later. The sun sets by then which is described in an elegant verse.
+
+> अस्तंगतो हि दिनकृद्गगनान्तलम्बी  
+> मूषामुखस्थ इव तप्तसुवर्णराशिः ।  
+> यस्य प्रभाभिर् अनुरञ्जित-मेघ-वृन्दम्   
+> आलक्ष्यते दहन-गर्भम् इवान्तरिक्षम् ॥३६॥
+
+[The setting sun hangs on at the edge of the sky
+He looks like the molten gold in the crucible
+The clouds which have been covered by his brilliance
+Looks like they are pregnant with fire in the sky!]
+
+Veturi Prabhakara Sastri mentions that the bharatavākya is found only in one of the manuscripts All other editions say that there is no bharatavākya. The bharatavākya itself is quite ordinary when compared to the one in Matta-vilāsa and as well be a later addition.
+
+### Comparison with Matta-vilāsa-prahasanam
+It is natural that Bhagavad-ajjukam draws comparisons with Matta-vilāsa-prahasanam. While both are entertaining in their own way, there are some important differences.
+
+In Matta-vilāsa-prahasanam without exceptions, all characters are degenerate, who manipulate their original tenets. They violate not only the viśeṣa-dharmas like the āśrama-dharma but even the sāmānya-dharmas like asteya, indriya-nigraha etc. Bhagavad-ajjukam on the other hand has many characters which are worthy of emulation. Parivrājaka is definitely a worthy character. Vasantasenā isn’t just a borrowed name from Mṛcchakaṭika but she follows her namesake by genuinely loving Rāmilaka despite his faults. Only Śāṇḍilya and the doctors are the degenerate characters here. Even Śāṇḍilya seems to turn a new leaf by the end. No such fundamental and profound changes happen to any of the characters of Matta-vilāsa-prahasanam.
+
+When it comes to the characters, Bhagavad-ajjukam has a lot of variety compared to Mattavilasa.  The Parivrājaka and his disciple, the courtesan, her attendants and her mother, her lover, the two quack doctors, even the yamapuruṣa, each character stands apart. They are drawn from different social order, gender, etc. Mattavilasa has characters which are mostly of the same type, emerging from various ascetic orders.
+
+Also the swapping of bodies of two people of different nature, Parivrājaka who primarily expounds vairagya and the courtesan for whom śṛṅgāra is the default emotion, following different āśrama-dharma generates humour of a different kind. Contrast this to Matta-vilāsa where not much would change if we swap the kāpālika with the pāśupata or the bauddha, fundamentally they are not too different. Here there is a fundamental difference in these two swapped characters, one related to the purushartha of mokṣa while other to kāma, which the author has used well to generate humour.
+
+Even though Matta-vilāsa-prahasanam has many philosophical discussions, even a casual reader can enjoy it since he/she need not know the ‘true’ teachings of any of these ‘matas’, Bhagavad-ajjukam’s discussions are, relatively speaking, a bit heavy, some of the discussions are inspired by great texts like the upaniṣads and the bhagavadgītā.
+
+Matta-vilāsa-prahasanam is humorous throughout while Bhagavad-ajjukam’s humour is more distributed. Most of the humour is in the second half after Vasantasenā’s entry.
+
+Matta-vilāsa-prahasanam has no supernatural motifs, on the other hand it is a crucial component of Bhagavad-ajjukam. One may wonder if such themes would appeal to a rational reader infused with ‘scientific temper’? But that would mean that one has forgotten that a rasika should be willing to suspend his disbelief as long as it is within the realm of propriety, no motifs are forbidden! In fact in this case it is that supernatural motif which brings the humour, without which the story would have been impossible.
+
+In general prahasanas lack kaiśikī which involves fine arts like dance, music etc. It is not at all present in Matta-vilāsa while in Bhagavad-ajjukam there is ample scope in it during Vasantasenā’s entry to the grove and her character being a courtesan mandates her to have exceptional knowledge of dance music and such fine arts. Thus when staged it can have a component of lāsya which isn’t possible in Matta-vilāsa-prahasanam
+
+### Conclusion
+Bhagavad-ajjukam like Matta-vilāsa-prahasanam is a well-made prahasana with a highly entertaining plot. Some of the conversation between Parivrājaka and Śāṇḍilya in the first half might have been trimmed to make it even more crisp.
+
+Bhagavad-ajjukam’s influence on later prahasanas is something which cannot be ignored. Using supernatural phenomena has become a staple troupe. So is the usage of preceptor pupil pairs where both are fake (like in Hāsyacūḍāmaṇi), where we find fake miracle men promising lot more than they can deliver and still survive and thrive.
+
+In all the editions which we have studied, the main import of the prahasana seems to have been lost. While it is indeed a commentary on society, where people like Śāṇḍilya misuse or abuse the respect given to his ilk to lead a lazy life without purpose, there is a more important suggestion here. People are more enamoured by supernatural miracles than real knowledge which is the most sublime and profound thing which anyone can attain. Parivrājaka who seems to be a jīvanmukta is not at all heard when he tries to impart real knowledge to his disciple, he has to use the cheap trick (relatively speaking) of ‘parakāyapraveśa’ to gain the confidence of his disciple.+++(5)+++ This is an eternal truth, the number of followers ‘miracle men’ gain even in this age of information and 'enlightenment' is a testimony to the fact that real knowledge has very few takers! Such a profound suggestion dealing with the core human psyche is what makes it one of the best prahasanas ever.
+
+With this the analysis can move on to the other prahasanas, of which we will see Hāsyacūḍāmaṇi in subsequent parts.
