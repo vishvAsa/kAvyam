@@ -351,7 +351,7 @@ We are not satisfied, however, with his last quarter. Really, the point of birth
 
 Please join the Google Group to subscribe to these (\~ biweekly) postings:[](https://groups.google.com/group/sadaswada/subscribe?hl=en)
 
-<https://groups.google.com/group/sadaswada/subscribe?hl=en>
+<https://groups.google.com/group/sadaswada/subscribe?hl=en 
 
   
 

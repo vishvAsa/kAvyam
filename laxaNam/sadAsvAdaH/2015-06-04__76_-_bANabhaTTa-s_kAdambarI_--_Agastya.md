@@ -162,7 +162,7 @@ Bāṇa himself is like this: his entire magnum opus could be written in 5 pages
 
 Please join the Google Group to subscribe to these (\~ weekly) postings:[](https://groups.google.com/group/sadaswada/subscribe?hl=en)
 
-<https://groups.google.com/group/sadaswada/subscribe?hl=en>
+<https://groups.google.com/group/sadaswada/subscribe?hl=en 
 
   
 

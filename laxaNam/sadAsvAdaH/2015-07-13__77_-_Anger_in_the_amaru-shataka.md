@@ -173,5 +173,5 @@ How might one do this? The US President Theodore Roosevelt had a famous maxim: â
 
 Please join the Google Group to subscribe to these (\~ weekly) postings:[](https://groups.google.com/group/sadaswada/subscribe?hl=en)
 
-<https://groups.google.com/group/sadaswada/subscribe?hl=en>
+<https://groups.google.com/group/sadaswada/subscribe?hl=en 
 

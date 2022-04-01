@@ -151,7 +151,6 @@ What can we say of Pāṇini’s benevolent foresight, which ensured that most d
 
   
 
-Please join the Google Group to subscribe to these (\~ weekly) postings: <https://groups.google.com/group/sadaswada/subscribe?hl=en>
+Please join the Google Group to subscribe to these (\~ weekly) postings: <https://groups.google.com/group/sadaswada/subscribe?hl=en 
 
->   
 

@@ -210,7 +210,7 @@ The ‘conciliatory’ tone of the first half automatically comes through becaus
 
 Please join the Google Group to subscribe to these (\~ weekly) postings:[](https://groups.google.com/group/sadaswada/subscribe?hl=en)
 
-<https://groups.google.com/group/sadaswada/subscribe?hl=en>
+<https://groups.google.com/group/sadaswada/subscribe?hl=en 
 
   
 

@@ -248,7 +248,7 @@ Of course, even a Brahma-jñānī cannot hope to have this kind of a tranquil mi
 
 Please join the Google Group to subscribe to these (\~ biweekly) postings:[](https://groups.google.com/group/sadaswada/subscribe?hl=en)
 
-<https://groups.google.com/group/sadaswada/subscribe?hl=en>
+<https://groups.google.com/group/sadaswada/subscribe?hl=en 
 
   
 

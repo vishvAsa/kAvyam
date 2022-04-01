@@ -580,5 +580,5 @@ If we expand that focus to include what we have learnt in science and technology
 
 Please join the Google Group to subscribe to these (\~ biweekly) postings:[](https://groups.google.com/group/sadaswada/subscribe?hl=en)
 
-<https://groups.google.com/group/sadaswada/subscribe?hl=en>
+<https://groups.google.com/group/sadaswada/subscribe?hl=en 
 

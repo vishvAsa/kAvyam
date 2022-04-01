@@ -175,5 +175,5 @@ There is a legend that Śaṅkara wrote this poem when he saw a tyrannical gramm
 
   
 
-Please join the Google Group to subscribe to these (\~ weekly) postings: <https://groups.google.com/group/sadaswada/subscribe?hl=en>
+Please join the Google Group to subscribe to these (\~ weekly) postings: <https://groups.google.com/group/sadaswada/subscribe?hl=en 
 

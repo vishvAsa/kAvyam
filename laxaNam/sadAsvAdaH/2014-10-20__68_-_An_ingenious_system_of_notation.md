@@ -279,7 +279,7 @@ The friends then asked the bumpkin to relate his version. “This man sat down a
 
   
 
-Please join the Google Group to subscribe to these (\~ weekly) postings: <https://groups.google.com/group/sadaswada/subscribe?hl=en>
+Please join the Google Group to subscribe to these (\~ weekly) postings: <https://groups.google.com/group/sadaswada/subscribe?hl=en 
 
   
 

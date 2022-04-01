@@ -338,7 +338,7 @@ The use of words like ‘capeṭā’ (slap), ‘modaka’ (sweet) and ‘baṭu
 
   
 
-Please join the Google Group to subscribe to these (\~ weekly) postings: <https://groups.google.com/group/sadaswada/subscribe?hl=en>
+Please join the Google Group to subscribe to these (\~ weekly) postings: <https://groups.google.com/group/sadaswada/subscribe?hl=en 
 
   
 

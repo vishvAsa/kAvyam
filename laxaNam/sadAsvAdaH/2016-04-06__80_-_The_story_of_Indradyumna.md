@@ -281,7 +281,7 @@ This is also an apt complement to the Indradyumna story: one needs poets and peo
 
 Please join the Google Group to subscribe to these (\~ biweekly) postings:[](https://groups.google.com/group/sadaswada/subscribe?hl=en)
 
-<https://groups.google.com/group/sadaswada/subscribe?hl=en>
+<https://groups.google.com/group/sadaswada/subscribe?hl=en 
 
   
 

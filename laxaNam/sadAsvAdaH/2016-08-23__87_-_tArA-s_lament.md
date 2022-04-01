@@ -481,7 +481,7 @@ Bhoja realized the error of his ways, and disbanded the committee. Someone shoul
 
 Please join the Google Group to subscribe to these (\~ biweekly) postings:[](https://groups.google.com/group/sadaswada/subscribe?hl=en)
 
-<https://groups.google.com/group/sadaswada/subscribe?hl=en>
+<https://groups.google.com/group/sadaswada/subscribe?hl=en 
 
   
 

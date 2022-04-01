@@ -180,7 +180,7 @@ If we step back from all the debates, from all the profound and silly rational j
 
   
 
-Please join the Google Group to subscribe to these (\~ weekly) postings: <https://groups.google.com/group/sadaswada/subscribe?hl=en>
+Please join the Google Group to subscribe to these (\~ weekly) postings: <https://groups.google.com/group/sadaswada/subscribe?hl=en 
 
   
 

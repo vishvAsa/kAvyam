@@ -585,5 +585,5 @@ The second half reminds us of an observation an old engineering professor of our
 
 Please join the Google Group to subscribe to these (\~ weekly) postings:[](https://groups.google.com/group/sadaswada/subscribe?hl=en)
 
-<https://groups.google.com/group/sadaswada/subscribe?hl=en>
+<https://groups.google.com/group/sadaswada/subscribe?hl=en 
 

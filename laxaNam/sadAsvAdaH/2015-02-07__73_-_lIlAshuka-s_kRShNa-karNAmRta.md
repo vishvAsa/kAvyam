@@ -281,7 +281,7 @@ If the Supreme Truth is known, then too the scriptures are useless!”
 
 Please join the Google Group to subscribe to these (\~ weekly) postings:[](https://groups.google.com/group/sadaswada/subscribe?hl=en)
 
-<https://groups.google.com/group/sadaswada/subscribe?hl=en>
+<https://groups.google.com/group/sadaswada/subscribe?hl=en 
 
   
 
