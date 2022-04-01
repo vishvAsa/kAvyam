@@ -20,7 +20,7 @@ title = "2016-11-12__90 - Sītā's concern"
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -28,7 +28,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -292,7 +292,7 @@ From our own experiences, except for dry facts, learning anything often creates 
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

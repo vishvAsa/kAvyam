@@ -18,7 +18,7 @@ title = "2014-02-15__56 - Pāṇini's Aṣṭādhyāyī"
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -26,7 +26,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -147,7 +147,7 @@ Phew! To the modern reader, the exact details of such classification can be quit
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

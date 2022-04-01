@@ -19,7 +19,7 @@ title = "2016-08-23__87 - Tārā's lament"
   
   
 
-MEANING
+## Meaning
 
   
 
@@ -27,7 +27,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -439,7 +439,7 @@ In these verses, then, is not just the magic of a Bhoja writing them a thousand 
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

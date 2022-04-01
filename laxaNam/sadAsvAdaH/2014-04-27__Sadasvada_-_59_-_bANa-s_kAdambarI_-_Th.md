@@ -18,7 +18,7 @@ title = "2014-04-27__Sadasvada - 59 - Bāṇa's Kādambarī - The Śukanāsopade
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -26,7 +26,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -587,7 +587,7 @@ While we’re tempted to use Bāṇa’s own form to describe his pleasures, we�
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

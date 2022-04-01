@@ -18,7 +18,7 @@ title = "2014-08-10__64 - Some laukika-nyāyās"
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -26,7 +26,7 @@ Literally, “Daughter-in-law – dal – measuring – rule”, or “The examp
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -202,7 +202,7 @@ One more of this kind is the ‘iṣukāra-nyāya’, ‘\[The example of\] the 
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

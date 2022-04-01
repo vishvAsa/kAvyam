@@ -21,7 +21,7 @@ title = "2015-02-24__74 - Kālidāsa's Raghuvaṃśa"
   
 **
 
-MEANING
+## Meaning
 
 **  
 **
@@ -31,7 +31,7 @@ Literally, “By their virtues which came into my ear, I was compelled to fickle
 **  
 **
 
-CONTEXT
+## Context
 
 **  
 **
@@ -311,7 +311,7 @@ For centuries, the Raghuvaṃśa was one of the first texts encountered by a chi
 **  
 **
 
-A PARTING THOUGHT
+## Parting Thought
 
 **  
 **

@@ -18,7 +18,7 @@ title = "2014-06-06__62 - An ancient provocateur"
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -26,7 +26,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -452,7 +452,7 @@ these are humanity’s cornerstones.”
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

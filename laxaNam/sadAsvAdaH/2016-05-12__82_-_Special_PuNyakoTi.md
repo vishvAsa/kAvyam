@@ -18,7 +18,7 @@ title = "2016-05-12__82 - Special: Puṇyakōṭi"
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -26,7 +26,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -386,7 +386,7 @@ Where is the question of silly fireflies like good and evil, truth and falsehood
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

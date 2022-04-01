@@ -18,7 +18,7 @@ title = "2014-05-11__60 - A muktaka on selfless love"
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -26,7 +26,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -88,7 +88,7 @@ And to them, a verse like this, which so beautifully describes this feeling and 
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

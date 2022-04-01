@@ -26,7 +26,7 @@ nuḍise, "jīya, hasāda" eṃbudu... kaṣṭa ninage enda
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -50,7 +50,7 @@ Note the ādiprāsa, the alliteration at the second syllable of each line: it se
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -542,7 +542,7 @@ Isn’t this similar to the ‘narrative hack’ that happened to poor Karna as 
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

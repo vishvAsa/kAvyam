@@ -19,7 +19,7 @@ title = "2015-07-27__78 - Moonrise on the southern shore"
   
   
 
-MEANING
+## Meaning
 
   
 
@@ -27,7 +27,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -183,7 +183,7 @@ The chapter ends shortly thereafter, and the scene shifts to Lankā, where Rāva
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

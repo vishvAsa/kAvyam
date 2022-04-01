@@ -19,7 +19,7 @@ title = "2014-11-27__71 - Ānanda-vardhana's Dhvanyāloka"
   
   
 
-MEANING
+## Meaning
 
   
 
@@ -27,7 +27,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -180,7 +180,7 @@ Therefore, it is all the more impressive when a Sanskrit verse manages to sugges
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

@@ -19,7 +19,7 @@ title = "2016-07-24__85 - Some anonymous anyoktis"
   
   
 
-MEANING
+## Meaning
 
   
 
@@ -27,7 +27,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -221,7 +221,7 @@ And a helplessness to the pen -- a verse that causes all this, now that is a ver
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

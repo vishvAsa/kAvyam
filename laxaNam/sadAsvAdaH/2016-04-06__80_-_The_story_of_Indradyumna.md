@@ -19,7 +19,7 @@ title = "2016-04-06__80 - The story of Indradyumna"
   
   
 
-MEANING
+## Meaning
 
   
 
@@ -27,7 +27,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -223,7 +223,7 @@ We think the story and its allegorical truth reaches much farther than is appare
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

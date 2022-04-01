@@ -21,7 +21,7 @@ title = "2014-10-13__67 - Uddaṇḍa's Kokila-sandeśa"
   
 **
 
-MEANING
+## Meaning
 
 **  
 **
@@ -31,7 +31,7 @@ MEANING
 **  
 **
 
-CONTEXT
+## Context
 
 **  
 **
@@ -290,7 +290,7 @@ Mystery and disappointment are not absolutely indispensable to the growth of lov
 **  
 **
 
-A PARTING THOUGHT
+## Parting Thought
 
 **  
 **

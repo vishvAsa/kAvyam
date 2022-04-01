@@ -18,7 +18,7 @@ title = "2014-01-20__53 - Mahābhārate Gṛdhra-Jambuka-Samvādaḥ"
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -26,7 +26,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -290,7 +290,7 @@ Vyāsa doesn’t seem to want to end on a tragic note, so he writes that Lord Ś
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

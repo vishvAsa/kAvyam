@@ -19,7 +19,7 @@ title = "2016-08-05__86 - Bhartṛhari's Śatakas"
   
   
 
-MEANING
+## Meaning
 
   
 
@@ -27,7 +27,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -317,7 +317,7 @@ As always, fine nuances abound: in the second line, jñāti and suhṛt are both
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

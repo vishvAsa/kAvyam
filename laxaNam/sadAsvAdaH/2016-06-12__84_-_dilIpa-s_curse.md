@@ -19,7 +19,7 @@ title = "2016-06-12__84 - Dilīpa's curse"
   
   
 
-MEANING
+## Meaning
 
   
 
@@ -27,7 +27,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -214,7 +214,7 @@ Nothing else in the story has changed. In essence, this is akin to gently correc
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

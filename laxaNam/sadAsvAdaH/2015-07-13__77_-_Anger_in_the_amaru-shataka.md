@@ -19,7 +19,7 @@ title = "2015-07-13__77 - Anger in the Amaru-śataka"
   
   
 
-MEANING
+## Meaning
 
   
 
@@ -27,7 +27,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -143,7 +143,7 @@ What a masterpiece! The couple is referred to in ṣaṣṭhī dual case in the 
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

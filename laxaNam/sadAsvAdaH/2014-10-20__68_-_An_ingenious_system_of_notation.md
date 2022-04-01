@@ -20,7 +20,7 @@ title = "2014-10-20__68 - An ingenious system of notation"
 **  
 **
 
-MEANING
+## Meaning
 
 **  
 **
@@ -30,7 +30,7 @@ MEANING
 **  
 **
 
-CONTEXT
+## Context
 
 **  
 **
@@ -246,7 +246,7 @@ You have fifteen seconds. Using standard math notation, English words, or both, 
 **  
 **
 
-A PARTING THOUGHT
+## Parting Thought
 
 **  
 **

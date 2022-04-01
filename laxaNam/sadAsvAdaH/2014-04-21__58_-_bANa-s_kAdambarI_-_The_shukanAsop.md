@@ -18,7 +18,7 @@ title = "2014-04-21__58 - Bāṇa's Kādambarī - The Śukanāsopadeśa - Part 1
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -30,7 +30,7 @@ elevated-Mandara-twisting-turning-dizziness-born-instinct”, meaning “One who
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -672,7 +672,7 @@ What can we say, gentle reader? If one were to learn Sanskrit only to appreciate
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

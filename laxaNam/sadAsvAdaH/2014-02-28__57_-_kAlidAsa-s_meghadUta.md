@@ -22,7 +22,7 @@ title = "2014-02-28__57 - Kālidāsa's Meghadūta"
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -30,7 +30,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -278,7 +278,7 @@ The cloud then continues on northward to the Himālayas, and we’ll see if we c
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

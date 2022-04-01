@@ -20,7 +20,7 @@ title = "2016-11-21__91 - Divan-e-Ghalib"
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -28,7 +28,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -264,7 +264,7 @@ May that playful Lord do you good!”
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

@@ -19,7 +19,7 @@ title = "2015-02-07__73 - Līlāśuka's Kṛṣṇa-karṇāmṛta"
   
   
 
-MEANING
+## Meaning
 
   
 
@@ -27,7 +27,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -219,7 +219,7 @@ We had seen how the same sound-scheme was adopted by K. S. Arjunwadkar in the br
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

@@ -18,7 +18,7 @@ title = "2014-02-02__54 - Rāmāyaṇe Uttara-kāṇḍe Hanūmad-Rāma-Samvāda
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -26,7 +26,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -123,7 +123,7 @@ This verse, and in particular the phrase ‘भवाम ऋणिनो वय�
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

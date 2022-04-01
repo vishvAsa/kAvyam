@@ -19,7 +19,7 @@ title = "2014-11-02__69 - Śudraka's Padma-prābhṛtaka"
   
   
 
-MEANING
+## Meaning
 
   
 
@@ -27,7 +27,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -179,7 +179,7 @@ The conversation then turns to Dattakalaśi’s latest romantic woes, and we hop
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

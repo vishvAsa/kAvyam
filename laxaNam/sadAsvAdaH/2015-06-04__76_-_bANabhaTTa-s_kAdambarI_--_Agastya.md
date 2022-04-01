@@ -23,7 +23,7 @@ yatra rāgaḥ sphurati latā-kisalayeṣu)
   
   
 
-MEANING
+## Meaning
 
   
 
@@ -31,7 +31,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -115,7 +115,7 @@ Meanwhile, this style of describing a place seems to be evergreen: [a popular so
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

@@ -22,7 +22,7 @@ haseye sōjiga!)
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -30,7 +30,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -965,7 +965,7 @@ My father told me a story about an 18th century watchmaker. And what this guy ha
   
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

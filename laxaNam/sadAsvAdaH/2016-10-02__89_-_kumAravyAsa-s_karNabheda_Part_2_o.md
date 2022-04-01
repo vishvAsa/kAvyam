@@ -26,7 +26,7 @@ olume tappisi bhuvanada oḷage enage āpta jana illa .
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -34,7 +34,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -546,7 +546,7 @@ Kuntī proceeds to ask for two wishes: that Karṇa spare ‘her five sons’ an
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

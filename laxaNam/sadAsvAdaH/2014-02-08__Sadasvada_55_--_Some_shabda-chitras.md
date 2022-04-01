@@ -18,7 +18,7 @@ title = "2014-02-08__Sadasvada 55 -- Some Śabda-citras"
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -26,7 +26,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -182,7 +182,7 @@ Veṅkaṭādhvari’s brilliance is in using those very sūtras to compose a ni
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

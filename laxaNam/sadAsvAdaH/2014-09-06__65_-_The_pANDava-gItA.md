@@ -18,7 +18,7 @@ title = "2014-09-06__65 - The Pāṇḍava-gītā"
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -26,7 +26,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -312,7 +312,7 @@ Isn’t that all Life is, my friend?”
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

@@ -18,7 +18,7 @@ title = "2014-05-24__61 - Some vibhūtis"
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -26,7 +26,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -247,7 +247,7 @@ Together however, jigīṣā and nīti are the foundation of every civilization 
   
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

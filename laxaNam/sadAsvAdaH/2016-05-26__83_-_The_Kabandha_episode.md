@@ -19,7 +19,7 @@ title = "2016-05-26__83 - The Kabandha episode"
   
   
 
-MEANING
+## Meaning
 
   
 
@@ -27,7 +27,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -339,7 +339,7 @@ What a strange thing the mind is, and what wonderful means it uses to express it
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

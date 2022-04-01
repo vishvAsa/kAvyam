@@ -18,7 +18,7 @@ title = "2014-06-28__63 - The Śaraṇāgati-gadya"
 
   
 
-MEANING
+## Meaning
 
   
 
@@ -26,7 +26,7 @@ MEANING
 
   
 
-CONTEXT
+## Context
 
   
 
@@ -154,7 +154,7 @@ Rāmānujācārya’s philosophy may be rather a matter of personal taste, but i
 
   
 
-A PARTING THOUGHT
+## Parting Thought
 
   
 

@@ -21,7 +21,7 @@ title = "2015-04-26__75 - The Yakṣa-praśna"
   
 **
 
-MEANING
+## Meaning
 
 **  
 **
@@ -31,7 +31,7 @@ Literally, “What is the Way?” In the original, as with most Indian languages
 **  
 **
 
-CONTEXT
+## Context
 
 **  
 **
@@ -532,7 +532,7 @@ Duryodhana, friend of friends and enemy of enemies, doing what he pleased at eve
 **  
 **
 
-A PARTING THOUGHT
+## Parting Thought
 
 **  
 **
