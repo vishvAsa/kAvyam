@@ -33,14 +33,28 @@ title = "भावः Mental state"
 ## Communication of bhāva-s
 - Highly efficient communication of an enduring mental state (to a person maintaining aesthetic distance) transforms it into its aesthetic counterpart - its ‘rasa’.
   - भरत-रस-सूत्रम् - विभावानुभाव-व्यभिचारि-संयोगाद् रसनिष्पत्तिः। 
+  - दण्डी काव्यादर्शे - "रतिः शृङ्गारतां गता रूपबाहुल्ययोगेन"।
 - Can infer real-life mental states (sthāyibhāva-s) by accessing information about their antecedent stimuli (kāraṇa-s) (+ transient sahakāri-kāraṇas) and consequent responses (kārya-s). Inferred mental state is strongly tied to the character. Can trouble the viewer (if not detached).
 - Mental states (sthāyibhāva-s) of literary charactersare inferred from vibhāva (+ vyabhicāri-bhāva) and anubhāva. vibhāva, anubhāva and bhāva-s here are impersonal, generalized versions of their real world counterparts. Produce aesthetic delight (rasa) in the viewer.
   - People like abhinavagupta claim that the inference here is different from the real-world counterpart, and call it ‘dhvani’ aka 'implicature'.
   - People like shankuka say that the inference part here is exactly the same whether on stage or in real-world.
 
 
-<details><summary>Enrichment vs Causation</summary>
+<details><summary>Enrichment of sthAyibhAva as rasa?</summary>
 
-lollaTa says that characters (eg. rAma) already has the sthāyibhāva (eg. sadness) before the vibhāva-s, vyabhicāribhāvas and anubhāvas "enrich" it. दण्डी काव्यादर्शे - "रतिः शृङ्गारतां गता रूपबाहुल्ययोगेन"।
+lollaTa says that characters (eg. rAma) already has the sthāyibhāva (eg. sadness) before the vibhāva-s, vyabhicāribhāvas and anubhāvas "enrich" it. shankuka disagreed  -
+
+- How can you discern sthāyibhāva without vibhāva, vyabhicāribhāvas and anubhāvas?
+- If it were so, bharata would have dealt with sthāyibhāvas and then rasas. Separate definition of rasas would be superfluous.
+- There would be innumerable gradations of rasa-s based on degree of enrichment.
+  - If we say rasa is reached when there is utmost enrichment, 6 types of hAsya would not be possible.
+  - Gradations in each of shRngAra-rasa's 10 stages would lead to infinite number of shRngAra-rasas.
+- Despite continuous enrichment, how come shoka first is intense and then weakens?
+- Inspite of other vibhāvas, vyabhicāribhāvas and anubhāvas enriching krodha, utsAha and rati, these sthāyibhāvas remain weak in the absence of amrSha, sthairya and sevA.
+</details>
+
+<details><summary>Imintation of sthāyibhāva as rasa?</summary>
+
+Shankuka says: "Imitated sthāyibhāva, inferred from a combination of  vibhāvas, vyabhicāribhāvas and anubhāvas, is rasa."
 </details>
 
