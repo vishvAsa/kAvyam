@@ -17,9 +17,11 @@ title = "भावः Mental state"
 
 ### sthāyibhāva
 - 8 or 9 enduring mental states (sthāyibhāva-s).
+  -  रति, हास, शोक, क्रोध, उत्साह, भय, जुगुप्सा, विस्मय (desire, mirth, sorrow, heroism, anger, fear, aversion, and astonishment).
 - Examples of enduring mental states include love, anger, fear, and sorrow. 
 - Communicated using accessory mental states.
-- Communication transforms it into its aesthetic counterpart - its ‘rasa’.
+- Communication to a sahRdaya transforms it into its aesthetic counterpart - its ‘rasa’ in him. 
+  - शृङ्गार-वीर-बीभत्स-रौद्र-हास्य-भयानकाः । करुणाद्भुत-शान्ताश् च नव नाट्या रसाः स्मृताः ॥
 
 ### vyabhicāri-bhāva
 - 41 accessory transient (vyabhicāri-bhāva-s)
@@ -29,8 +31,16 @@ title = "भावः Mental state"
   - Understood as having an internal (psychophysiological) and an external (physical) aspect to them. The सात्त्विकभावs have a dual nature, of अनुभाव (tear flow) and  व्यभिचारिभाव.
 
 ## Communication of bhāva-s
-- Highly efficient communication of an enduring mental state transforms it into its aesthetic counterpart - its ‘rasa’.
-- Can infer real-life mental states by accessing information about their antecedent stimuli (kāraṇa-s) and consequent responses (kārya-s). Inferred mental state is strongly tied to the character. Can trouble the viewer (if not detached).
-- Mental states of literary characters are inferred from vibhAva-anubhAva. vibhAva, anubhAva and bhAva-s here are impersonal, generalized versions of their real world counterparts. Produce aesthetic delight (rasa) in the viewer.
+- Highly efficient communication of an enduring mental state (to a person maintaining aesthetic distance) transforms it into its aesthetic counterpart - its ‘rasa’.
+  - भरत-रस-सूत्रम् - विभावानुभाव-व्यभिचारि-संयोगाद् रसनिष्पत्तिः। 
+- Can infer real-life mental states (sthāyibhāva-s) by accessing information about their antecedent stimuli (kāraṇa-s) (+ transient sahakāri-kāraṇas) and consequent responses (kārya-s). Inferred mental state is strongly tied to the character. Can trouble the viewer (if not detached).
+- Mental states (sthāyibhāva-s) of literary charactersare inferred from vibhāva (+ vyabhicāri-bhāva) and anubhāva. vibhāva, anubhāva and bhāva-s here are impersonal, generalized versions of their real world counterparts. Produce aesthetic delight (rasa) in the viewer.
   - People like abhinavagupta claim that the inference here is different from the real-world counterpart, and call it ‘dhvani’ aka 'implicature'.
   - People like shankuka say that the inference part here is exactly the same whether on stage or in real-world.
+
+
+<details><summary>Enrichment vs Causation</summary>
+
+lollaTa says that characters (eg. rAma) already has the sthāyibhāva (eg. sadness) before the vibhāva-s, vyabhicāribhāvas and anubhāvas "enrich" it. दण्डी काव्यादर्शे - "रतिः शृङ्गारतां गता रूपबाहुल्ययोगेन"।
+</details>
+

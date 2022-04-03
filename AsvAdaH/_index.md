@@ -1,4 +1,4 @@
 +++
-title = "+ग्रन्थः"
+title = "+आस्वादः"
 unicode_script = "devanagari"
 +++
