@@ -31,15 +31,19 @@ title = "भावः Mental state"
   - Understood as having an internal (psychophysiological) and an external (physical) aspect to them. The सात्त्विकभावs have a dual nature, of अनुभाव (tear flow) and  व्यभिचारिभाव.
 
 ## Communication of bhāva-s
-- Highly efficient communication of an enduring mental state (to a person maintaining aesthetic distance) transforms it into its aesthetic counterpart - its ‘rasa’.
-  - भरत-रस-सूत्रम् - विभावानुभाव-व्यभिचारि-संयोगाद् रसनिष्पत्तिः। 
-  - दण्डी काव्यादर्शे - "रतिः शृङ्गारतां गता रूपबाहुल्ययोगेन"।
-- Can infer real-life mental states (sthāyibhāva-s) by accessing information about their antecedent stimuli (kāraṇa-s) (+ transient sahakāri-kāraṇas) and consequent responses (kārya-s). Inferred mental state is strongly tied to the character. Can trouble the viewer (if not detached).
-- Mental states (sthāyibhāva-s) of literary characters are imitated in an actor/ presented in a script. They are then inferred by the audience from vibhāva (+ vyabhicāri-bhāva) and anubhāva. vibhāva, anubhāva and bhāva-s here are impersonal, generalized versions of their real world counterparts. Produce aesthetic delight (rasa) in the viewer.
-- vibhāva corresponds to kāraṇa. Includes such things as season, time of the day etc.. So, some of it is communicated via poetry/ storyline. 
-- anubhāva corresponds to kārya. It includes actions such as crying and laughter. It is oft communicated via acting.
-- vyabhicāribhāvas are communicated via their anubhāvas.
-- sthāyibhāva itself cannot be directly communicated (in the sense that the corresponding emotion arises in the recipient). It can only be inferred.
+- Real life situations
+  - Can infer real-life mental states (sthāyibhāva-s) by accessing information about their antecedent stimuli (kāraṇa-s) (+ transient sahakāri-kāraṇas) and consequent responses (kārya-s). 
+  - sthāyibhāva itself cannot be directly communicated (in the sense that the corresponding emotion arises in the recipient). It can only be inferred.
+  - Inferred mental state is strongly tied to the person involved.
+  - Can trouble the viewer (if not detached).
+- Within a poetic work
+  - vibhāva corresponds to kāraṇa. Includes such things as season, time of the day etc..
+  - anubhāva corresponds to kārya. It includes actions such as crying and laughter. It is oft communicated via (possibly imagined) acting.
+  - vyabhicāribhāvas are communicated via their anubhāvas.
+  - vibhāva corresponds to kāraṇa. Includes such things as season, time of the day etc..
+  - anubhāva corresponds to kārya. It includes actions such as crying and laughter. It is oft communicated via acting.
+  - vyabhicāribhāvas are communicated via their anubhāvas.
+  - sthāyibhāva is located within the character.
 
 ### Mode of inference
 - People like abhinavagupta claim that the inference here is different from the real-world counterpart, and call it ‘dhvani’ aka 'implicature'.
