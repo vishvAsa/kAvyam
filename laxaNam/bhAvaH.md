@@ -35,7 +35,7 @@ title = "भावः Mental state"
   - भरत-रस-सूत्रम् - विभावानुभाव-व्यभिचारि-संयोगाद् रसनिष्पत्तिः। 
   - दण्डी काव्यादर्शे - "रतिः शृङ्गारतां गता रूपबाहुल्ययोगेन"।
 - Can infer real-life mental states (sthāyibhāva-s) by accessing information about their antecedent stimuli (kāraṇa-s) (+ transient sahakāri-kāraṇas) and consequent responses (kārya-s). Inferred mental state is strongly tied to the character. Can trouble the viewer (if not detached).
-- Mental states (sthāyibhāva-s) of literary characters are inferred from vibhāva (+ vyabhicāri-bhāva) and anubhāva. vibhāva, anubhāva and bhāva-s here are impersonal, generalized versions of their real world counterparts. Produce aesthetic delight (rasa) in the viewer.
+- Mental states (sthāyibhāva-s) of literary characters are imitated in an actor/ presented in a script. They are then inferred by the audience from vibhāva (+ vyabhicāri-bhāva) and anubhāva. vibhāva, anubhāva and bhāva-s here are impersonal, generalized versions of their real world counterparts. Produce aesthetic delight (rasa) in the viewer.
 - vibhāva corresponds to kāraṇa. Includes such things as season, time of the day etc.. So, some of it is communicated via poetry/ storyline. 
 - anubhāva corresponds to kārya. It includes actions such as crying and laughter. It is oft communicated via acting.
 - vyabhicāribhāvas are communicated via their anubhāvas.

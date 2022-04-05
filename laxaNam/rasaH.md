@@ -35,7 +35,7 @@ lollaTa says that characters (eg. rAma) already has the sthāyibhāva (eg. sadne
 
 <details><summary>Imintation of sthāyibhāva as rasa?</summary>
 
-Shankuka says: "Imitated sthāyibhāva, inferred from a combination of  vibhāvas, vyabhicāribhāvas and anubhāvas, is rasa."
+Shankuka says: The character's sthāyibhāva is imitated in the actor/ poetic presentation via a combination of  vibhāvas, vyabhicāribhāvas and anubhāvas. This imitated sthāyibhāva, when inferred by the audience, becomes rasa.
 </details>
 
 
