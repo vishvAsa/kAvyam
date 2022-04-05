@@ -3,21 +3,6 @@ title: रसः
 unicode_script: devanagari
 
 ---
-## रसिकः
-- सहृदयः। 
-- Aesthetic distance इति मुख्यो गुणः। 
-
-### सुखस्थ-पर्युत्सुकता, अनित्यता, अपूर्णता
-कालिदास आह - 
-
-> रम्याणि वीक्ष्य मधुरांश्च निशम्य शब्दान्   
-> पर्युत्सुको भवति यत्सुखितोऽपि जन्तुः ।
-
-- अनित्यता ऽपूर्णता च सहृदयत्व-जनन-हेतू। ताभ्यां हि सहृदयः "Aesthetic distance" इति लभते। 
-  - वाब्य्-आख्याम् अनित्यताम् सौन्दर्यहेतुम् मन्यमाना उषस्पुत्राः स्मार्यन्ते। [wabi sabi wiki](https://en.wikipedia.org/wiki/Wabi-sabi ) 
-  - "Capre Diem", "Thumpus Fugit" इति म्लेच्छाः। अनित्यता दुःखस्यैव हेतुरिति कैश्चिन् मृषोक्तम्।
-- त्रिकशास्त्रस्य निरानन्देन सहापि सम्बन्धः कश्चन स्यात्।
-
 ## रसः
 - Highly efficient communication (via vibhāva, anubhāva and sahakāri-bhāva-s) of an enduring mental state (to a person maintaining aesthetic distance) transforms it into its aesthetic counterpart - its ‘rasa’.
 - प्रमाणवाक्यानि
@@ -27,9 +12,39 @@ unicode_script: devanagari
 ### रसोद्भवः
 <details open><summary>अभिनवगुप्त-मतम्</summary>
 
+#### Rasa
 - sādhāraṇīkr̥ta vibhāva, anubhāva and sahakāri-bhāva-s are associated with sādhāraṇīkr̥ta sthāyibhāva. (Impersonal, generalized versions of their real world and poetic counterparts).
-  - These transcend spatio-temporal barriers. They exist in all.
-- While enjoying a poetic work, mirrored in the spectator's mind thanks to shared consciousness.
+  - These transcend spatio-temporal and personal barriers. They exist in all.
+- Properties
+  - It is as if one is savouring a painting - looking at all times depicted at once.
+  - It is uninterrupted as there is an absence of  "satisfaction".
+  - It is not indescribable like the experience of brahman.
+  - It is not everyday perception (hence we throng movie halls). 
+  - It is not erroneous (one doesn't walk out of a movie theater thinking one has been fooled).
+  - It is not eternal (exists as long as one engages with the kAvya). 
+- Effects of such rasa-perception - like रोमाञ्च, tears - is also called "camatkāra".
+  - camatkāra is a type of experience, conviction, imagination or memory.
+  - It is a perception unbound by time, place, personhood. 
+  - Abhinavagupta says that camatkāra could be of the nature of unconscious memory - "रम्याणि वीक्ष्य … पर्युत्सुको भवति यत्सुखितोऽपि जन्तुः। तच्चेतसा **स्मरति नूनमबोधपूर्वं**".
+
+#### Mechanism
+- While enjoying a poetic work, all these sādhāraṇīkr̥ta bhāvas are mirrored in the spectator's mind. This is illuminated by the shared consciousness of the audience, which is of the nature of joy. The 8/9 rasas are innately present in even the newborn.
+- Theater and drama technique (eg. presenting actors before and after as actors) facilitate sādhāraṇīkaraṇa. 
+  - In case of an enactment, the spectator's mind is faced with conflicting possibilities as to where the vibhāva, anubhāva and sthāyibhāva exists - in the character - or in the actor? It can't think of the actor as either the actor+++(←makeup, acting etc..)+++  or as rāma +++(← memories of other actors, pre-make-up look)+++. So, it goes into a state of "vishrānti".
+
+#### 7 hinderances (vighnas) in rasa experience.
+- स्वगतत्वपरगतत्व-नियोगेन देशकालविशेषावेशः
+  - Appropriation of pleasurable/ painful mental states on to himself.
+    - If it's pleasurable, one is distracted by wanting to preserve it, fear of it ending, desire to acquire something similar in real life.
+    - If it's painful, one has the second distracting thought of wanting to be rid of it, hide it.
+  - Particularization to someone else (eg. actor). Techniques to overcome it - present the actor as himself first; have special stage designs, make the actor use extraordinary language.
+- निज-सुखादि-विवशी-भाव। Overcome by setting the mood with music, stage etc.
+- अप्रधानता - Consciousness can only settle on some predominant mental state. 
+  - रति-क्रोधोत्साहनिर्वेदाः प्रधानाः स्थायिभावाः (correspond to कामार्थधर्ममोक्षाः)। Abhinavagupta says that sorrow is also a stable primary mental state on which the mind can rest.
+  - The other sthāyibhāvas can act as vyabhicāribhāvas and color the pradhāna-sthāyibhāvas.
+- प्रतिपत्ताव् अयोग्यता, सम्भावनाविरहः। Hence, base story on common experience or a well known story (having अखण्डित-प्रतीतिः).
+- प्रतीत्युपाय-वैकल्य, स्फुटत्वाभाव - Sometimes, audience needs hints to understand. Overcome using abhinaya, local usages, etc.
+- संशययोगः
 </details>
 
 
@@ -38,7 +53,9 @@ unicode_script: devanagari
 
 <details><summary>Enrichment of sthAyibhAva as rasa?</summary>
 
-lollaTa says that characters (eg. rAma) already has the sthāyibhāva (eg. sadness) before the vibhāva-s, vyabhicāribhāvas and anubhāvas "enrich" it. So, he located 'rasa' in the character. shankuka disagreed  -
+lollaTa says that characters (eg. rAma) already has the sthāyibhāva (eg. sadness) before the vibhāva-s, vyabhicāribhāvas and anubhāvas "enrich" it. So, he located 'rasa' in the character. 
+
+shankuka disagreed  -
 
 - How can you discern sthāyibhāva without vibhāva, vyabhicāribhāvas and anubhāvas?
 - If it were so, bharata would have dealt with sthāyibhāvas and then rasas. Separate definition of rasas would be superfluous.
@@ -47,6 +64,8 @@ lollaTa says that characters (eg. rAma) already has the sthāyibhāva (eg. sadne
   - Gradations in each of shRngAra-rasa's 10 stages would lead to infinite number of shRngAra-rasas.
 - Despite continuous enrichment, how come shoka first is intense and then weakens?
 - Inspite of other vibhāvas, vyabhicāribhāvas and anubhāvas enriching krodha, utsAha and rati, these sthāyibhāvas remain weak in the absence of amrSha, sthairya and sevA.
+
+Abhinavagupta said - Correct in a way. sAdhAraNIkaraNa is a type of "enrichment".
 </details>
 
 <details><summary>Imitation of sthāyibhāva as rasa?</summary>
@@ -76,6 +95,8 @@ bhaTTatauta's criticism:
 - vibhāvas are not communicated via the script.
   - The actor does not think- "this is a sItA who belongs to me". +++(??)+++
   - If you say that vibhāvas are communicated by the script, they may as well communicate sthāyibhāvas.
+
+Abhinavagupta said - Correct in a way. rasa follows in the wake of bhAva - so a type of anukAra.
 </details>
 
 <details><summary>भट्टनायकानुसारेण साधारणीकरणप्रक्रिया</summary>
@@ -115,9 +136,29 @@ bhaTTatauta's criticism:
   - Abhinavagupta  - Rasa is neither eternal (exists only as long as one engages with the text) nor unreal (is in fact experienced). So it must be either be produced or manifested.
 </details>
 
+## रसिकः
+- सहृदयः।
+- Aesthetic distance इति मुख्यो गुणः।
+- While percieving such a mental state, the self of the perciever neither dissolves completely (as in mystical perception), nor becomes pronounced (as in everyday perception).
+
+### सुखस्थ-पर्युत्सुकता, अनित्यता, अपूर्णता
+दुष्यन्तः कालिदासनाट्य आह -
+
+> रम्याणि वीक्ष्य मधुरांश्च निशम्य शब्दान्   
+> पर्युत्सुको भवति यत्सुखितोऽपि जन्तुः ।  
+> तच्चेतसा स्मरति नूनमबोधपूर्वं   
+> भावस्थिराणि जननान्तरसौहृदानि ॥
+
+- अनित्यता ऽपूर्णता च सहृदयत्व-जनन-हेतू। ताभ्यां हि सहृदयः "Aesthetic distance" इति लभते।
+  - वाब्य्-आख्याम् अनित्यताम् सौन्दर्यहेतुम् मन्यमाना उषस्पुत्राः स्मार्यन्ते। [wabi sabi wiki](https://en.wikipedia.org/wiki/Wabi-sabi )
+  - "Capre Diem", "Thumpus Fugit" इति म्लेच्छाः। अनित्यता दुःखस्यैव हेतुरिति कैश्चिन् मृषोक्तम्।
+- त्रिकशास्त्रस्य निरानन्देन सहापि सम्बन्धः कश्चन स्यात्।
+
+
+## औचित्यम्
+- “कण्ठे मेखलया नितम्बफलके तारेण हारेण वा पाणौ नूपुरबन्धनेन चरणे केयुरपाशेन वा । शौर्येण प्रणते रिपौ करुणया नायान्ति के हास्यता मौचित्येन विना रुचिं प्रतनुते नालंकृतिर्नो गुणाः ” ।।-इति (औचित्यविचारचर्चा)
 
 
 ## भाषणानि
 - NIAS Lectures by Shankar Rajaraman - Readings from Indian Aesthetics - [YT-PL](https://www.youtube.com/playlist?list=PLY5EQMbaCa_UCDZ0jctE7f_chiUowNyno) 
-- "को वा काव्यस्य आत्मा? गुणो वा? रीतिर् वा? ध्वनिर् वा? वक्रोक्तिर् वा? चमत्कारो वा? किं नाम उत्तमकाव्यम्?" इत्यादौ प्राचीनचर्चायां नागराजरावः \- [अत्र](https://archive.org/details/kAvyasya-AtmA)।
 
