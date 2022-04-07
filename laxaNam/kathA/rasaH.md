@@ -10,6 +10,12 @@ unicode_script: devanagari
   - दण्डी काव्यादर्शे - "रतिः शृङ्गारतां गता रूपबाहुल्ययोगेन"।
 
 ### रसोद्भवः
+<details open><summary>भोजमतम्</summary>
+
+nAyaka-s have highly evolved ahaṅkāra due to extraordinary traits. Spectator's identifies with the character's ahaṅkāra, and enjoys it. This enjoyment is rasa.  
++++(रसोद्भवे भोजमतम् एव सरलम् अनुभवानुसारि च भाति साधारणीकरणप्रक्रियापेक्षया। राजारामज-शङ्करोऽप्य् अङ्गीकरोति।)+++
+</details>
+
 <details open><summary>अभिनवगुप्त-मतम्</summary>
 
 #### Rasa
