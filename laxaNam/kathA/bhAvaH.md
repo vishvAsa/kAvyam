@@ -22,6 +22,7 @@ title = "भावः Mental state"
 - Communicated using accessory mental states.
 - Communication to a sahRdaya transforms it into its aesthetic counterpart - its ‘rasa’ in him. 
   - शृङ्गार-वीर-बीभत्स-रौद्र-हास्य-भयानकाः । करुणाद्भुत-शान्ताश् च नव नाट्या रसाः स्मृताः ॥
+- Certain sthāyibhāvas can be vyabhicāri, based on another sthāyibhāva appearing in the character, and itself be the base for other vyabhicāri-bhāvas.
 
 ### vyabhicāri-bhāva
 - 41 accessory transient (vyabhicāri-bhāva-s)
@@ -44,6 +45,7 @@ title = "भावः Mental state"
   - anubhāva corresponds to kārya. It includes actions such as crying and laughter. It is oft communicated via acting.
   - vyabhicāribhāvas are communicated via their anubhāvas.
   - sthāyibhāva is located within the character.
+- Each bhāva (vyabhicāri or sthāyibhāva) is communicated thus.
 
 ### Mode of inference
 - People like abhinavagupta claim that the inference here is different from the real-world counterpart, and call it ‘dhvani’ aka 'implicature'.

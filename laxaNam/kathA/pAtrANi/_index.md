@@ -123,7 +123,9 @@ Social, physical, intellectual, moral, spiritual traits
 - 7. Contemplativeness (vaiśāradya) 
 - 8. Disinclination to enjoy worldly pleasures (vairāgya)
 
-
+#### Inference
+- From story.
+- Dialogues. Others commenting on the character's behavior.
    
 ### शाश्वत-नायकः
 शाश्वतो नायकः परमात्मा रसदाता +इति रूपगोस्वाम्य्-आदयः। नाट्यरङ्गाद् बहिर् अपि रसम् उद्भावयति। कृष्णे पुरुषार्थचतुष्टयम् अपि निहितम् इति रूपगोस्वाम्य्-आदयः।  
