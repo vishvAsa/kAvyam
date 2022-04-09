@@ -18,33 +18,42 @@ nAyaka-s have highly evolved ahaṅkāra due to extraordinary traits. Spectator'
 
 <details open><summary>अभिनवगुप्त-मतम्</summary>
 
-#### Rasa
+#### Generalized bhāvas
+- In the ideal realm, there are generalized objects, generalized space and generalized time.
 - sādhāraṇīkr̥ta vibhāva, anubhāva and sahakāri-bhāva-s are associated with sādhāraṇīkr̥ta sthāyibhāva. (Impersonal, generalized versions of their real world and poetic counterparts).
-  - These transcend spatio-temporal and personal barriers. They exist in all.
-  - रसः प्रेक्षकय् उदेतीति।
+- These transcend spatio-temporal and personal barriers.
+- The 8/9 sādhāraṇīkr̥ta sthāyibhāvas are innately present in even the newborn. They exist in all.
+
+#### Rasa
+- रसः प्रेक्षकय् उदेतीति।
 - Properties
-  - It is as if one is savouring a painting - looking at all times depicted at once.
-  - It is uninterrupted as there is an absence of  "satisfaction".
-  - It is not indescribable like the experience of brahman.
   - It is not everyday perception (hence we throng movie halls). 
+    - Repose of consciousness (Samvid-viśrānti) in aesthetic experience. No other thought arises in consciousness. There is no repose of consciousness in mundane experience. An additional thought (“This experience must continue”/This experience must end”, etc. ) always follows. Discussed by Abhinavagupta under "the obstacles to aesthetic experience".
+      - A connoisseur (sahr̥daya) is free of such intruding thoughts (vimalahr̥daya). He/she is also not at mercy of his/her own experience of pleasure (stemming from objects of desire, rāga) or sorrow (stemming from objects of hate, dveṣa).
+    - +++(Objection - not all secondary thoughts oppose sav̐vid-viśrānti. They naturally occur, especially while reading.)+++
   - It is not erroneous (one doesn't walk out of a movie theater thinking one has been fooled).
   - It is not eternal (exists as long as one engages with the kAvya). 
+  - It is as if one is savouring a painting - looking at all times depicted at once.
+  - It is not indescribable like the experience of brahman.
+  - It is uninterrupted as there is an absence of  "satisfaction".
 - Effects of such rasa-perception - like रोमाञ्च, tears - is also called "camatkāra".
   - camatkāra is a type of experience, conviction, imagination or memory.
   - It is a perception unbound by time, place, personhood. 
   - Abhinavagupta says that camatkāra could be of the nature of unconscious memory - "रम्याणि वीक्ष्य … पर्युत्सुको भवति यत्सुखितोऽपि जन्तुः। तच्चेतसा **स्मरति नूनमबोधपूर्वं**".
 
 #### Mechanism
-- While enjoying a poetic work, all these sādhāraṇīkr̥ta bhāvas are mirrored in the spectator's mind. This is illuminated by the shared consciousness of the audience, which is of the nature of joy. The 8/9 rasas are innately present in even the newborn.
+- While enjoying a poetic work, sādhāraṇīkr̥ta bhāvas are mirrored in the spectator's mind, which is directly illuminated by śiva/ sav̐vit (they're able to directly access the ideal realm), which is of the nature of joy. sādhāraṇīkr̥ta bhāva, experienced thus, is rasa.
 - Theater and drama technique (eg. presenting actors before and after as actors) facilitate sādhāraṇīkaraṇa. 
-  - In case of an enactment, the spectator's mind is faced with conflicting possibilities as to where the vibhāva, anubhāva and sthāyibhāva exists - in the character - or in the actor? It can't think of the actor as either the actor+++(←makeup, acting etc..)+++  or as rāma +++(← memories of other actors, pre-make-up look)+++. So, it goes into a state of "vishrānti".
+  - In case of an enactment, the spectator's mind is faced with conflicting possibilities as to where the vibhāva, anubhāva and sthāyibhāva exists - in the character - or in the actor? It can't think of the actor as either the actor+++(←makeup, acting etc..)+++  or as rāma +++(← memories of other actors, pre-make-up look)+++. So, it goes into a state of "viśrānti".
 
 #### 7 hinderances (vighnas) in rasa experience.
-- स्वगतत्वपरगतत्व-नियोगेन देशकालविशेषावेशः
-  - Appropriation of pleasurable/ painful mental states on to himself.
-    - If it's pleasurable, one is distracted by wanting to preserve it, fear of it ending, desire to acquire something similar in real life.
+- स्वगतत्व-परगतत्व-नियोगेन देशकालविशेषावेशः - This is the greatest obstacle
+  - Appropriation of pleasurable/ painful mental states on to himself; and the resulting "second thought" perturbation.
+    - If it's pleasurable, one is distracted by wanting to preserve it, fear of it ending, to show it off, desire to acquire something similar in real life.
     - If it's painful, one has the second distracting thought of wanting to be rid of it, hide it.
-  - Particularization to someone else (eg. actor). Techniques to overcome it - present the actor as himself first; have special stage designs, make the actor use extraordinary language.
+  - Particularization to someone else (eg. actor).
+    - Even when we are vicariously experiencing other's experience of pleasure/sorrow, a second experience of our own pleasure, sorrow, stupefaction, or neutrality interrupts that experience (because of thoughts such as “He is my friend", "He is my foe", “He is someone am unconcerned about".
+    - Techniques to overcome it - present the actor as himself first; have special stage designs, make the actor use extraordinary language.
 - निज-सुखादि-विवशी-भाव। Overcome by setting the mood with music, stage etc.
 - अप्रधानता - Consciousness can only settle on some predominant mental state. 
   - रति-क्रोधोत्साहनिर्वेदाः प्रधानाः स्थायिभावाः (correspond to कामार्थधर्ममोक्षाः)। Abhinavagupta says that sorrow is also a stable primary mental state on which the mind can rest.
