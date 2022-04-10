@@ -24,27 +24,51 @@ nAyaka-s have highly evolved ahaṅkāra due to extraordinary traits. Spectator'
 - These transcend spatio-temporal and personal barriers.
 - The 8/9 sādhāraṇīkr̥ta sthāyibhāvas are innately present in even the newborn. They exist in all.
 
-#### Rasa
+#### Rasa Properties
 - रसः प्रेक्षकय् उदेतीति।
-- Properties
-  - It is not everyday perception (hence we throng movie halls). 
-    - Repose of consciousness (Samvid-viśrānti) in aesthetic experience. No other thought arises in consciousness. There is no repose of consciousness in mundane experience. An additional thought (“This experience must continue”/This experience must end”, etc. ) always follows. Discussed by Abhinavagupta under "the obstacles to aesthetic experience".
-      - A connoisseur (sahr̥daya) is free of such intruding thoughts (vimalahr̥daya). He/she is also not at mercy of his/her own experience of pleasure (stemming from objects of desire, rāga) or sorrow (stemming from objects of hate, dveṣa).
-    - +++(Objection - not all secondary thoughts oppose sav̐vid-viśrānti. They naturally occur, especially while reading.)+++
-  - It is not erroneous (one doesn't walk out of a movie theater thinking one has been fooled).
-  - It is not eternal (exists as long as one engages with the kAvya). 
-  - It is as if one is savouring a painting - looking at all times depicted at once.
-  - It is not indescribable like the experience of brahman.
-  - It is uninterrupted as there is an absence of  "satisfaction".
-- Effects of such rasa-perception - like रोमाञ्च, tears - is also called "camatkāra".
-  - camatkāra is a type of experience, conviction, imagination or memory.
-  - It is a perception unbound by time, place, personhood. 
-  - Abhinavagupta says that camatkāra could be of the nature of unconscious memory - "रम्याणि वीक्ष्य … पर्युत्सुको भवति यत्सुखितोऽपि जन्तुः। तच्चेतसा **स्मरति नूनमबोधपूर्वं**".
+- It is not erroneous (one doesn't walk out of a movie theater thinking one has been fooled).
+- It is not eternal (exists as long as one engages with the kAvya).
+- It is as if one is savouring a painting - looking at all times depicted at once.
+- It is uninterrupted as there is an absence of  "satisfaction".
 
-#### Mechanism
-- While enjoying a poetic work, sādhāraṇīkr̥ta bhāvas are mirrored in the spectator's mind, which is directly illuminated by śiva/ sav̐vit (they're able to directly access the ideal realm), which is of the nature of joy. sādhāraṇīkr̥ta bhāva, experienced thus, is rasa.
+##### Not mundane experience
+- It is not everyday perception (hence we throng movie halls). 
+- Mundane experience is sukha-duḥkha-pradhāna (every happy experience has a seed of unhappiness in it, and vice versa). Aesthetic experience is joyous even when negative mental states are communicated.
+- Repose of consciousness (Saṁvid-viśrānti) in aesthetic experience. No other thought arises in consciousness. There is no repose of consciousness in mundane experience. An additional thought (“This experience must continue”/This experience must end”, etc. ) always follows. Discussed by Abhinavagupta under "the obstacles to aesthetic experience".
+  - A connoisseur (sahr̥daya) is free of such intruding thoughts (vimalahr̥daya). He/she is also not at mercy of his/her own experience of pleasure (stemming from objects of desire, rāga) or sorrow (stemming from objects of hate, dveṣa).
+  - Objection by viśvāsa
+    - not all secondary thoughts oppose saṁvid-viśrānti. They naturally occur, especially while reading. Examples: 
+      - "what a fine verse! I should save it in my collection."
+      - "Wonder what the real story behind the incident depicted here." The nature of consciousness is to understand - it naturally finds joy in it.
+      - "This movie (e.g. ) is a puzzle. Understanding it is key to cracking open the joy. Let me pause, rewind and think about it." 
+
+##### Not experience of brahman.
+- Aesthetic experience is not enduring.
+- Characterizations like "bhrahmānanda" and "ātyantika-duḥkhya-nivr̥ttiḥ" do not apply.
+- Yogic experience is characterized by tāṭasthya (neutrality), sakala-vaiṣayikoparāga-śūnyatā/asphuṭa-viṣayāveśa-vaivaśya (fading of the material world). Both these are obstacles in the case of aesthetic experience
+
+#### Rasya object traits
+- Aesthetic experience - possible only through objects that are generalized to a degree. 
+  - Contrast with mundane experience - stem from specific objects which evoke specific goal-oriented actions
+  - Contrast with spiritual experience - transcend subject object binary usually.
+  - "तथाविधे हि भये नात्माऽत्यन्ततिरस्कृतो न विशेषत उल्लिखितः । एवं परोऽपि ।" In the aesthetic experience, the subject is neither completely obscured (as in spiritual experience) nor made conspicuous (as in mundane experience). The same is true w.r.t the object.
+- Only with such objects can the thought such as "Let this experience continue/end" not arise. 
+- Generalized objects are not causally effective, (No arthakriyā) – they don't evoke goal-specific actions from us. 
+  - One can experience anger at a specific enemy and undertake some specific action such as attacking as a consequence of such anger but one cannot experience anger at the general category of enemy, much less act in response to it.
+
+#### Rasa effects
+- Effects of such rasa-perception - like रोमाञ्च, tears - is also called "camatkāra".
+- camatkāra is a type of experience, conviction, imagination or memory.
+- It is a perception unbound by time, place, personhood. 
+- Abhinavagupta says that camatkāra could be of the nature of unconscious memory - "रम्याणि वीक्ष्य … पर्युत्सुको भवति यत्सुखितोऽपि जन्तुः। तच्चेतसा **स्मरति नूनमबोधपूर्वं**".
+
+#### Rasa Mechanism
+- While enjoying a poetic work, sādhāraṇīkr̥ta bhāvas are mirrored in the spectator's mind, which is directly illuminated by śiva/ saṁvit (they're able to directly access the ideal realm), which is of the nature of joy. sādhāraṇīkr̥ta bhāva, experienced thus, is rasa.
 - Theater and drama technique (eg. presenting actors before and after as actors) facilitate sādhāraṇīkaraṇa. 
   - In case of an enactment, the spectator's mind is faced with conflicting possibilities as to where the vibhāva, anubhāva and sthāyibhāva exists - in the character - or in the actor? It can't think of the actor as either the actor+++(←makeup, acting etc..)+++  or as rāma +++(← memories of other actors, pre-make-up look)+++. So, it goes into a state of "viśrānti".
+  - Auditory and visual senses are suited to easily evoke a **shared** experience of joy among a large audience (unlike touch, smell and taste)
+    - Instrumental and vocal music, painting, sculpture, and dance are regarded as capable of transforming a nonconnoisseur who is under the grip of his/her personal pleasure/sorrow (nija-sukhādi-vivaśībhāva) into a connoisseur. Hence these are taken resort to before a play begins so the audience can be transported gradually to the play's aesthetic world
+    - Their advantage: Being not as rich in meaning as the drama is, but at the same time being appealing to a the audience at large
 
 #### 7 hinderances (vighnas) in rasa experience.
 - स्वगतत्व-परगतत्व-नियोगेन देशकालविशेषावेशः - This is the greatest obstacle
