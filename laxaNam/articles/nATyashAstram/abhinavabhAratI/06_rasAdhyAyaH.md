@@ -16,7 +16,7 @@ title = "०६ रसाध्यायः"
 पूर्वरङ्गविधिं श्रुत्वा  
 पुनराहुर् महत्तमाः ।  
 भरतं मुनयः सर्वे  
-प्रश्नान् पञ्चाभिधत्स्व नः ।। १ ।।
+प्रश्नान् पञ्चाभिधत्स्व नः ॥ १ ॥
 </details>
 
 <details><summary>English</summary>
@@ -29,7 +29,7 @@ After hearing about the rules regarding the Preliminaries, the great sages conti
 <details><summary>मूलम्</summary>
 
 [^1.1]पूर्वरङ्गविधिं श्रुत्वा पुनराहुर्महत्तमाः ।  
-[^1.2]भरतं मुनयः सर्वे [^1.3]प्रश्नान्पञ्चाभिधत्स्व नः ।। १ ।।
+[^1.2]भरतं मुनयः सर्वे [^1.3]प्रश्नान्पञ्चाभिधत्स्व नः ॥ १ ॥
 </details>
 
 
@@ -54,7 +54,7 @@ After hearing about the rules regarding the Preliminaries, the great sages conti
 
 तथा--
 
-"बुद्धयः कर्मशिल्पानि वैचक्षण्यं कलासु च ।।"
+"बुद्धयः कर्मशिल्पानि वैचक्षण्यं कलासु च ॥"
 (ना.शा. १९-१५१) इत्यादि ।  
 
 सिद्ध्यध्याये च द्वितीयप्रश्नार्थविषयो निर्णेष्यते । "तुष्यन्ति तरुणाः कामे" (ना.शा.
@@ -86,7 +86,7 @@ After hearing about the rules regarding the Preliminaries, the great sages conti
 ये **रसा** इति पठ्यन्ते  
 नाट्ये नाट्य-विचक्षणैः।  
 रसत्वं केन वै तेषाम्  
-एतद् आख्यातुम् अर्हसि ।। २ ।।
+एतद् आख्यातुम् अर्हसि ॥ २ ॥
 </details>
 
 <details><summary>English</summary>
@@ -99,7 +99,7 @@ Explain how the Sentiments enumerated by experts in dramatic art attain their [s
 **भावाश्** चैव कथं प्रोक्ताः  
 किं वा ते **भावयन्त्य्** अपि ।  
 **संग्रहं कारिकां** चैव  
-**निरुक्तं** चैव तत्त्वतः ।। ३ ।।
+**निरुक्तं** चैव तत्त्वतः ॥ ३ ॥
 </details>
 
 <details><summary>English</summary>
@@ -117,7 +117,7 @@ And why are the *bhāvas* (Psychological States, lit. feelings) so called, and w
 तेषां तु वचनं श्रुत्वा  
 मुनीनां भरतो मुनिः।  
 प्रत्युवाच पुनर् वाक्यं  
-रस-भाव-विकल्पनम् ।। ४ ।।
+रस-भाव-विकल्पनम् ॥ ४ ॥
 
 </details>
 
@@ -130,15 +130,15 @@ And why are the *bhāvas* (Psychological States, lit. feelings) so called, and w
 <details><summary>मूलम्</summary>
 
 ये रसा इति पठ्यन्ते नाट्ये 1नाट्यविचक्षणैः।  
-रसत्वं 2केन वै तेषामेतदाख्यातुमर्हसि ।। २ ।।
+रसत्वं 2केन वै तेषामेतदाख्यातुमर्हसि ॥ २ ॥
 
 
 3भावाश्चैव 4कथं प्रोक्ताः किं वा ते भावयन्त्यपि5 ।  
-संग्रहं कारिकां6 चैव निरुक्तं 7चैव तत्त्वतः ।। ३ ।।
+संग्रहं कारिकां6 चैव निरुक्तं 7चैव तत्त्वतः ॥ ३ ॥
 
 
 तेषां तु वचनं श्रुत्वा मुनीनां भरतो मुनिः।  
-प्रत्युवाच पुनर्वाक्यं रसभावविकल्पनम् ।। ४ ।।
+प्रत्युवाच पुनर्वाक्यं रसभावविकल्पनम् ॥ ४ ॥
 
 </details>
 
@@ -203,7 +203,7 @@ And why are the *bhāvas* (Psychological States, lit. feelings) so called, and w
 अहं वः कथयिष्यामि  
 निखिलेन तपोधनाः ।  
 **संग्रहं कारिकां** चैव  
-**निरुक्तं** च यथाक्रमम् ।। ५ ।।
+**निरुक्तं** च यथाक्रमम् ॥ ५ ॥
 </details>
 
 <details><summary>English</summary>
@@ -218,7 +218,7 @@ And then he said, “O sages, I shall tell you in detail and in due order about 
 न शक्यम् अस्य नाट्यस्य  
 गन्तुमन्तं कथञ्चन ।  
 कस्माद् बहुत्वाज् ज्ञानानां  
-शिल्पानां वाप्यनन्ततः ।। ६ ।।
+शिल्पानां वाप्यनन्ततः ॥ ६ ॥
 </details>
 
 <details><summary>English</summary>
@@ -235,11 +235,11 @@ I am not able by any means to exhaust all the topics about drama; for knowledge,
 <details><summary>मूलम्</summary>
 
 अहं वः कथयिष्यामि निखिलेन तपोधनाः ।  
-संग्रहं कारिकां1 चैव निरुक्तं च यथाक्रमम्2 ।। ५ ।।
+संग्रहं कारिकां1 चैव निरुक्तं च यथाक्रमम्2 ॥ ५ ॥
 
 
 न 3शक्यमस्य नाट्यस्य गन्तुमन्तं कथञ्चन ।  
-4कस्माद्बहुत्वाज्ज्ञानानां शिल्पानां 5वाप्यनन्ततः ।। ६ ।।
+4कस्माद्बहुत्वाज्ज्ञानानां शिल्पानां 5वाप्यनन्ततः ॥ ६ ॥
 
 </details>
 
@@ -303,7 +303,7 @@ I am not able by any means to exhaust all the topics about drama; for knowledge,
 एकस्यापि न वै शक्यस्  
 त्व् अन्तो ज्ञानार्णवस्य हि ।  
 गन्तुं किं पुनर् अन्येषां  
-ज्ञानानाम् अर्थतत्त्वतः ।। ७ ।।
+ज्ञानानाम् अर्थतत्त्वतः ॥ ७ ।।
 </details>
 
 <details><summary>English</summary>
