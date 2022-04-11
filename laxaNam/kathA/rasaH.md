@@ -177,6 +177,7 @@ Abhinavagupta said - Correct in a way. sAdhAraNIkaraNa is a type of "enrichment"
 
 ## रसिकः
 - सहृदयः।
+  - Albeit - not everybody can be a sahRdaya for everything. 
 - Aesthetic distance इति मुख्यो गुणः।
 - While percieving such a mental state, the self of the perciever neither dissolves completely (as in mystical perception), nor becomes pronounced (as in everyday perception).
 
