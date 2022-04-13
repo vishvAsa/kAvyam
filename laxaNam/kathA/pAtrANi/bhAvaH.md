@@ -2,7 +2,28 @@
 title = "भावः Mental state"
 +++
 
-## Emotions
+## Mental factulties and states
+- Conventional classification - cognition, affect, and conation (or motivation).
+  - Some add consciousness to the above.
+
+## Conation/ Motivation
+- the proactive (as opposed to habitual) part of motivation that connects knowledge, affects, drives, desire, and instincts to behavior
+- Related to Goal and agency.
+- puruṣārtha affects mental states and behavior. Considered separately. 
+
+### Classes
+Hindu puruṣārtha classification.
+
+Chulef, Read, and Walsh (2001) have classified behavior-relevant human goals into 
+
+- family-related goals (including family, marriage, sex, and romance), 
+- interpersonal goals (including physical appearance, health, social life, friends, helping others, leadership, etc.), 
+- intrapersonal goals (including ethics, freedom, entertainment, intellect, aesthetics, religion, finances, etc.).
+
+## Cognition
+- all forms of knowing and awareness, such as perceiving, conceiving, remembering, reasoning, judging, imagining, and problem solving
+
+## Affect/ Emotions
 ### Basic vs self-conscious
 - basic 
   - sadness, fear, anger, etc.
@@ -30,25 +51,4 @@ title = "भावः Mental state"
 - 8 psychophysical states (sāttvika-bhāva-s). 
   - Eg. tear flow, perspiration, palpitation, and goose bumps. 
   - Understood as having an internal (psychophysiological) and an external (physical) aspect to them. The सात्त्विकभावs have a dual nature, of अनुभाव (tear flow) and  व्यभिचारिभाव.
-
-## Communication of bhāva-s
-- Real life situations
-  - Can infer real-life mental states (sthāyibhāva-s) by accessing information about their antecedent stimuli (kāraṇa-s) (+ transient sahakāri-kāraṇas) and consequent responses (kārya-s). 
-  - sthāyibhāva itself cannot be directly communicated (in the sense that the corresponding emotion arises in the recipient). It can only be inferred.
-  - Inferred mental state is strongly tied to the person involved.
-  - Can trouble the viewer (if not detached).
-- Within a poetic work
-  - vibhāva corresponds to kāraṇa. Includes such things as season, time of the day etc..
-  - anubhāva corresponds to kārya. It includes actions such as crying and laughter. It is oft communicated via (possibly imagined) acting.
-  - vyabhicāribhāvas are communicated via their anubhāvas.
-  - vibhāva corresponds to kāraṇa. Includes such things as season, time of the day etc..
-  - anubhāva corresponds to kārya. It includes actions such as crying and laughter. It is oft communicated via acting.
-  - vyabhicāribhāvas are communicated via their anubhāvas.
-  - sthāyibhāva is located within the character.
-- Each bhāva (vyabhicāri or sthāyibhāva) is communicated thus.
-
-### Mode of inference
-- People like abhinavagupta claim that the inference here is different from the real-world counterpart, and call it ‘dhvani’ aka 'implicature'.
-- People like shankuka say that the inference part here is exactly the same whether on stage or in real-world.
-
 

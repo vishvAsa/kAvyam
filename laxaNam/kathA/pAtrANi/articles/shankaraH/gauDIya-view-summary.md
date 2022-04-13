@@ -2,6 +2,9 @@
 title = "Gaudiya view summary"
 +++
 
+
+शाश्वतो नायकः परमात्मा रसदाता +इति रूपगोस्वाम्य्-आदयः। नाट्यरङ्गाद् बहिर् अपि रसम् उद्भावयति। कृष्णे पुरुषार्थचतुष्टयम् अपि निहितम् इति रूपगोस्वाम्य्-आदयः।
+
 Bridging mundane, aesthetic, and spiritual experiences through Bhakti.
 
 - Can mundane life be viewed as an on-going drama? 
