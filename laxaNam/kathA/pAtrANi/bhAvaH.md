@@ -31,29 +31,49 @@ Chulef, Read, and Walsh (2001) have classified behavior-relevant human goals int
 ## Affect/ Emotions
 ### Study approaches
 - Basic emotions approach (good for basic emotions)
-- cognitive appraisal approach
-  - emotions are equated with „emotion episodes‟
-  - Bidirectional relationship between the components of an emotion (stimulus, perception, appraisal etc..) episode
-  - Some studying emotions using non-linear dynamical systems models
-- Psychological constructionist approach
-  - subjective experience. Commencing with a change in core affect, can culminate in categorizing and labeling the episode as fear, anger etc..
-  - core effect 
-    - a neurophysiological primitive building block for all mental states (emotion included)
-    - constantly changing (because of more or less obvious, internal or external, stimuli) along its two dimensions
-      - pleasure-displeasure (valance)
-      - activation-deactivation (arousal)
-  - categorization and labeling of core affect
-    - Important in determining action that is optimized for goal-attainment in a given stimulus situation
-- social constructionist approach
-  - cultural and social contexts determine which stimulus must give rise to which response.
-  - cultural contexts supply norms - embedded in the nervous system or in language.
-  - actual unfolding of an emotional episode calls for an immediate social context
-  - Construction by discourse, i.e., through the use of language (including emotion words) and language-like signs (i.e., expressions) in accordance to local norms.
-  - Construction by stories
-    - mental states (including emotions) are akin to stories in having a beginning, middle, and end as well as in forming a unified whole
-    - Stories become narratives when we give them a verbal or non-verbal form
-    - prototypical narratives as those that “have a telic structure including an agent, a goal, and a causal sequence connecting the agent‟s various actions with the achievement or nonachievement of the goal” and regards “stories that have sustained interest within their respective traditions”
-  
+
+#### Cognitive appraisal approach
+- emotions are equated with „emotion episodes‟
+- Bidirectional relationship between the components of an emotion (stimulus, perception, appraisal etc..) episode
+- Some studying emotions using non-linear dynamical systems models
+
+#### Psychological constructionist approach
+- subjective experience. Commencing with a change in core affect, can culminate in categorizing and labeling the episode as fear, anger etc..
+- core effect 
+  - a neurophysiological primitive building block for all mental states (emotion included)
+  - constantly changing (because of more or less obvious, internal or external, stimuli) along its two dimensions
+    - pleasure-displeasure (valance)
+    - activation-deactivation (arousal)
+- categorization and labeling of core affect
+  - Important in determining action that is optimized for goal-attainment in a given stimulus situation
+
+#### Social constructionist approach
+- cultural and social contexts determine which stimulus must give rise to which response.
+- cultural contexts supply norms - embedded in the nervous system or in language.
+- actual unfolding of an emotional episode calls for an immediate social context
+
+#### Narrative methodology
+##### Components
+- paying attention to the structure of emotional narrative 
+  - whether events described end in a climax or not, 
+  - pace of the narrative, order of events
+  - temporal and cause-effect relationships among events
+  - juxtaposition of opposing or comparative narratives
+  - emotional nature of an entire narrative such as in structuring it as a comedy or tragedy
+- narrative construction of agency, 
+- expression of emotions at the level of words, sentences, and prosody
+
+##### Construction
+- Construction by discourse, i.e., through the use of language (including emotion words) and language-like signs (i.e., expressions) in accordance to local norms.
+- Construction by stories
+  - mental states (including emotions) are akin to stories in having a beginning, middle, and end as well as in forming a unified whole
+  - Stories become narratives when we give them a verbal or non-verbal form
+  - prototypical narratives as those that “have a telic structure including an agent, a goal, and a causal sequence connecting the agent‟s various actions with the achievement or nonachievement of the goal”, some of them have sustained cultural interest
+    - prototype of sorrow, for example, is “what you feel like when someone you love dies and express through weeping”
+    - junctural emotions -  fear, disgust, anger, wonder, mirth that are temporally limited in their scope within the narrative
+    - outcome emotions - happiness and sorrow “define the enduring feelings we prototypically consider the final evaluation points for junctural emotions”
+    - prototypical narratives from across the globe are similar: their heroes pursue the goals of romantic union or power; realization or nonrealization of goals results in the end emotions of happiness or sorrow; and depending on whether its end emotion is happiness or sorrow, a prototypical narrative can fall under the genre of tragi-comedy or tragedy respectively.
+  - close relationship between our real-life “ego-centric” emotions and the “empathetic” emotions that we experience while reading a piece of literature
 
 
 #### Aspects
@@ -67,18 +87,34 @@ Chulef, Read, and Walsh (2001) have classified behavior-relevant human goals int
 - (g) subjective experience (feeling); and
 - (h) regulation of subjective feeling.
 
-### Basic vs self-conscious
-- basic 
-  - sadness, fear, anger, etc.
-  - emerge early in life,
-  - perform a survival-related function, 
-  - associated with a universally recognizable facial expression
-  - rigid stimulus-response pairing
-  - have a well-documented neurobiological basis - subcortical neural circuit or „affect program‟
-  - recruit fewer cognitive processes; aspects such as feeling and appraisal are not integral to basic emotions
-- self-conscious
-  - (the commonly studied of which are shame, guilt, pride, jealousy, and envy) 
-  - that have a less clear-cut neurobiological basis, emerge later in life, perform a social function, are not associated with a universally recognizable facial expression, and require complex cognitive mechanisms.
+### Basic emotions
+- sadness, fear, anger, etc.
+- emerge early in life,
+- perform a survival-related function, 
+- associated with a universally recognizable facial expression
+- rigid stimulus-response pairing
+- have a well-documented neurobiological basis - subcortical neural circuit or „affect program‟
+- recruit fewer cognitive processes; aspects such as feeling and appraisal are not integral to basic emotions
+
+### Self-conscious emotions
+- Aka „emotions of self-assessment‟, „self-evaluative emotions‟, „self-reflexive emotions‟, „non-basic emotions‟, „moral emotions‟
+- “an emotion generated when events reflect on the worth or value of the self in one‟s own or others‟ eyes”.
+- occur only when people “become aware that they have lived up to, or failed to live up to, some actual or ideal self-representation”. 
+- Positve vs Negative types
+  - positive emotions such as pride, empathy, respect, honor
+  - negative ones such as envy, jealousy, shame, guilt, embarrassment, and humiliation
+- self-evaluative vs social comparison
+  - self-evaluative -  guilt, shame, embarrassment, and pride
+  - social comparison - envy and jealously
+- Provides feedback for (regulating) future behavior
+  - inform us about our “social and moral acceptability”
+  - individual chooses a future behavior after evaluating the emotional consequence (in terms of shame, guilt, pride, etc.) of performing it
+- Contrast with basic emotions
+  - have a less clear-cut neurobiological basis, 
+  - emerge later in life
+  - perform a social (rather than survival-related) function
+  - are not associated with a universally recognizable facial expression,
+  - require complex cognitive mechanisms. necessitate an extended self.
 
 ## 49 vṛtti-s
 - 49 modes (vṛtti-s) in which the mind (citta) can exist. Aka bhāva-s.
