@@ -9,10 +9,15 @@ title = "भावः Mental state"
 ## Conation/ Motivation
 - the proactive (as opposed to habitual) part of motivation that connects knowledge, affects, drives, desire, and instincts to behavior
 - Related to Goal and agency.
-- puruṣārtha affects mental states and behavior. Considered separately. 
+- Goal - an end state that the organism has not yet attained (and is focused towards attaining in the future) and that the organism is committed to approach or avoid
 
 ### Classes
 Hindu puruṣārtha classification.
+
+Schmuck, Kasser, & Ryan (2000)
+
+- intrinsic (e.g., self-acceptance, affiliation, community feeling) 
+- extrinsic (e.g., financial success, appearance, popularity)
 
 Chulef, Read, and Walsh (2001) have classified behavior-relevant human goals into 
 
@@ -51,4 +56,27 @@ Chulef, Read, and Walsh (2001) have classified behavior-relevant human goals int
 - 8 psychophysical states (sāttvika-bhāva-s). 
   - Eg. tear flow, perspiration, palpitation, and goose bumps. 
   - Understood as having an internal (psychophysiological) and an external (physical) aspect to them. The सात्त्विकभावs have a dual nature, of अनुभाव (tear flow) and  व्यभिचारिभाव.
+
+## Consciousness
+- According to Northoff (2014), consciousness can be characterized in terms of 
+  - its content (persons, objects, and events), 
+  - level (related to the degree of wakefulness), 
+  - form (the organization of discretely occurring content into a spatiotemporal continuum),
+  - qualitative feel,
+  - unitary (as opposed to fragmented) nature of experience,
+  - intentionality (object-directedness), 
+  - relatedness to a particular self.
+- Stages
+  - „anoetic‟ („unknowing‟). 
+    - sensory, affective, and homeostatic experience in the absence of objective awareness.
+  - „noetic‟ („knowing‟).
+    - factual, momentary, and non-experiential knowledge about oneself and the world.
+  - „autonoetic‟ („self-knowing‟). indicative of trans-temporal and trans-spatial, experientially rich self-reflection.
+
+
+## Well-being
+- Well-being is a function of dominant puruṣārtha and traits as per bhoja. Considered separately.
+- According to some, well-being of an individual is a function of the type of goal (i.e., intrinsic or extrinsic), reason why he/she pursues them
+  (i.e., whether due to reflective volition or because of feeling pressurized), personality, traits.
+
 

@@ -1,6 +1,7 @@
 +++
 title = "Behavior"
 +++
+
 ## Classification
 - According to behaviorists, only „overt‟ events – objectively observable activities such as physical movements that can be independently verified by observers.
   - Classification 1
@@ -31,5 +32,3 @@ title = "Behavior"
 ### Mode of inference
 - People like abhinavagupta claim that the inference here is different from the real-world counterpart, and call it ‘dhvani’ aka 'implicature'.
 - People like shankuka say that the inference part here is exactly the same whether on stage or in real-world.
-
-
