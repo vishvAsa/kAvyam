@@ -29,10 +29,53 @@ Chulef, Read, and Walsh (2001) have classified behavior-relevant human goals int
 - all forms of knowing and awareness, such as perceiving, conceiving, remembering, reasoning, judging, imagining, and problem solving
 
 ## Affect/ Emotions
+### Study approaches
+- Basic emotions approach (good for basic emotions)
+- cognitive appraisal approach
+  - emotions are equated with „emotion episodes‟
+  - Bidirectional relationship between the components of an emotion (stimulus, perception, appraisal etc..) episode
+  - Some studying emotions using non-linear dynamical systems models
+- Psychological constructionist approach
+  - subjective experience. Commencing with a change in core affect, can culminate in categorizing and labeling the episode as fear, anger etc..
+  - core effect 
+    - a neurophysiological primitive building block for all mental states (emotion included)
+    - constantly changing (because of more or less obvious, internal or external, stimuli) along its two dimensions
+      - pleasure-displeasure (valance)
+      - activation-deactivation (arousal)
+  - categorization and labeling of core affect
+    - Important in determining action that is optimized for goal-attainment in a given stimulus situation
+- social constructionist approach
+  - cultural and social contexts determine which stimulus must give rise to which response.
+  - cultural contexts supply norms - embedded in the nervous system or in language.
+  - actual unfolding of an emotional episode calls for an immediate social context
+  - Construction by discourse, i.e., through the use of language (including emotion words) and language-like signs (i.e., expressions) in accordance to local norms.
+  - Construction by stories
+    - mental states (including emotions) are akin to stories in having a beginning, middle, and end as well as in forming a unified whole
+    - Stories become narratives when we give them a verbal or non-verbal form
+    - prototypical narratives as those that “have a telic structure including an agent, a goal, and a causal sequence connecting the agent‟s various actions with the achievement or nonachievement of the goal” and regards “stories that have sustained interest within their respective traditions”
+  
+
+
+#### Aspects
+- vibhāva, bhāva and anubhāva - considered separately.
+- (a) stimulus object, event, or situation; 
+- (b) perception of the stimulus;
+- (c) cognitive appraisal or evaluation of the perceived stimulus;
+- (d) psychological preparation (action tendency) for responding to the appraised stimulus in a specific way;
+- (e) bodily preparation, via physiological changes, for responding to the appraised stimulus in a specific way;
+- (f) coordinated set of verbal and/or nonverbal behavioral responses;
+- (g) subjective experience (feeling); and
+- (h) regulation of subjective feeling.
+
 ### Basic vs self-conscious
 - basic 
   - sadness, fear, anger, etc.
-  - have a well-documented neurobiological basis, emerge early in life, perform a survival-related function, are associated with a universally recognizable facial expression, and recruit fewer cognitive processes
+  - emerge early in life,
+  - perform a survival-related function, 
+  - associated with a universally recognizable facial expression
+  - rigid stimulus-response pairing
+  - have a well-documented neurobiological basis - subcortical neural circuit or „affect program‟
+  - recruit fewer cognitive processes; aspects such as feeling and appraisal are not integral to basic emotions
 - self-conscious
   - (the commonly studied of which are shame, guilt, pride, jealousy, and envy) 
   - that have a less clear-cut neurobiological basis, emerge later in life, perform a social function, are not associated with a universally recognizable facial expression, and require complex cognitive mechanisms.
