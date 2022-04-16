@@ -68,7 +68,7 @@ Chulef, Read, and Walsh (2001) have classified behavior-relevant human goals int
 - Construction by stories
   - mental states (including emotions) are akin to stories in having a beginning, middle, and end as well as in forming a unified whole
   - Stories become narratives when we give them a verbal or non-verbal form
-  - prototypical narratives as those that “have a telic structure including an agent, a goal, and a causal sequence connecting the agent‟s various actions with the achievement or nonachievement of the goal”, some of them have sustained cultural interest
+  - prototypical narratives as those that “have a telic structure including an agent, a goal, and a causal sequence connecting the agent's various actions with the achievement or nonachievement of the goal”, some of them have sustained cultural interest
     - prototype of sorrow, for example, is “what you feel like when someone you love dies and express through weeping”
     - junctural emotions -  fear, disgust, anger, wonder, mirth that are temporally limited in their scope within the narrative
     - outcome emotions - happiness and sorrow “define the enduring feelings we prototypically consider the final evaluation points for junctural emotions”
@@ -98,7 +98,7 @@ Chulef, Read, and Walsh (2001) have classified behavior-relevant human goals int
 
 ### Self-conscious emotions
 - Aka „emotions of self-assessment‟, „self-evaluative emotions‟, „self-reflexive emotions‟, „non-basic emotions‟, „moral emotions‟
-- “an emotion generated when events reflect on the worth or value of the self in one‟s own or others‟ eyes”.
+- “an emotion generated when events reflect on the worth or value of the self in one's own or others‟ eyes”.
 - occur only when people “become aware that they have lived up to, or failed to live up to, some actual or ideal self-representation”. 
 - Positve vs Negative types
   - positive emotions such as pride, empathy, respect, honor
@@ -115,6 +115,56 @@ Chulef, Read, and Walsh (2001) have classified behavior-relevant human goals int
   - perform a social (rather than survival-related) function
   - are not associated with a universally recognizable facial expression,
   - require complex cognitive mechanisms. necessitate an extended self.
+
+#### Thought process model
+According to this model, self-conscious emotions are an important class of emotions whose elicitation from a stimulus event (e.g., securing the first rank in an exam, failing in an exam) involves the following processes:
+
+- (a) Appraisal of the event as not relevant for survival
+- (b) One's focus on one's own self-representations, either actual (e.g., “I am a successful student”) or ideal (e.g., “I want to be a successful student”)
+- (c) Appraisal of the event as identity-goal relevant, i.e., as important for one's actual or ideal self-representations 
+  - (e.g., one may appraise either securing the first rank or failing in an exam as important for one's self-representation “I am a successful student” or “I want to be a successful student”)
+- (d) Comparison of current self-representations with actual or ideal self-representations for the presence or absence of any discrepancy between the two 
+  - (e.g., comparing one's current self-representation “I am a failing student” with an actual self-representation “I am a successful student” or ideal self-representation “I want to be a successful student” reveals a discrepancy between the two)
+- (e) Appraisal of the event, on the basis of the above comparison, as congruent or incongruent with the goals for one's actual or ideal self-representations, i.e., identity-goal congruence 
+  - (e.g., one of the goals for the actual self-representation “I am a successful student” may be to obtain the appreciation of teachers - a goal with which failing in an exam is appraised as incongruent based on the discrepancy between one's current self-representation “I am a failing student” and actual self-representation “I am a successful student”)
+- (f) Appraising something about oneself or related to oneself as the cause of the event 
+  - (e.g., appraising one's lack of intelligence or inadequate preparation as the cause of failing in an exam)
+- (g) Appraising the cause's 
+  - stability (whether the cause is something about oneself that is permanent such as lack of intelligence or impermanent such as lack of preparation for this exam),
+  - globality (whether the cause is something about oneself that is non-specific such as being unintelligent in everything one does or specific such as being poor in maths),
+  - and controllability (whether the cause is something one can control such as lack of preparation or one can‟t such as intelligence)
+
+According to the model described above, 
+
+- **shame** results from internal, stable, uncontrollable, and global attributions 
+- **guilt** from internal, unstable, controllable, and specific attributions. 
+- **Embarrassment** can result from attributions of either kind (internal, stable/unstable, uncontrollable/controllable, and global/specific) in relation to one's public self. 
+- **hubristic pride** from Internal, stable, uncontrollable, and global attributions lead
+- **authentic pride** from internal, unstable, controllable, and specific attributions.
+
+
+#### Basic emotions approach
+According to Ekman and Cordaro (2011), shame, guilt, embarrassment, envy, Yiddish „naches‟, and Italian „fiero‟ (the last two being variations of pride) could join the rank of basic emotions whereas others (e.g., jealousy) have a debatable status even as emotions.
+
+- shame as “the response when a person feels that if their true nature was to be known, others would be repulsed”,
+- guilt as “the response when a person regrets having violated an agreement, principle, or value”,
+- embarrassment as “the response when people feel they have broken a social rule, and also when a person has been praised”,
+- envy as “the response to another person's awards which the envious person wishes to have”,
+- jealousy as “an „emotional scene‟, with a particular plot and cast of persons” in which the jealous person feels an array of emotions such as anger, fear, sadness, etc. (p. 366). 
+- Naches is “the feeling a parent/caregiver, or teacher, feels when witnessing the achievement of their offspring” 
+- fiero “the emotion felt while meeting a difficult challenge” (Ekman & Cordaro, 2011, p. 365).
+
+Keltner and Buswell (1996) claim that shame, guilt, and embarrassment are distinct emotions by studying the recalled antecedents and facial displays specific to each of them.
+
+- shame
+  - the **antecedents of shame** include poor performance, hurting others emotionally, failing to meet others‟ expectations, disappointment in oneself usually over not reaching a personal goal and role-inappropriate behavior. 
+  - Its facial display includes head and gaze down. 
+- guilt
+  - The antecedents of guilt are failures at duties, lying, neglect of another, breaking a diet or exercise, and cheating.
+  - The study did not find any specific guilt display. 
+- embarrassment
+  - The antecedents of embarrassment include physical pitfalls such as slipping in the mud, cognitive shortcomings such as forgetting someone's name, loss of control over the body such as burping, shortcoming in physical appearance such as walking around with toilet paper stuck to one's shoes, and failure at privacy regulation such as accidentally walking in on others engaged in sexual intercourse.
+  - Its display includes a non-Duchenne (non-enjoyment) smile, lip press, gaze down, head movement to the left and down, and a face touch.
 
 ## 49 vṛtti-s
 - 49 modes (vṛtti-s) in which the mind (citta) can exist. Aka bhāva-s.

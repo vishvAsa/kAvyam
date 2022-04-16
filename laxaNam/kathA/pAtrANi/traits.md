@@ -28,7 +28,7 @@ title = "Traits"
 - Stores mental representations of past events and self-knowledge (traits + goals and actions)
 
 ## Personality
-- trans-temporal and trans-situational consistency in a person‟s behavior
+- trans-temporal and trans-situational consistency in a person's behavior
 - constituted by traits and goals
 - Broad trait dimensions
   - 5 factor model - neuroticism, extraversion, openness to experience, agreeableness-antagonism, and conscientiousness-undirectedness
