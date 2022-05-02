@@ -20,7 +20,9 @@ unicode_script = "devanagari"
 चित्रा दैवी गतिरियमसौ शैलजामण्डितायां  
 काञ्च्यां कम्पातटभुवि तयानन्वितो बुध्यते स्म ॥ १ ॥	
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 He was making love to his sweetheart  
 high up on a whitewashed balcony –  
 like Viṣṇu the Supreme with Lakṣmī  
@@ -31,7 +33,7 @@ He awoke to find himself on the bank of the Kampā
 in Pārvatī’s city Kāñcī[^1],  
 bereft of her whom he so loved. 
 1
-</p>
+</details>
 
 
 
@@ -50,7 +52,9 @@ bereft of her whom he so loved.
 अत्रामुञ्चन्नपि भगवतीकिङ्करोक्त्या सशङ्काः  
 शुश्रावेत्थं स पुनरवपुस्सङ्ग्रहां व्योम्नि वाणीम् ॥ २ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 Just then, a voice accosted him out of thin air:  
 ‘Sir, dark-haired ladies from Varuṇa’s city[^2],  
 racing in their airborne chariots to see the Lord,  
@@ -58,7 +62,7 @@ playfully snatched you up as you slept.
 Startled by the address of the goddess’ attendant,  
 they left you here.’
 2
-</p>
+</details>
 
 
 
@@ -77,7 +81,9 @@ they left you here.’
 आकर्ण्येमां पुनरिति तथा सैष चक्रे निवासं  
 क्लेशो भूयानपि बहुमतः श्लाघ्यते चेदुदर्कः ॥ ३ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Stay for five months in this sacred land  
 which destroys the woes of all mankind  
 and never again will you suffer the pain  
@@ -87,7 +93,7 @@ He did as it said and stayed in that city.
 The promise of a happy future  
 makes even the greatest hardship worthwhile.
 3
-</p>
+</details>
 
 
 
@@ -106,7 +112,9 @@ makes even the greatest hardship worthwhile.
 चैत्रारम्भे समुदितमधुश्रीकटाक्षाभिरामं  
 चूताङ्कूरास्वदनरसिकं कोकिलं सन्ददर्श ॥  ४ ॥		
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 Tortured by longing,  
 he somehow got through two or three months in Kāñcī,  
 which dragged forever in the absence of his life’s love.  
@@ -116,7 +124,7 @@ the sleek black side glance of Vasanta’s glory
 newly arrived –  
 feasting on mango blossoms.
 4
-</p>
+</details>
 
 
 
@@ -135,7 +143,9 @@ feasting on mango blossoms.
 दत्वा नेत्राञ्जलिपुटभृतैरर्घ्यमश्रुप्रवाहै-  
 र्जाताश्वासः स्फुटमिति गिरा श्राव्यया सन्दिदेश ॥  ५ ॥		
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 He came a little closer to the koel,  
 who was softly singing the *pañcama* melody,  
 transfixed by the memories it awakened of his wife’s own voice.  
@@ -146,7 +156,7 @@ he composed himself and without further ado
 asked the koel to be his messenger,  
 the urgency of his words tempered by their gentleness.
 5
-</p>
+</details>
 
 
 
@@ -165,7 +175,9 @@ the urgency of his words tempered by their gentleness.
 त्वत्सम्पर्कं सुभग नियतं काङ्क्षतेऽसौ विलोला  
 लोलम्बाक्षी चलकिसलयैराह्वयन्ती सरागा ॥  ६ ॥		
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘My friend, come here!  
 I’m so pleased that you’ve come.  
 Do you see that mango bough over there,  
@@ -176,7 +188,7 @@ it has to be you she trembles with longing for,
 lucky fellow,  
 beckoning you with a movement of her tender new leaves.
 6		
-</p>
+</details>
 
 
 
@@ -195,7 +207,9 @@ beckoning you with a movement of her tender new leaves.
 कूजाव्याजाद्धितमुपदिशन् कोकिलाव्याजबन्धो  
 कान्तैः साकं ननु घटयसे कामिनीर्मानभाजः ॥  ७ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘How you fill me with joy!  
 For I know that you are the chief general  
 of His Majesty Kāma’s army.  
@@ -204,7 +218,7 @@ concealing sound advice in your song
 to bring proud women back together with their lovers,  
 so they say. 
 7
-</p>
+</details>
 
 
 
@@ -223,7 +237,9 @@ so they say.
 किञ्चिल्लीनां किसलयपुटे कोकिलामाकुलात्मा  
  त्वं चापश्यन् बत विरहिणां येन जानासि तापम् ॥  ८ ॥
  </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Don’t imagine, O koel,  
 that this is just the prattle of a man pining for his beloved.  
 You’re likely to lend a sympathetic ear to my appeal.  
@@ -233,7 +249,7 @@ you grow wild –
 so you know how terrible is the pain  
 separation visits on lovers.
 8
-</p>
+</details>
 
 
 
@@ -252,7 +268,9 @@ separation visits on lovers.
 तावत्कालं तव च हृदयं तान्तिमेतीति शङ्के  
 दीनापन्नप्रणयघटने दीर्घसूत्रेतरस्य ॥  ९ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘While my tongue struggles to find the words  
 to charge you,  
 the most celebrated of all sky-flyers,  
@@ -261,7 +279,7 @@ I fear you’ll grow impatient.
 You’re not one to dither  
 when someone as wretched as I is desperately seeking help.
 9
-</p>
+</details>
 
 
 
@@ -280,7 +298,9 @@ when someone as wretched as I is desperately seeking help.
 कान्तोदन्तः सुहृदुपनतो विप्रयोगार्दितानां  
 प्रायः स्त्रीणां भवति किमपि प्राणसन्धारणाय ॥  १० ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘O king of birds, deliver my message –  
 do your brother this favour.  
 Comfort my beloved wife,  
@@ -291,7 +311,7 @@ news about her lover
 delivered by a trusted friend  
 goes a long way in keeping her alive.
 10
-</p>
+</details>
 <p class="image"><img src="images/p1.jpg" alt="Route 1" /></p>	
 
 
@@ -311,7 +331,9 @@ goes a long way in keeping her alive.
 पारे चूर्ण्याः परिसरसमासीनगोविन्दवक्षो-  
 लक्ष्मीवीक्षाविवलनसुधाशीतलः केरलेषु ॥  ११ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Your destination is the land  
 which reigns triumphant over all the three worlds,  
 the land where long ago Jayanta performed penance.  
@@ -323,7 +345,7 @@ Jayantamaṅgala is cooled
 by the nectar-wet glances of Lakṣmī  
 wrapped in Viṣṇu’s arms in their temple there.
 11
-</p>
+</details>
 
 
 
@@ -342,7 +364,9 @@ wrapped in Viṣṇu’s arms in their temple there.
 कल्याणी सा कनककदलीकन्दलीकोमलाङ्गी  
 कन्दर्पाग्निं कथमिव कुकूलाग्निकल्पं सहेत ॥  १२ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘There you will see my young bride,  
 the crowning glory of all womankind,  
 wretched now that I am gone.  
@@ -351,7 +375,7 @@ how will she,
 her body as tender as the new shoots of the golden *kadalī*,  
 bear Love’s fire that burns hot as blazing chaff? 
 12
-</p>
+</details>
 
 
 
@@ -370,7 +394,9 @@ bear Love’s fire that burns hot as blazing chaff?
 संस्कर्तासि ध्रुवमुपगतो यत्र पत्रीन्द्र तेषा-  
 मुद्दामानामपि नवनवोद्यानलीलायितानाम् ॥  १३ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘I shall tell you the best route to take,  
 where the deep shade of the trees on every side  
 suppresses the sun’s gathering heat,  
@@ -380,7 +406,7 @@ you will I’m sure perfect that art of swooping and gliding
 with wild abandon  
 through ever changing groves. 
 13
-</p>
+</details>
 
 
 
@@ -399,7 +425,9 @@ through ever changing groves.
 त्वत्सँल्लापश्रवणतरलाः पश्चिमाम्भोधिवेला-  
 पर्यन्तं ते वरुणनगरीमञ्जुवाचः सहायाः ॥  १४ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Once they have visited the Phālguna festival of Kāmākṣī,  
 which the gods reverently attend,  
 the lovely voiced ladies of Varuṇa’s city  
@@ -408,7 +436,7 @@ set aflutter by your song,
 up to the shore of the western ocean  
 as they return home in their manifold aerial cars.
 14
-</p>
+</details>
 
 
 
@@ -427,7 +455,9 @@ as they return home in their manifold aerial cars.
 भृङ्गीनादैर्मधुरमधुरं व्याहरन्तो वलन्ते  
 कम्पाकूलोपवनपवना बन्धवस्तेऽनुकूलाः ॥  १५ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘The breezes from the thickets on the Kampā’s banks  
 gather around you out of love for their kin,  
 presenting you with the fresh scents  
@@ -435,7 +465,7 @@ of the creepers’ flowers,
 sprinkling your path with cool drops of honey  
 and addressing you affectionately in the hum of the bees.
 15
-</p>
+</details>
 <p class="image"><img src="images/p2.jpg" alt="Route 2" /></p>	
 
 
@@ -455,7 +485,9 @@ and addressing you affectionately in the hum of the bees.
 आधत्ते यत् कनकवलभीनीडलीनैः कपोतै-  
 रद्याप्यम्भोरुहभवमखालग्नधूमाभिशङ्काम् ॥  १६ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Nearby, my dear friend,  
 bow down to that sacred shrine of Viṣṇu,  
 Lord of Kāñcī,  
@@ -466,7 +498,7 @@ The pigeons nesting upon the tower’s golden top
 make it seem as if the smoke of Brahma’s sacrifice  
 is even today curling about the temple.[^5]
 16
-</p>
+</details>
 
 
 
@@ -486,7 +518,9 @@ is even today curling about the temple.[^5]
 सभ्रूचापं नयनजलदं प्राप्य यस्याः कृपापं  
 तुण्डीरक्ष्मा सुलभकवितासस्यवृद्धिः समिन्धे ॥  १७ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Turn next to the Kāmapīṭha[^6] Temple  
 upon the Kampā’s bank,  
 revered among the 18 pīṭhas.  
@@ -497,7 +531,7 @@ from her cloud-eyes
 framed by rainbow-brows,  
 grows fat with a rich crop of abundant poetry.  
 17
-</p>
+</details>
 <p class="image"><img src="images/p3.jpg" alt="Route 3" /></p>	
 
 
@@ -517,7 +551,9 @@ grows fat with a rich crop of abundant poetry.  
 मूले यस्य प्रकृतिसुभगे मुक्तकैलासलोभो  
 देवः साक्षाद्वसति वलयाङ्काह्वयश्चन्द्रचूडः ॥  १८ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Fly up from that garden resplendent with *bakula* trees,  
 and circle in worship the neighbouring sacred tree  
 of Ekāmranātha[^8].  
@@ -527,7 +563,7 @@ moon-crested Śiva himself,
 stripped of his longing for Mount Kailāsa,  
 abides in the form of Lord Valayāṅka.
 18
-</p>
+</details>
 
 
 
@@ -546,7 +582,9 @@ abides in the form of Lord Valayāṅka.
 उत्थास्यन्ति भ्रमरतरुणाः सिक्तदेहा मरन्दै-  
 रुद्यानश्रीप्रहितसजलापाङ्गभङ्गानुकाराः ॥  १९ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Once you’ve seen Śiva  
 and are rising up at speed on your aerial path,  
 the young nectar-drenched bees will fly out of the creepers  
@@ -555,7 +593,7 @@ as if they were the flickering glances,
 wet with tears,  
 cast by the grove herself.
 19
-</p>
+</details>
 
 
 
@@ -574,7 +612,9 @@ cast by the grove herself.
 तत्सौन्दर्यापहृतहृदयो मा विलम्बस्व गन्तुं  
 बन्धुत्राणाद् बहुमतिपदं नापरं त्वद्विधानाम् ॥  २० ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘As you approach the horizon, O koel,  
 Kāñcī will shrink into view,  
 adorning the earth in its splendour  
@@ -586,7 +626,7 @@ For someone like you,
 nothing is more important  
 than helping a friend in distress. 
 20
-</p>
+</details>
 
 
 
@@ -605,7 +645,9 @@ than helping a friend in distress.
 द्रक्ष्यस्यग्रे विकचकमलोद्गन्धिमाध्वीकपानात्  
 क्षीबक्षीबभ्रमरतरुणीसेवितां क्षीरसिन्धुम् ॥  २१ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Pick up speed and turn towards the West,  
 the quarter ruled by Varuṇa of the noose.  
 Up ahead you’ll see the Kṣīrasindhu[^9],  
@@ -615,7 +657,7 @@ mobbed by young bees
 raucous after drinking the scented nectar spirit  
 of blooming lotuses.
 21
-</p>
+</details>
 
 
 
@@ -640,7 +682,9 @@ of blooming lotuses.
   Your browser does not support the audio tag.
 </audio> 
 </p>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Sky-flyer,  
 your path across the heavens  
 will be shot through with the radiance  
@@ -652,7 +696,7 @@ the graceful coursing flow of an imaginary Yamunā[^10]
 come to meet her  
 due to the love one river bears for another.    
 22
-</p>
+</details>
 
 
 
@@ -671,7 +715,9 @@ due to the love one river bears for another.    
 तन्वङ्गीनां श्रवणसुभगैर्नूपुराणां विरावै-  
 र्वाचालाः स्युर्नियतमभितः कूलमारामसीमाः ॥  २३ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘When they see you going from mango bud to mango bud,  
 the gardens bordering the river  
 will grow loud with the chatter of ringing anklets –  
@@ -679,7 +725,7 @@ a joy to listen to –
 as slender girls kick the young *aśoka* trees  
 with their pink feet.
 23
-</p>
+</details>
 
 
 
@@ -698,7 +744,9 @@ with their pink feet.
 तीरे तस्या द्रमिडसुदृशो दर्शनीया विलोक्य  
 प्रायो भावी क्षणमिव सखे गच्छतस्ते विलम्बः ॥  २४ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘When you see –  
 and they’re a sight worth seeing –  
 the beautiful Dramiḍa girls on the river’s banks  
@@ -710,7 +758,7 @@ you will I expect be delayed,
 my friend,  
 if only for a moment.  
 24
-</p>
+</details>
 
 
 
@@ -729,7 +777,9 @@ if only for a moment.  
 रुद्धाभोगा द्विजवरविधिस्नानपूतैस्तटाकै-  
 र्द्रष्टव्यास्ते तदनु सरितं दक्षिणेनाग्रहाराः ॥  २५ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘After that you must visit the *agrahāra* south of the river.  
 There the surrounding trees have become grey  
 with the billowing smoke of sacrifice.  
@@ -740,7 +790,7 @@ And the whole area is criss-crossed by ponds
 sanctified by the ritual bathing  
 of the settlement’s venerable Brahmins.
 25
-</p>
+</details>
 
 
 
@@ -759,7 +809,9 @@ of the settlement’s venerable Brahmins.
 तत्रत्यानां किमिह बहुना सर्वमेतत् पठन्तः  
 शृङ्गे शृङ्गे गृहविटपिनां स्पष्टयिष्यन्ति कीराः ॥  २६ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘What mastery over the *Vedas*,  
 how deep their knowledge of each and every *śāstra*,  
 what an inexhaustible stream of flawless poetry –  
@@ -769,7 +821,7 @@ perched atop the trees in front of each house
 reciting it all  
 will make it abundantly clear.  	
 26
-</p>
+</details>
 
 
 
@@ -788,7 +840,9 @@ will make it abundantly clear.  
 विल्वक्षेत्रं विश पशुपतेर्वेश्म नीवासमीरै-  
 र्धूतालिन्दध्वजपटशिखैर्नूनमाहूयमानः ॥  २७ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Cross that settlement  
 and sate the Cola[^11] women’s eyes,  
 luxuriant as blown *kuvalayas*,  
@@ -800,7 +854,7 @@ seem to be fluttering the tips of the flags
 in the temple courtyard  
 to summon you there.  
 27
-</p>
+</details>
 
 
 
@@ -819,7 +873,9 @@ to summon you there.  
 श्यामा वर्णे वचसि मधुरा चञ्चला दृग्विलासे  
 वामोत्सङ्गे लसति करुणा कापि कामं दुहाना ॥  २८ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Don’t take fright –  
 remembering how your master Kāma  
 suffered the fate of a moth in the flash of his eye’s fire –  
@@ -832,7 +888,7 @@ flickering of glance –
 granting all desires.  
 It was she who restored Kāma to life.
 28
-</p>
+</details>
 
 
 
@@ -851,7 +907,9 @@ It was she who restored Kāma to life.
 तत्रारामाः सुरभिसचिवं त्वां सखे मानयेयु-  
 स्तुल्यप्रीतिर्भवति हि जनो राजवद्राजमित्रे ॥  २९ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘The gardens there will honour you,  
 my friend,  
 as <span class="gls"><a epub:type="noteref" href="glossary.xhtml#gls48">Vasanta</a>’s</span> ambassador,  
@@ -860,7 +918,7 @@ bringing you a ritual offering of flower nectar
 and fanning you with their leaves.  
 The king’s friend is welcomed as if he were the king himself.
 29
-</p>
+</details>
 
 
 
@@ -879,7 +937,9 @@ The king’s friend is welcomed as if he were the king himself.
 वीतस्वेदास्तव विहरतः पक्षपालीसमीरै-  
 राखिन्नभ्रूवलनमलसैरर्चयिष्यन्त्यपाङ्गैः ॥  ३० ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘At that moment the courtesans who are emerging,  
 catching at the slipping knots of their skirts,  
 after making love in grottoes cloaked in creepers,  
@@ -889,7 +949,7 @@ from eyebrows too tired to move,
 as you roam,  
 cooling their sweat with the breeze from your wings.
 30
-</p>
+</details>
 
 
 
@@ -908,7 +968,9 @@ cooling their sweat with the breeze from your wings.
 कान्ताराणि प्रसवशयनैश्छिन्नगुञ्जाकलापैः  
 कुञ्जे कुञ्जे कथितशबरद्वन्द्वलीलायितानि ॥  ३१ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘As you proceed further into this province,  
 leaving the Cola land behind,  
 you’ll see dense forests turned *tamāla*-black  
@@ -917,7 +979,7 @@ where petal beds in every bower
 strewn with broken necklaces of *guñjā* berries  
 tell of the lovemaking of *śabara* couples.
 31
-</p>
+</details>
 
 
 
@@ -936,7 +998,9 @@ tell of the lovemaking of *śabara* couples.
 वल्लीडोलाविहरदटवीदेवतालालनीयाः  
 सेविष्यन्ते चपलचमरीबालभारास्समीराः ॥  ३२ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘The breezes there,  
 dribbling a stream of flower nectar,  
 slipping on the incessant spray of waterfalls  
@@ -944,7 +1008,7 @@ and doted on by woodland deities
 playing on creeper-swings  
 will serve you as gently undulating *camara* fly whisks. 
 32
-</p>
+</details>
 
 
 
@@ -963,7 +1027,9 @@ will serve you as gently undulating *camara* fly whisks.
 भोक्तासि त्वं कमपि समयं तत्र माकन्दवल्लीः  
 कान्तारागे सति विकसिते कः पुमांस्त्यक्तुमीष्टे ॥  ३३ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Kissing fresh nectar-filled blossom  
 as if it were a *bimba*-like lower lip,  
 embracing flower buds that resemble breasts –  
@@ -972,7 +1038,7 @@ take a moment to enjoy each of the mango saplings there.
 When his sweetheart’s passion ripens,  
 can any man resist?
 33
-</p>
+</details>
 
 
 
@@ -991,7 +1057,9 @@ can any man resist?
 विद्युत्वन्तं नवजलधरं मन्यमानाः सलीलं  
 नर्तिष्यन्ति प्रियसख चलत्पिञ्छभारा मयूराः ॥  ३४ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘As you rise up from those mango trees  
 with the ruddy-gold sprigs you’ve plucked in your beak,  
 you’ll make a patchwork of the sky with your black wings.  
@@ -1001,7 +1069,7 @@ my dear koel,
 they will dance in joy,  
 fanning out their heavy tails.  
 34
-</p>
+</details>
 
 
 
@@ -1020,7 +1088,9 @@ fanning out their heavy tails.  
 मेघश्यामो भुजगशयनो मेदिनीहारयष्टे-  
 र्मध्ये यस्या मरतक इव प्रेक्ष्यते रङ्गनाथः ॥  ३५ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Thereafter some way away you’ll see the Kāverī[^13],  
 *haṃsas* diving into her waves.  
 She looks like a stream of ichor  
@@ -1031,7 +1101,7 @@ reclining on Śeṣa,
 dark as a cloud,  
 is the emerald pendant at its centre.[^14]
 35
-</p>
+</details>
 
 
 
@@ -1050,7 +1120,9 @@ is the emerald pendant at its centre.[^14]
 लक्ष्मीनारायणपुरमिति ख्यातमन्तर्मुरारेः  
 प्राप्यावासं भव पिकपते पावनानां पुरोगः ॥  ३६ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Plunge through the sacred Hosala land on her banks,  
 broken up by villages, hamlets and towns  
 and scented with the flowers of garden-grown trees.  
@@ -1060,7 +1132,7 @@ you will become,
 king of the koels,  
 purest of the pure.[^15]
 36
-</p>
+</details>
 
 
 
@@ -1079,7 +1151,9 @@ purest of the pure.[^15]
 नासामुक्ताभरणकिरणोन्मिश्रमन्दस्मितानां  
 वेशस्त्रीणां भवति विवशो विभ्रमैर्दर्पकोऽपि ॥  ३७ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Even Kāma,  
 the very source of pride,  
 is under the spell of those flirtatious courtesans.  
@@ -1089,7 +1163,7 @@ as their sloping breasts swell with the heat of youth
 and gentle smiles that mingle  
 with the gleam of their pearl nose rings.  
 37
-</p>
+</details>
 
 
 
@@ -1108,7 +1182,9 @@ with the gleam of their pearl nose rings.  
 सन्तु त्रस्यन्निजनिजवधूदोर्लतालिङ्गितानां  
 यूनामार्द्रस्मितसहचरास्त्वय्यपाङ्गानुषङ्गाः ॥  ३८ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘If those ladies,  
 their hearts knotted with pride,  
 don’t heed their lovers lying prostrate before them,  
@@ -1117,7 +1193,7 @@ and the young men will look at you with sudden smiles
 as each is embraced  
 by the creeper-like arms of his trembling girl.
 38
-</p>
+</details>
 
 
 
@@ -1136,7 +1212,9 @@ by the creeper-like arms of his trembling girl.
 क्षत्रध्वंसात् स्वयमुपरतो विप्रसात्कृत्य कृत्स्नं  
 पृथ्वीचक्रं भृगुकुलपतिर्यत्तटे सन्निधत्ते ॥  ३९ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Wing your way  
 to the world-famous Sahya mountains[^16],  
 a mass of creepered enclaves  
@@ -1147,7 +1225,7 @@ who has renounced his massacre of *kṣatriyas*
 and dedicated the entire orb of the earth to Brahmins,  
 dwells on those slopes.
 39
-</p>
+</details>
 
 
 
@@ -1166,7 +1244,9 @@ dwells on those slopes.
 दृष्ट्वा दूरादनुमिनुतमामुष्णशीतैः समीरैः  
 सन्दिग्धायां विपदि सहसावृत्तिरार्तिं हि सूते ॥  ४० ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Note first if the wind blows hot or cold.  
 You’ll soon know if it is a forest on fire,  
 a tangle of serried flames and shifting smoke,  
@@ -1175,7 +1255,7 @@ that you see in the distance.
 When rumours of a disaster spread,  
 acting rashly only leads to further calamity.
 40
-</p>
+</details>
 <p class="image"><img src="images/p4.jpg" alt="Route 4" /></p>	
 
 
@@ -1195,7 +1275,9 @@ acting rashly only leads to further calamity.
 कूलेऽम्भोधेः क्रमुककलिलां केरलक्षोणिमग्रे  
 पश्य स्फीतां भृगुसुतभुजाविक्रमोपक्रमं या ॥  ४१ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Pay a visit to Viṣṇu at Amalakadharaṇī[^17]  
 and then,  
 trimming your wings a little,  
@@ -1206,7 +1288,7 @@ closely carpeted with *kramukas*,
 you’ll see the land of Kerala  
 fruit of the mighty arms of Bhṛgu’s son, Paraśurāma[^18].
 41
-</p>
+</details>
 <p class="image"><img src="images/p5.jpg" alt="Route 5" /></p>	
 
 
@@ -1226,7 +1308,9 @@ fruit of the mighty arms of Bhṛgu’s son, Paraśurāma[^18].
 आस्ते शातत्रिशिखशिखया दारुकं जघ्नुषी सा  
 यस्यादूरे मृगपतिशिरस्तस्थुषी भद्रकाली ॥  ४२ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘If you have earned it,  
 you should visit the moon-crested Śiva  
 who dwells on the bank of the Vāṅmayī,  
@@ -1235,7 +1319,7 @@ Not far from him lives the goddess Bhadrakālī who,
 mounted on a lion,  
 skewers Dāruka with the sharpened spike of her trident.[^19]
 42
-</p>
+</details>
 
 
 
@@ -1254,7 +1338,9 @@ skewers Dāruka with the sharpened spike of her trident.[^19]
 ध्वाङ्क्षभ्रान्त्या यदि परिजनास्त्वां समुत्सारयेरन्  
 कूजां किञ्चित् कुरु ननु गिरा व्यज्यते सन्नसंश्च ॥  ४३ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘As you hover in the sky,  
 dotted by the crystal clear drops of waterfalls,  
 like a swathe of black cloth studded with pearls,  
@@ -1264,7 +1350,7 @@ and try to drive you away,
 sound your call once or twice –  
 a man’s words speak his worth.
 43
-</p>
+</details>
 
 
 
@@ -1283,7 +1369,9 @@ a man’s words speak his worth.
 उच्चैः सौधैरुडुगणगतीरूर्ध्वमुत्सारयन्तीं  
 फुल्लारामां प्रविश पुरलीक्ष्माभृतां राजधानीम् ॥  ४४ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Such devoted worship of the scorcher of Tripura  
 will win his blessing.  
 Arrested on every path you travel  
@@ -1292,7 +1380,7 @@ enter the capital of the Puralī kings[^20], my friend,
 its gardens abloom,  
 its tall mansions driving the stars into a higher orbit.
 44
-</p>
+</details>
 
 
 
@@ -1311,7 +1399,9 @@ its tall mansions driving the stars into a higher orbit.
 युद्धे येषामहितहतये चण्डिका सन्निधत्ते  
 तेषामेषां स्तुतिषु न भवेत् कस्य वक्त्रं पवित्रम् ॥  ४५ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘It was into this Puralī dynasty that Hariścandra was born  
 and it was they who introduced  
 Kumārila’s *mīmāṃsā* teaching,  
@@ -1320,7 +1410,7 @@ In battle Caṇḍikā herself stands beside them
 to destroy their enemies.  
 Who would not be purified by singing their praises?
 45
-</p>
+</details>
 
 
 
@@ -1339,7 +1429,9 @@ Who would not be purified by singing their praises?
 तस्यैवाग्रे सदयमबलालूनसूनप्रवाले  
 बालोद्याने क्वचन विहरन् मार्गखेदं विजह्याः ॥  ४६ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Rukmiṇī’s husband Kṛṣṇa,  
 catching sight of you as he ranges through the city  
 and recognising you to be a good friend of his son[^21],  
@@ -1349,7 +1441,7 @@ opposite his temple,
 where women gently pluck shoots and flowers,  
 and recover from your tiring journey.
 46
-</p>
+</details>
 
 
 
@@ -1368,7 +1460,9 @@ and recover from your tiring journey.
 स्वाती नाम क्षितिपतिसुता सेवितुं देवमस्याः  
 स्वैरालापैस्तव पिक गिरां कापि शिक्षा भवित्री ॥  ४७ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘If the king’s daughter, Svātī,  
 should happen to come there –  
 her girdle ringing as she springs along on soft feet,  
@@ -1378,7 +1472,7 @@ you will learn a thing or two about word-craft
 from her free talk,  
 O koel.
 47
-</p>
+</details>
 
 
 
@@ -1397,7 +1491,9 @@ O koel.
 किञ्चिच्चञ्चूकलितकलिकाशीथुभारेण सिञ्चे-  
 श्चञ्चच्चिल्लीचलनसुभगान् लप्स्यसेऽस्याः कटाक्षान् ॥  ४८ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘As she approaches –  
 her waist bent as if shrinking from the weight of her breasts  
 and her face patterned with drops of sweat –  
@@ -1407,7 +1503,7 @@ with the nectar of the buds caught in your beak.
 You will be rewarded by a look made all the more lovely  
 by the movement of her trembling eyebrows.
 48
-</p>
+</details>
 
 
 
@@ -1426,7 +1522,9 @@ by the movement of her trembling eyebrows.
 यात्रोद्युक्ते सुभग भवति व्यञ्जयेदात्मसादं  
 मुक्ताश्च्योतन्मधुरसमिषान्मुञ्चती बाष्पलेशम् ॥  ४९ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Driving away her other suitors, the bees,  
 you’ll spend time with one of the flowers there,  
 enjoying her with such trembling  
@@ -1436,7 +1534,7 @@ she will let fall the odd tear disguised as nectar juice,
 trickling and dripping down,  
 witness to her grief.
 49
-</p>
+</details>
 <p class="image"><img src="images/p6.jpg" alt="Route 6" /></p>	
 
 
@@ -1456,7 +1554,9 @@ witness to her grief.
 धूतारामं मुकुटतटिनीमारुतैस्तत्र शम्भोः  
 सम्पद्ग्रामं यदि न भजसे जन्मना किं भृतेन ॥  ५० ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Even though you need to head south  
 if you are to save my life, my friend,  
 fly a little further still to the west.  
@@ -1465,7 +1565,7 @@ where the gardens dance to the breeze
 from the river Śiva wears in his hair,  
 what is the point of this life?
 50
-</p>
+</details>
 
 
 
@@ -1484,7 +1584,9 @@ what is the point of this life?
 पार्श्वे पार्श्वे परिचितनमस्कारजातश्रमाणां  
 क्ष्मादेवानां क्षणमनुभवंस्तालवृन्तस्य लीलाम् ॥  ५१ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Enter that mighty abode of the blazing Śiva  
 with its tall whitewashed shrine  
 that seems to mock his silver mountain Kailāsa,  
@@ -1493,7 +1595,7 @@ from the palm-leaf fans of the Brahmins
 who are gathered on every side,  
 resting after their customary *namaskāras*.
 51
-</p>
+</details>
 
 
 
@@ -1512,7 +1614,9 @@ resting after their customary *namaskāras*.
 कण्ठच्छाया प्रतिफलति किं  भर्तुरित्यद्रिपु  
 निध्यातः सन् कुतुकनिभृतैर्नेत्रपातैः पवित्रैः ॥  ५२ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Have no fear  
 as you fly up above the birds of prey  
 upon the golden roof tops –  
@@ -1525,7 +1629,7 @@ confused,
 thinking you are the reflection  
 of her lord’s dark-gleaming neck.
 52
-</p>
+</details>
 
 
 
@@ -1544,7 +1648,9 @@ of her lord’s dark-gleaming neck.
 गायन्तीनां क्वचिदपि सखे कोमलान् किन्नरीणां  
 वीणारावानुपशृणु भवत्कूजितेनाविशिष्टान् ॥  ५३ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Watch with due respect the gods  
 Brahma, Indra and the rest  
 worshipping in one corner,  
@@ -1555,7 +1661,7 @@ to the gentle notes of the *vīṇā*,
 echoing your song,  
 which the *kinnarīs* play as they sing.
 53
-</p>
+</details>
 
 
 
@@ -1574,7 +1680,9 @@ which the *kinnarīs* play as they sing.
 कृत्स्नं व्याप्य स्फुरसि भुवनं मृग्यसे चागमान्तैः  
 कस्ते तत्त्वं प्रभवति परिच्छेत्तुमाश्चर्यसिन्धो ॥  ५४ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 “You bestow divine riches upon your devotees,  
 but you yourself live on the alms of others.  
 You cradle Pārvatī in your lap,  
@@ -1585,7 +1693,7 @@ but the *Upaniṣads* are still searching for you.
 An ocean of the strange and marvellous,  
 who is able to know you for what you really are?”
 54
-</p>
+</details>
 
 
 
@@ -1604,7 +1712,9 @@ who is able to know you for what you really are?”
 द्रक्ष्यस्यन्वक्सफलनयनं ताण्डवानीन्दुमौले-  
 र्लास्यक्रीडाललितगिरिजापाङ्गसम्भावितानि ॥  ५५ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Once you’ve sung his praises with these words,  
 perch upon the top of the mango tree in the garden outside  
 until the sun reaches the setting mountain.  
@@ -1612,7 +1722,7 @@ After that sate your eyes with Śiva’s *tāṇḍava* dance
 which Pārvatī honours with her glances  
 as she playfully practises her *lāsya* steps.
 55
-</p>
+</details>
 
 
 
@@ -1631,7 +1741,9 @@ as she playfully practises her *lāsya* steps.
 बिम्बव्याजाद्विशति भवति स्यादमुष्येति शङ्के  
 स्पष्टाङ्कस्य क्षणमुदयगस्येन्दुबिम्बस्य लक्ष्मीः ॥  ५६ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘At that moment, as you enter,  
 by way of your reflection,  
 into the crimson bowls,  
@@ -1643,7 +1755,7 @@ I can picture it –
 the splendid illusion of so many rising moons  
 marked with the black spot.
 56
-</p>
+</details>
 
 
 
@@ -1662,7 +1774,9 @@ marked with the black spot.
 विश्रान्तः सन् क्वचन विपुले वृक्षशाखाकुटुम्बे  
 तां तत्रैव क्षपय रजनीं श्रान्तविस्रस्तपक्षः ॥  ५७ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘When the world has been robbed of light  
 by the bees of darkness  
 that swarm the blue lotus of the sky –  
@@ -1672,7 +1786,7 @@ spend the night there itself,
 roosting upon the close-set branches of a spreading tree,  
 your wings loose with fatigue.
 57
-</p>
+</details>
 
 
 
@@ -1691,7 +1805,9 @@ your wings loose with fatigue.
 स्वेदाङ्कूरान् सुरतजनितान् सुभ्रुवां चोरयन्तः  
 सेविष्यन्ते निशि परभृत त्वां सुखेन प्रसुप्तम् ॥  ५८ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Rocking the waves of the western ocean,  
 exhaled by the *kumudas* just now opening in the lakes,  
 stealing from beautiful women  
@@ -1701,7 +1817,7 @@ will attend to you in the night,
 O koel,  
 as you sleep soundly.
 58
-</p>
+</details>
 
 
 
@@ -1720,7 +1836,9 @@ as you sleep soundly.
 प्रस्थातुं त्वं पुनरपि सखे प्रक्रमेथाः प्रभाते  
 स्वात्मक्लेशः सुहृदुपकृतौ त्वादृशानां सुखाय ॥  ५९ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘At dawn,  
 when the first ray of the sun,  
 bright red like the flowers of the young *aśoka*,  
@@ -1730,7 +1848,7 @@ as if it were a forest fire,
 resume your journey, O koel.  
 Those like you gladly suffer hardship to help a friend.
 59
-</p>
+</details>
 
 
 
@@ -1749,7 +1867,9 @@ Those like you gladly suffer hardship to help a friend.
 दूरं प्राप्ते मयि विधिवशाद्दूयमानां सखीं ते  
 स्मारं स्मारं द्विगुणगमनोत्साह एव ध्रुवं स्याः ॥  ६० ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘On the way,  
 when in the morning you spy the *cakravāka* hen  
 overpowered by love’s fever  
@@ -1760,7 +1880,7 @@ your friend –
 distraught because a powerful fate has carried me far away,  
 and you will be doubly eager to set off.
 60
-</p>
+</details>
 
 
 
@@ -1779,7 +1899,9 @@ and you will be doubly eager to set off.
 कोलानेलावनसुरभिलान् याहि यत्र प्रथन्ते  
 वेलातीतप्रथितवचसः शङ्कराद्याः कवीन्द्राः ॥  ६१ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Visit the nearby temple of the child Kṛṣṇa in Śambara[^23]  
 as you prepare to light up the South with your flight,  
 the region upon which Agastya,  
@@ -1790,7 +1912,7 @@ fragrant with cardamom plantations
 where great poets such as Śaṅkara[^25],are celebrated  
 their famed verse crossing all boundaries.
 61
-</p>
+</details>
 
 
 
@@ -1815,7 +1937,9 @@ their famed verse crossing all boundaries.
   Your browser does not support the audio tag.
 </audio> 
 </p>	
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘See the ocean –  
 bed for Lakṣmī’s lord, Viṣṇu,  
 flower garden for Tripura’s foe, Śiva  
@@ -1826,7 +1950,7 @@ plough across her
 it is as if the mountains are re-emerging from the sea,  
 their wings intact.
 62
-</p>
+</details>
 
 
 
@@ -1845,7 +1969,9 @@ their wings intact.
 देशाद्देशं व्रजसि कुतुकोत्तानमुग्धाननानां  
 वामाक्षीणां नयनचुलकैः सादरं पीयमानः ॥  ६३ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Hug the coast,  
 resplendent with trees in full bloom,  
 its sandbanks white with the mass of pearls  
@@ -1855,7 +1981,7 @@ beautiful young women,
 raising their innocent faces questioningly,  
 will drink deep of you with rapt eyes.
 63
-</p>
+</details>
 <p class="image"><img src="images/p7.jpg" alt="Route 7" /></p>	
 
 
@@ -1875,7 +2001,9 @@ will drink deep of you with rapt eyes.
 यद्दोर्वीर्यद्रढिमकरदीभूतराजन्यवीराः  
 शूराग्रण्यः शिखरिजलधिस्वामिनः पालयन्ति ॥  ६४ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘You’ll feast your eyes on the famous city of Kukkuṭakroḍa[^27]  
 where the tops of the palaces scrape the sky.  
 The foremost of the brave rule her,  
@@ -1883,7 +2011,7 @@ masters of mountain and sea,
 their unassailable strength  
 reducing other mighty kings to tributaries.
 64
-</p>
+</details>
 
 
 
@@ -1908,7 +2036,9 @@ reducing other mighty kings to tributaries.
   Your browser does not support the audio tag.
 </audio> 
 </p>	
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘There every house has a freshly whitewashed terrace,  
 every terrace has a bed laid out for love with scented flowers,  
 every bed has a pair of lovers under passion’s sway,  
@@ -1916,7 +2046,7 @@ and in every couple the mind-born god of love himself,
 who conquers the world,  
 ranges at will.
 65
-</p>
+</details>
 
 
 
@@ -1935,7 +2065,9 @@ ranges at will.
 यत्र स्निग्धेष्वपि कचभरेष्वेणशाबेक्षणानां  
 माद्यद्भृङ्गे सति परिमले मङ्गलाय प्रसूनम् ॥  ६६ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘There the looks cast by dark-eyed women  
 do away with the need for fresh *kuvalayas*  
 tucked behind the ear.  
@@ -1946,7 +2078,7 @@ The scent that their thick glossy hair exudes,
 driving the bees wild,  
 reduces the wearing of flowers to a mere ritual.
 66
-</p>
+</details>
 
 
 
@@ -1965,7 +2097,9 @@ reduces the wearing of flowers to a mere ritual.
 तत्तद्द्वीपान्तरशतसमानीतरत्नौघपूर्णं  
 नौकाजालं मुहुरुपहरन् वीचिभिः श्लिष्यतीव ॥  ६७ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘The ocean,  
 husband to all the rivers,  
 overspills with love for his only daughter Lakṣmī  
@@ -1975,7 +2109,7 @@ that groan under great piles of jewels
 gathered from hundreds of different lands near and far,  
 he tries to embrace her as it were with his waves.
 67
-</p>
+</details>
 
 
 
@@ -1994,7 +2128,9 @@ he tries to embrace her as it were with his waves.
 दृष्ट्वा वातायनविनिहितैर्लोचनाब्जैस्तरुण्यो  
 वल्गद्वक्षोरुहमुपचितैर्हस्ततालैर्हसेयुः ॥  ६८ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Don’t try to peck at the deep gleam,  
 red as thick *sindūra* powder,  
 from the rubies atop the city’s mansions,  
@@ -2004,7 +2140,7 @@ looking out of the windows with their lotus eyes,
 they will laugh at you,  
 their breasts shaking as they clap wildly.
 68
-</p>
+</details>
 
 
 
@@ -2023,7 +2159,9 @@ their breasts shaking as they clap wildly.
 हारं हारं मदनपृतनाकाहलैः कण्ठनादै-  
 रुत्कण्ठानां जनपदमृगीलोचनानां मनांसि ॥  ६९ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Hard though it be,  
 drag your eyes away from this city,  
 source of all wonders,  
@@ -2034,7 +2172,7 @@ the drumbeat of Love’s army,
 you will seize the hearts  
 of the excitable doe-eyed girls in each hamlet.
 69
-</p>
+</details>
 <p class="image"><img src="images/p8.jpg" alt="Route 8" /></p>	
 
 
@@ -2054,7 +2192,9 @@ of the excitable doe-eyed girls in each hamlet.
 दृष्ट्वा दूरे सकृदपि जना यन्न पश्यन्त्यवश्यं  
 मृत्योर्वक्त्रं निटिलघटितभ्रूकुटीकं कदाचित् ॥  ७० ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘When you reach the resplendent land of Prakāśa[^28],  
 where Kali[^29] has been subdued by Vedic recitation  
 go to the revered Śvetāraṇya Temple[^30],  
@@ -2063,7 +2203,7 @@ People who see the shrine but once and from afar
 are sure to never look upon the face of Death,  
 brows furrowing his forehead.
 70
-</p>
+</details>
 
 
 
@@ -2082,7 +2222,9 @@ brows furrowing his forehead.
 येनाक्रान्ते सति गिरिपतौ लोष्टमानास्यचक्र-  
 श्चक्रन्दाधःकृतभुजवनो रक्षसां चक्रवर्ती ॥  ७१ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘There worship Śiva’s lotus feet.  
 Stained red from trampling upon the chest  
 of the staff-bearing Yama,  
@@ -2093,7 +2235,7 @@ made the emperor of the *rākṣasas*, Rāvaṇa,
 cry out as his heads were squeezed into a ball  
 and his clutch of arms was crushed beneath the mountain[^31].
 71
-</p>
+</details>
 <p class="image"><img src="images/p9.jpg" alt="Route 9" /></p>	
 
 
@@ -2113,7 +2255,9 @@ and his clutch of arms was crushed beneath the mountain[^31].
 नावाक्षेत्रप्रणयि रमयाक्रान्तदोर्मध्यमास्ते  
 कूले यस्याः कुवलयदलश्यामलं धाम किञ्चित् ॥  ७२ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Near the temple flows the Nilā’s[^32] surging stream,  
 as if she were Jahnu’s daughter Gaṅgā  
 fallen from Śiva’s head  
@@ -2123,7 +2267,7 @@ a divine *kuvalaya*-blue effulgence
 has made a home of the Nāvā Temple[^33],  
 Lakṣmī clasped to his chest.
 72
-</p>
+</details>
 
 
 
@@ -2142,7 +2286,9 @@ Lakṣmī clasped to his chest.
 पायं पायं मुखपरिमलं मोहनं यत्र मत्ताः  
 प्रायोऽद्यापि भ्रमरकलभा नैव जिघ्रन्ति पद्मान् ॥  ७३ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘I am sure that even today the young bees,  
 driven wild from drinking again and again  
 of my wife’s intoxicatingly scented mouth  
@@ -2152,7 +2298,7 @@ accompanied by their husbands,
 gathered in all excitement –  
 won’t even notice the lotuses’ fragrance.
 73
-</p>
+</details>
 
 
 
@@ -2171,7 +2317,9 @@ won’t even notice the lotuses’ fragrance.
 आकीर्णास्यामलकनिकरैः श्रोणिविभ्रंशिकाञ्चीं  
 मन्ये दीनां विरहदशया प्रेयसीं मेऽनुयायात् ॥  ७४ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘In this season  
 the Nilā’s lotuses will be interlaced with patches of moss.  
 Shrunk to a trickle by the sun’s rays,  
@@ -2181,7 +2329,7 @@ her face strewn with tangled hair.
 Reduced to nothing by the fire of separation,  
 her girdle will be slipping off her thighs.
 74
-</p>
+</details>
 
 
 
@@ -2200,7 +2348,9 @@ her girdle will be slipping off her thighs.
 लुम्पेस्तस्य श्रमजलकणान् कोमलैः पक्षवातै-  
 र्भूयात् प्रीत्यै लघु च समये सेवनं हि प्रभूणाम् ॥  ७५ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘If Śāstā of Śambarakroḍa[^34] should set off along her bank  
 mounted on his fast horse,  
 eager for the hunt,  
@@ -2210,7 +2360,7 @@ Rendering the right service at the right moment,
 however small,  
 wins a master’s favour.  
 75
-</p>
+</details>
 
 
 
@@ -2229,7 +2379,9 @@ wins a master’s favour.  
 तत्राप्यस्याः सलिलपवना यत्र यत्र प्रथन्ते  
 तेषां तेषामतिशयजुषः शीलविद्यानुभावाः  ॥  ७६ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘The Brahmins of Kerala  
 are considered the world over to be pre-eminent.  
 Within Kerala,  
@@ -2241,7 +2393,7 @@ where the breezes from the Nilā’s waters blow
 are unmatched in integrity, scholarship  
 and the authority they wield.
 76
-</p>
+</details>
 
 
 
@@ -2260,7 +2412,9 @@ and the authority they wield.
 तामुत्तीर्णः सरितममृतस्यन्दिमाकन्दवृन्दान्  
 देशान् पूतान् पत गुणगणैर्नेत्रनारायणीयैः ॥  ७७ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Bṛhaspati himself,  
 *guru* to the gods,  
 can find no words to praise them;  
@@ -2272,7 +2426,7 @@ Cross that river and fly to lands
 where mango groves drip with nectar,  
 lands purified by the many merits of the Netranārāyaṇas[^35].
 77
-</p>
+</details>
 
 
 
@@ -2291,7 +2445,9 @@ lands purified by the many merits of the Netranārāyaṇas[^35].
 द्रष्टव्योऽसौ किसलयमृदुर्मुक्तिपुर्यालयायाः  
 कात्यायन्या महिषमथनोड्डामरः पादपद्मः ॥  ७८ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘You must see the lotus foot of Muktipurī’s Kātyāyanī[^36],  
 which earlier during their marriage ceremony  
 Śiva held tenderly in his hand and  
@@ -2301,7 +2457,7 @@ placed upon the stone.
 Soft as newly sprouting leaves,  
 that lotus foot violently stomps Mahiṣa to death.
 78
-</p>
+</details>
 
 
 
@@ -2320,7 +2476,9 @@ that lotus foot violently stomps Mahiṣa to death.
 विद्वद्वृन्दे विवदितुमनस्यागते यत्र शश्व-  
 द्व्याख्याशालावलभिनिलयस्तिष्ठते कीरसङ्घः ॥  ७९ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘A little further east in Raṇakhala  
 see with your own eyes  
 the sacred, magnificent abode of Maharṣi,  
@@ -2329,7 +2487,7 @@ As scholar after scholar comes eager to debate,
 a flock of parrots sits there,  
 roosting among the rafters of the discussion hall.
 79
-</p>
+</details>
 
 
 
@@ -2348,7 +2506,9 @@ roosting among the rafters of the discussion hall.
 तद्विस्रब्धद्विजपरिवृते निष्कुटाद्रौ निषण्णः  
 कोकूयेथाः स खलु मधुरां सूक्तिमाकर्ण्य तुष्येत् ॥  ८० ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘If he is occupied –  
 delivering a commentary on the *śāstra*,  
 narrating one of the legends about Hari or Hara,  
@@ -2358,7 +2518,7 @@ where Brahmins and birds wander at ease
 and start ku-hooing.  
 He cannot but enjoy listening to your beautiful voice.
 80
-</p>
+</details>
 
 
 
@@ -2377,7 +2537,9 @@ He cannot but enjoy listening to your beautiful voice.
 दूरप्राप्त्या प्रशिथिलमिव त्वां सखे काव्यकल्पं  
 धीमान् पश्येत् स यदि ननु ते शुद्ध एव प्रचारः ॥  ८१ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘This poem is well put together,  
 and your goodwill is well established.  
 The poem is rich in meaning,  
@@ -2391,7 +2553,7 @@ Sent from far away both seem a little worse for wear.
 If the wise Mahārṣi should see you,  
 you	will both have served your purpose.
 81
-</p>
+</details>
 
 
 
@@ -2410,7 +2572,9 @@ you	will both have served your purpose.
 छिन्द्युस्तापं तव वृषपुरीसङ्गिनः शङ्कराङ्क-  
 क्रीडद्गौरीकचतरलनोद्गन्धयो गन्धवाहाः ॥  ८२ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘As you set off from his side,  
 the Vṛṣapurī[^38] breezes –  
 bearing the purifying *kunda*-white froth  
@@ -2420,7 +2584,7 @@ and perfumed from tousling Pārvatī’s curls
 as she sits playfully in Śiva’s lap –  
 will refresh you.
 82
-</p>
+</details>
 
 
 
@@ -2439,7 +2603,9 @@ will refresh you.
 इत्थं गौर्या युगपदुभयं द्रष्टुकामोऽष्टमूर्ति-  
 र्मूर्तिद्वन्द्वं वहति भगवान् यः स मुक्त्यै निषेव्यः ॥  ८३ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘If Pārvatī is seen from the front,  
 slightly bent under heavy breasts,  
 her gaze aquiver,  
@@ -2449,7 +2615,7 @@ In his desire to see both sides of her at the same time,
 Lord Śiva of eightfold form here assumes a double form.  
 It is he whom you should worship to attain liberation.[^39]
 83
-</p>
+</details>
 
 
 
@@ -2474,7 +2640,9 @@ It is he whom you should worship to attain liberation.[^39]
   Your browser does not support the audio tag.
 </audio> 
 </p>	
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘As the breaths of Śiva’s circlet of snakes  
 fan the eye that sits on his forehead to a blaze,  
 the crescent moon above it starts to melt,  
@@ -2484,7 +2652,7 @@ Thus revived the skulls resolve the doubts
 that trouble the temple Brahmins  
 in their study of the *Vedas*.
 84
-</p>
+</details>
 
 
 
@@ -2503,7 +2671,9 @@ in their study of the *Vedas*.
 तस्यादूरे कनकभवनं पक्षपातात् प्रविष्टः  
 सम्पन्मूर्तिं प्रणम गिरिजां सा हि विश्वस्य माता ॥  ८५ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Not far from there is a golden temple.  
 The guardians of the quarters,  
 come to worship there,  
@@ -2514,7 +2684,7 @@ Enter that temple with your wings and absolute devotion
 and bow to Sampatkarī –  
 she is indeed the mother of the world.[^40]
 85
-</p>
+</details>
 
 
 
@@ -2533,7 +2703,9 @@ she is indeed the mother of the world.[^40]
 तुल्यच्छायस्मृतनवतमालावलीवाससौख्यो  
 मन्ये लोकैः क्षणमिव पृथङ्नो विभाविष्यसे त्वम् ॥  ८६ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Plunge into the sky,  
 its surface seemingly breaking into dark bloom  
 with the slivers of *tamāla*-black lustre  
@@ -2542,7 +2714,7 @@ The colour will remind you of happy times
 among freshly blooming *tamāla* groves.  
 For a moment people won’t be able to tell you apart.
 86
-</p>
+</details>
 
 
 
@@ -2561,7 +2733,9 @@ For a moment people won’t be able to tell you apart.
 भूतैर्भेद्यो बलिमहिष इत्युद्भटैः कृष्टशृङ्गे  
 रज्जुग्राहं रुदति विजया रूढहासं रुणद्धि ॥  ८७ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Visit the great forest, home to Kālī,  
 which falls on your way.  
 There, as heaven’s host ever comes  
@@ -2573,7 +2747,7 @@ ready to be slaughtered.
 As the beast cries out,  
 Vijayā puts a stop to it, bursting into laughter.[^42]
 87
-</p>
+</details>
 <p class="image"><img src="images/p10.jpg" alt="Route 10" /></p>	
 
 
@@ -2593,7 +2767,9 @@ Vijayā puts a stop to it, bursting into laughter.[^42]
 यत्राश्लिष्टो वरयुवतिभिश्चुम्बति स्विन्नगण्डं  
 चूर्णीवातः प्रिय इव रतिश्रान्तमास्यारविन्दम् ॥  ८८ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Up ahead you’ll see the elegant city of Añjanakhala,  
 home to Śiva,  
 where the sun’s horses are fanned  
@@ -2604,7 +2780,7 @@ kissing their lotus faces,
 cheeks sweat-streaked after strenuous lovemaking,  
 just as their lovers do.[^43]
 88
-</p>
+</details>
 <p class="image"><img src="images/p11.jpg" alt="Route 11" /></p>	
 
 
@@ -2624,7 +2800,9 @@ just as their lovers do.[^43]
 रक्ताः पद्माः कुवलयवनीसाम्यमापद्यमाना  
 विज्ञायन्ते स्फुटमहिमधामोदये जृम्भमाणे ॥  ८९ ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Then admire the river herself.  
 Her waters grow dark with the musk  
 washed off the necks of Mahodayapura’s girls  
@@ -2633,7 +2811,7 @@ transforming red lotuses into clusters of blue water lilies.
 It is only when the sun starts to spread its warm light  
 that they are clearly shown to be lotuses.
 89
-</p>
+</details>
 
 
 
@@ -2652,7 +2830,9 @@ that they are clearly shown to be lotuses.
 संसेव्या स्यात् सरसमधुरा सानुकूलावतीर्णै-  
 र्दुर्गाहान्यैरिति हि सरणिः कापि गाम्भीर्यभाजाम् ॥  ९० ॥
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘So pretty,  
 unsullied,  
 with fish for eyes,  
@@ -2665,7 +2845,7 @@ She welcomes all who approach her the right way;
 to others her depths are menacing.  
 Such is the way of the profound.
 90
-</p>
+</details>
 
 
 
@@ -2684,7 +2864,9 @@ Such is the way of the profound.
 वीचीवेगप्रचलदसिताम्भोजिनीगुच्छबुद्ध्या  
 कूजं कूजं मधुरमलयः कोकिल व्यालपेरन् ॥ ९१ ॥ 
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘As you hover deftly in the sky above the river,  
 the bees –  
 seeing your reflection flickering in the water  
@@ -2694,7 +2876,7 @@ floating in the current –
 will chatter to each other  
 humming their sweet hum continuously, O koel.
 91
-</p>
+</details>
 
 
 
@@ -2713,7 +2895,9 @@ humming their sweet hum continuously, O koel.
 तां जानीया दिशि दिशि जयन्ताख्यया ख्यायमानां  
 प्रत्यादिष्टत्रिदिवनगरप्राभवां प्राप्यभूमिम् ॥ ९२ ॥ 
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘When you cross over to the river’s southern bank,  
 the richest of all lands  
 will stand revealed before your eyes.  
@@ -2721,7 +2905,7 @@ That is your destination,
 overshadowing the splendour of heaven’s city,  
 to which Jayanta’s name has brought worldwide celebrity.
 92
-</p>
+</details>
 
 
 
@@ -2740,7 +2924,9 @@ to which Jayanta’s name has brought worldwide celebrity.
 रत्नश्रेणीघटितशिखरैर्गोपुरैः सा पुरी ते  
 प्रायः प्रज्ञाभरण सुगमा स्यादनावेदितापि ॥ ९३ ॥ 
 </details>
-<p class="enpoem">
+
+<details><summary>Shankar & Venetia</summary>
+
 ‘Jayantamaṅgala boasts fresh gardens  
 where impassioned women enjoy themselves  
 in creeper bowers,  
@@ -2751,7 +2937,7 @@ and towers whose tips are inlaid with serried jewels.
 You may not know the city  
 but with your sharp wits you’ll easily find your way.’
 93
-</p>
+</details>
 
 [^1]: Kanchipuram in Tamil Nadu; the Kampā is today no more than a tank at the Ekambareshwara Temple.
 
@@ -2825,9 +3011,8 @@ but with your sharp wits you’ll easily find your way.’
 [^24]: The Kola kingdom was in northern Kerala.
 
 
-<aside epub:type="footnote" id="pen25">	
-<p>A contemporary poet of Uddaṇḍa’s from this area</p>
-</aside>	
+[^25]: A contemporary poet of Uddaṇḍa’s from this area
+
 [^26]: Śiva wears the moon upon his head in the place of a flower, and as the moon was born in the ocean, the ocean is thus the garden from which he plucked his flower. The ocean also produced the *amṛta* upon which the gods dine.
 
 
