@@ -68,7 +68,7 @@ KURAVAKA: red amaranth or Barlaria, a tree with red flowers \(but also sometimes
 
 KUVALAYA: blue water lily
 
-MĀDHAVĪ: the clustered hiptage or Hiptage Benghalensis, a creeper with yellow-white flowers
+MĀDHAVĪ: the clustered hiptage or Hiptage Benghalensis, a creeper with yellow-white flowers
 
 MAHIṢA: a *daitya* king who was killed by Durgā
 
