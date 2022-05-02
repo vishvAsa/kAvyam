@@ -14,7 +14,7 @@ unicode_script: devanagari
 
 ॥नमश् चण्डिकायै॥
 
-![Image](../../../../images/durga-on-mahiSha-detail.jpg)
+![Image](../images/durga-on-mahiSha-detail.jpg)
 
   
 

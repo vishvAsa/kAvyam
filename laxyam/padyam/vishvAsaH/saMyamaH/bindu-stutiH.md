@@ -8,7 +8,7 @@ unicode_script: devanagari
 दिनम् \- Nov 19 2013  
 छन्दः \- अनुष्टुभ्  
     
-[![](../../../../images/shilpa-bindi.jpg)  
+[![](../images/shilpa-bindi.jpg)  
     
     
 शोभते बिन्दुना देवि  
