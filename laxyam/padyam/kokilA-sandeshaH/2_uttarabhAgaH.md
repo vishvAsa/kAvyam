@@ -119,12 +119,7 @@ in broad daylight.
 दृष्ट्वा कृष्णं किणमणिकणं हन्त गाढं प्ररूढं  
 मूढो लोको वदति शशको रोहितोऽन्यत्तथेति ॥ ४ ॥
 </details>
-<p>
-<audio controls="controls">
-  <source src="audio/u4.mp3" type="audio/mpeg" />
-  Your browser does not support the audio tag.
-</audio> 
-</p>	
+	
 
 <details><summary>Shankar & Venetia</summary>
 
@@ -1945,12 +1940,7 @@ days ringing with the deep murmur of fresh rainclouds.
 स्नानान्ते ते मुखमुपसखि प्रेक्षमाणे मयि द्रा-  
 ग्वक्षोदघ्ने पयसि पुनरप्यावयोर्मज्जनं तत् ॥ ६२ ॥
 </details>
-<p>
-<audio controls="controls">
-  <source src="audio/u62.mp3" type="audio/mpeg" />
-  Your browser does not support the audio tag.
-</audio> 
-</p>	
+	
 
 <details><summary>Shankar & Venetia</summary>
 

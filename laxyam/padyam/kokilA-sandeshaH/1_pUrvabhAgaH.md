@@ -704,12 +704,7 @@ of blooming lotuses.
 सुव्यक्तं ते गमनसरणिः सूत्रयेदूर्ध्वमस्याः  
 सिन्धुस्नेहोपगतयमुनावेणिवीथीविलासम् ॥  २२ ॥
 </details>
-<p>
-<audio controls="controls">
-  <source src="audio/p22.mp3" type="audio/mpeg" />
-  Your browser does not support the audio tag.
-</audio> 
-</p>
+
 
 <details><summary>Shankar & Venetia</summary>
 
@@ -2007,12 +2002,7 @@ their famed verse crossing all boundaries.
 लक्ष्मीजानेः शयनसदनं पुष्पवाटं पुरारेः  
 पाकस्थानं निखिलमरुतां पश्य वारान्निधानम् ॥  ६२ ॥
 </details>
-<p>
-<audio controls="controls">
-  <source src="audio/p62.mp3" type="audio/mpeg" />
-  Your browser does not support the audio tag.
-</audio> 
-</p>	
+	
 
 <details><summary>Shankar & Venetia</summary>
 
@@ -2112,12 +2102,7 @@ reducing other mighty kings to tributaries.
 तल्पे तल्पे रसपरवशं कामिनीकान्तयुग्मं  
 युग्मे युग्मे स खलु विहरन् विश्ववीरो मनोभूः ॥  ६५ ॥
 </details>
-<p>
-<audio controls="controls">
-  <source src="audio/p65.mp3" type="audio/mpeg" />
-  Your browser does not support the audio tag.
-</audio> 
-</p>	
+	
 
 <details><summary>Shankar & Venetia</summary>
 
@@ -2752,12 +2737,7 @@ It is he whom you should worship to attain liberation.[^39]
 मौलौ यस्य द्रुहिणशिरसां मण्डलं मण्डपान्तः-  
 क्ष्मादेवानां श्रुतिपदजुषां संशयानुच्छिनत्ति ॥  ८४ ॥
 </details>
-<p>
-<audio controls="controls">
-  <source src="audio/p84.mp3" type="audio/mpeg" />
-  Your browser does not support the audio tag.
-</audio> 
-</p>	
+	
 
 <details><summary>Shankar & Venetia</summary>
 
