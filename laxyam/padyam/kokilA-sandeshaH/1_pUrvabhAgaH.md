@@ -1,6 +1,7 @@
 +++
 title = "१ पूर्वभागः"
 unicode_script = "devanagari"
+
 +++
 
 
@@ -33,6 +34,9 @@ He awoke to find himself on the bank of the Kampā
 in Pārvatī’s city Kāñcī[^1],  
 bereft of her whom he so loved. 
 1
+
+[^1]: Kanchipuram in Tamil Nadu; the Kampā is today no more than a tank at the Ekambareshwara Temple.
+
 </details>
 
 
@@ -62,6 +66,9 @@ playfully snatched you up as you slept.
 Startled by the address of the goddess’ attendant,  
 they left you here.’
 2
+
+[^2]: Varuṇa lives in and presides over the West.
+
 </details>
 
 
@@ -345,6 +352,12 @@ Jayantamaṅgala is cooled
 by the nectar-wet glances of Lakṣmī  
 wrapped in Viṣṇu’s arms in their temple there.
 11
+
+[^4]: The Periyar, a large river cutting across central Kerala
+
+
+[^3]: Chendamangalam, a small town just north of Kochi, in which lies the Chendratharikkovu Vishnu Temple
+
 </details>
 
 
@@ -498,6 +511,9 @@ The pigeons nesting upon the tower’s golden top
 make it seem as if the smoke of Brahma’s sacrifice  
 is even today curling about the temple.[^5]
 16
+
+[^5]: The famous Varadaraja Perumal Temple houses Viṣṇu in a shrine upon a mound known as the Karigiri or ‘elephant hill’.
+
 </details>
 
 
@@ -529,8 +545,14 @@ The Tuṇḍīra land[^7],
 blessed by the compassion she showers  
 from her cloud-eyes  
 framed by rainbow-brows,  
-grows fat with a rich crop of abundant poetry.  
+grows fat with a rich crop of abundant poetry. 
 17
+
+[^7]: The region surrounding Kanchipuram
+
+
+[^6]: The Kāmapīṭha is the Kamakshi Amman Temple.
+
 </details>
 <p class="image"><img src="images/p3.jpg" alt="Route 3" /></p>	
 
@@ -563,6 +585,9 @@ moon-crested Śiva himself,
 stripped of his longing for Mount Kailāsa,  
 abides in the form of Lord Valayāṅka.
 18
+
+[^8]: The Ekāmranātha Temple, whose mango tree (āmra) produces one (eka) fruit for the Lord (nātha) every day, is today called Ekambareshwar.
+
 </details>
 
 
@@ -657,6 +682,9 @@ mobbed by young bees
 raucous after drinking the scented nectar spirit  
 of blooming lotuses.
 21
+
+[^9]: The Palar which runs through Karnataka and Tamil Nadu
+
 </details>
 
 
@@ -694,8 +722,11 @@ Parting the sky,
 it will draw in a clear blue line above the Kṣīrasindhu  
 the graceful coursing flow of an imaginary Yamunā[^10]  
 come to meet her  
-due to the love one river bears for another.    
+due to the love one river bears for another. 
 22
+
+[^10]: A famously dark blue river in northern India
+
 </details>
 
 
@@ -756,7 +787,7 @@ their sacred marital threads
 stained with fragrant turmeric paste,  
 you will I expect be delayed,  
 my friend,  
-if only for a moment.  
+if only for a moment. 
 24
 </details>
 
@@ -819,7 +850,7 @@ but why dwell on this?
 The very parrots  
 perched atop the trees in front of each house  
 reciting it all  
-will make it abundantly clear.  	
+will make it abundantly clear. 	
 26
 </details>
 
@@ -852,8 +883,14 @@ Then enter Vilvakṣetra[^12] and Śiva’s shrine.
 The breezes from the Nīvā  
 seem to be fluttering the tips of the flags  
 in the temple courtyard  
-to summon you there.  
+to summon you there. 
 27
+
+[^12]: The Vilvanatheshwarar Temple in Thiruvalam, near Vellore in Tamil Nadu, is near the Pennar or Nīvā river.
+
+
+[^11]: The Cola region is named after the great Tamil dynasty.
+
 </details>
 
 
@@ -1067,7 +1104,7 @@ The peacocks will think you’re a fresh raincloud
 crossed with lightning and,  
 my dear koel,  
 they will dance in joy,  
-fanning out their heavy tails.  
+fanning out their heavy tails. 
 34
 </details>
 
@@ -1101,6 +1138,12 @@ reclining on Śeṣa,
 dark as a cloud,  
 is the emerald pendant at its centre.[^14]
 35
+
+[^14]: Srirangam is an island in the Tamil Nadu stretch of the Kaveri which hosts the huge Ranaganathar Swamy Temple.
+
+
+[^13]: One of the major rivers of the South
+
 </details>
 
 
@@ -1132,6 +1175,9 @@ you will become,
 king of the koels,  
 purest of the pure.[^15]
 36
+
+[^15]: The Hosala land was in what is now central Tamil Nadu. It is difficult to know which temple is referred to here.
+
 </details>
 
 
@@ -1161,7 +1207,7 @@ They wear *saugandhikas* in their shining hair,
 bodices that all but burst  
 as their sloping breasts swell with the heat of youth  
 and gentle smiles that mingle  
-with the gleam of their pearl nose rings.  
+with the gleam of their pearl nose rings. 
 37
 </details>
 
@@ -1225,6 +1271,9 @@ who has renounced his massacre of *kṣatriyas*
 and dedicated the entire orb of the earth to Brahmins,  
 dwells on those slopes.
 39
+
+[^16]: The Western Ghats, a mountain range along India’s western coast
+
 </details>
 
 
@@ -1288,6 +1337,12 @@ closely carpeted with *kramukas*,
 you’ll see the land of Kerala  
 fruit of the mighty arms of Bhṛgu’s son, Paraśurāma[^18].
 41
+
+[^18]: Paraśurāma created Kerala by hurling his axe from Kanyakumari, India’s southernmost tip, to Gokarna in Karnataka and reclaiming the land therein from the sea.
+
+
+[^17]: Thirunelly Temple just across the Karnataka-Kerala border
+
 </details>
 <p class="image"><img src="images/p5.jpg" alt="Route 5" /></p>	
 
@@ -1319,6 +1374,9 @@ Not far from him lives the goddess Bhadrakālī who,
 mounted on a lion,  
 skewers Dāruka with the sharpened spike of her trident.[^19]
 42
+
+[^19]: The Śiva temple here is Kottiyur, where Śiva stormed Dakṣa’s sacrifice, on the river Bavali in Wayanad, Kerala.  The temple of Bhadrakālī is nearby.
+
 </details>
 
 
@@ -1380,6 +1438,9 @@ enter the capital of the Puralī kings[^20], my friend,
 its gardens abloom,  
 its tall mansions driving the stars into a higher orbit.
 44
+
+[^20]: Kuthuparamba in today’s Kannur district, Kerala
+
 </details>
 
 
@@ -1441,6 +1502,9 @@ opposite his temple,
 where women gently pluck shoots and flowers,  
 and recover from your tiring journey.
 46
+
+[^21]: Pradyumna, son of Kṛṣṇa and Rukminī, is an incarnation of Kāma.
+
 </details>
 
 
@@ -1565,6 +1629,9 @@ where the gardens dance to the breeze
 from the river Śiva wears in his hair,  
 what is the point of this life?
 50
+
+[^22]: Taliparamba in Kannur district, where stands the well known Rajarajeshwara Temple
+
 </details>
 
 
@@ -1912,6 +1979,15 @@ fragrant with cardamom plantations
 where great poets such as Śaṅkara[^25],are celebrated  
 their famed verse crossing all boundaries.
 61
+
+[^25]: A contemporary poet of Uddaṇḍa’s from this area
+
+
+[^24]: The Kola kingdom was in northern Kerala.
+
+
+[^23]: Trichambaram Temple just outside Taliparamba
+
 </details>
 
 
@@ -1950,6 +2026,9 @@ plough across her
 it is as if the mountains are re-emerging from the sea,  
 their wings intact.
 62
+
+[^26]: Śiva wears the moon upon his head in the place of a flower, and as the moon was born in the ocean, the ocean is thus the garden from which he plucked his flower. The ocean also produced the *amṛta* upon which the gods dine.
+
 </details>
 
 
@@ -2011,6 +2090,9 @@ masters of mountain and sea,
 their unassailable strength  
 reducing other mighty kings to tributaries.
 64
+
+[^27]: Calicut on the coast of Kerala, the city ruled by Uddaṇḍa’s patrons, the Zamorins
+
 </details>
 
 
@@ -2203,6 +2285,15 @@ People who see the shrine but once and from afar
 are sure to never look upon the face of Death,  
 brows furrowing his forehead.
 70
+
+[^30]: The Triprangode Siva Temple
+
+
+[^29]: Kali refers to the ill effects of Kali Yuga.
+
+
+[^28]: The Prakāśa (which itself means ‘bright’) land is in Ponnani district, central Kerala.
+
 </details>
 
 
@@ -2235,6 +2326,9 @@ made the emperor of the *rākṣasas*, Rāvaṇa,
 cry out as his heads were squeezed into a ball  
 and his clutch of arms was crushed beneath the mountain[^31].
 71
+
+[^31]: Rāvaṇa once, irritated at finding Mount Kailāsa blocking his way, tried to uproot it. Śiva pressed his big toe down upon the mountain and thus crushed him beneath it.
+
 </details>
 <p class="image"><img src="images/p9.jpg" alt="Route 9" /></p>	
 
@@ -2267,6 +2361,12 @@ a divine *kuvalaya*-blue effulgence
 has made a home of the Nāvā Temple[^33],  
 Lakṣmī clasped to his chest.
 72
+
+[^33]: The Thirunnavaya Navamukunda Temple on the Bharatapuzha’s bank, where the historic Mamankam (Mahāmāgha in Sanskrit)  festival was held
+
+
+[^32]: The Bharathapuzha which runs down from the hills into the Arabian Sea
+
 </details>
 
 
@@ -2358,8 +2458,11 @@ remove the sweat of his exertions,
 fanning him gently with your wings.  
 Rendering the right service at the right moment,  
 however small,  
-wins a master’s favour.  
+wins a master’s favour. 
 75
+
+[^34]: The Chamravattom Shasta Temple on the bank of the Bharatapuzha
+
 </details>
 
 
@@ -2426,6 +2529,9 @@ Cross that river and fly to lands
 where mango groves drip with nectar,  
 lands purified by the many merits of the Netranārāyaṇas[^35].
 77
+
+[^35]: The Netranārāyaṇas were a well-known Brahmin family of this area.
+
 </details>
 
 
@@ -2457,6 +2563,9 @@ placed upon the stone.
 Soft as newly sprouting leaves,  
 that lotus foot violently stomps Mahiṣa to death.
 78
+
+[^36]: The Pārvatī temple in Mukkola
+
 </details>
 
 
@@ -2487,6 +2596,9 @@ As scholar after scholar comes eager to debate,
 a flock of parrots sits there,  
 roosting among the rafters of the discussion hall.
 79
+
+[^37]: Raṇakhala is Porkulam, where Uddaṇḍa’s scholarly friends, the Payyūrbhaṭṭas, lived.  Maharṣi is an honorific used to address the family patriarch.
+
 </details>
 
 
@@ -2584,6 +2696,9 @@ and perfumed from tousling Pārvatī’s curls
 as she sits playfully in Śiva’s lap –  
 will refresh you.
 82
+
+[^38]: Thrissur in central Kerala
+
 </details>
 
 
@@ -2615,6 +2730,9 @@ In his desire to see both sides of her at the same time,
 Lord Śiva of eightfold form here assumes a double form.  
 It is he whom you should worship to attain liberation.[^39]
 83
+
+[^39]: The Peruvanam Mahadeva Temple described here and in the next verse, in which Śiva is represented by twin *śivaliṅgas*, is a little south of Thrissur.
+
 </details>
 
 
@@ -2684,6 +2802,9 @@ Enter that temple with your wings and absolute devotion
 and bow to Sampatkarī –  
 she is indeed the mother of the world.[^40]
 85
+
+[^40]: The Ammathiruvadi Temple is in Urakam, very close to Peruvanam
+
 </details>
 
 
@@ -2714,6 +2835,9 @@ The colour will remind you of happy times
 among freshly blooming *tamāla* groves.  
 For a moment people won’t be able to tell you apart.
 86
+
+[^41]: This is the Koodalmanikyam Temple in Irinjalakuda which is now dedicated to Bharata but here in the poem is a Viṣṇu temple.
+
 </details>
 
 
@@ -2747,6 +2871,9 @@ ready to be slaughtered.
 As the beast cries out,  
 Vijayā puts a stop to it, bursting into laughter.[^42]
 87
+
+[^42]: The Bhagavathy Temple at Kodungallur; Vijayā is the goddess’ assistant
+
 </details>
 <p class="image"><img src="images/p10.jpg" alt="Route 10" /></p>	
 
@@ -2780,6 +2907,9 @@ kissing their lotus faces,
 cheeks sweat-streaked after strenuous lovemaking,  
 just as their lovers do.[^43]
 88
+
+[^43]: Añjanakhala and Mahodayapura are alternative names for what is now Tiruvanchikulam on the northern bank of the Periyar.
+
 </details>
 <p class="image"><img src="images/p11.jpg" alt="Route 11" /></p>	
 
@@ -2939,131 +3069,45 @@ but with your sharp wits you’ll easily find your way.’
 93
 </details>
 
-[^1]: Kanchipuram in Tamil Nadu; the Kampā is today no more than a tank at the Ekambareshwara Temple.
 
 
-[^2]: Varuṇa lives in and presides over the West.
 
 
-[^3]: Chendamangalam, a small town just north of Kochi, in which lies the Chendratharikkovu Vishnu Temple
 
 
-[^4]: The Periyar, a large river cutting across central Kerala
 
 
-[^5]: The famous Varadaraja Perumal Temple houses Viṣṇu in a shrine upon a mound known as the Karigiri or ‘elephant hill’.
 
 
-[^6]: The Kāmapīṭha is the Kamakshi Amman Temple.
 
 
-[^7]: The region surrounding Kanchipuram
 
 
-[^8]: The Ekāmranātha Temple, whose mango tree (āmra) produces one (eka) fruit for the Lord (nātha) every day, is today called Ekambareshwar.
 
 
-[^9]: The Palar which runs through Karnataka and Tamil Nadu
 
 
-[^10]: A famously dark blue river in northern India
 
 
-[^11]: The Cola region is named after the great Tamil dynasty.
 
 
-[^12]: The Vilvanatheshwarar Temple in Thiruvalam, near Vellore in Tamil Nadu, is near the Pennar or Nīvā river.
 
 
-[^13]: One of the major rivers of the South
 
 
-[^14]: Srirangam is an island in the Tamil Nadu stretch of the Kaveri which hosts the huge Ranaganathar Swamy Temple.
 
 
-[^15]: The Hosala land was in what is now central Tamil Nadu. It is difficult to know which temple is referred to here.
 
 
-[^16]: The Western Ghats, a mountain range along India’s western coast
 
 
-[^17]: Thirunelly Temple just across the Karnataka-Kerala border
 
 
-[^18]: Paraśurāma created Kerala by hurling his axe from Kanyakumari, India’s southernmost tip, to Gokarna in Karnataka and reclaiming the land therein from the sea.
 
 
-[^19]: The Śiva temple here is Kottiyur, where Śiva stormed Dakṣa’s sacrifice, on the river Bavali in Wayanad, Kerala.  The temple of Bhadrakālī is nearby.
 
 
-[^20]: Kuthuparamba in today’s Kannur district, Kerala
 
 
-[^21]: Pradyumna, son of Kṛṣṇa and Rukminī, is an incarnation of Kāma.
-
-
-[^22]: Taliparamba in Kannur district, where stands the well known Rajarajeshwara Temple
-
-
-[^23]: Trichambaram Temple just outside Taliparamba
-
-
-[^24]: The Kola kingdom was in northern Kerala.
-
-
-[^25]: A contemporary poet of Uddaṇḍa’s from this area
-
-[^26]: Śiva wears the moon upon his head in the place of a flower, and as the moon was born in the ocean, the ocean is thus the garden from which he plucked his flower. The ocean also produced the *amṛta* upon which the gods dine.
-
-
-[^27]: Calicut on the coast of Kerala, the city ruled by Uddaṇḍa’s patrons, the Zamorins
-
-
-[^28]: The Prakāśa (which itself means ‘bright’) land is in Ponnani district, central Kerala.
-
-
-[^29]: Kali refers to the ill effects of Kali Yuga.
-
-
-[^30]: The Triprangode Siva Temple
-
-
-[^31]: Rāvaṇa once, irritated at finding Mount Kailāsa blocking his way, tried to uproot it.  Śiva pressed his big toe down upon the mountain and thus crushed him beneath it.
-
-
-[^32]: The Bharathapuzha which runs down from the hills into the Arabian Sea
-
-
-[^33]: The Thirunnavaya Navamukunda Temple on the Bharatapuzha’s bank, where the historic Mamankam (Mahāmāgha in Sanskrit)  festival was held
-
-
-[^34]: The Chamravattom Shasta Temple on the bank of the Bharatapuzha
-
-
-[^35]: The Netranārāyaṇas were a well-known Brahmin family of this area.
-
-
-[^36]: The Pārvatī temple in Mukkola
-
-
-[^37]: Raṇakhala is Porkulam, where Uddaṇḍa’s scholarly friends, the Payyūrbhaṭṭas, lived.  Maharṣi is an honorific used to address the family patriarch.
-
-
-[^38]: Thrissur in central Kerala
-
-
-[^39]: The Peruvanam Mahadeva Temple described here and in the next verse, in which Śiva is represented by twin *śivaliṅgas*, is a little south of Thrissur.
-
-
-[^40]: The Ammathiruvadi Temple is in Urakam, very close to Peruvanam
-
-
-[^41]: This is the Koodalmanikyam Temple in Irinjalakuda which is now dedicated to Bharata but here in the poem is a Viṣṇu temple.
-
-
-[^42]: The Bhagavathy Temple at Kodungallur; Vijayā is the goddess’ assistant
-
-
-[^43]: Añjanakhala and Mahodayapura are alternative names for what is now Tiruvanchikulam on the northern bank of the Periyar.
 
 

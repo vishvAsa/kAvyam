@@ -1,6 +1,7 @@
 +++
 title = "२ उत्तरभागः"
 unicode_script = "devanagari"
+
 +++
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -30,6 +31,9 @@ both are home to the pillars of the earth,[^1]
 and while the rise of its artists magnifies the city,  
 it is the rise of the moon that magnifies the ocean.
 1
+
+[^1]: The Sanskrit term ‘*bhūbhrt*’, ‘that which bears the earth’, is often used to denote a mountain or a king; both are meant in this case.
+
 </details>
 
 
@@ -388,6 +392,9 @@ of the attributes it boasts:
 *kalyāṇaugha* – cascading prosperity, uttered twice  
 and *rasikānantatā* – rare and timeless elegance.
 12
+
+[^2]: This is the household of Uddaṇḍa’s wife, which remains in Chendamangalam to this day.
+
 </details>
 
 
@@ -418,6 +425,9 @@ I fancy,
 to learn the art of my beloved’s graceful walk  
 when she comes to bathe in the clear water.
 13
+
+[^3]: The red light given out by the rubies fools the lotuses into thinking it is sunrise and thus time for them to bloom.
+
 </details>
 
 
@@ -1464,6 +1474,9 @@ they of song so sweet to hear
 and the sixth arrow of the five-arrowed Kāma,  
 which travellers cannot resist.
 47
+
+[^4]: Women wear the marriage thread, popularly known as the mangalsutra, only while their husband is alive, and in wearing it help to preserve his life.
+
 </details>
 
 
@@ -2171,17 +2184,4 @@ not even once,
 suffer such separation from her.’
 69
 </details>
-
-
-
-[^1]: The Sanskrit term ‘*bhūbhrt*’, ‘that which bears the earth’, is often used to denote a mountain or a king; both are meant in this case.
-
-[^2]: This is the household of Uddaṇḍa’s wife, which remains in Chendamangalam to this day.
-
-
-[^3]: The red light given out by the rubies fools the lotuses into thinking it is sunrise and thus time for them to bloom.
-
-
-[^4]: Women wear the marriage thread, popularly known as the mangalsutra, only while their husband is alive, and in wearing it help to preserve his life.
-
 
