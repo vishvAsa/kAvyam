@@ -177,7 +177,7 @@ while handing out gifts[^2].
 
 यस्याङ्घ्रिपीठसङ्घर्षरेखालाञ्छितमौलयः ।  
 आशास्वरिनृपा एव जयस्तम्भतया स्थिताः ॥ 
-</details>
+</details>कलि
 
 <details><summary>Shankar & Venetia</summary>
 
