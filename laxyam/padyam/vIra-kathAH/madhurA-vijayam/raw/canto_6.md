@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
-xmlns:epub="http://www.idpf.org/2007/ops">
-<head>
-   <title>Madhurā Vijayam</title>
-   <link rel="stylesheet" type="text/css" href="css/mv.css" />
-</head>
-<body>
+
 
 
 
@@ -336,5 +329,3 @@ and spent the rest of the day in fitting occupations.
 [^3]: Śiva
 
 
-</body>
-</html>

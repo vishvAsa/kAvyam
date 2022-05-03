@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
-xmlns:epub="http://www.idpf.org/2007/ops">
-<head>
-   <title>Madhurā Vijayam</title>
-   <link rel="stylesheet" type="text/css" href="css/mv.css" />
-</head>
-<body>
+
 
 
 
@@ -380,6 +373,4 @@ his soul-mate.
 [^2]: Water was ritually sprinkled upon the hands of those receiving gifts.
 [^3]: Victory pillars were erected by kings to mark the boundaries of their new-won domains and would be engraved with a declaration of their rule.
 
-</body>
-</html>
 

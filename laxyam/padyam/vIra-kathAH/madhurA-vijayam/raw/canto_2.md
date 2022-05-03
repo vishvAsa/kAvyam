@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
-xmlns:epub="http://www.idpf.org/2007/ops">
-<head>
-   <title>Madhurā Vijayam</title>
-   <link rel="stylesheet" type="text/css" href="css/mv.css" />
-</head>
-<body>
+
 
 
 
@@ -435,5 +428,3 @@ so the King shone with his three sons[^4].
 [^4]: The poetess earlier described, in a verse not included here, how Bukkarāja had two more sons by Devāyī.
 
 
-</body>
-</html>

@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
-xmlns:epub="http://www.idpf.org/2007/ops">
-<head>
-   <title>Madhurā Vijayam</title>
-   <link rel="stylesheet" type="text/css" href="css/mv.css" />
-</head>
-<body>
+
 
 
 
@@ -638,5 +631,3 @@ a prosperity permanent and perfect.
 [^3]: Strictly maintaining the fourfold division of society into *varṇas* and of each individual’s life into *āśramas* was an important royal duty.
 
 
-</body>
-</html>

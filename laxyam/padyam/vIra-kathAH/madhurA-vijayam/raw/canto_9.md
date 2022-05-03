@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
-xmlns:epub="http://www.idpf.org/2007/ops">
-<head>
-   <title>Madhurā Vijayam</title>
-   <link rel="stylesheet" type="text/css" href="css/mv.css" />
-</head>
-<body>
+
 
 
 
@@ -424,5 +417,3 @@ thus shone the South now that the Persian lay slain.
 [^3]: Kṛṣṇa killed the serpent Kāliya which lived in the Yamunā river.
 
 
-</body>
-</html>

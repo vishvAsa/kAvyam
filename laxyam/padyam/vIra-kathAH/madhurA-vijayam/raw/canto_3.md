@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
-xmlns:epub="http://www.idpf.org/2007/ops">
-<head>
-   <title>Madhurā Vijayam</title>
-   <link rel="stylesheet" type="text/css" href="css/mv.css" />
-</head>
-<body>
+
 
 
 
@@ -359,5 +352,3 @@ one of the signs of a *cakravartī*, a supreme emperor.
 [^2]: *Rajas* is physical dirt as well as being the *guṇa* or quality characterised by excessive passion.
 [^3]: by the destruction of the oppressive Sultan
 
-</body>
-</html>

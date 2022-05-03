@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
-xmlns:epub="http://www.idpf.org/2007/ops">
-<head>
-   <title>Madhurā Vijayam</title>
-   <link rel="stylesheet" type="text/css" href="css/mv.css" />
-</head>
-<body>
+
 
 
 
@@ -677,5 +670,3 @@ The remainder of this canto and the beginning of the next are lost.
 [^7]: Our poetess, we assume
 [^8]: Lotuses bloom only in the presence of their lord, the sun.
 
-</body>
-</html>

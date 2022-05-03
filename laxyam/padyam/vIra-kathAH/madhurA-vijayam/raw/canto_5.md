@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
-xmlns:epub="http://www.idpf.org/2007/ops">
-<head>
-   <title>Madhurā Vijayam</title>
-   <link rel="stylesheet" type="text/css" href="css/mv.css" />
-</head>
-<body>
+
 
 
 
@@ -594,5 +587,3 @@ the third goal of human existence.
 [^6]: Separated from their lovers, travellers suffer keenly the effects of Kāma in Vasanta.
 [^7]: For a discussion of the term '*hariharātmaja*' please see the textual notes on the website.
 
-</body>
-</html>
