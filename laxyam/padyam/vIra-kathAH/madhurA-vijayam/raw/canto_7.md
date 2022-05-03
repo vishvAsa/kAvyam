@@ -40,6 +40,10 @@ swiftly sank the sun into the western sea,
 chariot reverberating as he raced downwards,  
 seemingly to replenish his heat from the fire in the deep.[^1]
 2
+
+[^1]: A fire-breathing mare lives in the ocean.
+
+
 </details>
 
 
@@ -60,6 +64,9 @@ took on the rosy flush of wine
 though they had not  
 touched a drop.[^2]
 3
+
+[^2]: Varuṇa, lord of the sea, presides over the western direction.[^4]: Floral patterns were drawn upon women’s faces for decoration.[^6]: It is at night that the moon rises, causing the sea to swell.[^8]: Lotuses bloom only in the presence of their lord, the sun.
+
 </details>
 
 
@@ -160,6 +167,10 @@ patrolled the lotus flower –
 the tower which was Lakṣmī’s bower[^3]–  
 as each petal-door was pulled to.
 8
+
+[^3]: Lakṣmī here is both the goddess and wealth.
+
+
 </details>
 
 
@@ -263,6 +274,10 @@ falling from the dome of the sky
 where it had collected  
 as the lamp of the sun below it burnt.[^5]
 13
+
+[^5]: Soot used to be collected in an inverted semi-circular receptacle hanging above a lamp.
+
+
 </details>
 
 
@@ -470,6 +485,10 @@ conscientous as ever,
 then turned to speak to the wife he so loved,  
 she who was known to the world as Gaṅgā[^7].
 23
+
+[^7]: Our poetess, we assume
+
+
 </details>
 
 
@@ -660,13 +679,3 @@ night has melted into his loving embrace.’
 <p class="it">
 The remainder of this canto and the beginning of the next are lost.
 </p>
-
-[^1]: A fire-breathing mare lives in the ocean.
-[^2]: Varuṇa, lord of the sea, presides over the western direction.
-[^3]: Lakṣmī here is both the goddess and wealth.
-[^4]: Floral patterns were drawn upon women’s faces for decoration.
-[^5]: Soot used to be collected in an inverted semi-circular receptacle hanging above a lamp.
-[^6]: It is at night that the moon rises, causing the sea to swell.
-[^7]: Our poetess, we assume
-[^8]: Lotuses bloom only in the presence of their lord, the sun.
-

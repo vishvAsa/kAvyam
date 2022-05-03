@@ -85,6 +85,10 @@ the hot-rayed sun
 steered a steady course  
 for the Himālaya-cooled North.[^1]
 4
+
+[^1]: The sun travels south for half of the year and north for the other half.
+
+
 </details>
 
 
@@ -150,6 +154,9 @@ into clusters bursting;
 suppliants in the *cātaka* birds,  
 words of praise ever singing.[^2]
 7
+
+[^2]: The association, seen throughout this canto, of certain flora and fauna with each season follows poetic convention.[^4]: After dancing and singing all monsoon, peacocks fall silent in Śarad.[^6]: Separated from their lovers, travellers suffer keenly the effects of Kāma in Vasanta.
+
 </details>
 
 
@@ -249,6 +256,10 @@ and roaring ‘hum’ with each thunderclap[^3],
 the clouds exorcised the spirit of spite  
 possessing the King’s young wives.
 12
+
+[^3]: These three actions imitate elements of an exorcism ceremony.
+
+
 </details>
 
 
@@ -350,6 +361,10 @@ in the fresh *japā* flowers fluttered about by the wind,
 performed an arati ceremony[^5]  
 for his ever-victorious horses.
 17
+
+[^5]: in which lamps are swung in clockwise circles in front of the deity
+
+
 </details>\n\<sup\>\<a epub\:type\=\"noteref\" 
 
 
@@ -521,6 +536,10 @@ to celebrate the grand festival of Kāma.
 रतिपतिं परिलेखितुमुद्यताः ।  
 हृदयगोचरतामनिशं गतं  
 हरिहरात्मजमेव[^7] समालिखन् ॥ 
+
+[^7]: For a discussion of the term '*hariharātmaja*' please see the textual notes on the website.
+
+
 </details>
 
 <details><summary>Shankar & Venetia</summary>
@@ -577,13 +596,3 @@ to the pursuit of pleasure,
 the third goal of human existence.
 28
 </details>
-
-
-[^1]: The sun travels south for half of the year and north for the other half.
-[^2]: The association, seen throughout this canto, of certain flora and fauna with each season follows poetic convention.
-[^3]: These three actions imitate elements of an exorcism ceremony.
-[^4]: After dancing and singing all monsoon, peacocks fall silent in Śarad.
-[^5]: in which lamps are swung in clockwise circles in front of the deity
-[^6]: Separated from their lovers, travellers suffer keenly the effects of Kāma in Vasanta.
-[^7]: For a discussion of the term '*hariharātmaja*' please see the textual notes on the website.
-

@@ -208,6 +208,10 @@ she[^1] produced
 with her prodigious powers  
 a terrifying sword.
 10
+
+[^1]: Due to the loss of several verses in the manuscript, it is not clear who this female messenger is.
+
+
 </details>
 
 
@@ -336,14 +340,13 @@ as Kṛṣṇa was by Balarāma.
 Let the world know you  
 as the incarnation of the god himself!’[^2]
 16
+
+[^2]: Kṛṣṇa killed his tyrant uncle Kaṃsa in another city called Madhurā (now Mathura) in northern India; Balarāma was his elder brother and constant companion.
+
 </details>
 
 
 <p class="it">
 Again the end of this canto, and the beginning and end of the final canto, are lost.
 </p>
-
-[^1]: Due to the loss of several verses in the manuscript, it is not clear who this female messenger is.
-[^2]: Kṛṣṇa killed his tyrant uncle Kaṃsa in another city called Madhurā (now Mathura) in northern India; Balarāma was his elder brother and constant companion.
-
 

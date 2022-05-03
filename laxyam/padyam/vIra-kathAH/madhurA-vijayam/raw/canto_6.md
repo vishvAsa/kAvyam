@@ -127,6 +127,10 @@ They’d be sure to cling to your feet,
 which look so like lotuses,  
 and stop you from hurrying ahead.’[^1]
 6
+
+[^1]: *Haṃsas* are attracted to the sound of anklets as well as being fond of lotuses.
+
+
 </details>
 
 
@@ -172,6 +176,9 @@ repeated over and over
 of your own face;  
 not a fresh offering of blown lotus flowers.’
 8
+
+[^2]: Moonstones ooze water upon seeing the moon.
+
 </details>
 
 
@@ -321,11 +328,9 @@ the divine light to whom the triple *Vedas* pay tribute,
 tormentor of Tripura[^3],  
 and spent the rest of the day in fitting occupations.
 15
-</details>
 
-
-[^1]: *Haṃsas* are attracted to the sound of anklets as well as being fond of lotuses.
-[^2]: Moonstones ooze water upon seeing the moon.
 [^3]: Śiva
 
+
+</details>
 

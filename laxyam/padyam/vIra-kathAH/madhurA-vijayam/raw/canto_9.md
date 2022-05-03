@@ -122,6 +122,10 @@ the beasts came to resemble Mount Krauñca
 when Kumāra’s spear pierced it clean through  
 setting forth a stream of *haṃsas*.[^1]
 6
+
+[^1]: The god Kumāra blasted a hole through this Himalayan mountain, thus creating a shortcut for *haṃsas* flying to Mount Kailāsa.
+
+
 </details>
 
 
@@ -292,6 +296,9 @@ the Turk’s bow string,
 as though it were the sacred marital chord  
 worn by the goddess of his reign.[^2]
 14
+
+[^2]: A woman’s marital chord (the mangalsutra) is strongly linked to her husband’s life.
+
 </details>
 
 
@@ -409,11 +416,9 @@ like the expanse of the sky when an eclipse has passed,
 like Yamunā, Kalinda’s daughter, once Kāliya was killed[^3] –  
 thus shone the South now that the Persian lay slain.
 20
-</details>
 
-
-[^1]: The god Kumāra blasted a hole through this Himalayan mountain, thus creating a shortcut for *haṃsas* flying to Mount Kailāsa.
-[^2]: A woman’s marital chord (the mangalsutra) is strongly linked to her husband’s life.
 [^3]: Kṛṣṇa killed the serpent Kāliya which lived in the Yamunā river.
 
+
+</details>
 

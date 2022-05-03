@@ -105,6 +105,13 @@ A mere triad of cities!’
 Thus did she scorn Śiva,  
 conqueror of the three cities.[^2]
 5
+
+[^2]: Śiva had all this and more when he went to fight the *asuras’* Tripura.[^4]: The poetess earlier described, in a verse not included here, how Bukkarāja had two more sons by Devāyī.
+
+
+[^1]: Viṣṇu
+
+
 </details>
 
 
@@ -126,6 +133,10 @@ as though it were a cobra
 come to guard the luminous treasure  
 buried deep within her womb.[^3]
 6
+
+[^3]: Snakes are often thought of as guardians of treasure.
+
+
 </details>
 
 
@@ -420,11 +431,5 @@ as this worldly life with its threefold goals
 so the King shone with his three sons[^4].
 20
 </details>
-
-
-[^1]: Viṣṇu
-[^2]: Śiva had all this and more when he went to fight the *asuras’* Tripura.
-[^3]: Snakes are often thought of as guardians of treasure.
-[^4]: The poetess earlier described, in a verse not included here, how Bukkarāja had two more sons by Devāyī.
 
 

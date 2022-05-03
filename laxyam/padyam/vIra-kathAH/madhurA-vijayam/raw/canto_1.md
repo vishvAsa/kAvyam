@@ -127,6 +127,10 @@ with the mountain of his globe-bearing arm –
 child’s play for him –  
 he produced his own *amṛta*, fame.[^1]
 7
+
+[^1]: The King’s arm is here compared to Mount Mandara which was used to churn the ocean to produce *amṛta*.
+
+
 </details>
 
 
@@ -162,6 +166,9 @@ by the horrendous heat of the accursed Kali Yuga,
 sprouted afresh with the water he poured  
 while handing out gifts[^2].
 9
+
+[^2]: Water was ritually sprinkled upon the hands of those receiving gifts.
+
 </details>
 
 
@@ -180,6 +187,10 @@ spread in every direction,
 their heads scarred with lines  
 scored from prostrating at his footstool.[^3]
 10
+
+[^3]: Victory pillars were erected by kings to mark the boundaries of their new-won domains and would be engraved with a declaration of their rule.
+
+
 </details>
 
 
@@ -367,10 +378,4 @@ with her
 his soul-mate.
 20
 </details>
-
-
-[^1]: The King’s arm is here compared to Mount Mandara which was used to churn the ocean to produce *amṛta*.
-[^2]: Water was ritually sprinkled upon the hands of those receiving gifts.
-[^3]: Victory pillars were erected by kings to mark the boundaries of their new-won domains and would be engraved with a declaration of their rule.
-
 

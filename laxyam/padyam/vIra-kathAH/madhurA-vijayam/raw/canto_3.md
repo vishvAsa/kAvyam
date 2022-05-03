@@ -63,6 +63,12 @@ Why else did the perfectly formed lines
 upon his soles so soft  
 assume the shape of a fish?[^1]
 3
+
+[^1]: Kāma’s banner is emblazoned with a fish.  
+Lines upon the soles of the feet in the form of a fish are 
+one of the signs of a *cakravartī*, a supreme emperor.
+
+
 </details>
 
 
@@ -215,6 +221,10 @@ frustrates the libertine;
 a taming post the elephant.  
 Neither gives ear to their master.
 10
+
+[^2]: *Rajas* is physical dirt as well as being the *guṇa* or quality characterised by excessive passion.
+
+
 </details>
 
 
@@ -319,6 +329,9 @@ that the load of the globe would soon be lightened[^3] –
 hurried in a flurry of flying chariot  
 into the cavern of Pātāla.
 15
+
+[^3]: by the destruction of the oppressive Sultan
+
 </details>
 
 
@@ -343,12 +356,4 @@ while he in his sleeping quarters
 relaxed with his wives so dear, full of cheer.
 16
 </details>
-
-
-[^1]: Kāma’s banner is emblazoned with a fish.  
-Lines upon the soles of the feet in the form of a fish are 
-one of the signs of a *cakravartī*, a supreme emperor.
-
-[^2]: *Rajas* is physical dirt as well as being the *guṇa* or quality characterised by excessive passion.
-[^3]: by the destruction of the oppressive Sultan
 

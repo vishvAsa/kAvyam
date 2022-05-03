@@ -249,6 +249,10 @@ terrified of being punctured
 by the heroes destined to win immortality  
 in the battle to come.[^1]
 14
+
+[^1]: Those killed fighting bravely go straight to heaven, breaking through the sun.
+
+
 </details>
 
 
@@ -442,6 +446,9 @@ upon pillows formed of elephants’ temples,
 awoke the next moment  
 upon pillows formed of *apsarases’* breasts.[^2]
 25
+
+[^2]: The poetess is here playing on the word *‘kumbha’* (an elephant's temple as well as a pitcher, and by extension a pitcher-shaped breast) to bring out how fast brave warriors arrive in heaven.
+
 </details>
 
 
@@ -623,11 +630,9 @@ keeping *varṇas* and *āśramas* intact[^3],
 the wisdom of his rule securing him  
 a prosperity permanent and perfect.
 35
-</details>
 
-
-[^1]: Those killed fighting bravely go straight to heaven, breaking through the sun.
-[^2]: The poetess is here playing on the word *‘kumbha’* (an elephant's temple as well as a pitcher, and by extension a pitcher-shaped breast) to bring out how fast brave warriors arrive in heaven.
 [^3]: Strictly maintaining the fourfold division of society into *varṇas* and of each individual’s life into *āśramas* was an important royal duty.
 
+
+</details>
 
