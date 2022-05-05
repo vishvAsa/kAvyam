@@ -2,6 +2,9 @@
 title = "भावः Mental state"
 +++
 
+## प्रयोजनम्
+भगवद्गीतानुसन्धानेनापि दुर्लभां शान्तिं मनोयन्त्रावलोकनकौशलवर्धनेन लभामह इति भाति। नाम - मनोयन्त्रं कथं चलतीति स्फुटेन ज्ञानेन भावग्रहः शिथिलतरो भवति, तेन शीघ्रं शान्तिं लभामहे - नैवं चमत्कारो भगवद्गीताध्ययनस्य।
+
 ## Mental factulties and states
 - Conventional classification - cognition, affect, and conation (or motivation).
   - Some add consciousness to the above.
