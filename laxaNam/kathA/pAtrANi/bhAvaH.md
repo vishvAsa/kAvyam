@@ -112,7 +112,7 @@ Chulef, Read, and Walsh (2001) have classified behavior-relevant human goals int
 - Provides feedback for (regulating) future behavior
   - inform us about our “social and moral acceptability”
   - individual chooses a future behavior after evaluating the emotional consequence (in terms of shame, guilt, pride, etc.) of performing it
-- Contrast with basic emotions
+- Contrast wit21ceh basic emotions
   - have a less clear-cut neurobiological basis, 
   - emerge later in life
   - perform a social (rather than survival-related) function
@@ -144,6 +144,11 @@ According to the model described above,
 - **Embarrassment** can result from attributions of either kind (internal, stable/unstable, uncontrollable/controllable, and global/specific) in relation to one's public self. 
 - **hubristic pride** from Internal, stable, uncontrollable, and global attributions lead
 - **authentic pride** from internal, unstable, controllable, and specific attributions.
+
+
+##### आभिमानिक-भावेष्व् आत्मचित्रणभेदाः
+
+- कुपितस्य "+आदरार्हो ऽहम्" इत्य् आत्मचित्रणे सति, "निन्द्यस् त्वम्" इति परिसराद् अनुभवः।  
 
 
 #### Basic emotions approach
