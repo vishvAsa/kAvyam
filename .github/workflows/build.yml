@@ -32,7 +32,7 @@ jobs:
       uses: actions/github-script@0.9.0
       with:
         script: |
-          var changed_files = steps.changed-files.outputs.all.replace(/(?<= |^)content(?= |$)/, "").replace(/(?<= |^)static(?= |$)/, "").trim()
+          var changed_files = '${{steps.changed-files.outputs.all}}'.replace(/(?<= |^)content(?= |$)/, "").replace(/(?<= |^)static(?= |$)/, "").trim()
           console.log(changed_files, changed_files.length)
           core.setOutput('count', changed_files.length.toString())
     - name: Update submodules
