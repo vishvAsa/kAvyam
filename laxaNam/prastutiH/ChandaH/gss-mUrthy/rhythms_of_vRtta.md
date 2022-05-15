@@ -631,8 +631,6 @@ Presently Chandas does not appear to be an important area of research in Sanskri
 
 
 
-
-<!-- Footnotes themselves at the bottom. -->
 ## Notes
 
 [^1]: Murthy G S S : .A computer program to identify Sanskrit Metres– Praciprajnaa. Vol.-1/2016 [7.A computer program to identify Sanskrit Metres.docx - Google Drive](https://drive.google.com/file/d/0B-ToPRKbb6tuTUJ5Mm9nalZlZWc/view?resourcekey=0-ts5NTt4j5vImaE8-Brltcg)
@@ -657,3 +655,5 @@ Presently Chandas does not appear to be an important area of research in Sanskri
 This is similar to assuming 1/(1-x) to be equal to 1+x where x is much less than 1.
 
 [^11]: Names of less popular Metres have been obtained from [http://sanskritmetres.appspot.com/](http://sanskritmetres.appspot.com/)
+
+
