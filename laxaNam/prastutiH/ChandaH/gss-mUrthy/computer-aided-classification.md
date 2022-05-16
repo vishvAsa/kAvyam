@@ -403,7 +403,7 @@ _ _ _ _ _
 Some aspects of this paper were presented by the author in the 17<sup>th</sup> World Sanskrit Conference held in Vancouver, 9<sup>th</sup> to 13<sup>th</sup> July, 2018 under the Title,”Computer-aided study of rhythm in _akṣaragaṇa_ based Metres”.
 
 [^2]:
-Email ID: murthygss@gmail.com
+Email ID: murthygss@gmail
 
 [^3]:
 When a Sanskrit term is used, an English equivalent is provided in brackets at the first appearance of the term, wherever feasible.
