@@ -1,7 +1,6 @@
 ---
 title: ऋतम्भरः
 unicode_script: devanagari
-
 ---
 
 कालः \- २०१५  
