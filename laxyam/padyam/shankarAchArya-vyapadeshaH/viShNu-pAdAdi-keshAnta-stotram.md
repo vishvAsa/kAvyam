@@ -30,7 +30,10 @@ Sri Sankara first prays to Panchajanya, the conch.
 
 May Panchajanya the king of conches, whose sound surpasses the sound of thunder and which terrifies the clan of the Daityas protect us. Positioned in the hand of Vishnu, Lakshmi’s protector, the broad white Panchajanya resembles the moon at the peak of the Niladri, the blue mountain.
 
-Note: Sri Sankara starts the hymn uttering the auspicious name of Lakshmi, who bestows things auspicious to her devotees. The sound of the conch is “ OM ”, the sacred chant. Panchajanya also signifies Sabdabrahma. Niladri, blue in colour, is a mythical mountain to the North of Meru. As Vishnu is blue or dark in colour the comparison of the conch in his hand to that of moon at the peak of Niladri is apt.    
+<details><summary>gorUru-shrInivAsa-mUrti Notes</summary>
+
+Sri Sankara starts the hymn uttering the auspicious name of Lakshmi, who bestows things auspicious to her devotees. The sound of the conch is “ OM ”, the sacred chant. Panchajanya also signifies Sabdabrahma. Niladri, blue in colour, is a mythical mountain to the North of Meru. As Vishnu is blue or dark in colour the comparison of the conch in his hand to that of moon at the peak of Niladri is apt.    
+</details>
 
  
 
@@ -48,7 +51,10 @@ Having first prayed to Paancajanya, the conch which is a representation of Sabda
 
 Let the disc of Chakrapani, whose edge is red with the flow of blood from the bodies of Daityas, which has the lustre of sun and which is worshipped by all, which is the ultimate end of all darkness, which is the ultimate abode of all energy and which sages consider as the form of Entire Time starting from the shortest instance of a kShana, for ever dispense to us bounteous happiness.
 
-Note: The concept of Sudarsana chakra as a representation of kaalachakra is indeed very apt. There is nothing which is not annihilated by Time and nothing can survive its onslaught. Time only proves that Truth prevails over untruth. One twelfth part of a muhoorta is Kshana. One thirtieth of a full day is muhoorta. 
+<details><summary>gorUru-shrInivAsa-mUrti Notes</summary>
+
+The concept of Sudarsana chakra as a representation of kaalachakra is indeed very apt. There is nothing which is not annihilated by Time and nothing can survive its onslaught. Time only proves that Truth prevails over untruth. One twelfth part of a muhoorta is Kshana. One thirtieth of a full day is muhoorta. 
+</details>
 
  
 
@@ -68,7 +74,10 @@ Sri Sankara prays to Saarnga, ViShNu’s bow:
 
 May the sound of the expanding twanging of the bow, whose high pitch is accompanied by the “well done” exclamations of the praising devas protect us. The twanging sound is like that of thunder in the pralaya-like battle emanating from clouds made of streams of arrows, which are like water and the arm of Narayana acts as the wind which drives the clouds. 
 
-Note: The construction of the verse and the metaphor are both complex and the commentator says so. Sankaracharya imagines the battle scene where Narayana is using his bow continuously against the asuras. During the battle, devas are exclaiming, “saadhu, saadhu” and the twang of the bow is heard as high pitched sound amidst the din. The sound is like that of thunder during the deluge at the end of a kalpa. The stream of arrows is like the cloud and the arm of Narayana is the wind which is driving the cloud.
+<details><summary>gorUru-shrInivAsa-mUrti Notes</summary>
+
+The construction of the verse and the metaphor are both complex and the commentator says so. Sankaracharya imagines the battle scene where Narayana is using his bow continuously against the asuras. During the battle, devas are exclaiming, “saadhu, saadhu” and the twang of the bow is heard as high pitched sound amidst the din. The sound is like that of thunder during the deluge at the end of a kalpa. The stream of arrows is like the cloud and the arm of Narayana is the wind which is driving the cloud.
+</details>
 
  
 
@@ -86,7 +95,10 @@ Sankaraachaarya now meditates on the sword Nandaka :
 
 May the sword Nandaka which is satiated with the taste of the blood from the bodies of daityas who have eyes full of fear and which (thus) pleases the slayer of Madhu (Lord Vishnu) be for our eternal bliss. The sword while being swiftly moved in the battles by the Lord’s arm which has the blue luster of a cloud causes confusion like lightening.
 
-Note : Nandaka signifies the sword of Supreme Knowledge by which a devotee cuts asunder Avidyaa. The flashes of the moving sword against the blue hue of the Lord are compared to that of lightening in the blue clouds.  
+<details><summary>gorUru-shrInivAsa-mUrti Notes</summary>
+
+Nandaka signifies the sword of Supreme Knowledge by which a devotee cuts asunder Avidyaa. The flashes of the moving sword against the blue hue of the Lord are compared to that of lightening in the blue clouds.  
+</details>
 
  
 
@@ -104,7 +116,10 @@ Now the poet prays to Kaumodaki, the mace which represents buddhi, intellect:
 
 May Koumodaki (the mace) of Mura’s foe (Murari) which he holds tenderly in the palm of his lotus-like hand, which is perfectly spherical and has an appealing shape, which stays in front and which does not at once tolerate the sight of enemies, which rejoices by (drinking) the liquor of daityas’ blood, which is wet by the smear of blood, which is shining, which appears pleasing because of the brilliance of its rays bestow us our wish like a beloved who bestows amorous favour : a beloved who has a shapely figure and is held tenderly by hand, who has right character, who is ever present in front, who does not tolerate the presence of others, who is enjoying the intoxication arising out of liquor, who is moistened with a red ointment and the border of whose dress is glowing .  
 
-Note : The translation is woefully inadequate to bring out the flavour of double entendre  employed by the Acharya. The literary embellishment called SleShaalankaara consists in using appropriate words having double meanings which are applicable to upamaana, the object to which a thing or action is compared as well as the thing or action itself, upameya. To explain:- kamraakaaraa= of fine shape, having a shapely figure; samyagvRuttaa= nicely spherical, has right character ; pareShaam= of enemies, of others; daityajIvaasavamadamuditaa= enjoying the intoxication caused by the liquor-like blood of Daityas, enjoying the intoxication caused by “daityajIvaasava”; lohitaalepanaardraa = wet with the smear of blood, moistened by red ointment; dIptaaMSukaantaa= (deepta,aMSu,kaantaa) pleasing by the brilliant rays, (deepta, aMSuka, antaa) the border of whose dress is glowing. Kaamam = wish, amourous desire. 
+<details><summary>gorUru-shrInivAsa-mUrti Notes</summary>
+
+The translation is woefully inadequate to bring out the flavour of double entendre  employed by the Acharya. The literary embellishment called SleShaalankaara consists in using appropriate words having double meanings which are applicable to upamaana, the object to which a thing or action is compared as well as the thing or action itself, upameya. To explain:- kamraakaaraa= of fine shape, having a shapely figure; samyagvRuttaa= nicely spherical, has right character ; pareShaam= of enemies, of others; daityajIvaasavamadamuditaa= enjoying the intoxication caused by the liquor-like blood of Daityas, enjoying the intoxication caused by “daityajIvaasava”; lohitaalepanaardraa = wet with the smear of blood, moistened by red ointment; dIptaaMSukaantaa= (deepta,aMSu,kaantaa) pleasing by the brilliant rays, (deepta, aMSuka, antaa) the border of whose dress is glowing. Kaamam = wish, amourous desire. 
+</details>
 
  
 
@@ -122,7 +137,10 @@ Now he prays to Garuda, ViShNu’s vehicle and banner
 
 I bow to SuparNa, the king of birds who is the Vedas personified and who is stainless and golden in colour, who is the breath of Pranava( ॐ), and who though small in size is the vehicle as well as the banner of Hari. The very thought of him causes snake maids to abort the foetuses. His face is smeared with the slush of  blood and  marrow of snakes  as he snaps them asunder with his wide open violently shaking beak.
 
-Note: Garuda is considered vedaatmaa. Visva can be interpreted as omkaara and therefore he is ViSvapraana. 
+<details><summary>gorUru-shrInivAsa-mUrti Notes</summary>
+
+Garuda is considered vedaatmaa. Visva can be interpreted as omkaara and therefore he is ViSvapraana. 
+</details>
 
  
 
@@ -140,7 +158,10 @@ Now the prayer is to Ananta, the king of serpents, who is the seat of Vishnu:
 
 May the Lord of serpents, Anantha, who acts as an exalted bed for Vishnu, the Lord of the universe, protect us from the fear of all types of poison. He is the sole bearer of all the worlds, and has become everything. His glory is vast and unsullied. He is the one who has to be known through all the Vedas. He is the eternal protector of the universe. He is the destroyer of all enemies and all sins. He is omniscient and omnipresent.
 
-Notes: Anantha is the sole bearer of the universe as Vishnu holds the universe in his belly. It is not very clear how some of the epithets which are more appropriate to Vishnu himself are applicable to Anantha. The commentator is not much of a help. Scholars could explain perhaps. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Anantha is the sole bearer of the universe as Vishnu holds the universe in his belly. It is not very clear how some of the epithets which are more appropriate to Vishnu himself are applicable to Anantha. The commentator is not much of a help. Scholars could explain perhaps. 
+</details>
 
  
 
@@ -158,7 +179,10 @@ In the next two verses the sage meditates on Lakshmi, the consort of Vishnu:
 
 I bow to Indira ( Lakshmi), the beautiful-limbed, who is known by the sages as Vaagdevi, Bhudevi, Gauri etc, who is to be revered by everyone, who has the chest of the slayer of Mura as her abode, and whose lotus-like face is made pleasant by her smile as white as moon and Kunda flower. When her glances which are moist with compassionare caston persons even once, they bring all the wealth.
 
-Notes: Shankarabhagavatpada quite clearly perceives Lakshmi, Bhudevi, Gauri, Sarasvati as different facets of the same Mother Goddess. The idea of Lakshmi’s glances bestowing riches is amplified by Vedantadesika in his Sristuti, “ यस्यां यस्यां दिशि विहरते देवि दृष्टिस्त्वदीया तस्यां तस्यामहमहमिकां तन्वते संपदोघाः “ “ Oh Goddess, In whichever direction your glances are cast, in that direction torrents of wealth accumulate”. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Shankarabhagavatpada quite clearly perceives Lakshmi, Bhudevi, Gauri, Sarasvati as different facets of the same Mother Goddess. The idea of Lakshmi’s glances bestowing riches is amplified by Vedantadesika in his Sristuti, “ यस्यां यस्यां दिशि विहरते देवि दृष्टिस्त्वदीया तस्यां तस्यामहमहमिकां तन्वते संपदोघाः “ “ Oh Goddess, In whichever direction your glances are cast, in that direction torrents of wealth accumulate”. 
+</details>
 
  
 
@@ -174,7 +198,10 @@ Notes: Shankarabhagavatpada quite clearly perceives Lakshmi, Bhudevi, Gauri, Sar
 
 She forever gives birth to all the sat (living and the non-living) due to the presence of Purusha (Narayana). As a consequence of the union with Him (Narayana), she holds all this moveable and the immoveable beings for (their) prosperity. She is the creator, the nurse and the supporter; she is the nature, the unchanging, the energy of the universe, the bestower. I bow to her of abundant qualities who is the beloved of Vishnu, the life-force of the universe.
 
-Notes: Lakshmi is prakruti and Narayana is Purusha. Prakruti and Purusha together cause and sustain the universe and all it contains. The oft-quoted verse of Gita could be recalled, “मम योनिर्महद्ब्रह्म तस्मिन् गर्भं दधाम्यहम्। संभवः सर्वभूतानां ततो भवति भारत ॥“ “mama yonirmahadbrahma tasmin garbhaM dadhaamyaham | sambhavaH sarvabhUtaanaam tato bhavati bhaarata ||”  
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Lakshmi is prakruti and Narayana is Purusha. Prakruti and Purusha together cause and sustain the universe and all it contains. The oft-quoted verse of Gita could be recalled, “मम योनिर्महद्ब्रह्म तस्मिन् गर्भं दधाम्यहम्। संभवः सर्वभूतानां ततो भवति भारत ॥“ “mama yonirmahadbrahma tasmin garbhaM dadhaamyaham | sambhavaH sarvabhUtaanaam tato bhavati bhaarata ||”  
+</details>
 
  
 
@@ -192,7 +219,10 @@ Now the sage meditates on the particles of dust under the feet of Vishnu:
 
 May the dust particles present under the lotus-like feet of Vishnu, the lotus-eyed thoroughly and continuously remove the slough of sin of ours who are subservient to him through devotion. The daityas jealous of (the power of) those dust particles quickly leave the exalted and wide place (of the sacred dust) while all the devas all the time desire to carry them on their head.    
 
-Notes: Daityas represent those who are evil in their behaviuor while Devas represent the good and the devoted. The commentator raises a doubt how there could be dust particles under the Lord’s feet and answers that they are the pollen of flowers worn by the Devas on their crowns. That mud is a good remover of slough is of course an observed fact. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Daityas represent those who are evil in their behaviuor while Devas represent the good and the devoted. The commentator raises a doubt how there could be dust particles under the Lord’s feet and answers that they are the pollen of flowers worn by the Devas on their crowns. That mud is a good remover of slough is of course an observed fact. 
+</details>
 
  
 
@@ -210,7 +240,10 @@ Now the prayer is directed to the lines under the feet of Vishnu:
 
 May  the fine soft and well formed lines under the feet of ChakrapaaNi, which are in the shapes of wheel, fish etc. and which look like soft and graceful silk threads and which are being repeatedly massaged by Lakshmi’s lovely hand which is soft as sprout and is accompanied by swarms of bees, bestow on us all that are auspicious.
 
-Notes: As the hands of Lakshmi are fragrant, red and soft as tender sprout, bees crowd around them thinking that they are indeed tender sprouts! आम्रेड्यमान has to be contextually interpreted as repeated touching or massaging, although lexicon-meaning of आम्रेडन is “ a repeated word”.  
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+As the hands of Lakshmi are fragrant, red and soft as tender sprout, bees crowd around them thinking that they are indeed tender sprouts! आम्रेड्यमान has to be contextually interpreted as repeated touching or massaging, although lexicon-meaning of आम्रेडन is “ a repeated word”.  
+</details>
 
 Sankaraacaarya now worships the feet of Vishnu, when he straddled the universe as Vamana, the dwarf in vamanavatara:
 
@@ -226,7 +259,10 @@ Sankaraacaarya now worships the feet of Vishnu, when he straddled the universe a
 
 May the feet of Vishnu, the lotus-eyed which are as soft as the inside of the lotus protect us. (During Vamana incarnation) when one of the feet was straddling the skies looking like a giant flag-staff made of emerald, the pure Ganga, the river of Gods, flowing from it looked like the flag. The other foot placed on the ground looked like a giant pillar of the house-like earth.
 
-Notes: In this verse the sage visualizes the scene when Vamana occupied the skies with one foot while his other foot was firmly placed on the earth.   
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+In this verse the sage visualizes the scene when Vamana occupied the skies with one foot while his other foot was firmly placed on the earth.   
+</details>
 
  
 
@@ -246,7 +282,10 @@ The sage continues his contemplation of Vamana Avatara in this verse.
 
 I repeatedly surrender to the unconquered Vishnu’s graceful two pink-soled lotus-like feet, which  bestow immense affluence and which while straddling the three worlds brought to Vairochani , the king of Asuras and to Indra, the king of Suras the pinaacle of misfortune and fortune  simultaneously and together.
 
-Note: During Vamana avatara, Bali the king of Asuras suffered utter humiliation and Indra regained his affluence. The commentator explains एकधाम (ekadhaama) as पराकाष्ठा (paraa kaaShThaa), which has been translated as “pinnacle”**. **In this hymn Vishnu is often referred to as Ajita.
+<details><summary>gorUru-shrInivAsa-mUrti Notes</summary>
+
+During Vamana avatara, Bali the king of Asuras suffered utter humiliation and Indra regained his affluence. The commentator explains एकधाम (ekadhaama) as पराकाष्ठा (paraa kaaShThaa), which has been translated as “pinnacle”**. **In this hymn Vishnu is often referred to as Ajita.
+</details>
 
  
 
@@ -267,7 +306,10 @@ Adi Sankara now contemplates on the infinite feet of virat purusha, extolled in 
 
 All the time let there be salutations to Vishnu's innumerable great lotus-like feet which occupied the whole of the earth, while Vishnu as Viratpurusha spanned the whole universe. All the Vedas have indeed clearly proclaimed the infinitude of those feet and from those feet were born the fourth varna of the peoples at the time of Primeval Creation.
 
-Notes: The sage visualizes the virat purusha of purushasukta and prays to the infinite feet of that Viratpurusha. "Sahasra" although means one thousand really denotes the Innumerable.  
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+The sage visualizes the virat purusha of purushasukta and prays to the infinite feet of that Viratpurusha. "Sahasra" although means one thousand really denotes the Innumerable.  
+</details>
 
  
 
@@ -301,17 +343,18 @@ Now the prayer is directed to the row of toe-nails of Vishnu :
 
 May the row of toe-nails of lotus-like feet of Vishnu, the wielder of the disc, provide us the all-transcending wealth which leads to every type of happiness. An expanding wheel of beautiful rays emanates from the row of nails. The Devas bending low while prostrating to the Lord look at their own reflection in the spotless row of nails and have an apprehension that it is another group of Devas and feel jealous of them.
 
-Notes: Quite clearly the type of wealth that the sage is seeking is salvation which transcends everything else. The row of nails is spotless and has a natural shine in which the Devas who have come to seek audience of Vishnu see their own reflection and mistake the reflection to be another real group of Devas and they feel jealous of them as they have already been given protection by Vishnu! A nice exaggeration indeed!  
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Quite clearly the type of wealth that the sage is seeking is salvation which transcends everything else. The row of nails is spotless and has a natural shine in which the Devas who have come to seek audience of Vishnu see their own reflection and mistake the reflection to be another real group of Devas and they feel jealous of them as they have already been given protection by Vishnu! A nice exaggeration indeed!  
+</details>
 
  
 
 The sage meditates on the front part of the feet of Vishnu:
 
-पादाम्भोजन्मसेवासमवनतसुरव्रातभास्वत्किरीट-
-
+पादाम्भोजन्मसेवासमवनतसुरव्रातभास्वत्किरीट-  
 -प्रत्युप्तोच्चावचाश्मप्रवरकरगणैश्चित्रितं यद्विभाति ।  
-नम्राङ्गानां हरेर्नो हरिदुपलमहाकूर्मसौन्दर्यहारि-
-
+नम्राङ्गानां हरेर्नो हरिदुपलमहाकूर्मसौन्दर्यहारि-  
 -च्छायं श्रेयःप्रदायि प्रपदयुगमिदं प्रापयेत् पापमन्तम् ॥ १७ ॥ 
 
 <details><summary>अन्वयः</summary>
@@ -321,7 +364,10 @@ The sage meditates on the front part of the feet of Vishnu:
 
 May Vishnu’s front part of the feet, which bestows all round well-being, terminate the sins of ours who are bent low before him. His front of the feet, the elegance of which beats that of the shell of a tortoise made of emerald, looks colorful with the myriad hues of the gems on the Deva’s crowns as they bend low placing their crowned heads at His feet.
 
-Notes: Sankarabhagavatpada employs an unusually long compound word, which is contrary to his style of simple lilting words. Perhaps he wanted to indicate to his contemporary pundits, that his normal style of simple words was not because of his inability to compose verses with long and complex words and constructs! [There appears to be no suitable word in common(non-medical) English to denote the front portion of the feet.] 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Sankarabhagavatpada employs an unusually long compound word, which is contrary to his style of simple lilting words. Perhaps he wanted to indicate to his contemporary pundits, that his normal style of simple words was not because of his inability to compose verses with long and complex words and constructs! [There appears to be no suitable word in common(non-medical) English to denote the front portion of the feet.] 
+</details>
 
  
 
@@ -339,7 +385,10 @@ Next Sankaracharya meditates on the elegant legs of Narayana:
 
 May the well-rounded lustrous legs(shanks) of Narayana, which rob the beauty of elegant staffs made of sapphire, which experience horripilation as Lakshmi gently massages them with her hands,  which destroy the groups of enemies(of Devas), which give happiness to the Devas and which are being praised by the great devotees ever flourish while removing all our sins.
 
-Notes: As in earlier verses Devas represent the virtuous while their enemies represent the vicious.  
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+As in earlier verses Devas represent the virtuous while their enemies represent the vicious.  
+</details>
 
  
 
@@ -357,14 +406,16 @@ Now Sankara concentrates on the knees of Vishnu:
 
 May the unconquered Vishnu’s knees which look as though they were the round jewel caskets meant for keeping the respected mirror of the minds of the virtuous bestow happiness in our hearts. The knees look as if they are stay-beams to support continuously  in the right manner, the shanks which are under strain due to the weight of the thighs.
 
-Notes: Here उत्प्रेक्षा, a well known figure of speech is employed to convey two different images. Vishnu’s knee looks like a round jewel-casket for keeping a mirror. The mirror is the polished clean mind of the virtuous. It implies that the minds of the virtuous meditate on Vishnu’s knees. The knee also looks as if it is a support-beam for the shank which is under strain due to the weight of the thigh! 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Here उत्प्रेक्षा, a well known figure of speech is employed to convey two different images. Vishnu’s knee looks like a round jewel-casket for keeping a mirror. The mirror is the polished clean mind of the virtuous. It implies that the minds of the virtuous meditate on Vishnu’s knees. The knee also looks as if it is a support-beam for the shank which is under strain due to the weight of the thigh! 
+</details>
 
  
 
 Now the sage prays to the thighs of Vishnu:
 
-देवो भीतिं विधातुः सपदि विदधतौ कैटभाख्यं मधुं चा-
-
+देवो भीतिं विधातुः सपदि विदधतौ कैटभाख्यं मधुं चा-  
 प्यारोप्यारूढगर्वावधिजलधि ययोरादिदैत्यौ जघान ।  
 वृतावन्योन्यतुल्यौ चतुरमुपचयं बिभ्रतावभ्रनीलौ  
 ऊरू चारू हरेस्तौ मुदमतिशयिनीं मानसे नो विधत्ताम् ॥ २० ॥
@@ -376,7 +427,10 @@ Now the sage prays to the thighs of Vishnu:
 
 May Hari’s rounded, robust, charming and symmetrical cloud-blue thighs instill bounteous joy in our minds. Vishnu instantly killed the first of Daityas, haughty Madhu and Kaitabha by placing them on those thighs amidst the ocean when they were frightening Brahma.
 
-Notes: The reference is to the Puranic story which narrates that the demons, Madhu and Kaitabha born from the excretion of Vishnu’s ears started harassing Brahma and that Vishnu killed them by placing them on his thighs. Madhu and Kaitabha are strictly not Daityas as Daityas are those born of Diti. Commentator explains that here Daitya has to be taken as a generic name for Rakshasa’s. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+The reference is to the Puranic story which narrates that the demons, Madhu and Kaitabha born from the excretion of Vishnu’s ears started harassing Brahma and that Vishnu killed them by placing them on his thighs. Madhu and Kaitabha are strictly not Daityas as Daityas are those born of Diti. Commentator explains that here Daitya has to be taken as a generic name for Rakshasa’s. 
+</details>
 
   
 
@@ -394,7 +448,10 @@ The sage meditates on the loins of Vishnu:
 
 May the revered loins of Vishnu of the golden-yellow robe continuously save our minds, even by a mere descent into prayer, from the severe sins that cause us a degraded state. The loins skillfully covered by the (lower) garment look enchanting like the oceanic water made enchanting by the flames of vadava fire (submarine fire).
 
-Notes:  1.पातित्य has been translated as “degraded state”. पतितस्य भावः पातित्यम्-> the state one falls to when one cannot adhere to the commands of Do’s and Don’ts given by Sruti’s and Smriti’s. 2. Sankara uses a very significant word अवतरत् qualifying चेतोविषयम्. अवतरत् denotes the process of descending. As the commentator explains, it denotes the mind which has just started to descend into a state of meditation or prayer. A mere attempt to pray or meditate should be enough to clear ones sins!  
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+1.पातित्य has been translated as “degraded state”. पतितस्य भावः पातित्यम्-> the state one falls to when one cannot adhere to the commands of Do’s and Don’ts given by Sruti’s and Smriti’s. 2. Sankara uses a very significant word अवतरत् qualifying चेतोविषयम्. अवतरत् denotes the process of descending. As the commentator explains, it denotes the mind which has just started to descend into a state of meditation or prayer. A mere attempt to pray or meditate should be enough to clear ones sins!  
+</details>
 
  
 
@@ -412,7 +469,10 @@ The salutations are now directed to the girdle of Vishnu:
 
 May Vishnu’s gold-hued elegant girdle which bestows  auspiciousness and  which is glowing by the radiating rays of precious gems make my mind clever and agreeable always. The waist of Vishnu, of three abodes, with the strings of the girdle tied around the loins looks like the Mandara mountain in the center of the ocean with the hoods of Vasuki tied around it.
 
-Notes: The allusion is to the churning of ocean by Sura’s and Asura’s. Vishnu is called “tridhaaman”, one who has three abodes. The three abodes, as per the commentator, could be construed as a) states of wakefulness, dream and sleep; b) Rik, yajus, Sama Veda’s; c) bhuloka, bhuvarloka and suvarloka; d) sun, moon, and fire the three forms of Tejas.  In passing, the commentator quotes this interesting verse without indicating the source: “न देवा यष्टिमादाय रक्षन्ति पशुपालवत्। यं यं रक्षितुमिच्छन्ति बुद्ध्या संयोजयन्ति तम् ॥“  Gods do not provide protection in the manner of a cow-herd with a stick in hand. Whomsoever they want to protect, they endow him with the right reasoning. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+The allusion is to the churning of ocean by Sura’s and Asura’s. Vishnu is called “tridhaaman”, one who has three abodes. The three abodes, as per the commentator, could be construed as a) states of wakefulness, dream and sleep; b) Rik, yajus, Sama Veda’s; c) bhuloka, bhuvarloka and suvarloka; d) sun, moon, and fire the three forms of Tejas.  In passing, the commentator quotes this interesting verse without indicating the source: “न देवा यष्टिमादाय रक्षन्ति पशुपालवत्। यं यं रक्षितुमिच्छन्ति बुद्ध्या संयोजयन्ति तम् ॥“  Gods do not provide protection in the manner of a cow-herd with a stick in hand. Whomsoever they want to protect, they endow him with the right reasoning. 
+</details>
 
  
 
@@ -430,7 +490,10 @@ Sri Sankara takes us along to meditate on the navel of Vishnu:
 
 May the swan-like mind of ours live eternally in the lotus-eyed Vishnu’s lake-like navel filled with the emerald-blue water-like tremulous lustre. In that lake-like navel long back the lofty, beautiful lotus grew which was revered by Deva’s and which became the seat of bee-like Brahma.
 
-Notes: Sankara uses a fine metaphor(रूपक) to describe the navel of Vishnu. The navel is a lake, with lustrous blue water, in which a lotus grew which became an abode for a bee called Brahma! Our mind is a swan which should eternally dwell in that lake.       
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Sankara uses a fine metaphor(रूपक) to describe the navel of Vishnu. The navel is a lake, with lustrous blue water, in which a lotus grew which became an abode for a bee called Brahma! Our mind is a swan which should eternally dwell in that lake.       
+</details>
 
  
 
@@ -448,7 +511,10 @@ Now the salutations are to the actual lotus coming out of the navel of Vishnu:
 
 May the lotus,in which is seated Brahma singing (praises of the Lord) like a humming bee, and which is growing out of the lake-like navel of Sauri, who has a serpent as his bed, be the fulfiller of all our wishes. The learned consider the netherworlds as the stalk of that earthly lotus, the directions as its petals, the great mountains as its filament-rows and the mountain Meru as its pericarp.  
 
-Notes: The commentator points out that calling Vishnu as Sauri, which is essentially an epithet of Krishna[belonging to Shoora dynasty], clearly brings out that Krishna is a complete avatara of Vishnu. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+The commentator points out that calling Vishnu as Sauri, which is essentially an epithet of Krishna[belonging to Shoora dynasty], clearly brings out that Krishna is a complete avatara of Vishnu. 
+</details>
 
 [pericarp- A botanical word- vessel containing seed formed from wall of ripened ovary-The translator humbly leaves it at that!]_   _ 
 
@@ -468,7 +534,10 @@ Now in the next two verses, the salutations are to the abdominal part of Vishnu�
 
 May our mind joyously play for long in the abdominal part, which manifests itself as the sky, of Vishnu, the unconquered, whose form is extremely  beyond imagination. All this expanded universe came into being from that abdomen at the beginning of the Kalpa(period of four yuga’s) and all the immovable and the movable enter into that abdomen at the end of the Kalpa.
 
-Notes: As per dictionary, क्रोड means the chest, the portion between the shoulders. Commentator has interpreted it as the abdominal portion contextually. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+As per dictionary, क्रोड means the chest, the portion between the shoulders. Commentator has interpreted it as the abdominal portion contextually. 
+</details>
 
  
 
@@ -484,7 +553,10 @@ Notes: As per dictionary, क्रोड means the chest, the portion between t
 
 May our fish-like mind play for long in the ocean-like abdomen of Damodara. The lustre of Vishnu is the water; The abdominal folds are the dark waves; The deep navel is the whirl-pool; the lustre of the golden girdle around the waist of Damodara is the sub-oceanic fire, Vadavaagni.
 
-Notes: The commentator elucidates: “ The import of the Acharya is that just as a fish cannot exist out of water, may our minds reach a stage when they cannot live away from meditating on the form of Vishnu.” The metaphor is complete in all respects as a one to one correspondence has been beautifully brought out. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+The commentator elucidates: “ The import of the Acharya is that just as a fish cannot exist out of water, may our minds reach a stage when they cannot live away from meditating on the form of Vishnu.” The metaphor is complete in all respects as a one to one correspondence has been beautifully brought out. 
+</details>
 
  
 
@@ -504,7 +576,10 @@ Sri Sankara’s attention travels up the navel of Vishnu along the line of hair 
 
 May the line of hair on Vishnu’s abdomen residing in our minds always continue to bestow us deserved riches. The line of hair, the beauty of which is relished by the revered, looks like a lustrous string of blue bumble-bees traveling from the bottom of lotus-like navel towards the lotus-like face captivated by the strong fragrance (of the face).
 
-Notes: Describing the streak of hair on the abdomen above the navel is not uncommon in Sanskrit literature. To cite an example, Kalidasa who most probably preceded  Sankaracharya, indulges in such description in Kumarasambhavam.     
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Describing the streak of hair on the abdomen above the navel is not uncommon in Sanskrit literature. To cite an example, Kalidasa who most probably preceded  Sankaracharya, indulges in such description in Kumarasambhavam.     
+</details>
 
  
 
@@ -522,7 +597,10 @@ The sage beholds the soothing chest of Vishnu:
 
 I surrender to the Sarngapani (Vishnu)’s chest which acts as a garden- resort to those who are weary of the journey of samsara. The radiating rays of Kaustubha gem are like new shoots; It is having an abundance of pearls(muktaphala) like custard apples(muktaphala); The presence of Lakshmi (Srivasa) is like the splendour of lotus(Srivasa); It is marked by the blossoms of ever-fresh garland of  forest-flowers(vanamala); glittering ends of shoulder(bhujanta) are like Bhurja trees(bhujanta); It is having the hue of swarm of bumble-bees; It is embellished by the Srivatsa mark( Srivriksha=Aswatha tree).
 
-Notes: The beauty of this verse can hardly be brought out in English as the similarity brought out between a garden and the chest of Vishnu is dependant on the particular choice of words which convey two meanings. It is a case of upama-alankara fortified by Slesha(pun). Just as a weary traveler rests in a garden, full of blossoms and new shoots a virakta weary of samsara takes refuge in the chest of Vishnu. The commentator interprets Srivatsa as Srivriksha. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+The beauty of this verse can hardly be brought out in English as the similarity brought out between a garden and the chest of Vishnu is dependant on the particular choice of words which convey two meanings. It is a case of upama-alankara fortified by Slesha(pun). Just as a weary traveler rests in a garden, full of blossoms and new shoots a virakta weary of samsara takes refuge in the chest of Vishnu. The commentator interprets Srivatsa as Srivriksha. 
+</details>
 
  
 
@@ -542,7 +620,10 @@ Sankara hails the grandeur of Srivatsa mark on Vishnu’ chest:
 
 May the lustrous Srivatsa mark of Sripati, which is dear to Lakshmi like a child and which is densely mixed with the radiating lustre of Kaustubha gem, bestow upon us the highest of riches. The Srivatsa mark heightens the brilliance of Vishnu’s chest like the blackness on the neck of Siva, like the mark on the moon and like a bumble-bee on the sprout of a tree.
 
-Notes: Srivatsa is a swirl of hair on the right side of the chest of Vishnu. Sankara explains the origin of the name by saying that it is dear to Sri(Lakshmi) like a child  Kaustubha is a gem which came up from the ocean of milk when it was being churned by deva’s and daitya’s and which became an ornament to adorn Vishnu’s chest._ _The highest of riches which the sage prays for is clearly salvation. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Srivatsa is a swirl of hair on the right side of the chest of Vishnu. Sankara explains the origin of the name by saying that it is dear to Sri(Lakshmi) like a child  Kaustubha is a gem which came up from the ocean of milk when it was being churned by deva’s and daitya’s and which became an ornament to adorn Vishnu’s chest._ _The highest of riches which the sage prays for is clearly salvation. 
+</details>
 
  
 
@@ -550,8 +631,7 @@ Now Sankara’s attention is drawn towards the brilliant Kaustubha gem.
 
 संभूयाम्भोधिमध्यात्सपदि सहजया यः श्रिया संनिधत्ते  
 नीले नारायणोरःस्थलगगनतले हारतारोपसेव्ये ।  
-आशाः सर्वाः प्रकाशा विदधदपिदधच्चात्मभासान्यतेजां-
-
+आशाः सर्वाः प्रकाशा विदधदपिदधच्चात्मभासान्यतेजां-  
 स्याश्चर्यस्याकरो नो द्युमणिरिव मणिः कौस्तुभः सोऽस्तु भूत्यै ॥ ३० ॥
 
 <details><summary>अन्वयः</summary>
@@ -561,7 +641,10 @@ Now Sankara’s attention is drawn towards the brilliant Kaustubha gem.
 
 May the awe-inspiring Kaustubha gem which adorns the chest of Vishnu along with Lakshmi and which illuminates all the directions, bring us prosperity like sun does. Narayana’s chest is blue like the sky. There are garlands on the chest like stars in the sky. Kaustubha gem is along with Sri(Lakshmi), who was sahajaa,(sister), [both having been born in the ocean of milk] like the sun which has a Sri(brilliance) which is sahajaa(all its own). Kautubha gem’s brilliance masks other lustres [the garlands] like sun’s masks that of stars.  
 
-Notes: Sankara cleverly uses again pun at places to bring out similarity between Kaustubha gem and the sun. As the commentator has brought out, there is a clear suggestion to the birth of an outstanding luminary, an avatara-purusha, in this samsara-sagara who offers hopes to all. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Sankara cleverly uses again pun at places to bring out similarity between Kaustubha gem and the sun. As the commentator has brought out, there is a clear suggestion to the birth of an outstanding luminary, an avatara-purusha, in this samsara-sagara who offers hopes to all. 
+</details>
 
  
 
@@ -582,7 +665,10 @@ Sanakara prays to Jayanti, the garland worn by Vishnu: The garland is supposed t
 
 May the garland Jayanti, tended dearly by Lakshmi, never cease to quickly unite us with happiness. While the wind blows comfortably, the garland shining incomparably by the brilliance of the gem, rests on the shoulders of Vishnu gently vibrating. The garland looking beautiful with dark blue tips ( of flowers) and humming swarms of bees around the flowers keeps Vishnu happy.
 
-Notes : The most striking feature of this verse as one recites it is the repetition of groups of letters endowing it with a umique sonorous quality. At the beginning and end of each pada(quarter of a verse) we can see this repetition. वावा याया, भासमाना समाना etc. This is an acrobatics in versifying which became popular among later poets. We need to note that although there is a repetition of syllables, words themselves are not repeated. This comes under the category of “Sabdalankara”, word-ornamentation and is called “yamaka” (यमक). Suffice it to say that let alone endowing the verses with lyrical meaning, even to construct such verses with some relevant meaning is itself very difficult.     
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+The most striking feature of this verse as one recites it is the repetition of groups of letters endowing it with a umique sonorous quality. At the beginning and end of each pada(quarter of a verse) we can see this repetition. वावा याया, भासमाना समाना etc. This is an acrobatics in versifying which became popular among later poets. We need to note that although there is a repetition of syllables, words themselves are not repeated. This comes under the category of “Sabdalankara”, word-ornamentation and is called “yamaka” (यमक). Suffice it to say that let alone endowing the verses with lyrical meaning, even to construct such verses with some relevant meaning is itself very difficult.     
+</details>
 
  
 
@@ -600,7 +686,10 @@ Sankara looks at the top end of the shoulder of Vishnu:
 
 We pray to the elegant top end of the shoulder of Vishnu, the unconquered, “May it come in the way of the grief of bondage which greatly and repeatedly torments (us)”. The top end of the shoulder has acquired varied hues because of the long and brilliant rays from the ever-fresh garland of forest flowers, the lustre of the bracelet and the ornament on the chest.
 
-Notes: The printed text uses “कबलितरुचि” while the commentator uses “शबलितरुचि”. Here the version of the commentator has been adopted. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+The printed text uses “कबलितरुचि” while the commentator uses “शबलितरुचि”. Here the version of the commentator has been adopted. 
+</details>
 
  
 
@@ -618,7 +707,10 @@ The sage contemplates on the innumerable arms of Vishnu:
 
 May the (many) shoulders of Hari nourish the destruction of Maya in me. The shoulders carry thousands of weapons such as Sarnga bow, sword, shield, disc, mace, lotus and conch, which are indescribable, which accomplish astonishing acts of evident great fame and which are dedicated to solely protecting the universe and accordingly efficient in creating dynamic warrior folk(Kshatriya’s),.
 
-Notes: The vision contemplated here is that of Vishnu of innumerable arms holding innumerable weapons like the Viswarupa of Gita. In Vishnusahasranama he has a name, “सर्वप्रहरणायुध”[sarvapraharanayudha]. Anything can be a weapon in his hands even a blade of grass. The printed text has “स्फुटगुणयशसाम्” while the commentator has adopted “स्पुटगुरुयशसाम्”, which is the one chosen here. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+The vision contemplated here is that of Vishnu of innumerable arms holding innumerable weapons like the Viswarupa of Gita. In Vishnusahasranama he has a name, “सर्वप्रहरणायुध”[sarvapraharanayudha]. Anything can be a weapon in his hands even a blade of grass. The printed text has “स्फुटगुणयशसाम्” while the commentator has adopted “स्पुटगुरुयशसाम्”, which is the one chosen here. 
+</details>
 
 Now the neck of Vishnu is worshipped:
 
@@ -654,7 +746,10 @@ May the sun-like lip of Vishnu, the husband of Lakshmi, destroy our darkness-lik
 
 Vishnu’s lip provides pleasure to padmaa(Lakshmi) in the manner sun provides pleasure to padma(lotus). In the front portion of the lip, there is the lustre of aruna(redness)  similar to the lustre of Aruna being at the fore-front of the sun. Regularly Vishnu’s lip expertly fills the moon-white conch with breath similar to sun filling up the conch-white moon. Being at the front of the sky-like mouth it masks the sparkling teeth in a manner that sun at the morning horizon masks the twinkling stars.
 
-Notes : this verse demonstrates Sankaracharya’s skill and imagination in weaving a beautiful tapestry of simile and pun, which can truly be enjoyed in Sanskrit only. The reference is to lotus blooming on sun-rise. Vishnu blows the conch when he has to fight the evil forces. Sun causes the growth of moon’s face during the light-half of the month.  Aruna is the charioteer of Sun, who perhaps is a personification of the red-glow that precedes  the sun-rise.  
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+this verse demonstrates Sankaracharya’s skill and imagination in weaving a beautiful tapestry of simile and pun, which can truly be enjoyed in Sanskrit only. The reference is to lotus blooming on sun-rise. Vishnu blows the conch when he has to fight the evil forces. Sun causes the growth of moon’s face during the light-half of the month.  Aruna is the charioteer of Sun, who perhaps is a personification of the red-glow that precedes  the sun-rise.  
+</details>
 
  
 
@@ -672,7 +767,10 @@ The sage looks at the star-like teeth of Vishnu:
 
 May Vishnu’s row of teeth which shines like a line of stars(feminine_) right inside the moon-like mouth(_masculine) as if she cannot feel separated from her beloved because of excessive love towards him and which has the lustre of sparkling row of pearls and which has an endearing shape protect us who are engaged in prostrating to him and praising him.
 
-Notes : This is an elegant example of exaggeration (उत्प्रेक्षा) where in the poet  imagines that  the teeth being inside the mouth is as if the stars were inside the moon! And he sees a motive behind that. Stars which are traditionally considered as wives of the moon  have taken residence right inside the moon to avoid separation from him! 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+This is an elegant example of exaggeration (उत्प्रेक्षा) where in the poet  imagines that  the teeth being inside the mouth is as if the stars were inside the moon! And he sees a motive behind that. Stars which are traditionally considered as wives of the moon  have taken residence right inside the moon to avoid separation from him! 
+</details>
 
  
 
@@ -680,8 +778,7 @@ The sage imagines the assembly of Deva’s presided over by Vishnu:
 
 ब्रह्मन्ब्रह्मण्यजिह्मां मतिमपि कुरुषे देव संभावये त्वाम्  
 शंभो शक्र त्रिलोकीमवसि किममरैर्नारदाद्याः सुखं वः ।  
-इत्थं सेवावनम्रं सुरमुनिनिकरं वीक्ष्य विष्णोः प्रसन्न-
-
+इत्थं सेवावनम्रं सुरमुनिनिकरं वीक्ष्य विष्णोः प्रसन्न-  
 स्यास्येन्दोरास्रवन्ती वरवचनसुधा ह्लादयेन्मानसं नः ॥ ३७ ॥
 
 <details><summary>अन्वयः</summary>
@@ -693,14 +790,16 @@ Looking at the assembly of Deva’s and sages who are bent with humility Vishnu 
 
  
 
-Notes: Commentator explains that even Brahma has to meditate on Brahman in order to do his duty of creation. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Commentator explains that even Brahma has to meditate on Brahman in order to do his duty of creation. 
+</details>
 
  
 
 The sage experiences the pleasure of looking at Vishnu’s cheeks:
 
-कर्णस्थस्वर्णकम्रोज्ज्वलमकरमहाकुण्डलप्रोतदीप्यन्-
-
+कर्णस्थस्वर्णकम्रोज्ज्वलमकरमहाकुण्डलप्रोतदीप्यन्-  
 माणिक्यश्रीप्रतानैः परिमिलितमलिश्यामलं कोमलं यत् ।  
 प्रोद्यत्सूर्यांशुराजन्मरकतमुकुराकारचोरं मुरारेः  
 गाढामागामिनीं नः शमयतु विपदं गण्डयोर्मण्डलं तत् ॥ ३८ ॥
@@ -728,7 +827,10 @@ May the soft bee-blue cheeks of Vishnu, the foe of Mura, destroy our impending s
 
 May the nose of Murari which acts as the spreading path for his Prana vayu grant us the breath of life The nose which appears red because of the rays from the pair of glittering ear-rings looks like the beak of a parrot descending to bite the gem-like lip, which is as charming as a ripe Bimba fruit, glittering in the lotus-like face.  
 
-Notes: The commentator remarks that as devotion to Lord is verily the Life-breath for a devotee, the sage is seeking that only. Bimba fruit gets red when it is ripe and  comparing the lip to a Bimba fruit is a standard simile in Sanskrit literature. घोणा as a feminine noun is the standard usage, but घोण is also encountered in literature as the commentator points out. उस्र is a rarely occurring word which means ray. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+The commentator remarks that as devotion to Lord is verily the Life-breath for a devotee, the sage is seeking that only. Bimba fruit gets red when it is ripe and  comparing the lip to a Bimba fruit is a standard simile in Sanskrit literature. घोणा as a feminine noun is the standard usage, but घोण is also encountered in literature as the commentator points out. उस्र is a rarely occurring word which means ray. 
+</details>
 
 दिक्कालौ वेदयन्तौ जगति मुहुरिमौ संचरन्तौ रवीन्दू  
 त्रैलोक्यालोकदीपावभिदधति ययोरेव रूपं मुनीन्द्राः ।  
@@ -752,7 +854,10 @@ paataamaataamraSuklaasitarucirucire padmanetrasya netre || 40 ||
 
 May those two lotus-like eyes of Padmanetra, which are charmingly coloured with redness, whiteness, and blackness and which are looking at us full of compassion protect us. The great sages consider the two eyes as the sun and the moon which are incessantly moving around the world like two lustrous lamps to indicate direction and time.
 
-Notes: There are many references to sun and moon as the eyes of the Lord in Sruti’s and Smriti’s.  Eyes are just like lotuses which have a black central portion, surrounded by a white portion and then the red petals, notes the commentator. It is a remarkable observation that both reckoning of time and direction are dependant on the sun and the moon. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+There are many references to sun and moon as the eyes of the Lord in Sruti’s and Smriti’s.  Eyes are just like lotuses which have a black central portion, surrounded by a white portion and then the red petals, notes the commentator. It is a remarkable observation that both reckoning of time and direction are dependant on the sun and the moon. 
+</details>
 
  
 
@@ -772,15 +877,16 @@ The sage beholds the elegance of Vishnu’s eye-brows in the next two verses:
 
 May the eye-brows, bowed at centre, of Vishnu, who has the chief of the feathered as his transport, save us from falling to the nether-world (Naraka). Just by a little movement of the eye-brows of Vishnu, Deva’s along with Asura’s are controlled at their places of duty. The eye-brows dancing in the stage-like forehead which is elegantly shaped as a half-moon are sportive and look as though like a pair of black serpents near their mother in the form of the ear-ornament,.  
 
-Notes: The prayer is to make the devotee tread the path of virtue so that he may not fall into Naraka, the equivalent of hell. There is a mix up of रूपक and उत्प्रेक्षा. The discerning may find it contrived. Word वालिका is not listed in standard dictionaries. The commentator interprets it as कर्णभूषणविशेषः quoting Vaijayanti Lexicon. The ornament is perhaps shaped like a big snake. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+The prayer is to make the devotee tread the path of virtue so that he may not fall into Naraka, the equivalent of hell. There is a mix up of रूपक and उत्प्रेक्षा. The discerning may find it contrived. Word वालिका is not listed in standard dictionaries. The commentator interprets it as कर्णभूषणविशेषः quoting Vaijayanti Lexicon. The ornament is perhaps shaped like a big snake. 
+</details>
 
  
 
-लक्ष्माकारालकालिस्फुरदलिकशशाङ्कार्धसंदर्शमीलन्-
-
+लक्ष्माकारालकालिस्फुरदलिकशशाङ्कार्धसंदर्शमीलन्-  
 नेत्राम्भोजप्रबोधोत्सुकनिभृततरालीनभृङ्गच्छटाभे ।  
-लक्ष्मीनाथस्य लक्ष्यीकृतविबुधगणापाङ्गबाणासनार्ध-
-
+लक्ष्मीनाथस्य लक्ष्यीकृतविबुधगणापाङ्गबाणासनार्ध-  
 -च्छाये नो भूरिभूतिप्रसवकुशलते भ्रूलते पालयेताम् ॥ ४२ ॥
 
 <details><summary>अन्वयः</summary>
@@ -790,17 +896,18 @@ Notes: The prayer is to make the devotee tread the path of virtue so that he may
 
 May Lakshminatha’s creeper-like eye-brows which are capable of generating bountiful wealth protect us. They look like the half-bent bow, the seat of Vishnu’s arrow-like glances at the assembly of Deva’s. They look like a line of bumble-bees engaged in waking up the lotus-like eyes which are half closed due to the moon-like forehead containing the hair-curls looking like the mark on the moon.
 
-Notes: Glances are traditionally likened to arrows or darts. The eye-brows look like the bows from which the arrows of glances dart in the direction of assembled Deva’s. The forhead looks like the half-moon. The curls of hair on the forehead look like the mark on the moon. Looking at the moon the lotus-like eyes are half closed. (Lotuses close as the moon rises). The eye-brows look like a line of bumble bees close to the lotus eagerly engaged in opening the half closed lotuses!    
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Glances are traditionally likened to arrows or darts. The eye-brows look like the bows from which the arrows of glances dart in the direction of assembled Deva’s. The forhead looks like the half-moon. The curls of hair on the forehead look like the mark on the moon. Looking at the moon the lotus-like eyes are half closed. (Lotuses close as the moon rises). The eye-brows look like a line of bumble bees close to the lotus eagerly engaged in opening the half closed lotuses!    
+</details>
 
  
 
 Now the sage looks at the Tilaka mark on Vishnu’s forehead:
 
-रूक्षस्मारेक्षुचापच्युतशरनिकरक्षीणलक्ष्मीकटाक्ष-
-
+रूक्षस्मारेक्षुचापच्युतशरनिकरक्षीणलक्ष्मीकटाक्ष-  
 प्रोत्फुल्लत्पद्ममालाविकसितमहितस्फाटिकैशानलिङ्गम् ।  
-भूयात् भूयो विभूत्यै मम भुवनपतेर्भ्रूलताद्वन्द्वमध्या-
-
+भूयात् भूयो विभूत्यै मम भुवनपतेर्भ्रूलताद्वन्द्वमध्या-  
 -तुत्थं तत्पुण्ड्रमूर्ध्वं जनिमरणतमःखण्डनं मण्डनं च ॥ ४३ ॥ 
 
  
@@ -812,7 +919,10 @@ Now the sage looks at the Tilaka mark on Vishnu’s forehead:
 
 May the “oordhvapundra” mark of the Vishnu, Lord of the universe, arising in between the creeper-like brows, which dispels the darkness of birth and death be for my prosperity. The mark looks like a crystal-white symbol of Siva to which Lakshmi, weakened by the group of arrows released from the sugarcane-bow of Manmatha is offering lotus-garlands in the form of her glances.  
 
-Notes: Manmatha (cupid) is supposed to be having a bow of sugarcane. Lakshmi is tormented by Manmatha and is constantly looking at the mark on Vishnu’s forehead. Her glances are like offerings of lotus garland to symbol of Siva in the form of the mark entreating him to lessen the harshness of Manmatha’s arrows, as he is the conqueror of Manmatha!     
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Manmatha (cupid) is supposed to be having a bow of sugarcane. Lakshmi is tormented by Manmatha and is constantly looking at the mark on Vishnu’s forehead. Her glances are like offerings of lotus garland to symbol of Siva in the form of the mark entreating him to lessen the harshness of Manmatha’s arrows, as he is the conqueror of Manmatha!     
+</details>
 
  
 
@@ -830,7 +940,10 @@ Notes: Manmatha (cupid) is supposed to be having a bow of sugarcane. Lakshmi is 
 
 May our wavering mind like an expert actress glittering and displaying her limbs play the drama of concentration on the broad stage of forehead of Vishnu, the foe of Kaitabha, after removing the screen of lassitude. On that broad stage of Vishnu’s forehead, the crown of Vishnu looks like the linga symbolizing Siva seated on the ends of curls of hair on the forehead.  
 
-Notes: The poet In Sankara visualizes a play called  “concentration”  played by his mind on the stage of Vishnu’s forehead. In other words, he prays that he may be able to concentrate on the forehead of Vishnu. The metaphor is further elaborated. When a play begins the screen is pulled aside. In a like manner before concentration begins, lassitude is removed. On the stage there will be a symbol of God placed for worship. The crown of Vishnu on his forehead looks like the linga, symbol of Siva.   
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+The poet In Sankara visualizes a play called  “concentration”  played by his mind on the stage of Vishnu’s forehead. In other words, he prays that he may be able to concentrate on the forehead of Vishnu. The metaphor is further elaborated. When a play begins the screen is pulled aside. In a like manner before concentration begins, lassitude is removed. On the stage there will be a symbol of God placed for worship. The crown of Vishnu on his forehead looks like the linga, symbol of Siva.   
+</details>
 
  
 
@@ -848,7 +961,10 @@ Sankara looks at the curls of hair around Vishnu’s face:
 
 May the curls of hair of Sripathi bestow us all the time alround prosperity. People look upon it as a garland made of black lotuses or perhaps that river Yamuna is trickling down Vishnu’s face to compete with the Ganga over the head of Siva, or Rahu is attacking the face under the delusion that it is the full moon.
 
-Notes : River Yamuna is traditionally considered dark as perhaps its water is mildly turbid, which can be observed where Yamuna and Ganga meet. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+River Yamuna is traditionally considered dark as perhaps its water is mildly turbid, which can be observed where Yamuna and Ganga meet. 
+</details>
 
  
 
@@ -868,14 +984,16 @@ Now he looks at the hair on Vishnu’s head in its entirety:
 
 May the locks of hair, which are illumined and colored by the sparkling gem on the fore head of Vishnu, the foe of Kesi, destroy entirely our bundle of sufferings. When Vishnu sleeps, even the Deva’s cannot fully perceive the form of the matted hair which occupies all the skies, They look as if they are the aura emanating from Vishnu’s body. They look as if they are clusters of smoke from the fire of anger arising out of burning the incense of bodies of foes.
 
-Notes: The commentator explains that when Vishnu goes into Yoganidra, his matted hair occupies the whole of the skies. सुप्ता is interpreted as “matted hair” by the commentator quoting Vaijayanti lexicon, although standard dictionaries do not list it. There is a hint of matted locks of hair being compared to dark clouds too although it is not fully brought out. The sage prays for cutting asunder of all wordly bondages. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+The commentator explains that when Vishnu goes into Yoganidra, his matted hair occupies the whole of the skies. सुप्ता is interpreted as “matted hair” by the commentator quoting Vaijayanti lexicon, although standard dictionaries do not list it. There is a hint of matted locks of hair being compared to dark clouds too although it is not fully brought out. The sage prays for cutting asunder of all wordly bondages. 
+</details>
 
  
 
 Sankara prostrates to the crown of Vishnu:
 
-यत्र प्रत्युप्तरत्नप्रवरपरिलसद्भूरिरोचिष्प्रतान-
-
+यत्र प्रत्युप्तरत्नप्रवरपरिलसद्भूरिरोचिष्प्रतान-  
 स्फूर्त्या मूर्तिर्मुरारेर्द्युमणिशतचितव्योमवद्दुर्निरीक्ष्या ।  
 कुर्वत् पारेपयोधि ज्वलदकृशशिखाभास्वदौर्वाग्निशङ्कां  
 शश्वन्नः शर्म दिश्यात्कलिकलुषतमःपाटनं तत्किरीटम् ॥ ४७ ॥ 
@@ -889,7 +1007,10 @@ Sankara prostrates to the crown of Vishnu:
 
 May the crown of Vishnu, which makes one fancy that they are the glowing flames of bright Vadava (Sub-oceanic fire) at the further bank of ocean(of milk) endow us with everlasting beatitude which destroys the darkness due to the wicked Kaliyuga. The piercing rays emanating from the priceless gems set in the crown render Vishnu’s form extremely difficult to perceive like the sky brightened by hundreds of suns.
 
-Notes: As per the commentator Vishnu’s abode is on Northern bank of milk of ocean  in Shaka island. One is reminded of Bhagavd Gita’s description  of Viswarupa, “दिवि सूर्यसहस्रस्य भवेद्युगप्दुत्थिता। यदि भ्हाः सदृशी सा स्यात् भासस्तस्य महात्मनः ॥“.
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+As per the commentator Vishnu’s abode is on Northern bank of milk of ocean  in Shaka island. One is reminded of Bhagavd Gita’s description  of Viswarupa, “दिवि सूर्यसहस्रस्य भवेद्युगप्दुत्थिता। यदि भ्हाः सदृशी सा स्यात् भासस्तस्य महात्मनः ॥“.
+</details>
 
  
 
@@ -909,7 +1030,10 @@ Sankara beholds the entire form of Vishnu, after having had the pleasure of look
 
 May the resplendent endless ocean-like form of Vishnu, the foe of Daitya’s give us ambrosia (amrita). Brahma, the father of the three worlds, after not being able to reach the boundary in the abdomen of Vishnu even after roaming endlessly like a bumble-bee for millions of years, got out from the root of the lotus in Vishnu’s navel and created a world outside similar to the one inside.
 
-Notes: Evidently the ambrosia the sage seeks is that of Moksha.        
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Evidently the ambrosia the sage seeks is that of Moksha.        
+</details>
 
  
 
@@ -931,7 +1055,10 @@ Proceeding to conclude the hymn Sankara prays to the ten incarnations of Vishnu:
 
 May the partial incarnations of Vishnu, namely Matsya, Kurma,Varaha, Narasimha, Vamana, Parashurama (son of Jamadagni), Rama (Scion of Kakutstha), Krishna(Slayer of Kamsa), Buddha(Conqueror of Manmatha)  and Kalki(Of the future), who are the benefactors of the worlds and whose mission is to establish Dharma and who are weighed down by extreme compassion protect me.
 
-Notes: It is significant that Sankara has recognized Buddha as one of the ten incarnations. The word हरिण in नरहरिणपति does not seem to denote a lion as per standard lexicons. The commentator quotes Harsha where he seems to have used हरिण to denote a lion. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+It is significant that Sankara has recognized Buddha as one of the ten incarnations. The word हरिण in नरहरिणपति does not seem to denote a lion as per standard lexicons. The commentator quotes Harsha where he seems to have used हरिण to denote a lion. 
+</details>
 
  
 
@@ -939,8 +1066,7 @@ Sankara reflects on the twin facets of One Reality: Brahman, beyond reach of wor
 
 यस्माद्वाचो निवृत्ताः सममपि मनसा लक्षणामीक्षमाणाः  
 स्वार्थालाभात्परार्थव्यपगमकथनश्लाघिनो वेदवादाः ।  
-नित्यानन्दं स्वसंविन्निरवधिविमलस्वान्तसंक्रान्तबिम्ब-
-
+नित्यानन्दं स्वसंविन्निरवधिविमलस्वान्तसंक्रान्तबिम्ब-  
 च्छायापत्त्यापि नित्यं सुखयति यमिनो यत्तदव्यान्महो नः ॥ ५० ॥
 
 
@@ -952,10 +1078,13 @@ Sankara reflects on the twin facets of One Reality: Brahman, beyond reach of wor
 
 May that Lustre which provides joy even to those who practice self-control, in the guise of a reflection of its self luminous, unlimited, pure formlessness protect us. Words along with mind and even the Upanishads, which advocate its existence through indirect meaning having failed through direct meaning, return (having failed to reach it) from that lustre.  
 
-Notes: This is a verse endowed with subtle aspects of advaitic philosophy. The commentary is detailed and riddled with complex advaitic terminology. It is believed that the main import has been conveyed here. Brahman who is formless and is not accessible to words, mind or even the Upanishads in its infinite mercy shows itself in the form of Vishnu and his incarnations as if through a refexion in an accessible form. Even sages who seek the formless Brahman rejoice at that Lustre with form. The reference to the Upanishadic statement, “यतो वाचो निवर्तन्ते अप्राप्य मनसा सह” is very evident. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
 
-The verse refers to different modes through which a word is endowed with a meaning. If one says गङ्गायां घोषः one refers to a village on the banks of Ganga although the words at first seem to convey that the village is inside the river. A word acquires a meaning different from what it normally conveys through a mode called लक्षणा, which becomes operative conveying a different meaning in place of the normal meaning.The verse refers to the fact that all modes through which a word acquires a meaning fail to reach Brahman. 
+This is a verse endowed with subtle aspects of advaitic philosophy. The commentary is detailed and riddled with complex advaitic terminology. It is believed that the main import has been conveyed here. Brahman who is formless and is not accessible to words, mind or even the Upanishads in its infinite mercy shows itself in the form of Vishnu and his incarnations as if through a refexion in an accessible form. Even sages who seek the formless Brahman rejoice at that Lustre with form. The reference to the Upanishadic statement, “यतो वाचो निवर्तन्ते अप्राप्य मनसा सह” is very evident. 
 
+The verse refers to different modes through which a word is endowed with a meaning. If one says गङ्गायां घोषः one refers to a village on the banks of Ganga although the words at first seem to convey that the village is inside the river. A word acquires a meaning different from what it normally conveys through a mode called लक्षणा, which becomes operative conveying a different meaning in place of the normal meaning.The verse refers to the fact that all modes through which a word acquires a meaning fail to reach Brahman.
+
+</details>
  
 
 As a mark of his own humility, Sankaracharya pays his obeisance to a Bhagavata- Vishnu’s devotee:
@@ -972,7 +1101,10 @@ As a mark of his own humility, Sankaracharya pays his obeisance to a Bhagavata- 
 
 Our obeisances are forever to the pure lotus-like feet of one, who holds in his mind, bereft of all the wickedness (characteristic) of Kaliyuga and having uninterrupted internal happiness, the faultless form of Vishnu from head to foot, while offering oblations of Vishnu’s deeds with the chantings of Mantra and Stotra in the fire of the tongue.
 
-Notes: Quite characteristically Sankara stresses on the purity of mind while contemplating the divine formof Vishnu, as one chants the Mantras and the Stotras. Salutation is complete only when it has all the three anga’s, namely वाचिक(by word), कायिक(by body) and मानसिक(by mind). He uses a metaphor of oblations to the fire for the chantings of stotras and Mantras   The verse echoes sentiments expressed in several passages in the Gita. “ब्रह्मार्पणं ब्रह्महविः ब्रह्माग्नौ ब्रह्मणा हुतम्” etc.
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+Quite characteristically Sankara stresses on the purity of mind while contemplating the divine formof Vishnu, as one chants the Mantras and the Stotras. Salutation is complete only when it has all the three anga’s, namely वाचिक(by word), कायिक(by body) and मानसिक(by mind). He uses a metaphor of oblations to the fire for the chantings of stotras and Mantras   The verse echoes sentiments expressed in several passages in the Gita. “ब्रह्मार्पणं ब्रह्महविः ब्रह्माग्नौ ब्रह्मणा हुतम्” etc.
+</details>
 
  
 
@@ -990,7 +1122,10 @@ As फलश्रुति, Sankaracharya bestows his benediction to one who re
 
 One who, after reciting with joy Vishnu’s Padadikesantastotra thus composed bows his head to (Vishnu) intent on serving his lotus feet, enters ultimate bliss of Brahman, who becomes visible through the solar orb, when he casts off his mortal coil.
 
-Notes: To point out that in this hymn he has all along prayed only for the ultimate realization of Brahman,the only wish worthwhile striving for, Sankarabhagavatpada emphasises that aspect at the end. 
+<details><summary>śrīnivāsa-mūrti Notes</summary>
+
+To point out that in this hymn he has all along prayed only for the ultimate realization of Brahman,the only wish worthwhile striving for, Sankarabhagavatpada emphasises that aspect at the end. 
+</details>
 
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
