@@ -1132,13 +1132,32 @@ Dear Ocean, if you do not get angry we tell you something about you. You do not 
 O storm water! We do not obstruct your entering into the stream of Ganga. But displaying your folds of waves in front of her is not correct. [A common man can certainly be in the presence of a great person. But displaying his capabilities in front of the great is ill manners.]
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पौलोमीपतिकानने विलसतां गीर्वाणभूमीरुहाम्  
 येनाघ्रातसमुज्झितानि कुसुमान्याजघ्रिरे निर्जरैः ।  
 तस्मिन्नद्य मधुव्रते विधिवशान्माध्वीकमाकांक्षति  
 त्वं चेदञ्चसि लोभमम्बुज तदा किं त्वां प्रति ब्रूमहे ॥ ४६ ॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
+पौलोमीपतिकानने विलसतां गीर्वाणभूमीरुहाम्  
+येनाघ्रातसमुज्झितानि कुसुमान्याजघ्रिरे निर्जरैः ।  
+तस्मिन्नद्य मधुव्रते विधिवशान्माध्वीकमाकांक्षति  
+त्वं चेदञ्चसि लोभमम्बुज तदा किं त्वां प्रति ब्रूमहे ॥ ४६ ॥  
+</details>
+
+<details><summary>अन्वयः</summary>
+
 अम्बुज! पौलोमीपतिकानने विलसतां गीर्वाणभूमीरुहां कुसुमानि येन आघ्रात- -समुज्झितानि निर्जरैः आजघ्रिरे, तस्मिन् मधुव्रते अद्य विधिवशात् माध्वीकम् आकांक्षति त्वं लोभम् अञ्चसि चेत्, त्वां प्रति किं ब्रूमहे ।
 
+</details>
+
+<details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
+
 O Lotus! If you display miserliness to a bee which is now, as fate would have it, seeking honey (from you) what shall we speak about you? Even divine beings were smelling the flowers of the divine trees which had been smelt and abandoned by this bee in the garden of Indra. [It is not an ordinary bee. It had seen better days when it used to dwell on the flowers of Indra’s garden. It should be treated with generous hospitality. Apparently the poet has in mind a parallel where a person of eminence who had seen better days is forced to seek shelter with an ordinary person.]
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4161,8 +4180,18 @@ O Moon! You are to me like halahala poison, which takes away ones life. Which fo
 Why do you foolishly boast that the colour of your body is like Gold? O lady who has lost hopes, only if Gold were to fall into thirsty fire could it be equal to you.[ Your body is like gold that has fallen into fire. Perhaps the lover means that the lady is like Gold that is in fire and therefore untouchable and cannot be pleasurable. May be because the lady has a bad temperament.]
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 औत्सुक्यात् परिमिलतां त्रपया सङ्कोचमञ्चतां च मुहुः ।  
-नवसङ्गमयोर्यूनोर्नयनानामुत्सवो जयति ॥ ४५ ॥  
+नवसङ्गमयोर्यूनोर्नयनानामुत्सवो जयति ॥ ४५ ॥ 
+</details>
+
+<details><summary>मूलम्</summary>
+
+औत्सुक्यात् परिमिलतां त्रपया सङ्कोचमञ्चतां च मुहुः ।  
+नवसङ्गमयोर्यूनोर्नयनानामुत्सवो जयति ॥ ४५ ॥ 
+</details>
+ 
 
 <details><summary>अन्वयः</summary>
 
@@ -6434,11 +6463,27 @@ As a result of good deeds done in the past birth, one gets a charming wife; thro
 Lady of handsome thighs! Even a lord becomes suddenly small when he wants to ask for something. I have become despondent as you, being ill disposed, have refused my request for a kiss.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जलकुम्भमुम्भितरसं सपदि सरस्याः समानयन्त्यास्ते ।  
 तटकुञ्जगूढसुरतं भगवानेको मनोभवो वेद ॥ १४४ ॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
+जलकुम्भमुम्भितरसं सपदि सरस्याः समानयन्त्यास्ते ।  
+तटकुञ्जगूढसुरतं भगवानेको मनोभवो वेद ॥ १४४ ॥  
+</details>
+
+<details><summary>अन्वयः</summary>
+
 उम्भितरसं जलकुम्भं सरस्याः समानयन्त्याः ते सपदि तटकुञ्जगूढसुरतं भगवान् मनोभवः एकः वेद ।
+</details>
+
+<details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 While bringing from the pond the water-pot filled with water, your secret dalliance in the shrubs of banks (of the pond) is known only to Lord Cupid.
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
