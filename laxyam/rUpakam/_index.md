@@ -1,4 +1,4 @@
 ---
-title: +नाटकम्
+title: +रूपकम्
 unicode_script: devanagari
 ---
