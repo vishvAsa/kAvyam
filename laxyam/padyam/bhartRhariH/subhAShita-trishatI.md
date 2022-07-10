@@ -336,11 +336,11 @@ With the hope of a treasure ground was dug up; oars of mountains were blown (in 
 <details><summary>अन्वयः</summary>
 
 तत्-आराधन-परैः (कॄताः) खल-आलापाः  कथम् अपि सोढाः । अन्तर्-बाष्पं निगृह्य शून्येन मनसा हसितम् अपि । वित्त-स्तम्भ-प्रतिहत-धियाम् अञ्जलिः अपि कृतः ।
+
+(हे) मोघ-आशे आशे , अतः किम् अपरं मां नर्तयसि?
 </details>
 
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
-
-(हे) मॊघ-आशे आशे , अतः किम् अपरं मां नर्तयसि?
 
 I somehow tolerated wicked talk by those who indulge in it; I feigned laughter suppressing the tears; I even bowed to those whose mental faculty was stupefied by wealth; dear greed with unfulfilled desires, how much more do you make me dance (to your tunes)?
 </details>
