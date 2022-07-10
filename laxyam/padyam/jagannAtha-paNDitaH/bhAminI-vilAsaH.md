@@ -2971,71 +2971,71 @@ The nose which was dispensing joy (to beholders) by virtue if its constant conta
 
 Her face with the pearl at the tip of her nose looks enchanting like the moon’s orb in conjunction with planet Mercury.
 
-_निभाल्य भूयो निजगौरिमाणं मा नाम मानं सहसैव यासीः ।_
+निभाल्य भूयो निजगौरिमाणं मा नाम मानं सहसैव यासीः ।
 
-_गृहे गृहे पश्य तवाङ्गवर्णा मुग्धे सुवर्णावलयो लुठन्ति ॥ १७६ ॥_
+गृहे गृहे पश्य तवाङ्गवर्णा मुग्धे सुवर्णावलयो लुठन्ति ॥ १७६ ॥
 
-_अन्वयः : मुग्धे! निजगौरिमाणं भूयः निभाल्य सहसा एव मानं मा नाम यासीः । तव अङ्गवर्णा सुवर्णावलयः गृहे गृहे लुठन्ति, पश्य ।_
+अन्वयः : मुग्धे! निजगौरिमाणं भूयः निभाल्य सहसा एव मानं मा नाम यासीः । तव अङ्गवर्णा सुवर्णावलयः गृहे गृहे लुठन्ति, पश्य ।
 
 Foolish girl! Do not be proud looking at your white complexion often. Look, there are golden coloured girls in row who have your complexion moving to and fro in every house.
 
-_करिकुम्भतुलामुरोजयोः क्रियमाणां कविभिर्विशृङ्खलैः ।_
+करिकुम्भतुलामुरोजयोः क्रियमाणां कविभिर्विशृङ्खलैः ।
 
-_कथमालि शृणोषि सादरं विपरीतार्थविदो हि योषितः ॥ १७७ ॥_
+कथमालि शृणोषि सादरं विपरीतार्थविदो हि योषितः ॥ १७७ ॥
 
-_अन्वयः : आलि! विशृङ्खलैः कविभिः उरोजयोः करिकुम्भतुलां क्रियमाणां कथं सादरं शृणोषि? योषितः विपरीतार्थविदः हि ।_
+अन्वयः : आलि! विशृङ्खलैः कविभिः उरोजयोः करिकुम्भतुलां क्रियमाणां कथं सादरं शृणोषि? योषितः विपरीतार्थविदः हि ।
 
 Dear friend! How are you listening to unbridled poets comparing breasts with the frontal globes on the forehead of elephants? ( I now know) Women understand in the reverse manner. [ Poet wants to imply that instead of breasts being compared with the frontal globes on the forehead of the elephant, it is the frontal globes which need to be compared with breasts!]
 
-_परिष्वजन् रोषवशात् तिरस्कृतः प्रियो मृगाक्ष्या शयितः पराङ्मुखः ।_
+परिष्वजन् रोषवशात् तिरस्कृतः प्रियो मृगाक्ष्या शयितः पराङ्मुखः ।
 
-_किं दुःखितोऽसाविति कान्दिशीकया कदाचिदाचुम्ब्य चिराय सस्वजे ॥ १७८ ॥_
+किं दुःखितोऽसाविति कान्दिशीकया कदाचिदाचुम्ब्य चिराय सस्वजे ॥ १७८ ॥
 
-_अन्वयः : कदाचित् परिष्वजन् प्रियः रोषवशात् मृगाक्ष्या तिरस्कृतः पराङ्मुखः शयितः, “असौ किं दुःखितः?” इति कान्दिशीकया चिराय आचुम्ब्य सस्वजे ।_
+अन्वयः : कदाचित् परिष्वजन् प्रियः रोषवशात् मृगाक्ष्या तिरस्कृतः पराङ्मुखः शयितः, “असौ किं दुःखितः?” इति कान्दिशीकया चिराय आचुम्ब्य सस्वजे ।
 
 Once when the lover who was embracing her was rejected by the doe-eyed lady due to anger and he lay down with his face turned away from her, fearing that he may be aggrieved, she kissed him long and embraced him._  _
 
-_चेलाञ्चलेनाननशीतरश्मिं संवृण्वतीनां हरिदृश्वतीनाम् ।_
+चेलाञ्चलेनाननशीतरश्मिं संवृण्वतीनां हरिदृश्वतीनाम् ।
 
-_व्रजाङ्गनानां स्मरजातकम्पादकाण्डसंपातमियाय नीवी ॥ १७९ ॥_
+व्रजाङ्गनानां स्मरजातकम्पादकाण्डसंपातमियाय नीवी ॥ १७९ ॥
 
-_अन्वयः : चेलाञ्चलेन आननशीतरश्मिं संवृण्वतीनां हरिदृश्वतीनां व्रजाङ्गनानां नीवी स्मरजातकम्पात् अकाण्डसंपातम् इयाय ।_
+अन्वयः : चेलाञ्चलेन आननशीतरश्मिं संवृण्वतीनां हरिदृश्वतीनां व्रजाङ्गनानां नीवी स्मरजातकम्पात् अकाण्डसंपातम् इयाय ।
 
 The central knot of the saree of Vraja women fell down unexpectedly caused by the trembling on account of passion as they, covering their moonlike faces with the border of the saree, looked at Krishna. [One can discern subtle humour!]
 
-_अधरेण समागमाद्रदानामरुणिम्ना पिहितोऽपि शुक्लभावः ।_
+अधरेण समागमाद्रदानामरुणिम्ना पिहितोऽपि शुक्लभावः ।
 
-_हसितेन सितेन पक्ष्मलाक्ष्याः पुनरुल्लासमवाप जातपक्षः ॥ १८० ॥_
+हसितेन सितेन पक्ष्मलाक्ष्याः पुनरुल्लासमवाप जातपक्षः ॥ १८० ॥
 
-_अन्वयः : पक्ष्मलाक्ष्याः रदानां शुक्लभावः अधरेण समागमात् अरुणिम्ना पिहितः अपि, सितेन हसितेन जातपक्षः पुनः उल्लासम् अवाप ।_
+अन्वयः : पक्ष्मलाक्ष्याः रदानां शुक्लभावः अधरेण समागमात् अरुणिम्ना पिहितः अपि, सितेन हसितेन जातपक्षः पुनः उल्लासम् अवाप ।
 
 Although the whiteness of the teeth of the lady with long eye-lashes was covered by the redness because of close contact with the lips, it grew its wings as it were and became lively again because of the white smile.
 
-_सरसीरुहोदरसौरभावधारितबिंबाधरे मृगाक्षि तव ।_
+सरसीरुहोदरसौरभावधारितबिंबाधरे मृगाक्षि तव ।
 
-_वद वदने मणिरदने ताम्बूलं केन लक्षयेम वयम् ॥ १८१ ॥_
+वद वदने मणिरदने ताम्बूलं केन लक्षयेम वयम् ॥ १८१ ॥
 
-_अन्वयः : मृगाक्षि! सरसीरुह-उदर-सौरभ-अवधारित-बिम्ब-अधरे मणिरदने वदने ताम्बूलं केन वयं लक्षयेम? _
+अन्वयः : मृगाक्षि! सरसीरुह-उदर-सौरभ-अवधारित-बिम्ब-अधरे मणिरदने वदने ताम्बूलं केन वयं लक्षयेम? 
 
 Doe-eyed lady! How can we recognize the (consumption) of betelnuts in your face which has bimba fruit-like lips which put to shame the fragrance of the lotus stalk and which has gem-like teeth? [The redness of betel-leaf chewing cannot be discerned, because of the natural redness of the lips.]
 
-_शयिता सविधेऽप्यनीश्वरा सफलीकर्तुमहो मनोरथान् ।_
+शयिता सविधेऽप्यनीश्वरा सफलीकर्तुमहो मनोरथान् ।
 
-_दयिता दयिताननाम्बुजं दरमीलन्नयना निरीक्षते ॥ १८२ ॥_
+दयिता दयिताननाम्बुजं दरमीलन्नयना निरीक्षते ॥ १८२ ॥
 
-_अन्वयः : अनीश्वरा दयिता (दयितस्य) सविधे अपि शयिता, मनोरथान् सफलीकर्तुं दयिताननाम्बुजं दर-मीलन्-नयना निरीक्षते ।_
+अन्वयः : अनीश्वरा दयिता (दयितस्य) सविधे अपि शयिता, मनोरथान् सफलीकर्तुं दयिताननाम्बुजं दर-मीलन्-नयना निरीक्षते ।
 
 The lady love who does not have a husband and lies down near her lover looks at him with half closed eyes in order to fulfill her desires.
 
-_वदनारविन्दसौरभलोभादिन्दिन्दिरेषु निपतत्सु ।_
+वदनारविन्दसौरभलोभादिन्दिन्दिरेषु निपतत्सु ।
 
-_मय्यधरार्थिनि सुदृशो दृशो जयन्त्यतिरुषा परुषाः ॥ १८३ ॥_
+मय्यधरार्थिनि सुदृशो दृशो जयन्त्यतिरुषा परुषाः ॥ १८३ ॥
 
-_अन्वयः : वदन-अरविन्द-सौरभ-लोभात् इन्दिन्दिरेषु निपतत्सु अधरार्थिनि मयि अतिरुषा परुषाः सुदृशः दृशः जयन्ति ।_
+अन्वयः : वदन-अरविन्द-सौरभ-लोभात् इन्दिन्दिरेषु निपतत्सु अधरार्थिनि मयि अतिरुषा परुषाः सुदृशः दृशः जयन्ति ।
 
 While bees surround her face attracted by the fragrance of her lotus-like face, my lady love’s fierce angry looks at me who is craving for her lips are pre-eminent.
 
-_इति श्रीमत्पण्डितराजजगन्नाथविरचिते भामिनीविलासे _
+इति श्रीमत्पण्डितराजजगन्नाथविरचिते भामिनीविलासे 
 
 **_शृङ्गारो नाम द्वितीयो विलासः ।_**
 
