@@ -96,7 +96,7 @@ May the learned rejoice by carefully examining this “subhashita-kaustubha”  
 
 (_Through a clever use of appropriate double-meaning words the poet compares this work with that of Kaustubha gem, which is at the heart of “Purushottama” and which is strung with an unbroken [अभङ्ग] thread [गुण]._)
 
-**अविवेकपद्धतिः**
+## अविवेकपद्धतिः
 
 ( Section on imprudence)
 
@@ -419,7 +419,7 @@ Thus ends “section on imprudence” in SubhaShitakaustubha among the works of 
 
 
 
-* - - - 
+## सज्जनपद्धतिः 
 
 **अथ सज्जनपद्धतिः**
 
@@ -1218,7 +1218,7 @@ Thus ends the third section dealing with the wicked.
 
 
 - - - - 
-
+## वदान्यपद्धतिः
 
 **अथ वदान्यपद्धतिः**
 
@@ -1628,7 +1628,7 @@ _“नह्यस्माभिः प्रतिग्राह्यं �
 
 
 **Thus ends the fourth section on the generous.**
-
+## सङ्कीर्णपद्धतिः
 
 **अथ सङ्कीर्णपद्धतिः**
 
