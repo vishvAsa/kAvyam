@@ -758,8 +758,6 @@ May Ganga, who adorns the head of Siva, who destroys the diseases of many person
 [_Perhaps the poet took a dip in the Ganga as he recited _
 
 _this last stanza_. _Does the repetitive syllable ङ्ग sound like the bubbles as he took the dip?_  ]
-
-THE END
 </details>
 
 <details><summary>Intro (GSS Murthy)</summary>
