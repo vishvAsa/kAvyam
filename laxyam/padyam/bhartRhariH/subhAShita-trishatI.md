@@ -1057,10 +1057,6 @@ The angry creator may deprive the swan of its playful gait in a lake of lotuses 
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Bracelets worn on the upper arm do not decorate a person, nor garlands which are as brilliant as moon, nor well groomed hair ; Bath, smearing of perfumes, or wearing of flower does not decorate either; speech delivered in a refined manner decorates a person; all ornaments decay; ornament of speech is the only eternal ornament.
-
-
-
-* -
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1131,10 +1127,6 @@ This world is all darkness without my doe-eyed lady no matter whether there is a
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Let  this weight of upturned breasts, wavering eyes, unsteady creeper-like eye-brows, this reddened sprout-like lip, trouble us; Why does this line of hair in the middle (indifferent), which looks as if it has been scripted by cupid as the alphabet string of loveliness,  create affliction (in us)? [The poet plays on the word ‘madhyastha’ which can mean ‘situated in the middle’ or ‘indifferent’. He thus brings out an apparent contradiction in that something which is indifferent causes us pain. Such description may appear risqué for modern sensibilities, but is not uncommon in Sanskrit literature.]
-
-
-
-* -
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1292,8 +1284,6 @@ If one has patience, where is the need for any armour?  If there is a paternal r
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Being considerate towards kith and kin; being compassionate towards attendants; being deceitful towards scoundrels; being affectionate towards good persons; being courteous towards royals; being straight  forward towards learned persons; being valorous towards enemies; being indulgent towards elders. This world is dependent upon people who display such skills.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1364,8 +1354,6 @@ With the heavy weight of her breasts, her face luminous like moon and her slow p
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Dear mind, if her breasts are heavy, her hips are attractive and her face beautiful what is it for you? Why do you feel disturbed? If you desire them do good deeds. Desired objectives do not materialise without previous good deeds.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1522,8 +1510,6 @@ Section on valour of self respect
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Does a lion which stands tall among those valuing self respect and which is solely desirous of a mouthful of meat of the temple of an elephant  in rut eat withered grass even if it (the lion) is weak due to old age, well nigh tottering, is in difficult circumstance, has lost its lustre with its life ebbing out?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1606,8 +1592,6 @@ The private care-free utterances of doe-eyed girls sweet with affection, generou
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 A slender lady walked in the shades of forest trees resting frequently while warding off the rays of the moon by raising in hand the bosom-covering garment.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1764,8 +1748,6 @@ A dog wags its tail, shows its face and stomach falling at the feet of the perso
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 In this cycle of life, who is not born again after dying? The birth of a person who elevates his dynasty is indeed  the birth.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1844,8 +1826,6 @@ Jasmine for the hair, a yawn on the face, body smeared with sandal paste full of
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Saying “no,no” weakly when the desire is not yet risen, then becoming desirous shyly and with weak physical resistance and with loss of courage (to resist) and then enjoying secret carefree mature dalliances and unobstructed bodily searches render sex with ones chaste woman a great pleasure.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1999,8 +1979,6 @@ Look, brother. There are others like Jupiter, five or six in number who are (equ
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Adisesha carries the whole set of worlds on his broad and flat hood; he is carried by the great tortoise on its back; the ocean nonchalantly carries it in its hollows. The manifestations of the conduct of the great are really boundless. What a wonder!
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2075,8 +2053,6 @@ Sexual pleasure is that which flows between consenting couple with their eyes sl
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 It is indeed improper and not in order that men have sexual cravings even in old age. Similarly it is not right that women’s longevity or desire for sex is not restricted to the age when breasts sag.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2311,8 +2287,6 @@ There is nothing in this world other than youth which acts as the residence of p
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 He is indeed a rare fortunate person who does not get disturbed at the arrival of youth which acts as rain bearing cloud to the tree of romance, which is a quick moving stream of playfulness, which is a dear relative to Manmatha, which is an ocean for pearl-like witty sayings, which acts as full moon to the chakora-like eyes of slender ladies and which is a treasury of the goddess of prosperity.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2473,8 +2447,6 @@ Who has money becomes a person of high descent , a scholar well-versed in script
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 A king gets destroyed due to bad counselling, an ascetic due to his associates, a son due to pampering, a Brahmin due to neglect of studies, a family due to a bad son, ones conduct due to bad company, sense of shame due to drinking, agriculture due to inattention, love due to being away, friendship due to lack of affection, opulence due to wrong policies, money due to mistakes and being very charitable.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2549,8 +2521,6 @@ When there are propitious Himalayan abodes in the caves inhabited by realized so
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 O worldly life! Your far end would not be distant if only there were no women with intoxicated eyes in between who are difficult to cross over.
-
---  
 </details>
 
 भोगास्थैर्यवर्णनम्
@@ -2633,8 +2603,6 @@ Birth is overrun by death, bright youth by old age, happiness by desire for mone
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Health of people is uprooted by hundreds of mental and physical afflictions. Wherever there is wealth misfortunes fall in as if through an open door. Death quickly and compulsorily takes control of every life born. Has the uncontrolled creator created anything which is firm and stable?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2709,8 +2677,6 @@ A gem polished by a grinding stone, a conqueror in the battle wounded by a weapo
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 One who has lost everything wishes for a handful of corn; later when he becomes rich he considers landed property as straw. Thus the state of  a wealthy person being high or low expands or contracts (the value of) things.  _ _
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2789,8 +2755,6 @@ You may feel a sense of disgust saying that all things end up being tasteless or
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Gentlemen! Casting off jealousy and after deliberation please tell, “ Is it better to go behind kings serving them or go behind coquettish ladies with captivating smiles?”
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2869,8 +2833,6 @@ O Scholars!  Pleasures are as unsteady as lightening in a canopy of clouds; long
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Longevity is as fragile as waves; the grandeur of youth stays only for a few days; wealth is as transient as our desires; the multitudes of pleasures have the playfulness of lightening in rainy season. Even the tight embraces offered by your ladies are temporary; please concentrate on Brahman in order to cross the ocean of worldly life.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2949,8 +2911,6 @@ Political conduct takes different forms like a prostitute: sometimes true, somet
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 O king! What is the use of seeking  shelter under a king who is devoid of these six qualities; Ability to command, fame, taking care of Brahmins, charity, ability to enjoy life and protecting friends?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3025,8 +2985,6 @@ Let a dwelling be made on the banks of Ganga which destroys sins or on the beaut
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 What is the use of any number of sense-less talks? Here in this world there are two things for men worth serving: Either  the forest or the youth of beautiful ladies who are fatigued by the weight of their breasts and who ardently look forward to the novel pleasures of  youthful plays.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3183,8 +3141,6 @@ Being unkind, quarrelling without any reason, desire for others’ money or wome
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 A wicked person even if he is educated has to be neutralized; Is not a snake adorned with gem not fearsome? [ There is a myth that certain snakes carry a gem in their hoods.]
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3263,8 +3219,6 @@ Looking at a woman who is nothing more than a dirty bellows, even a learned pers
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 When remembered she causes sorrow; when seen she intoxicates; when touched causes delusion. How can she be the beloved?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3426,8 +3380,6 @@ If there is greed where is the need for bad qualities? If one slanders where is 
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Moon looking grey in day time, a passionate lady past her prime, a lake with water-lilies dried out, handsome face of an illiterate person, a lord who is after wealth, a virtuous person in dire straits all the time, a wicked courtier to a king, these seven hurt my mind.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3499,16 +3451,14 @@ There is nothing like ambrosia or poison other than this graceful lady; if she i
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Who created this machine called woman, who is a whirl pool of doubts, a world of bad manners, a city of rashness, a source of follies, a field of several forms of untrustworthiness, an impediment to the door of heaven, the gateway to the city of hell, a bunch of all delusions, a snare for all beings, a poison looking like ambrosia?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आदित्यस्य गतागतैरहरहः संक्षीयते जीवितम्  
-व्यापारैर्बहुकार्यभारगुरुभिः कालोऽपि न ज्ञायते ।  
-दृष्ट्वा जन्मजराविपत्तिमरणं त्रासश्च नोत्पद्यते  
-पीत्वा मोहमयीं प्रमादमदिरामुन्मत्तभूतं जगत् ॥ वै-४३ ॥
+आदित्यस्य गतागतैर् अहरहः  **संक्षीयते जीवितं**  
+व्यापारैर् बहु-कार्य-भार-गुरुभिः  **कालो** ऽपि **न ज्ञायते** ।  
+दृष्ट्वा जन्म-जरा-विपत्ति-मरणं  **त्रासश्** च **नोत्पद्यते**  
+पीत्वा मोहमयीं प्रमाद-मदिराम्  उन्मत्त-भूतं जगत् ॥ वै-४३ ॥+++(4)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3528,6 +3478,20 @@ Who created this machine called woman, who is a whirl pool of doubts, a world of
 
 With sun’s rising and setting span of life gets reduced; Passage of time is not noticed because of various pressing activities; one does not get anxious seeing birth, old age, disease and death; the world is intoxicated by drinking liquor of faults which causes delusion.
 </details>
+
+<details><summary>Ryder</summary>
+
+In daily journeys of the sun  
+Our little life is quickly done;  
+In anxious duties of the day  
+The hours unnoticed slip away;  
+Though birth and age are ever near,  
+And grief and death, we do not fear:  
+The world forgets its sore distress,  
+Goes mad with wine of heedlessness.
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3653,8 +3617,6 @@ Silence is taken as a mark of being a fool; if one is skilled in talking it is c
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Who can ever feel comfortable before a wicked man because of whom wicked people flourish, who is unfettered, who has totally forgotten all his wicked acts, who detests good qualities and who has attained eminence due to a quirk of fate?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3733,8 +3695,6 @@ The same old natural coquetry of playful ladies creates scintillations in fool�
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 This lotus-like face with best form which steals the lustre of full moon and where the honey of lips dwells will become poisonous as time passes just as the very sweet fruit of kimpaaka tree will turn poisonous in course of time.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3891,8 +3851,6 @@ The hunter, fisherman and the backbiter are enemies of deer, fish and virtuous p
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 My salutations to those great persons who have these blemish-less qualities: a desire for the company of good people, love for others’ good qualities, humility before preceptor, assiduous devotion to education, love for one’s wife, fear of public disapproval, devotion to Shiva,  ability to control oneself and deliverance from the company of the wicked.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3967,8 +3925,6 @@ Who indeed is a beloved for women? They converse with one, they look at another 
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Dear friend! Move away from this serpent called woman with poisonous exhalations called furtive glances and having hood in the form of playfulness and which are by nature troublesome. If you are bitten by other snakes it is possible to treat with medicines. Conjurers keep away from those attacked by snakes called clever women.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4130,8 +4086,6 @@ These are ornaments even without wealth for those who are naturally great: lauda
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Keeping away from violence to living beings, restraint in coveting others’ wealth, truthful speech, donating at the proper time as per ability, being dumb to talk of others about young women, interrupting the stream of avarice, humility in the presence of elders, general compassion toward all beings, vast knowledge of all scriptures, these indeed form the route to prosperity.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4206,8 +4160,6 @@ O traveller called mind! Do not travel in the forest of woman’s body having mo
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 I was looked at and not bitten by a blue-hued hooded energetic serpent which was moving in a long meandering gait; there are of course liberal doctors in all directions (to cure snake-bite); but there is neither medicine nor doctor for me who has been looked at by a guileless girl.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4286,8 +4238,6 @@ We are here happy with bark garments, you are happy with silken garments, happin
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Fruit is enough for food, water is enough as a delicious drink, ground is good enough to sleep on, bark- garments serve for clothing. I have no enthusiasm to suffer improper conduct of wicked persons whose senses drunk with new wealth are disoriented.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4362,8 +4312,6 @@ Conduct which is pleasant and lawful, not indulging in filthy ways even at the c
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Donating privately, an enthusiastic welcome when  a person arrives at home, being silent after doing pleasing things, to narrate the help rendered by others in gatherings, being disinterested in wealth, narrating others affairs without hurting them; who ordained for the virtuous persons this type of sword-edge austerity?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4442,8 +4390,6 @@ This disease of epilepsy called cupid is not amenable to incantations, it is not
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Who would like to indulge oneself in a prostitute who acts as a sword to the creeper of discrimination and who lends her beautiful body, just for the sake of earning some money, to a blind man, an ugly man, an old man with aged limbs, a villager and a leper?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4596,8 +4542,6 @@ He is indeed a son who pleases his father with his good conduct; she is indeed a
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Reaching a lofty state by being humble, declaring one’s own qualities by talking of other’s good qualities, achieving one’s own objectives by striving to meet the requirements of others, bringing to grief wicked persons by their ability to endure: who in this world will not revere people of such astonishing conduct ?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4668,8 +4612,6 @@ Which well bred person would kiss the sprout- like lips of a prostitute which ac
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 There is honey in the words of women, but potent poison in their hearts; that is why their lips are drunk and bosoms pounded by fists.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4748,10 +4690,6 @@ This whole earth is a mass of mud bordered by water; kings enjoy that by partiti
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 He was indeed somebody whose white skull bone Shiva, enemy of cupid, placed on his head as a decoration. Now what is this excessive fever of incomparable haughtiness of people while some persons whose minds are inclined towards saving their lives prostrate to them?
-
-
-
---  
 </details>
 
 परोपकारपद्धतिः
@@ -4834,8 +4772,6 @@ Ears look lustrous because of hearing divine matters and not because of ear-ring
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Sun opens up the assemblage of lotuses; moon makes the pool of white lotuses bloom; cloud gives water even when not requested; good persons are engaged in serving others on their own.
-
---  
 </details>
 
 अथ सुविरक्तदुर्विरक्तपद्धतिः
@@ -4918,8 +4854,6 @@ Young damsel! Why are these languid glances playfully half-shut being thrown at 
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 This damsel is all the time casting towards me her eyes which rob the lustre of lotus petals. What is her intention? Our infatuation is gone; the flames of the fever due to the provocation of the arrow of hunter called Manmatha have subsided; even then this wretched lady does not stop.
-
---  
 </details>
 
 मनःसम्बोधननियमनम्
@@ -5002,8 +4936,6 @@ Dear mind! Why do you wander in vain? Rest somewhere, what is going to happen wi
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 O mind! Stop getting into the tiring abyss of sensual matter; quickly take shelter in the beneficial path which is capable of quelling all the sorrow; look inwardly within yourself ; leave the state of mobility which is as changing as a wave, do not again get into the fragile desire of worldly affairs. Be tranquil.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5084,8 +5016,6 @@ He prevents committing sin, he engages you towards salutary action, he keeps sec
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Long back milk gave away all its qualities to water which forms a part of milk; that water sacrificed itself in fire when it found milk getting burnt; seeing its friend in distress milk went up to get into fire; that is why milk cools down when water id added; such is the friendship of good people.[ Poet sees the quality of good friendship in the natural process of boiling milk.]
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5161,8 +5091,6 @@ If the minds have met there is union even while separated; if the heart is broke
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 “What is the use of my going if my beloved is not alive; what if she is alive even?” thinking thus, looking at the fresh series of clouds the traveller does not proceed towards his house.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5322,8 +5250,6 @@ There was only one tortoise whose back was dedicated to carrying the weight of t
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Cut asunder greed, be forgiving, destroy haughtiness, do not indulge in sins, be truthful, follow leading saints, serve scholars, respect those worthy of respect, get along with even your adversaries, spread civility, protect your fame,  show compassion towards those grieved. This is the conduct of persons of virtue.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5402,8 +5328,6 @@ For those successful persons,  in whom  there sparkles a continuous union betwee
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 When there was ignorance caused by the passage of darkness called Cupid this whole world looked full of ladies; now that our vision is upright having the collyrium of discriminatory knowledge we consider all the three worlds to be Brahman.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5482,8 +5406,6 @@ Devotion to Lord Siva, fear of death and birth in the heart, not being attached 
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Therefore meditate on that Brahman, which is endless, ever expanding, and never ageing for which these lordship over earth, pleasures etc. become worthless consequences. For what purpose are these unreal alternatives?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5566,8 +5488,6 @@ The divine beings were not satisfied with the gems from the ocean, were not frig
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Persons of inferior rank do not start the work fearing obstructions; persons of middle rank start and stop when obstructions come their way; persons of superior rank do not leave a work started despite obstructions coming their way again and again.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5642,8 +5562,6 @@ For scholars who are proficient in reciting the Vedas, the subject of detachment
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 He is a false scholar who deceives others by castigating young women, because, the fruit of penance is heaven and there are divine-nymphs even in heaven.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5726,8 +5644,6 @@ What is the use of Vedas, Codes of conduct, elaborate scriptures and restless ac
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Where is the question of (the permanency) of this body which is as unsteady as the ear-tips of an elephant, when even the richly endowed mountain Meru falls engulfed by the annihilating Fire, oceans which house sharks and crocodiles dry up and the earth held firm by the mountains collapses?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5806,8 +5722,6 @@ The brave do not deviate from the path of correct conduct irrespective of whethe
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 He indeed is brave whose mind is not severed by the arrows of his beloved’s glances and is not burnt in the fire of anger, and who will not be tempted by the snares of greed or heavy sensual attractions. He will conquer the three worlds.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5882,8 +5796,6 @@ So long as the arrows of glances of coquettish ladies shot by the curved bow-lik
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Even Brahma feels diffident to obstruct actions of women who are insanely excited by love.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5962,8 +5874,6 @@ Young women keep away in haste from old men, looking at their white hairs and ho
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 While this body is in good health without any illness, while the senses have not lost their sharpness and while longevity is not reduced, much effort has to be put in by a wise man for the good of his soul. What sort of an action is it to start digging a well when the house is on fire?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6042,8 +5952,6 @@ It is better that this body gets broken by falling on some hard rock from a clif
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Fire becomes water, ocean becomes a small canal, mountain Meru becomes a small rock, lion becomes a deer, a serpent becomes a garland and poison becomes ambrosia for a person in whom morality adored by the whole world shines.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6118,8 +6026,6 @@ In this world even though a person is well versed in scriptures, is endowed with
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 A dog even if it is weak, blind, lame, deaf, tail-less, wounded wet with pus, with its body covered with hundreds of worms, hungry, old with its neck stuck in a broken pot follows a bitch. Cupid strikes even the stricken.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6199,8 +6105,6 @@ Dear friend, these kings who are fickle-minded like horses are difficult to serv
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 With respect for oneself fading away, wealth gone to pieces, those seeking help having gone away, relatives having thinned out, members of family having gone, youth getting lost slowly, the only thing a wise man could do is to settle down in a bower in a cave of a big mountain  with rocks purified by the waters of river Ganga.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6279,10 +6183,6 @@ Section on Destiny
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Even Indra, whose leader is Bruhaspati, whose weapon is Vajra, whose army consists of Divine persons, whose fort is heaven,  whose elephant is Airavata and who has the blessings of Lord Vishnu was defeated by his enemies in battle; it is quite clear that destiny is the refuge and valour is of no use, what a pity!
-
-
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6364,8 +6264,6 @@ Even ascetics like Viswamitra and Parasara who subsisted on just air, water or l
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 The wind is carrying fragrances, the branches are full of the tips of new sprouts, female cuckoos express a longing sometimes pleasing and sometimes harsh, the moon-like faces of young ladies have sparse drops of sweats oozing; when spring arrives on the land which thing does not  attain quality?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6449,18 +6347,7 @@ Is not a mansion nice for staying? Is it not nice to listen to music? Or is it n
 
 <details><summary>अन्वयः</summary>
 
-तात! आसंसारात् त्रिभुवनम् इदं चिन्वतां अस्माकं नयनपदवीं श्रोत्रमार्गं  वा तादृक्-
-</details>
-
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-एव मा गतो, यः अयं विषय-करिणी-गाढ-गूढ-अभिमान-
-क्षीबस्य अन्तःकरण-करिणः संयम-आनाय-लीलाम् धत्ते।
-</details>
-
-<details><summary>मूलम्</summary>
-
+तात! आसंसारात् त्रिभुवनम् इदं चिन्वतां अस्माकं नयनपदवीं श्रोत्रमार्गं  वा तादृक्-  
 एव मा गतो, यः अयं विषय-करिणी-गाढ-गूढ-अभिमान-
 क्षीबस्य अन्तःकरण-करिणः संयम-आनाय-लीलाम् धत्ते।
 </details>
@@ -6468,8 +6355,6 @@ Is not a mansion nice for staying? Is it not nice to listen to music? Or is it n
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Dear!  We, who have been searching this world ever since its beginning  have not heard or seen one who acts as the rope-net which controls the elephant called mind which is intoxicated with the deep secret desire for the female elephant called the sensual pleasures.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6544,8 +6429,6 @@ A gentleman bounces back like a ball after a fall. An uncultured person falls do
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 A bald person, with his head burning due to the heat of the sun, seeks a shady place and quickly goes to the base of a pine tree. There his head gets broken by a falling big pine fruit. Perhaps misfortune follows an unfortunate person wherever he goes.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6624,8 +6507,6 @@ Amorous display of emotions at home, beloveds tired of amorous activities by the
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Female cuckoos  longingly look at the cluster of mango blossoms which act as offerings to the fire of separation felt by ladies whose husbands are away on travel. Mild winds blow from Srikhanda mountain which are prone to steal the fragrance of fresh Patala flowers and which diminish the spread of weariness.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6692,8 +6573,6 @@ Our yearnings have aged and weakened in the heart only, that youth is gone, due 
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 I do not recognize any difference between Mahesvara who is the over lord of all the worlds and Vishnu who is the inner soul of the worlds. Even then my devotion is to Shiva with the young moon on his crest.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6772,8 +6651,6 @@ If Fate creates a gem of a person who is an ornament for the world and who is a 
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 This moon is a receptacle of ambrosia, is followed by hundreds of physicians (followed by Satabhishak star) and is a crest on the head of Shiva. (However) He is affected by the disease of consumption. Who can get over the effect of wretched Fate?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6844,8 +6721,6 @@ At the time of spring when the horizon is full of intense fragrance of the filam
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 In summer doe-eyed ladies who are moist with very pure sandal paste, bath rooms with water streams, flowers, moonlight, mild wind from flowers and clean palace grounds increase intoxication and romance.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6926,8 +6801,6 @@ After crossing all the worldly affairs remembering the ill effects of the viciss
 “अये गौरीनाथ त्रिपुरहर शम्भो त्रिनयन” इति आक्रोशन् दिवसान् निमिषम् इव नेष्यामि?
 
 When shall I spend my days as if they are minutes in the city of Varanasi living on the banks of Ganga wearing a loin-cloth with hands folded above my head chanting, “ O Consort of Gauri, the destroyer of Tripura, Shambhu, the three-eyed”?
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7006,8 +6879,6 @@ You stupid Fate stop exerting yourself by trying to see if you could destroy the
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 What has been ordained by the Lord Fate is what any one gets and it is not because of his benefactor. Although clouds which fill all the directions rain every year, only a few tiny drops fall into the mouth of a Cataka bird.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7086,8 +6957,6 @@ Milk-white residence, moon with glistening clear rays, the lotus-like face of a 
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Who does not feel joyful during rainy season which is weighed down by heavy rain-bearing clouds and  which enhances romantic desires with its fragrance of blossoming Jati flower like a woman who is romantically inclined who is bearing fragrant Jati flowers and who is weighed down by heavy breasts? [The poet brings out the similarity through श्लेष pun.]
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7162,8 +7031,6 @@ When will I become capable of uprooting my Karma by staying in solitude, without
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Contemplative ascetics acquire, due to grace of Shiva, an indescribable easily negotiable way of living by using their hands only as a bowl, feeling satiated by the naturally clean alms, staying  anywhere, feeling  the realization of continuous ultimate bliss and considering all this world as worthless as straw.
-
---  
 </details>
 
 कर्मपद्धतिः
@@ -7272,8 +7139,6 @@ Dear holy man! Worship that Goddess called Virtuous Action who converts bad pers
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 If good actions are accumulated over a long period, a clean residence, graceful young women and Lakshmi, Goddess of Wealth brilliant with a white umbrella can all be experienced. If good actions are broken Lakshmi will go in different directions quickly like the beads of pearls slipping away in different directions from a necklace during amorous quarrel.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7348,8 +7213,6 @@ Dark mass of clouds are above, hills full of dancing peacocks are all round, the
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Here is the playfulness of creeper-like lightening; here is the sparkling fragrance of ketaka trees; thither is rumbling of rising couds; thither  the crackling sound of playful peacocks. How do these nights laden with delight pass of for lovelorn ladies with long eye-lashes?
-
---  
 </details>
 
 अवधूतचर्या
@@ -7428,8 +7291,6 @@ Can the whole universe which is just a province tempt one who has conquered his 
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 Mother Lakshmi! Do not aspire for me. There are others under your control who are fond of sensual pleasures. You are nobody for those who have no desires. Now we wish to live on things received as alms sanctified in the just-sewn cups made of Palasha leaves.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7508,8 +7369,6 @@ A person who does not do penance having been born in this land of Karma is cooki
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 It is not the looks, heritage, character, education or service done with effort, but the good fortune accumulated due to previous penance which gives timely results like trees.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7614,8 +7473,6 @@ After having slept half of the night with his body weary of the strain of fast l
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 In winter having taken food of curds, milk and ghee wearing bright red garments with their bodies smeared with thick saffron paste and feeling exhausted after varied forms of love play, embraced by ladies having heavy round breasts and with their mouths full of betel leaves and areca nut  lucky men sleep inside residences.
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7694,8 +7551,6 @@ There stays some ascetic eating on alms, bereft of interaction with people, havi
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 There go ascetics, neither angry nor happy on their own, while people talk about them endlessly in different ways, “Is he an out- caste or a Brahmin or a Shudra or a great ascetic whose mind is soft due to realization of the ultimate truth?”
-
---  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
