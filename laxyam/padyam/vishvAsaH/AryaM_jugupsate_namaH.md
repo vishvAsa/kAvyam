@@ -2,6 +2,8 @@
 title = "आर्यं जुगुप्सते नमः"
 unicode_script = "devanagari"
 +++
+{{< figure src="../images/nehru-edwina.jpg" title="" class="thumbnail">}}
+
 
 नास्तिका मम **मित्राणि  
 स्युर्** म्लेच्छाश् च ततः परम्।  
