@@ -2,7 +2,6 @@
 title = "आर्यं जुगुप्सते नमः"
 unicode_script = "devanagari"
 +++
-{{< figure src="../images/nehru-edwina.jpg" title="" class="thumbnail">}}
 
 
 नास्तिका मम **मित्राणि  
@@ -35,6 +34,8 @@ unicode_script = "devanagari"
 सत्यं, धर्मं, दिवः प्रीतिम्,  
 अत्यक्त्वा **काशयामहे**॥
 
+
+{{< figure src="../images/nehru-edwina.jpg" title="" class="thumbnail">}}
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
