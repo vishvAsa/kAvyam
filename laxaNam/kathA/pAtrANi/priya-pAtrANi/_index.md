@@ -79,6 +79,18 @@ unicode_script = "devanagari"
 - Mike Ehrmantraut (Just Call Saul)
 - Maximus Decimus (Gladiator)
 - Monk (The 36th Chamber of Shaolin)
+- Ray (Mr. Inbetween)
+  - Past: Bullied as a child. Had a war-traumatized abusive father. Loving brother (later in severe motor-sensory decline). Married, but divorced. One child who lived in both houses.
+  - artha Traits:
+    - As a killer / scarer/ arms dealer, body disposer etc. - highly competent. 
+    - Short trigger to violence.
+    - Some bad habits - cigarette addiction (with increased anger on withdrawal.)
+    - Able to develop some good habits - like meditating. Yet, not very heavy on Atma-guNa-vardhana.
+  - dharma traits:
+    - Has a fair moral compass - sympathetic to the underdog; public wellbeing. 
+    - Committed to wellbeing of daughter, dog, friends, brother.
+    - Gentleman-like to start with in case of conflict.
+    - Yet, not an active do-gooder - has not realized the centrality/ fit of dharma to his natural programming. Ends up living rather aimlessly in a desert trailer.
 
 ### उपसन्न्यस्ताः
 - yojimbo
