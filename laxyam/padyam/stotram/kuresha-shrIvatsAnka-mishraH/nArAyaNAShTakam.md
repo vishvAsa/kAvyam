@@ -1,5 +1,5 @@
 +++
-title = "कूरेश-नारायणाष्टकम्"
+title = "नारायणाष्टकम्"
 unicode_script = "devanagari"
 +++
 
