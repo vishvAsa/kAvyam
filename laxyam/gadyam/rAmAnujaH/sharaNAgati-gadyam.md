@@ -8,7 +8,7 @@ unicode_script = "devanagari"
 आङ्ग्लानुवादाः [शठकोपक्षेत्रे](https://www.sadagopan.org/pdfuploads/Saranagathi%20Gadyam.pdf) । 
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 This is my translation, though I have benefited from consulting the translation of Ramanujam (2002). For the Sanskrit, I have followed Ramanujam and also consulted Krishnaswami Ayyangar (1976). The following prayer is counted as number 5 in most editions of the Gadyam.
 
@@ -33,7 +33,7 @@ Throughout, I use exclamation points to mark vocatives.
 </details>
 
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 That one who considered every thing as a mere straw opposite the invaluable treasure viz., the lotus feet of acyuta, I surrender to that holy Guru, SrI RamanujAcArya, the veritable Ocean of compassion.
 </details>
@@ -63,7 +63,7 @@ That one who considered every thing as a mere straw opposite the invaluable trea
 अनन्य-शरणः **शरणम् अहं प्रपद्ये** ॥ १ ॥  
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 With no other help to resort to, I seek Thee, SrI Devi, full of all benovolent qualities, seated in a forest of lotus flowers: (Thou art) the refuge for all the helpless; (Thou art) my Mother, indeed the Mother of the whole world. The crowned Divine Queen of the Lord of the devAs, the pure and the unsullied, never separated from the Lord; Thyself, Thine form, its qualities, and the most wonderful, limitless innumerable collections of auspicious qualities of Thine such as, greatness, Rulership and high virtues, all to His liking and worthy of the natural form and qualities of BhagavAn nArAyaNa.
 </details>
@@ -91,7 +91,7 @@ With no other help to resort to, I seek Thee, SrI Devi, full of all benovolent q
 </details>
 
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 Pray Thee, bless my sincere and real SaraNAgati at the lotus feet of BhagavAn so that it may become well and truly performed with all its angAs (formalities) and be continued, without interruption till the goal of PurushArtha is reached.
 
@@ -119,7 +119,7 @@ Bhakti at the lotus feet of the Lord.
 तथा +एव सर्वं **सम्पत्स्यते** ॥ ४ ॥  
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 (So shall it be Thus done, All is attained).
 </details>
@@ -139,7 +139,7 @@ Bhakti at the lotus feet of the Lord.
 **अनन्त-ज्ञान+आनन्द+एक-स्वरूप** ! 
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 Your proper form is opposite to all that is to be avoided and focused solely on the auspicious,  
 different from all beings other than Yourself,  
@@ -161,7 +161,7 @@ solely intelligence and bliss without limit!
 **अनन्त-गुण-निधि**-दिव्य-रूप !  
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 Your divine form is a single form appropriate and pleasing to Yourself,  
 a treasury of unimaginable, divine, wonderful, permanent, flawless, unsurpassed qualities—  
@@ -203,7 +203,7 @@ beginning with splendor, beauty, fragrance, tenderness, handsome demeanor, and y
 असङ्ख्येय-**कल्याण-गुण**-गण+ओघ-**महार्णव!**  
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 You are a great ocean of the host of innumerable auspicious qualities,  
 all by nature Yours,  
@@ -234,7 +234,7 @@ all desires fulfilled, all intentions realized, the capability to carry out all 
 आद्य्-**अपरिमित-दिव्य-भूषण** ! 
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 Yours are innumerable divine ornaments,  
 appropriate to Your own self, of various kinds and types, and endless, wonderful, eternal, flawless and unsurpassed,  
@@ -260,7 +260,7 @@ a raiment of yellow silk, girdle and anklets,
 असंख्येय-नित्य-निरवद्य-निरतिशय-**कल्याण-दिव्य+आयुध** ! 
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 Yours are abundant divine weapons,  
 innumerable, eternal, flawless and unsurpassed in auspiciousness,  
@@ -283,7 +283,7 @@ beginning with the conch, discus, club, sword, and bow!
 एवंभूत-भूमि-नीला-नायक !
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 Beloved consort of Śrī, who as a host of innumerable auspicious qualities,  
 flawless and superabundant, pleasing to Herself, eternal, flawless and appropriate—  
@@ -310,7 +310,7 @@ You are the consort of Bhūmī and Nīlā who are like Śrī!
 **परिचरित-चरण-युगल** !
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 Your feet are eternally waited upon by varied and unlimited male and female attendants—  
 first of all Śeṣa, Viṣvaksena, and Garuḍa—whose differences in proper form, continuation, and activity are in accord with Your will, who are of such a nature as find their sole pleasure in being unconditionally dependent, who have a host of endless auspicious qualities—beginning with eternal, flawless and unsur passed knowledge, activity, and lordship! 
@@ -337,7 +337,7 @@ first of all Śeṣa, Viṣvaksena, and Garuḍa—whose differences in proper f
 नित्य-निरवद्य-निरतिशय-(श्री)**वैकुण्ठ-नाथ** ! 
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 Your proper form and proper nature are beyond the limits of the words and minds of the highest yogis! 
 
@@ -362,7 +362,7 @@ with objects of enjoyment and instruments of enjoyment endless in kind and varie
 **निखिल-जगद्+उदय--विभव-लय-लील** ! +++(5)+++
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 Your play consists in the arising, enduring, and dissolution of the whole world  
 which in form is comprised of objects of enjoyment, kinds of enjoyers, instruments of enjoyment, and places of enjoyment,  
@@ -385,7 +385,7 @@ whose sole proper nature is to be dependent in proper form, continuation, and ac
 नारायण ! (श्री-)वैकुण्ठ-नाथ !
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 You have all desires fulfilled!  
 Your intentions are ever realized!  
@@ -406,7 +406,7 @@ Possessed of great glory! With Śrī! Nārāyaṇa! Lord of Vaikuṇṭha!
 अपार-कारुण्य-सौशील्य-वात्सल्य+औदार्य+ऐश्वर्य-सौन्दर्य-महा+उदधे !
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 Great ocean of measureless compassion, good disposition, affection, generosity, lordship and beauty! 
 </details>
@@ -422,7 +422,7 @@ Great ocean of measureless compassion, good disposition, affection, generosity, 
 अनालोचित-विशेष+अशेष-लोक-शरण्य !
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 The refuge of the whole world without remainder, with no consideration of distinctions! 
 </details>
@@ -437,7 +437,7 @@ The refuge of the whole world without remainder, with no consideration of distin
 प्रणत+आर्ति-हर ! आश्रित-वात्सल्य+एक-जलधे !
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 You dispel the distress of those offering obeisance to You!  
 You are a unique ocean of tenderness for those taking refuge!
@@ -454,7 +454,7 @@ You are a unique ocean of tenderness for those taking refuge!
 अनवरत-विदित-निखिल-भूत-जात-याथात्म्य ! 
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 You are the reality of all beings ever known to You!
 </details>
@@ -471,7 +471,7 @@ You are the reality of all beings ever known to You!
 अशेष-चर+अचर-भूत-निखिल-नियमन-निरत !
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 You are intent upon ordering all moving and unmoving beings without exception! 
 </details>
@@ -488,7 +488,7 @@ You are intent upon ordering all moving and unmoving beings without exception!
 अशेष-चिद्-अचिद्-वस्तु-शेषि-भूत !
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 You are the one to whom belong without remainder all conscious and non-conscious beings! 
 </details>
@@ -506,7 +506,7 @@ You are the one to whom belong without remainder all conscious and non-conscious
 अस्मत्-स्वामिन् ! 
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 The Lord of the whole world! Our Lord! 
 </details>
@@ -521,7 +521,7 @@ The Lord of the whole world! Our Lord!
 सत्य-काम ! सत्य-सङ्कल्प ! सकल+इतर-विलक्षण ! 
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 You have all desires fulfilled! Your intentions are ever realized! Different from all other beings! 
 </details>
@@ -537,7 +537,7 @@ You have all desires fulfilled! Your intentions are ever realized! Different fro
 अर्थि-कल्पक ! आपत्-सख ! 
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 The wishing tree for those in want! Friend of those in distress! 
 </details>
@@ -556,7 +556,7 @@ The wishing tree for those in want! Friend of those in distress!
 </details>
 
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 You are with Śrī! Nārāyaṇa! Refuge of those without refuge!  
 And I, who have no other refuge, surrender at Your lotus feet. (5) 
@@ -572,7 +572,7 @@ And I, who have no other refuge, surrender at Your lotus feet. (5)
 [अत्र द्वयम् ॥]
 </details>
 
-<details><summary>Clooney</summary>
+<details><summary>FX Clooney</summary>
 
 Here the dvayam, 
 
@@ -681,7 +681,7 @@ Here the dvayam,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मदीयानादिकर्म-प्रवाह-प्रवृत्तां,  
-भगवत्-स्वरूप तिरोधान-करीं  
+भगवत्-स्वरूप-तिरोधान-करीं  
 विपरीत-ज्ञान-जननीं  
 स्वविषयायाश् च भोग्य-बुद्धेर् जननीं,  
 देहेन्द्रियत्वेन भोग्यत्वेन सूक्ष्म-रूपेण च +अवस्थितां,  
@@ -697,10 +697,10 @@ Here the dvayam,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“तेषां ज्ञानी नित्ययुक्त  
-एक-भक्तिर् विशिष्यते ।  
+“तेषां **ज्ञानी** नित्य-युक्त  
+**एक-भक्तिर्** विशिष्यते ।  
 प्रियो हि ज्ञानिनो ऽत्यर्थम्  
-अहं स च मम प्रियः ॥“  
+अहं, स च मम प्रियः ॥“  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -712,9 +712,9 @@ Here the dvayam,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “उदाराः सर्व एवैते  
-ज्ञानी त्व् आत्मैव मे मतम् ।  
-आस्थितस् स हि युक्तात्मा  
-माम् एकाम् उत्तमां गतिम् ॥“  
+**ज्ञानी** त्व् आत्मैव मे मतम् ।  
+**आस्थितस्** स हि युक्तात्मा  
+**माम्** एकाम् उत्तमां गतिम् ॥“  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -726,7 +726,7 @@ Here the dvayam,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “बहूनां जन्मनाम् अन्ते  
-ज्ञानवान् मां प्रपद्यते ।  
+**ज्ञानवान् मां प्रपद्यते** ।  
 वासुदेवस् सर्वम् इति  
 स महात्मा सुदुर्लभः ॥“  
 </details>
@@ -740,7 +740,7 @@ Here the dvayam,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इति श्लोक-त्रयोदित-ज्ञानिनं मां कुरुष्व ॥ १४ ॥
+इति श्लोक-त्रयोदित-**ज्ञानिनं मां कुरुष्व** ॥ १४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -752,12 +752,12 @@ Here the dvayam,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“पुरुषस्य परः पार्थ,  
-भक्त्या लभ्यस्त्व् अनन्यया ।“    
-“भक्त्या त्व् अनन्यया शक्यः”  
-“मद्भक्तिं लभते पराम्”  
+“**पुरुषस्य परः** पार्थ,  
+भक्त्या **लभ्यस्** त्व् अनन्यया ।“    
+“**भक्त्या** त्व् अनन्यया **शक्यः**”  
+“**मद्-भक्तिं लभते** पराम्”  
 
-इति स्थान-त्रयोदित-पर-भक्ति-युतं मां कुरुष्व ॥ १५ ॥
+इति स्थान-त्रयोदित-**पर-भक्ति-युतं** मां **कुरुष्व** ॥ १५ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -768,7 +768,7 @@ Here the dvayam,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पर-भक्ति--पर-ज्ञान--परम-भक्त्यैक-स्वभावं मां कुरुष्व ॥ १६ ॥  
+पर-भक्ति--पर-ज्ञान--परम-**भक्त्यैक-स्वभावं** मां **कुरुष्व** ॥ १६ ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -780,10 +780,10 @@ Here the dvayam,
 
 पर-भक्ति--पर-ज्ञान--परम-भक्ति--कृत--  
 परिपूर्ण-+अनवरत-नित्य-विशदतम-+अनन्य-प्रयोजन  
--+अनवधिक+अतिशय--प्रिय-भगवद्-अनुभवो ऽहं  
+-+अनवधिक+अतिशय--प्रिय-**भगवद्-अनुभवो ऽहं**  
 तथा-विध--भगवद्-अनुभव-जनित-  
 +अनवधिक+अतिशय-प्रीति-कारिताशेष-शेषता-+एक-रति-रूप-  
--नित्य-किङ्करो भवानि ॥ १७ ॥  
+-**नित्य-किङ्करो भवानि** ॥ १७ ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -792,27 +792,284 @@ Here the dvayam,
 </details>
 
 
-> एवं-भूत--मत्-कैङ्कर्य-प्राप्ति+उपायतया ऽवकॣप्त-समस्त-वस्तु-विहीनोऽपि,  
-अनन्त-तद्-विरोधि-पाप+आक्रान्तोऽपि,  
-अनन्त-मद्+अपचार-युक्तोऽपि,  
-अनन्त-मदीय+अपचार-युक्तोऽपि,  
-अनन्त+असह्य+अपचार-युक्तोऽपि,  
-एतत्-कार्य--कारण-भूत-+अनादि-विपरीत+अहङ्कार-विमूढ+आत्म-स्वभावोऽपि,  
-एतद्+उभय-कार्य-कारण-भूत+अनादि-विपरीत-वासना-संबद्धोऽपि एतद्+अनुगुण-प्रकृति-विशेष-सम्बद्धोऽपि, एतन्-मूल+आध्यात्मिक+आधिभौतिक+आधिदैविक-सुख-दुःख-तद्-हेतु-तद्+इतर+उपेक्षणीय-विषय+अनुभव-ज्ञान-सङ्कोच-रूप-मच्-चरणारविन्द-युगल+एकान्तिक+आत्यन्तिक-परभक्ति-परज्ञान-परमभक्ति-विघ्न-प्रतिहतोऽपि येन केनापि प्रकारेण द्वय-वक्ता त्वं केवलं मदीयया+एव दयया निःशेष-विनष्ट-सहेतुक-मच्-चरणारविन्द-युगल+एकान्तिक+आत्यन्तिक-परभक्ति-परज्ञान-परमभक्ति-विघ्नः मत्-प्रसाद-लब्ध-मच्-चरणारविन्द-युगल+एकान्तिक+आत्यन्तिक-परभक्ति-परज्ञान-परम-भक्तिः, मत्-प्रसादात्+एव साक्षात्-कृत-यथा+अवस्थित-मत्-स्वरूप-रूप-गुण-विभूति-लीला+उपकरण-विस्तारः अपरोक्ष-सिद्ध-मत्-नियाम्यता-मत्-दास्य+एक-स्वभाव+आत्म-स्वरूपः मत्+एक+अनुभवः मत्-दास्य+एक-प्रियः परिपूर्ण+अनवरत-नित्य-विशदतम+अनन्य-प्रयोजन+अनवधिक+अतिशय-प्रिय-मद्-अनुभवः त्वं तथाविध-मद्-अनुभव-जनित+अनवधिक+अतिशय-प्रीति-कारिता-शेष+अवस्था+उचित+अशेष-शेषता+एकरति-रूप-नित्य-किङ्करो भव ॥ १८ ॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवम्-भूतः असि ॥ १९ ॥  
-आध्यात्मिक+आधिभौतिक+आधिदैविक-दुःख-गन्ध-रहितः त्वं द्वयम् अर्थानुसन्धेन सह सदा एवं वक्ता यावत्-शरीर-पातं अत्र एव श्रीरङ्गे सुखम् आस्स्व ॥ २० ॥  
-शरीर-पात-समये तु केवलं मदीयया एव दयया अतिप्रबुद्धः माम् एव अवलोकयन् अप्रच्युत-पूर्व-संस्कार-मनोरथः जीर्णम् इव वस्त्रं सुखेन इमां प्रकृतिं स्थूल-सूक्ष्म-रूपां विसृज्य तदानीम् एव मत्-प्रसाद-लब्ध-मच्-चरणारविन्द-युगल+एकान्तिक-परभक्ति-परज्ञान-परमभक्ति-कृत-परिपूर्ण+अनवरत-नित्य-विशदतम+अनन्य-प्रयोजन+अनवधिक+अतिशय-प्रिय-मद्-अनुभवः त्वं तथाविध-मदनुभव-जनित+अनवधिक+अतिशय-प्रीतिकारिता-शेषावस्था+उचित+अशेष-शेषता+एकरति-रूप-नित्य-किङ्करः भविष्यसि ॥ २१ ॥  
-मा ते भूत् अत्र संशयः ॥ २२ ॥  
-“ अनृतं न उक्त-पूर्वं मे न च वक्ष्ये कदाचन ।“  
-“रामो द्विः न अभिभाषते ।“  
-“ सकृत् एव प्रपन्नाय तव अस्मि इति च याचते ।  
-अभयं सर्व-भूतेभ्यः ददामि एतत् व्रतं मम ॥“  
-“सर्व-धर्मान् परित्यज्य माम् एकं शरणं व्रज ।  
-अहं त्वा सर्व-पापेभ्यः मोक्षयिष्यामि मा शुचः ॥“ इति मया एव हि उक्तम् ॥ २३ ॥  
+एवं-भूत--मत्-कैङ्कर्य-प्राप्ति+उपायतया ऽवकॣप्त-समस्त-**वस्तु-विहीनो** ऽपि,  
+अनन्त-तद्-विरोधि-**पाप+आक्रान्तो** ऽपि,  
+अनन्त-**मद्+अपचार**-युक्तो ऽपि,  
+अनन्त-**मदीय+अपचार**-युक्तोऽपि,  
+अनन्त+**असह्य+अपचार**-युक्तोऽपि,  
+एतत्-कार्य--कारण-भूत-+अनादि-विपरीत+**अहङ्कार-विमूढ**+आत्म-स्वभावोऽपि,  
+एतद्+उभय-कार्य-कारण-भूत+अनादि-**विपरीत-वासना**-संबद्धोऽपि  
+एतद्+अनुगुण-**प्रकृति-विशेष**-सम्बद्धोऽपि,   
+</details>
 
-अतः त्वं तत्त्वतः मत्-ज्ञान-प्राप्तिषु निस्संशयः सुखम् आस्स्व ॥ २४ ॥  
-अन्त्य-काले स्मृतिः या तु तव कैङ्कर्य-कारिता ।  
-ताम् एनां भगवन् अद्य क्रियमाणां कुरुष्व मे ॥  
+<details><summary>English</summary>
+
+{Then the Lord answers the prayer and says to the devotee}
+
+You may not have all the requisite qualifications for attaining the state of being in my such service;  
+you may even be beset with sins which stand in your way (of attaining My service)  
+you may have sinned grievously against Me or against My people (BhagavatAs)   
+or committed unto Me extremely grievous wrongs unforgivable.  
+Your disposition may be such a disposition which hides Me from your vision, i.e., ahankAra which is the cause and result of the above sins.  
+You may be even affected by beginningless and perverted impressions and tendencies (inherited from previous births) which are the cause and result of your sins and of ahankAra. You may be connected with Prakrti (the cause of the above All). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवंभूत मत्कैङ्कर्यप्राप्त्युपायतया अवकॢप्त समस्तवस्तुविहीनोऽपि, अनन्त तद्विरोधिपापाक्रान्तोऽपि, अनन्त मदपचारयुक्तोऽपि, अनन्त मदीयापचारयुक्तोऽपि, अनन्त असह्यापचारयुक्तोऽपि, एतत्कार्यकारणभूत अनादि विपरीताहङ्कार विमूढात्मस्वभावोऽपि, एतदुभय कार्यकारणभूत अनादि विपरीतवासनासंबद्धोऽपि, एतदनुगुण प्रकृतिविशेषसंबद्धोऽपि,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतन्-मूल+आध्यात्मिक+आधिभौतिक+आधिदैविक--सुख-दुःख--  
+तद्-हेतु--तद्+इतर+उपेक्षणीय--विषय+अनुभव-ज्ञान-सङ्कोच-रूप-  
+मच्-चरणारविन्द-युगल+एकान्तिक+आत्यन्तिक-  
+परभक्ति-परज्ञान-परमभक्ति-  
+**विघ्न-प्रतिहतो** ऽपि  
+</details>
+
+<details><summary>English</summary>
+
+You may be even set upon by obstructions to Para bhakti, Para Jn~Ana and Parama Bhakti -- a Bhakti constant and one pointed towards the lotus like feet of Mine,  
+the obstructions for which are due to the enjoyment of external (Material) things, which in turn are the objects of pleasure and sorrow or of neither: caused by bodily organs and outside objects (of the earth or divine), all these due to connection with Prakrti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतन्मूल आध्यात्मिक आधिभौतिक आधिदैविक सुखदुःख तद्धेतु तदितरोपेक्षणीय विषयानुभव ज्ञान संकोचरूप मच्चरणारविन्दयुगल ऐकान्तिकात्यन्तिक परभक्ति परज्ञान परमभक्तिविघ्नप्रतिहतोऽपि, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+येन केनापि प्रकारेण **द्वय-वक्ता** त्वं  
+केवलं मदीयया+एव दयया   
+
+निःशेष-**विनष्ट**-सहेतुक--  
+मच्-चरणारविन्द-युगल+एकान्तिक+आत्यन्तिक-  
+परभक्ति-परज्ञान-**परम-भक्ति-विघ्नः**  
+
+मत्-प्रसाद-**लब्ध**--  
+मच्-चरणारविन्द-युगल+एकान्तिक+आत्यन्तिक-  
+परभक्ति-परज्ञान-**परम-भक्तिः**,  
+</details>
+
+<details><summary>English</summary>
+
+However, you have somehow or other uttered the words of dvaya mantra.  
+By My mere DayA, you will be freed completely from the obstructions to Para Bhakti, Para Jn~Ana, Parama Bhakti and their causes. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+येनकेनापि प्रकारेण द्वयवक्ता त्वम्, केवलं मदीययैव दयया, निश्शेषविनष्ट सहेतुक मच्चरणारविन्दयुगल ऐकान्तिकात्यन्तिक परभक्ति परज्ञान परमभक्तिविघ्नः,  
+मत्प्रसादलब्ध मच्चरणारविन्दयुगल ऐकान्तिकात्यन्तिक परभक्ति परज्ञान परमभक्तिः,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मत्-प्रसादाद् एव  
+**साक्षात्-कृत**-यथा+अवस्थित-  
+मत्-स्वरूप-रूप--गुण-**विभूति-लीला**+उपकरण-विस्तारः  
+
+अपरोक्ष-सिद्ध-  
+मन्-नियाम्यता--मद्-**दास्य+एक-स्वभाव**+आत्म-स्वरूपः
+</details>
+
+<details><summary>English</summary>
+
+You will also by My grace obtain Para Bhakti, Para Jn~Ana and Parama Bhakti and be favoured with the direct vision of Me, My form, My attributes, My vibhUtis and also of Moola Prakrti, which is My playground.  
+
+You will also realize directly and clearly your own nature (innate quality), i.e., being in ever service to Me and be controlled by Me. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मत्प्रसादादेव साक्षात्कृत यथावस्थित मत्स्वरूपरूपगुण विभूति लीलोपकरणविस्तारः,  
+अपरोक्षसिद्ध मन्नियाम्यता मद्दास्यैकरसात्मस्वभावात्मस्वरूपः,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मद्+एक+अनुभवः  
+मत्-दास्य+एक-प्रियः  
+परिपूर्ण+अनवरत-नित्य-विशदतम-  
++अनन्य-प्रयोजन-  
++अनवधिक+अतिशय-प्रिय-**मद्-अनुभवः** त्वं
+</details>
+
+<details><summary>English</summary>
+
+Then, finding your enjoyment only in Me only and desirous of serving Me only and experiencing such enjoyment (as stated above) full clear, eternal, with no goal other than Me and extremely pleasant,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मदेकानुभवः, मद्दास्यैकप्रियः, परिपूर्णानवरत नित्यविशदतम अनन्यप्रयोजन अनवधिकातिशयप्रिय मदनुभवस्त्वं, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथाविध-मद्-अनुभव-जनित+  
+अनवधिक+अतिशय-प्रीति--  
+कारिताशेष+अवस्था+उचित  
++अशेष-शेषता+एक-रति-रूप-  
+**नित्य-किङ्करो भव** ॥ १८ ॥  
+</details>
+
+<details><summary>English</summary>
+
+you will be My servant for ever and ever as stated above. Take it that you have become My servant as described above.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथाविध मदनुभवजनित अनवधिकातिशय प्रीतिकारित अशेषावस्थोचित अशेषशेषतैकरतिरूप नित्यकिङ्करो भव !
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम्-भूतो ऽसि ॥ १९ ॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवम्भूतोऽसि । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आध्यात्मिक+आधिभौतिक+आधिदैविक-दुःख-गन्ध-रहितस् त्वं  
+द्वयम्, अर्थानुसन्धेन सह,  
+सदा +एवं वक्ता  
+यावत्-शरीर-पातम्  
+अत्र +एव श्रीरङ्गे सुखम् आस्व ॥ २० ॥  
+</details>
+
+<details><summary>English</summary>
+
+Thus relieved and not troubled by the obstructions in the least degree which are the cause of worldly or divine grieves and sorrows,  
+always uttering dvaya mantra with full understanding of its meaning and significance,  
+
+You shall reside in Srirangam till the body falls to the ground (death).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आध्यात्मिक आधिभौतिक आधिदैविक दुःखविघ्नगन्धरहितस्त्वं द्वयमर्थानुसन्धानेन सह सदैवं वक्ता यावच्छरीरपातं अत्रैव श्रीरङ्गे सुखमास्व । २० ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरीर-पात-समये तु केवलं मदीयया एव दयया ऽतिप्रबुद्धो  
+माम् एव +अवलोकयन्न्,  
+अप्रच्युत-पूर्व-संस्कार-मनोरथो+++(=??)+++,  
+जीर्णम् इव वस्त्रं,  
+सुखेन +इमां **प्रकृतिं** स्थूल-सूक्ष्म-रूपां **विसृज्य** 
+</details>
+
+<details><summary>मूलम्</summary>
+
+शरीरपातसमये तु केवलं मदीययैव दयया अतिप्रबुद्धः, मामेवावलोकयन्, अप्रच्युत पूर्वसंस्कारमनोरथः, जीर्णमिव वस्त्रं सुखेन इमां प्रकृतिं स्थूलसूक्ष्मरूपां विसृज्य,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदानीम् एव  
+मत्-प्रसाद-**लब्ध**--  
+मच्-चरणारविन्द-युगल+  
+एकान्तिक-परभक्ति-परज्ञान--परम-**भक्ति-कृत**-  
+परिपूर्ण+अनवरत-नित्य-विशदतम-+अनन्य-प्रयोजन-  
++अनवधिक+अतिशय-प्रिय--  
+**मद्-अनुभवस्** त्वं 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदानीमेव मत्प्रसादलब्ध मच्चरणारविन्दयुगल ऐकान्तिकात्यन्तिक परभक्ति परज्ञान परमभक्तिकृत परिपूर्णानवरत नित्यविशदतम अनन्यप्रयोजन अनवधिकातिशयप्रिय मदनुभवस्त्वं, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा-विध--मद्-**अनुभव-जनित**-  
++अनवधिक+अतिशय-**प्रीति**-कारिताशेषावस्था+उचित+  
+अशेष-शेषता+एक-रति-रूप-**नित्य-किङ्करः भविष्यसि** ॥ २१ ॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथाविध मदनुभवजनित अनवधिकातिशय प्रीतिकारित अशेषावस्थोचित अशेषशेषतैकरतिरूप नित्यकिङ्करो भविष्यसि । २१ ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मा ते भूद् अत्र संशयः ॥ २२ ॥
+
+> “अनृतं न +उक्त-पूर्वं मे  
+न च वक्ष्ये कदाचन ।“  
+
+> “रामो द्विर् न +अभिभाषते ।“    
+
+> “सकृत् एव प्रपन्नाय तव 
+अस्मि इति च याचते ।  
+अभयं सर्व-भूतेभ्यो  
+ददामि +एतत् व्रतं मम ॥“  
+
+> “सर्व-धर्मान् परित्यज्य  
+माम् एकं शरणं व्रज ।  
+अहं त्वा सर्व-पापेभ्यो  
+> मोक्षयिष्यामि मा शुचः ॥“ 
+
+इति मया +एव हि उक्तम् ॥ २३ ॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
+मा ते भूद् अत्र संशयः ॥ २२ ॥
+
+"अनृतं नोक्तपूर्वं मे न च वक्ष्ये कदाचन ।"   
+"रामो द्विर्नाभिभाषते ।"  
+"सकृदेव प्रपन्नाय तवास्तीति च याचते । अभयं सर्वभूतेभ्यो ददाम्येतद्व्रतं मम ॥"  
+"सर्वधर्मान् परित्यज्य मामेकं शरणं व्रज । अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ॥"  
+
+इति मयैव ह्युक्तम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् त्वं तत्त्वतो मज्-ज्ञान-दर्शन-प्राप्तिषु निस्संशयः सुखम् आस्व ॥ २४ ॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतस्त्वं तव तत्वतो मज्ज्ञानदर्शनप्राप्तिषु निस्संशयः सुखमास्व । २४ ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्त्य-काले **स्मृतिर् या** तु  
+तव कैङ्कर्य-कारिता ।  
+ताम् एनां भगवन्न् अद्य  
+क्रियमाणां कुरुष्व मे ॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्त्यकाले स्मृतिर्या तु तव कैङ्कर्यकारिता । तामेनां भगवन्नद्य क्रियामाणां कुरुष्व मे ॥
+</details>
+
 ॥ इति शरणागतिगद्यम् ॥
 
