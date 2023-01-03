@@ -6,6 +6,8 @@ unicode_script = "devanagari"
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 आङ्ग्लानुवादाः [शठकोपक्षेत्रे](https://www.sadagopan.org/pdfuploads/Saranagathi%20Gadyam.pdf) । 
+
+टीका [ऽत्र](https://archive.org/details/gadyatrayamramanujacharyasrutaprakasikabhasyasudarsanasurirahasyaraksavedantades) । 
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -974,7 +976,7 @@ You shall reside in Srirangam till the body falls to the ground (death).
 
 शरीर-पात-समये तु केवलं मदीयया एव दयया ऽतिप्रबुद्धो  
 माम् एव +अवलोकयन्न्,  
-अप्रच्युत-पूर्व-संस्कार-मनोरथो+++(=??)+++,  
+अप्रच्युत+++(गुरूपदेशादि)+++-पूर्व-संस्कार-मनोरथो,  
 जीर्णम् इव वस्त्रं,  
 सुखेन +इमां **प्रकृतिं** स्थूल-सूक्ष्म-रूपां **विसृज्य** 
 </details>
