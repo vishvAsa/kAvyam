@@ -806,7 +806,7 @@ Here the dvayam,
 एतद्+अनुगुण-**प्रकृति-विशेष**-सम्बद्धोऽपि,   
 </details>
 
-<details><summary>English</summary>
+<details><summary>K Bhashyam</summary>
 
 {Then the Lord answers the prayer and says to the devotee}
 
@@ -834,7 +834,7 @@ You may be even affected by beginningless and perverted impressions and tendenci
 **विघ्न-प्रतिहतो** ऽपि  
 </details>
 
-<details><summary>English</summary>
+<details><summary>K Bhashyam</summary>
 
 You may be even set upon by obstructions to Para bhakti, Para Jn~Ana and Parama Bhakti -- a Bhakti constant and one pointed towards the lotus like feet of Mine,  
 the obstructions for which are due to the enjoyment of external (Material) things, which in turn are the objects of pleasure and sorrow or of neither: caused by bodily organs and outside objects (of the earth or divine), all these due to connection with Prakrti.
@@ -860,7 +860,7 @@ the obstructions for which are due to the enjoyment of external (Material) thing
 परभक्ति-परज्ञान-**परम-भक्तिः**,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>K Bhashyam</summary>
 
 However, you have somehow or other uttered the words of dvaya mantra.  
 By My mere DayA, you will be freed completely from the obstructions to Para Bhakti, Para Jn~Ana, Parama Bhakti and their causes. 
@@ -883,7 +883,7 @@ By My mere DayA, you will be freed completely from the obstructions to Para Bhak
 मन्-नियाम्यता--मद्-**दास्य+एक-स्वभाव**+आत्म-स्वरूपः
 </details>
 
-<details><summary>English</summary>
+<details><summary>K Bhashyam</summary>
 
 You will also by My grace obtain Para Bhakti, Para Jn~Ana and Parama Bhakti and be favoured with the direct vision of Me, My form, My attributes, My vibhUtis and also of Moola Prakrti, which is My playground.  
 
@@ -906,7 +906,7 @@ You will also realize directly and clearly your own nature (innate quality), i.e
 +अनवधिक+अतिशय-प्रिय-**मद्-अनुभवः** त्वं
 </details>
 
-<details><summary>English</summary>
+<details><summary>K Bhashyam</summary>
 
 Then, finding your enjoyment only in Me only and desirous of serving Me only and experiencing such enjoyment (as stated above) full clear, eternal, with no goal other than Me and extremely pleasant,
 </details>
@@ -927,7 +927,7 @@ Then, finding your enjoyment only in Me only and desirous of serving Me only and
 **नित्य-किङ्करो भव** ॥ १८ ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>K Bhashyam</summary>
 
 you will be My servant for ever and ever as stated above. Take it that you have become My servant as described above.
 </details>
@@ -957,7 +957,7 @@ you will be My servant for ever and ever as stated above. Take it that you have 
 अत्र +एव श्रीरङ्गे सुखम् आस्व ॥ २० ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>K Bhashyam</summary>
 
 Thus relieved and not troubled by the obstructions in the least degree which are the cause of worldly or divine grieves and sorrows,  
 always uttering dvaya mantra with full understanding of its meaning and significance,  
