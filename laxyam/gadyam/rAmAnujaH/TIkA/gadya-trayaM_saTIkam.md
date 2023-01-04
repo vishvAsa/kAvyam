@@ -2,6 +2,8 @@
 title = "सुदर्शनसूरिः वेङ्कटनाथश् च"
 +++
 
+Source: [TW](https://archive.org/details/gadyatrayamramanujacharyasrutaprakasikabhasyasudarsanasurirahasyaraksavedantades/page/n7/mode/2up)
+
 
 भगवद्रामानुजाचार्यविरचितम् 
 गद्यत्रयम् 
