@@ -8,3 +8,6 @@ unicode_script = "devanagari"
 
 ## ಕನ್ನಡ
 - ಯತಿ is not strict in ಕನ್ನಡ. "ಕನ್ನಡಕ್ಕೆ ಯತಿಯಿಲ್ಲ, ಕೋಣಕ್ಕೆ ಮತಿಯಿಲ್ಲ" ಎಂಬ ಮಾತಿದೆ.
+
+## समास-निर्बन्धः
+- SamAsa extending beyond 2nd pAda should be avoided. (Utpaladeva makes such prayogas, the larger kavisamudAya doesn't).
