@@ -38,4 +38,21 @@ Wild, but not savage.
 "The closest to a wild environment is being in a Street Gang, with its periods of inaction and intense action, adrenaline, and psychological danger. This is because young people are still wild. Yet people say that is wrong. Society doesn't like wildness. It's scared by it. It will stop you from being wild. It wants you to conform, but as soon as you conform, your life-force and spirit is dead."
 </details>
 
+संसारः सुलभो हन्त,  
+शुद्धा संवित् तथा न हि।  
+बान्धवा अतिसामान्याः  
+शरीरं दोषवान् अपि॥  
 
+एतावत्य् एव सामग्री  
+जीविते, ऽतो न किञ्चन।  
+लिलया हि प्रयोक्तव्या  
+ऽऽनन्दौन्नत्याय धीमता॥
+
+पुरुषार्थेषु संसिद्धिं  
+लभेयैवं दिवश् चितः॥
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सैव बुद्धिशक्तिः, स एव संसारः, सैव च दुर्ग्राह्या शुद्धा संवित्, तान्य् एव कर्माणि, तद् एव शरीरम्, त एव बान्धवाः - एभ्य आत्मानम् मोचयितुं कथञ्चिद् अपि न शक्यम् ("आहा - निर्विकल्पसंविदं साक्षात्कृत्य धन्यतमो भवामी"ति वा, "ओहो - श्रीकृष्णवद् अहम् प्राज्ञो भवामी"ति वा, "मत्सहाय्या मॊङ्गोलसेनापतिसदृशा भवितार" इति वा) ।  
+यद् एवास्ति तेनैव  लीलात्मकताम् प्रधानंं कृत्वा पुरुषार्थास् साधनीयाः।
+</details>
