@@ -42,10 +42,10 @@ The poet starts with a customary verse of invocation.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वन्दे वाञ्छितदायि वेङ्कटगिरेर्वेदस्य चोत्तंसकम्  
-पुंसः कंसजितस्तदङ्घ्रिकमलं पूरेण यज्जन्मना ।  
-शम्भुश्शाश्वतशेखरो जलनिधिर्जाग्रद्-द्वितीयाश्रमः  
-संजातः सगरान्वयोऽप्यमृतवान् नाको नदीमातृकः ॥ १ ॥
+**वन्दे** वाञ्छित-दायि वेङ्कटगिरेर् वेदस्य चोत्तंसकम्,  
+पुंसः कंस-जितस् तद् **अङ्घ्रि-कमलं** - पूरेण यज्-जन्मना +++(गङ्गया)+++ ।  
+शम्भुश् शाश्वत-शेखरो, जल-निधिर् जाग्रद्-द्वितीयाश्रमः  
+संजातः सगरान्वयो, ऽप्य् अमृतवान् नाको नदी-मातृकः ॥ १ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -58,19 +58,21 @@ The poet starts with a customary verse of invocation.
 
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
-I bow to the lotus feet of Lord Krishna, the slayer of Kamsa. Those feet are the crest of Venkatagiri(Tirumalai) and of the Vedas. From those feet emanated the river (Ganga) which forms the permanent crown of Siva, which caused the Ocean God to enter the marital state, which enabled Sagara’s progeny to attain salvation and which made the divine world an irrigated land. (_The verse alludes to the following Puranic episodes: Ganga emanated from the feet of Vishnu and fell on the matted locks of Siva. Later as it joined the ocean, Ganga became the wife of Ocean and thus caused him to enter marital state [second  asram]. King Sagara’s progeny who had been burnt and denied salvation while searching for the sacrificial horse got salvation after Bhagiratha managed to take Ganga to flood the ashes. As Ganga became the Divine river of the divine world (svarga), svarga became a land irrigated by a river. _
+I bow to the lotus feet of Lord Krishna, the slayer of Kamsa. Those feet are the crest of Venkatagiri(Tirumalai) and of the Vedas. From those feet emanated the river (Ganga) which forms the permanent crown of Siva, which caused the Ocean God to enter the marital state, which enabled Sagara’s progeny to attain salvation and which made the divine world an irrigated land. 
 
-_Land is “devamatrka” if it is dependant solely on rains for cultivation. It is “nadimatrika” if the land is served by a river for cultivation._
+(The verse alludes to the following Puranic episodes: Ganga emanated from the feet of Vishnu and fell on the matted locks of Siva. Later as it joined the ocean, Ganga became the wife of Ocean and thus caused him to enter marital state [second  asram]. King Sagara’s progeny who had been burnt and denied salvation while searching for the sacrificial horse got salvation after Bhagiratha managed to take Ganga to flood the ashes. As Ganga became the Divine river of the divine world (svarga), svarga became a land irrigated by a river.
 
-_As the Vedas extol the Almighty, they are considered to emanate from the feet of the Lord._)
+Land is “devamatrka” if it is dependant solely on rains for cultivation. It is “nadimatrika” if the land is served by a river for cultivation.
+
+As the Vedas extol the Almighty, they are considered to emanate from the feet of the Lord.)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रीवेङ्कटार्यमखिना रघुनाथसूरेः  
-संप्राप्तजन्मयुगलेन यथामनीषम् ।  
-आतन्यते सुमनसामनसूयकानाम्  
-हर्षाय संप्रति सुभाषितकौस्तुभोऽयम् ॥ २ ॥
+श्री-वेङ्कटार्य-मखिना रघुनाथ-सूरेः  
+संप्राप्त-जन्म-युगलेन यथा-मनीषम् ।  
+**आतन्यते** सुमनसाम् अनसूयकानाम्  
+हर्षाय संप्रति सुभाषित-कौस्तुभो ऽयम् ॥ २ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -83,13 +85,17 @@ _As the Vedas extol the Almighty, they are considered to emanate from the feet o
 
 <details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
-For the joy of the learned who are not jealous, this “Subhashitakaustubha” is being provided as per his intellectual abilities by Venkatamakhi, who got both his births from Raghunaathasoori (_Father gave him the second birth through the rite of upanayanam. Kaustubha is the gem obtained while churning the ocean and which is worn by Vishnu on his chest. Just as Kaustubha is the best of gems, these goodsayings are the best of the genre. Although the name of the poet is given here as Venkatamakhi, he is usually called Venkatadhvari._)
+For the joy of the learned who are not jealous, this “Subhashitakaustubha” is being provided as per his intellectual abilities by Venkatamakhi, who got both his births from Raghunaathasoori 
+
+(_Father gave him the second birth through the rite of upanayanam. Kaustubha is the gem obtained while churning the ocean and which is worn by Vishnu on his chest. Just as Kaustubha is the best of gems, these goodsayings are the best of the genre. Although the name of the poet is given here as Venkatamakhi, he is usually called Venkatadhvari._)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्तादृक्पुरुषोत्तमहृदयङ्गममिममभङ्गगुणबद्धम् ।  
-सुधियः साधु सुभाषितकौस्तुभमनघं परीक्ष्य नन्दन्तु ॥ ३ ॥
+तत्-तादृक्-पुरुषोत्तम-  
+हृदयङ्-गमम् इमम् अ-भङ्ग-गुण-बद्धम् ।  
+सुधियः साधु सुभाषित-  
+कौस्तुभम् अनघं **परीक्ष्य नन्दन्तु** ॥ ३ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -104,10 +110,15 @@ May the learned rejoice by carefully examining this “subhashita-kaustubha”  
 
 (_Through a clever use of appropriate double-meaning words the poet compares this work with that of Kaustubha gem, which is at the heart of “Purushottama” and which is strung with an unbroken [अभङ्ग] thread [गुण]._)
 
+</details>
+
 ## अविवेकपद्धतिः
+
+<details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
 
 ( Section on imprudence)
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -473,13 +484,19 @@ Thus ends “section on imprudence” in SubhaShitakaustubha among the works of 
 
 
 
-## सज्जनपद्धतिः 
+</details>
+
+## सज्जनपद्धतिः
 
 **अथ सज्जनपद्धतिः**
 
 
+<details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
+
 **Now the section on the virtuous**.
 </details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1312,14 +1329,18 @@ Even if endowed with the slightest of wealth neglecting even those who are close
 Thus ends the third section dealing with the wicked.
 
 
-- - - - 
+</details>
+
 ## वदान्यपद्धतिः
 
 **अथ वदान्यपद्धतिः**
 
 
+<details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
+
 **Now is the section dealing with the generous.**
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1743,13 +1764,18 @@ _“नह्यस्माभिः प्रतिग्राह्यं �
 
 
 **Thus ends the fourth section on the generous.**
+</details>
+
 ## सङ्कीर्णपद्धतिः
 
 **अथ सङ्कीर्णपद्धतिः**
 
 
+<details><summary>गॊरूरु-श्रीनिवासमूर्तिः</summary>
+
 **Now then the miscellaneous section**
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
