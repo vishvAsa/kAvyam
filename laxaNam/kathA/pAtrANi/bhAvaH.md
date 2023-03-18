@@ -79,7 +79,7 @@ Chulef, Read, and Walsh (2001) have classified behavior-relevant human goals int
   - close relationship between our real-life “ego-centric” emotions and the “empathetic” emotions that we experience while reading a piece of literature
 
 
-#### Aspects
+### Aspects
 - vibhāva, bhāva and anubhāva - considered separately.
 - (a) stimulus object, event, or situation; 
 - (b) perception of the stimulus;
