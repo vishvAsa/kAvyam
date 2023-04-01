@@ -23,7 +23,7 @@ title = "१६ वनवर्णनम्"
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>टीका</summary>
 
 अथ विचित्रवनवर्णनप्रस्तावार्थमाह-- इतीत्यादि । -
 
