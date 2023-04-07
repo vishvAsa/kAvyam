@@ -13,9 +13,8 @@ OF
 KALIDASA
 
   
-**With the commentary Pradipa of  
-** **DAKSHINAVARTANATHA  
-**  
+**With the commentary Pradipa of** **DAKSHINAVARTANATHA**  
+
 EDITED BY  
 MAHAMAHOPADHYAYA  
 T. GANAPATI SASTRI  
