@@ -1,5 +1,5 @@
 +++
-title = "गङ्गालहरी"
+title = "+गङ्गालहरी"
 unicode_script = "devanagari"
 +++
 पण्डितराजजगन्नाथविरचिता  
