@@ -151,7 +151,7 @@ solely intelligence and bliss without limit!
 
 <details><summary>मूलम्</summary>
 
-अखिलहेयप्रत्यनीक कल्याणैकतान! स्वेतर समस्तवस्तुविलक्षण ! अनन्तज्ञानानन्दैकस्वरूप!
+अखिलहेयप्रत्यनीक कल्याणैकतान! स्वेतर+++(/स्वानितर)+++-समस्तवस्तुविलक्षण ! अनन्तज्ञानानन्दैकस्वरूप!
 </details>
  
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -182,7 +182,7 @@ beginning with splendor, beauty, fragrance, tenderness, handsome demeanor, and y
 (वत्सल, स्वामिन्, सुशील, सुलभ, सर्वज्ञ, सर्व-शक्ते,  
 परम-कारुणिक, कृतज्ञ, स्थिर, परिपूर्ण, परमोदार,  
 एवं-भूत-मार्दवार्जवाद्य्-अनन्त-कल्याण-गुण-परिपूर्ण,)  
-+++(हेयोपादेयदर्पणे ऽधिकः पाठः)+++
++++(गोपालदेशिकाह्निके ऽधिकः पाठः)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -190,6 +190,7 @@ beginning with splendor, beauty, fragrance, tenderness, handsome demeanor, and y
 (वत्सल, स्वामिन्, सुशील, सुलभ, सर्वज्ञ, सर्व-शक्ते,  
 परम-कारुणिक, कृतज्ञ, स्थिर, परिपूर्ण, परमोदार,  
 एवं-भूत-मार्दवार्जवाद्य्-अनन्त-कल्याण-गुण-परिपूर्ण,)  
++++(गोपालदेशिकाह्निके ऽधिकः पाठः)+++
 </details>
 
 
@@ -204,6 +205,12 @@ beginning with splendor, beauty, fragrance, tenderness, handsome demeanor, and y
 कृतित्व-कृतज्ञता+आद्य्--  
 असङ्ख्येय-**कल्याण-गुण**-गण+ओघ-**महार्णव!**  
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+गोपालदेशिकाह्निके लुप्तोऽयम् भागः। 
+</details>
+
 
 <details><summary>FX Clooney</summary>
 
@@ -361,7 +368,13 @@ with objects of enjoyment and instruments of enjoyment endless in kind and varie
 प्रकृति-पुरुष-काल+आत्मक--  
 विविध-विचित्र+अनन्त-भोग्य--  
 भोक्तृ-वर्ग--भोग+उपकरण--भोग-स्थान-रूप--  
-**निखिल-जगद्+उदय--विभव-लय-लील** ! +++(5)+++
+**निखिल-जगद्+उदय--विभव-+++([व])+++लय-लील** ! +++(5)+++
+</details>
+
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+गोपालदेशिकाह्निके ऽन्तिमैव पङ्क्तिर् विद्यते।
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -375,7 +388,7 @@ whose sole proper nature is to be dependent in proper form, continuation, and ac
 
 <details><summary>मूलम्</summary>
 
-स्वसङ्कल्पानुविधायि स्वरूपस्थितिप्रवृत्ति स्वशेषतैकस्वभाव प्रकृति पुरुष कालात्मक विविध विचित्रानन्त भोग्य भोक्तृवर्ग भोगोपकरण भोगस्थानरूप निखिलजगदुदय विभव लयलील !
+स्वसङ्कल्पानुविधायि स्वरूपस्थितिप्रवृत्ति स्वशेषतैकस्वभाव प्रकृति पुरुष कालात्मक विविध विचित्रानन्त भोग्य भोक्तृवर्ग भोगोपकरण भोगस्थानरूप निखिलजगदुदय विभव +++(व/)+++लयलील !
 </details>
 
 
@@ -385,6 +398,11 @@ whose sole proper nature is to be dependent in proper form, continuation, and ac
 पर-ब्रह्म-भूत ! पुरुषोत्तम !  
 महा-विभूते ! श्रीमन् !  
 नारायण ! (श्री-)वैकुण्ठ-नाथ !
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+गोपालदेशिकाह्निके ऽयम् भागो लुप्तः।
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -406,6 +424,11 @@ Possessed of great glory! With Śrī! Nārāyaṇa! Lord of Vaikuṇṭha!
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपार-कारुण्य-सौशील्य-वात्सल्य+औदार्य+ऐश्वर्य-सौन्दर्य-महा+उदधे !
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+गोपालदेशिकाह्निके ऽयम् भागो लुप्तः।
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -437,6 +460,11 @@ The refuge of the whole world without remainder, with no consideration of distin
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रणत+आर्ति-हर ! आश्रित-वात्सल्य+एक-जलधे !
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+गोपालदेशिकाह्निके "प्रणत+आर्ति-हर !" इति भागो लुप्तः।
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -473,6 +501,11 @@ You are the reality of all beings ever known to You!
 अशेष-चर+अचर-भूत-निखिल-नियमन-निरत !
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+गोपालदेशिकाह्निके ऽयम् भागो लुप्तः।
+</details>
+
 <details><summary>FX Clooney</summary>
 
 You are intent upon ordering all moving and unmoving beings without exception! 
@@ -507,6 +540,12 @@ You are the one to whom belong without remainder all conscious and non-conscious
 अखिल-जगत्-स्वामिन् !  
 अस्मत्-स्वामिन् ! 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+गोपालदेशिकाह्निके ऽयम् भागो लुप्तः। 
+</details>
+
 
 <details><summary>FX Clooney</summary>
 
@@ -568,6 +607,8 @@ And I, who have no other refuge, surrender at Your lotus feet. (5)
 
 श्रीमन् ! नारायण! अशरण्यशरण्य ! अनन्यशरणः त्वत्पादारविन्दयुगलं शरणमहं प्रपद्ये !
 </details>
+
+## द्वयादि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -634,6 +675,7 @@ Here the dvayam,
 पिताऽसि लोकस्य चराचरस्य त्वमस्य पूज्यश्च गुरुर्गरीयान् । न त्वत्समोऽस्त्यभ्यधिकः कुतोऽन्यो लोकत्रयेऽप्यप्रतिमप्रभाव ॥
 </details>
 
+## क्षमायाचना
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् प्रणम्य प्रणिधाय कायम्  
@@ -646,7 +688,6 @@ Here the dvayam,
 
 तस्मात् प्रणम्य प्रणिधाय कायं प्रसादये त्वामहमीशमीड्यम् । पितेव पुत्रस्य सखेव सख्युः प्रियः प्रियायार्हसि देव सोढुम् ॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -679,7 +720,7 @@ Here the dvayam,
 अनादिकालप्रवृत्त विपरीतज्ञानं, आत्मविषयं कृत्स्नजगद्विषयं च, विपरीतवृत्तं च अशेषविषयं, अद्यापि वर्तमानं वर्तिष्यमाणं च सर्वं क्षमस्व ।
 </details>
 
-
+## तारण-प्रार्थना
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मदीयानादिकर्म-प्रवाह-प्रवृत्तां,  
@@ -729,7 +770,7 @@ Here the dvayam,
 
 “बहूनां जन्मनाम् अन्ते  
 **ज्ञानवान् मां प्रपद्यते** ।  
-वासुदेवस् सर्वम् इति  
+'वासुदेवस् सर्वम्' इति  
 स महात्मा सुदुर्लभः ॥“  
 </details>
 
@@ -793,7 +834,7 @@ Here the dvayam,
 परभक्ति परज्ञान परमभक्तिकृत परिपूर्णानवरत नित्यविशदतम अनन्यप्रयोजन अनवधिकातिशयप्रिय भगवदनुभवोऽहं, तथाविध भगवदनुभवजनित अनवधिकातिशय प्रीतिकारित अशेषावस्थोचित अशेषशेषतैकरतिरूप नित्यकिङ्करो भवानि ॥ १७ ॥  
 </details>
 
-
+## भगवद्-अनुग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं-भूत--मत्-कैङ्कर्य-प्राप्ति+उपायतया ऽवकॣप्त-समस्त-**वस्तु-विहीनो** ऽपि,  
@@ -1065,7 +1106,7 @@ You shall reside in Srirangam till the body falls to the ground (death).
 अन्त्य-काले **स्मृतिर् या** तु  
 तव कैङ्कर्य-कारिता ।  
 ताम् एनां भगवन्न् अद्य  
-क्रियमाणां कुरुष्व मे ॥  
+क्रियमाणां **कुरुष्व** मे ॥  
 </details>
 
 <details><summary>मूलम्</summary>
