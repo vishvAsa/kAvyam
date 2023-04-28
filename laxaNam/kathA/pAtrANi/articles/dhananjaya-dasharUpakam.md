@@ -7047,46 +7047,46 @@ samāptaścāryaṁ granthaḥ |
 ## Notes
 
 [^1]:
-chinnoktārthasya iti ka-granthe |
+    chinnoktārthasya iti ka-granthe |
 
 [^2]:
-guru-vacanād iti ka-granthe |
+    guru-vacanād iti ka-granthe |
 
 [^3]:
-vidyāyāḥ | (su.ra. 807, śā.pa. 3769, sū.mu. 87.7, sa.u.ka. 541)
+    vidyāyāḥ | (su.ra. 807, śā.pa. 3769, sū.mu. 87.7, sa.u.ka. 541)
 
 [^4]:
-sarvv 1947, śā.pa. 3613, su.ra. 783, sa.u.ka. 835
+    sarvv 1947, śā.pa. 3613, su.ra. 783, sa.u.ka. 835
 
 [^5]:
-sa.u.ka. 637, su.ra. 557.
+    sa.u.ka. 637, su.ra. 557.
 
 [^6]:
-vāmanasya | (s.k. 2.38.1, sū.mu. 78.4)
+    vāmanasya | (s.k. 2.38.1, sū.mu. 78.4)
 
 [^7]:
-(śaṭhanāyakaḥ, su. 603, sad. 881)
+    (śaṭhanāyakaḥ, su. 603, sad. 881)
 
 [^8]:
-su.ra.ko. 265, padyā. 372
+    su.ra.ko. 265, padyā. 372
 
 [^9]:
-This second line not found in all editions.
+    This second line not found in all editions.
 
 [^10]:
-rasārṇava-sudhākaraḥ 2.224f.
+    rasārṇava-sudhākaraḥ 2.224f.
 
 [^11]:
-bhavabhūteḥ (Dr 4.22, Sv 1840, Srk 299, Spd 3922, Smv 63.15)
+    bhavabhūteḥ (Dr 4.22, Sv 1840, Srk 299, Spd 3922, Smv 63.15)
 
 [^12]:
-Attributed to _Śṛṅgāra-tilaka_, but not found there.
+    Attributed to _Śṛṅgāra-tilaka_, but not found there.
 
 [^13]:
-vasatim upagatena
+    vasatim upagatena
 
 [^14]:
-(mālatī-mādhava 5.16, Srk 1530)
+    (mālatī-mādhava 5.16, Srk 1530)
 
 [^15]:
-bhavabhūteḥ | (Mc 1.54, Dr. 4.79, Sd. 3.227, Smv 95.3, Skm 2093)
+    bhavabhūteḥ | (Mc 1.54, Dr. 4.79, Sd. 3.227, Smv 95.3, Skm 2093)
