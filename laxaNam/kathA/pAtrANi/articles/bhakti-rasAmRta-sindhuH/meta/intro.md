@@ -1,9 +1,10 @@
 +++
 title = "Intro"
+
 +++
 
-This edition is entirely based on Haridas Das’s edition. (Nabadwip : Haribol Kutir, 462 Gaurābda = 1951). I have supplemented some of the commentaries with the anvaya provided by Bhaktisiddhanta Saraswati in his edition of the Chaitanya Charitamrita. I have not done this for every available verse, though I may do so in the future. (Jan Brzezinski 2003-12-20)
+Tहिस् एदितिओन् इस् एन्तिरेल्य् बसेद् ओन् Hअरिदस् Dअस्ऽस् एदितिओन्। (Nअबद्wइप् : Hअरिबोल् Kउतिर्, ४६२ Gऔराब्द = १९५१)। I हवे सुप्प्लेमेन्तेद् सोमे ओफ़् थे चोम्मेन्तरिएस् wइथ् थे अन्वय प्रोविदेद् ब्य् Bहक्तिसिद्धन्त Sअरस्wअति इन् हिस् एदितिओन् ओफ़् थे Cहैतन्य Cहरितम्रित। I हवे नोत् दोने थिस् फ़ोर् एवेर्य् अवैलब्ले वेर्से, थोउघ् I मय् दो सो इन् थे फ़ुतुरे। (Jअन् Bर्ज़ेज़िन्स्कि २००३-१२-२०)
 
-Haridas Das has not given a detailed explanation of the sources he used in producing his edition, though he occasionally notes alternative readings. The only references I could find are to manuscripts of Vishwanath’s commentary found in the Boro Oriya and Ganga Mata Maths in Puri. He designates these as _ka _and_ kha_ respectively. Where I have noted them (i.e., only where considered credible), I have substituted a and b for _ka _and _kha. _(Jan Brzezinski 2004-09-25)
+Hअरिदस् Dअस् हस् नोत् गिवेन् अ देतैलेद् एxप्लनतिओन् ओफ़् थे सोउर्चेस् हे उसेद् इन् प्रोदुचिन्ग् हिस् एदितिओन्, थोउघ् हे ओच्चसिओनल्ल्य् नोतेस् अल्तेर्नतिवे रेअदिन्ग्स्। Tहे ओन्ल्य् रेफ़ेरेन्चेस् I चोउल्द् फ़िन्द् अरे तो मनुस्च्रिप्त्स् ओफ़् Vइस्ह्wअनथ्ऽस् चोम्मेन्तर्य् फ़ोउन्द् इन् थे Bओरो Oरिय अन्द् Gअन्ग Mअत Mअथ्स् इन् Pउरि। Hए देसिग्नतेस् थेसे अस् _क _अन्द्_ ख_ रेस्पेच्तिवेल्य्। Wहेरे I हवे नोतेद् थेम् (इ।ए।, ओन्ल्य् wहेरे चोन्सिदेरेद् च्रेदिब्ले), I हवे सुब्स्तितुतेद् अ अन्द् ब् फ़ोर् _क _अन्द् _ख। _(Jअन् Bर्ज़ेज़िन्स्कि २००४-०९-२५)
 
---o)0(o--
+--ओ)०(ओ--
