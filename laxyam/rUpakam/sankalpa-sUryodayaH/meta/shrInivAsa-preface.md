@@ -4,10 +4,10 @@ title = "shrInivAsa-preface"
 
 PREFACE 
 
-I DEEM it my humble and devotional service rendered to the holy feet of Sri Venkaṭanātha-Vedāntades'ika, the great ācārya, philosopher and poet, by undertaking the pleasant work of editing his famous Vedantic drama called Saṁkalpasuryodaya for its publication in the Adyar Library Series. In this edition the text is accompanied by two very learned commentaries called Prabhāvilāsa by Ahobala and Prabhāvali by Nr̥siṁharaja. Though there are several editions of the drama hitherto printed and published they do not meet the needs of the public, by adding any reliable and useful commentaries. The commentary published in the Telugu edition of Conjeevaram O. L. Institute is mixed up with the portions of two different commentaries leading to a confusion regarding their authorship.+++(4)+++ This book is also out of print now. The commentary published in the Devanagari edition of the Pandit Series, Benares, is anonymous and breaks off in the 5th act. The Grantha edition of Kanchīpuram, contains only a running gloss and not a regular commentary. Thus systematic and reliable Commentaries on the drama are long-felt desiderata. There are about 6 commentaries on the work and none of them has till now been brought to light by a critical edition. The commentaries that are now available are: [[xxii]] 
+I DEEM it my humble and devotional service rendered to the holy feet of Sri Venkaṭanātha-Vedāntadeśika, the great ācārya, philosopher and poet, by undertaking the pleasant work of editing his famous Vedantic drama called Saṁkalpasuryodaya for its publication in the Adyar Library Series. In this edition the text is accompanied by two very learned commentaries called Prabhāvilāsa by Ahobala and Prabhāvali by Nr̥siṁharāja. Though there are several editions of the drama hitherto printed and published they do not meet the needs of the public, by adding any reliable and useful commentaries. The commentary published in the Telugu edition of Conjeevaram O. L. Institute is mixed up with the portions of two different commentaries leading to a confusion regarding their authorship.+++(4)+++ This book is also out of print now. The commentary published in the Devanagari edition of the Pandit Series, Benares, is anonymous and breaks off in the 5th act. The Grantha edition of Kanchīpuram, contains only a running gloss and not a regular commentary. Thus systematic and reliable Commentaries on the drama are long-felt desiderata. There are about 6 commentaries on the work and none of them has till now been brought to light by a critical edition. The commentaries that are now available are: [[xxii]] 
 
 1. Prabhāvilāsa by Ahobala of Atreya family.
-2. Prabhāvali by Nṛsimharāja. 
+2. Prabhāvali by Nṛsiṁharāja. 
 3. Prabhāvali (anonymous). 
 4. Vivaraṇa by Srinivasa of Kausika family. 
 5. Vyākhyā by Srībhāṣya Nārāyaṇa of śrīvatsa family. 
@@ -43,10 +43,10 @@ The following printed editions of the work have been consulted for this edition:
 
 1. Telugu edition of the Conjeevaram O L. Institute Series No. 4 (2 Vols.) printed in 1901 and 1904. 
 2. Grantha edition of the Satsampradayasañijivani Sabha, Kanchipuram with a gloss. 
-3. Grantha edition with Tamil translation by MM. C. Narasimhachariar, Madras. 
+3. Grantha edition with Tamil translation by MM. C. Narasiṁhachariar, Madras. 
 4. Devanagari edition of the Pandit Series Benares, with an anonymous commentary acts 1 to 5 only. 
 5. Devanagari edition, printed in the Vani Vilas Press, Srirangam, with Eng. translation, Acts 1 to 5 only. 
-6. Devanagari edition of the Sri Vedantades'ika- grantha-ratnamala Series, Kanchipuram,1941. 
+6. Devanagari edition of the Sri Vedantadeśika- grantha-ratnamala Series, Kanchipuram,1941. 
 
 Sriman S. Vasudevachariar, B.A., L.T., and Pandit Mansalgaṭṭa Desikachariar were kind enough to place under my disposal, their copies of the Telugu edition of the work. They cannot be adequately thanked for their generous help. Pandit K. Ramachandra Sarma, my colleague, deserves thanks for his help in the pre- paration of the Press copy and indexes and correction of proofs. I am indebted to Sri Desikadarsanaratnadīpa V. V. Srinivasa Ayyangar, Ex. Judge of the High Court, Madras, for his Foreword to the edition which he [[XXV]] found time to contribute in the midst of his many engagements. Finally I can never forget the kindness of Capt. G. Srinivasa Murti (The Hony. Director) and Dr. C. Kunhan Raja (The Hony. Curator) shown by permitting me to edit the work and exercising their general supervision on the publication. 
 
@@ -56,3 +56,22 @@ THE ADYAR LIBRARY
 Adyar, Madras  
 22-9-1948  
 EDITOR 
+
+
+## PRELIMINARY NOTE v2 
+
+THE present work-Samkalpasuryodaya-of Sri Venkaṭanatha who lived about 1268-1369 A.D. is an allegorical drama, the forerunner of which is the Prabodhacandrodaya of Kr̥ṣṇa Miśra who lived about the end of the eleventh century. This work is to Viśiṣṭādvaita vedanta of Sri Ramanuja what Prabodha-candrodaya is to Advaita-vedanta of Sri Sankara. The latter work is a drama in six acts where Kṛṣṇa Misra links up the Advaita vedanta to Viṣṇu-bhakti (Devotion to Visṇu) and depicts the attainment of enlightenment and liberation (mukti) on the rising (udaya) of the moon of true knowledge (Prabodha-candra). 
+
+Samkalpasuryodaya is a similar drama in ten acts where Venkaṭanatha links up Visiṣṭadvaita vedanta to Devotion to the Lord (bhakti) and Divine Grace; and depicts the attainment of enlightenment and liberation (mukti) on the rising (udaya) of the sun (Surya) of Samkalpa-Divine Resolve to secure the bliss of liberation for the bhakta or devotee.
+
+As may be expected in an allegorical drama, the Dramatis Personae are the forces of the Good Law formed by Viveka (Wisdom), Sumati (Good Sense), Puruṣa (Jīva), Viṣṇu-bhakti (Devotion to Viṣṇu), Saṁkalpa (Divine [[viii]] Will or Grace) etc., battling with and conquering the forces of evil formed by Mahamoha (The Great Illusion), Durmati (Evil Sense), Raga (Attachment), Dveṣa (Hatred), Lobha (Greed), Durvasanā (Evil Propensity) etc. 
+
+The present edition of the Samkalpasuryodaya is published with two reputed commentaries one of which has not been published hitherto, and the other is only half-published. The commentary called Prabhavilasa by Ahobalacarya is now published for the first time. 
+
+The second commentary is by Nr̥siṁharāja. Only part of it-for acts 1 to 5 only-was printed in Telugu characters and published in 1901 as No. 4 of Conjeevaram O. L. Institution Series. In this edition, the commentary is attributed to Bharadvaja Srinivāsācārya though it is identical with that of Nr̥siṁharāja as found in the Adyar Library Manuscript (39. A. 16). In the Conjeevaram edition, an anonymous commentary was included for the acts 6 to 10 while the present edition contains Nr̥siṁharāja's commentary for the whole (1 to 10 acts) so that the whole of Nr̥siṁharāja's commentary is now published here for the first time. 
+
+Further details on this will be found in the Preface and on other related topics in the Foreword to the first part already published. 
+
+1st October 1948-  
+G. SRINIVASA MURTI,  
+Honorary Director 
