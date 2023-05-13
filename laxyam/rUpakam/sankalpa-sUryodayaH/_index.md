@@ -2,7 +2,7 @@
 title = "+सङ्कल्प-सूर्योदयः"
 +++
 
-Source: [Archive sanskrit](https://archive.org/search?query=samkalpa+suryodaya)
+Archive: [Archive sanskrit](https://archive.org/search?query=samkalpa+suryodaya)
 
 Source: [En](https://archive.org/details/in.ernet.dli.2015.92341/page/n53/mode/2up)
 
