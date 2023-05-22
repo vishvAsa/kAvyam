@@ -28,7 +28,7 @@ title = "११ उदाहरण-मूलानि"
 स च भूपालो गण्ड-गोपाल-राय इति  
 तदीयं किम् अपि शासनं शकाब्दे ११५३ ( A. D. 1230 ) तमे प्रवर्तितम् उपलभ्यत इति च  
 चरित्र-विमर्शकाः साम्प्रदायिकाश् च कथयन्ति ।  
-(Vide the Introduction to the Pādukāsahasra, page 12. Kāvya.mālā Series, No 92, Bombay 1911 and L. D. Swamikannu Pillai's Indian Ephermeris, Vol I - Part II page No. 79. )  
+(Vide the Introduction to the Pādukāsahasra, page 12. Kāvya.mālā Series, No 92, Bombay 1911 and L. D. Swamikannu Pillai's Indian Ephermeris, Vol I - Part II page No. 79.)  
 दर्प-वाक्ये स्व-कुल-पतिः स्कन्द-भूपाल-वन्द्य इत्य् उक्तेः  
 प्रकृत-ग्रन्थ-कर्तुः काल-विशेष-निर्णये  
 स निर्देशः कथम् अपि नोपकर्तुं प्रभवतीति  
