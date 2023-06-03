@@ -15,7 +15,5 @@ unicode_script: devanagari
 पवित्रेति न संशयः॥  
 
 
-
-  
 [![](http://i.imgur.com/3cld8L9.jpg)](http://i.imgur.com/3cld8L9.jpg)  
     
