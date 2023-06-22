@@ -6,9 +6,9 @@ The great Apostle Bhagavad Rāmānujācārya who flourished in the eleventh cent
 
 Among the stupendous works of Ācārya Rāmānuja, Gadya-traya, an encomium of infinite virtues and attributes of the Lord, sung in prose- poetry. This Magmum Opus of the great Ācārya has all prose-lyrical nuances. 
 
-As the name suggests 'Gadya-traya-triad of Gadyas' (Proses) is comprising three gadyas such as Šaraṇāgati Gadya, Śrī Ranga Gadya and Vaikuntha Gadya. 
+As the name suggests 'Gadya-traya-triad of Gadyas' (Proses) is comprising three gadyas such as śaraṇāgati Gadya, Śrī Ranga Gadya and Vaikunṭha Gadya. 
 
-In the first of the Gadyas, Śaraṇāgati, there is the conversation between Acārya and the Lord Srimannārāyaṇa Himself, wherein Prapatti'- Utter dependence on the Lord, appreciated as the only way to 'release' to be with the Supreme Lord, proffering service unto Him in 'paramapada, abode. Ācārya Rāmānuja has detailed here about the ways the supreme of utter devotion unto the Lord. 
+In the first of the Gadyas, Śaraṇāgati, there is the conversation between Acārya and the Lord Srimannārāyaṇa Himself, wherein 'Prapatti'- Utter dependence on the Lord, appreciated as the only way to 'release' to be with the Supreme Lord, proffering service unto Him in 'paramapada', abode. Ācārya Rāmānuja has detailed here about the ways the supreme of utter devotion unto the Lord. 
 
 In second of the Gadyas, Śri Ranga Gadya furthering the thought of the first, Rāmānuja has put forth elaborately and deeply the desire to serve the Lord, begs of Him to bestow unflappable devotion to the Lord. 
 
