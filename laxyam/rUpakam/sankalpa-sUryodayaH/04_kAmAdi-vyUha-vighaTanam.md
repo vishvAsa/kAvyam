@@ -2207,8 +2207,6 @@ X४४७
 ---------------
 
 
-<!-- Footnotes themselves at the bottom. -->
-## Notes
 
 [^1]:
      ख reads अपि च and the stanza following it, after the stanza 
