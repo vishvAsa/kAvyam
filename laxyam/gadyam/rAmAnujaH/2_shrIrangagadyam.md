@@ -17,7 +17,7 @@ title = "२ श्रीरङ्गगद्यम्"
 Source: [TW](https://archive.org/details/gadyatrayamramanujacharyasrutaprakasikabhasyasudarsanasurirahasyaraksavedantades/page/n120/mode/1up)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>वेङ्कट-नाथः</summary>
 
 श्रीवेदान्त-देशिक-प्रणीतं  
 मित-गद्याधिकार-नामकं  
@@ -81,7 +81,7 @@ Source: [TW](https://archive.org/details/gadyatrayamramanujacharyasrutaprakasika
 </details>
  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>वेङ्कट-नाथः</summary>
 
 स्वाधीनेत्यादि -  
 
