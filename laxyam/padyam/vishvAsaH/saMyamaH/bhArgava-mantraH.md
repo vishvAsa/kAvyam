@@ -65,6 +65,13 @@ Wild, but not savage.
 स्वास्थ्योल्लास-रसोन्मुखः।  
 अनिराशी न चात्याशी  
 वैद्य इव **वसेद्** भुवि॥  
+
+<details><summary>English</summary>
+
+One must live in the world seeking delight and health, as if one were a doctor in a mental hospital - neither too hopeful, nor hopeless.
+</details>
+
+
 **स्यात्** स्वावस्थासु संतृप्तिर्  
 व्याधिभिश् चापराजितिः।  
 जीवनोद्देश एवं सन्न्  
