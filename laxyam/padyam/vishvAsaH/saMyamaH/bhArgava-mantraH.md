@@ -88,3 +88,7 @@ One must live in the world seeking delight and health, as if one were a doctor i
 नित्य-भोगी, न हीतरः॥
 इति स्व-भाव--शस्त्राभ्यां  
 शेषत्वं शेष **शिक्षय**॥
+
+ब्रह्माण्डाख्य-महावाक्य-  
+पाठका देव-चेतनाः।  
+…
