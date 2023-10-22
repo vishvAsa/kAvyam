@@ -60,17 +60,20 @@ Wild, but not savage.
 "The closest to a wild environment is being in a Street Gang, with its periods of inaction and intense action, adrenaline, and psychological danger. This is because young people are still wild. Yet people say that is wrong. Society doesn't like wildness. It's scared by it. It will stop you from being wild. It wants you to conform, but as soon as you conform, your life-force and spirit is dead."
 </details>
 
+बन्धु-मित्राणि राष्ट्रं च  
+विश्वं चैवाप्य् अधोमुखम्।  
+इति दुःखं च क्रोधं च  
+**मूर्खम् एव दहेच्** चिरम्॥
 
-वातुलालय-मध्यस्थः  
+वातुलालय-मध्य-स्थः  
 स्वास्थ्योल्लास-रसोन्मुखः।  
-अनिराशी न चात्याशी  
-वैद्य इव **वसेद्** भुवि॥  
+अनिराशी न चात्य्-आशी  
+वैद्यवद् **वर्ततां** भुवि॥  
 
 <details><summary>English</summary>
 
 One must live in the world seeking delight and health, as if one were a doctor in a mental hospital - neither too hopeful, nor hopeless.
 </details>
-
 
 **स्यात्** स्वावस्थासु संतृप्तिर्  
 व्याधिभिश् चापराजितिः।  
