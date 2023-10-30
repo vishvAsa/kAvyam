@@ -74,6 +74,11 @@ Wild, but not savage.
 One must live in the world seeking delight and health, as if one were a doctor in a mental hospital - neither too hopeful, nor hopeless.
 </details>
 
+आत्म-पीडा तपोनाम्नोल्-  
+लासेनाङ्गीकृता यतः।  
+खलाः किं नो न युष्माभिः  
+पीडा हासाय नो भवेत्?
+
 **स्यात्** स्वावस्थासु संतृप्तिर्  
 व्याधिभिश् चापराजितिः।  
 जीवनोद्देश एवं सन्न्  
@@ -102,4 +107,3 @@ One must live in the world seeking delight and health, as if one were a doctor i
 वर्तेतां चक्रवद् यतः।  
 **स्यन्देत जीवितं** देव-  
 यानी-भूतं मुदाऽध्वनि॥
-
