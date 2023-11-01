@@ -43,6 +43,14 @@ Note: In a right-angled triangle
 
 $$6^2 + 8^2 = 10^2$$
 
+<details><summary>English</summary>
+
+This will do
+
+I asked my wife, “My dear, there is a 2-digit number whose two digits correspond to the length of the two sides of the right angle of a right angled triangle whose hypotenuse is 10. Can you tell me quickly what that 2-digit number is?” She answered immediately. Astonished, I asked her, who is around 80 years of age, how she calculated with such lightning speed. She answered with a smile, “Dear scholar, I know nothing of mathematics. I can make out from your face that you are struggling to compose a verse. Tomorrow is your birthday. I put two and two together. That is all. Forget about composing a verse. This itself will serve the purpose.”
+</details>
+
+
 ## २०२१-सूचना
 
 
