@@ -71,13 +71,13 @@ Wild, but not savage.
 
 <details><summary>English</summary>
 
-One must live in the world seeking delight and health, as if one were a doctor in a mental hospital - neither too hopeful, nor hopeless.
+One must live in the world seeking delight and health, as if one were a doctor in a mental hospital - neither too hopefulम, nor hopeless.
 </details>
 
-आत्म-पीडा तपोनाम्नोल्-  
-लासेनाङ्गीकृता यतः।  
-खलाः! किं नो न युष्माभिः  
-पीडा हासाय नो भवेत्?
+काय-पीडा तपोऽङ्गत्वे  
+ऽस्मद्-दृष्टौ स्थिरा यतः।  
+खल-यत्नैः कृता किं न  
+**पीडा हासाय** नो भवेत्?
 
 **स्यात्** स्वावस्थासु संतृप्तिर्  
 व्याधिभिश् चापराजितिः।  
