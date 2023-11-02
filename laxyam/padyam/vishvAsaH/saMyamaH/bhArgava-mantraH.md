@@ -75,7 +75,7 @@ One must live in the world seeking delight and health, as if one were a doctor i
 </details>
 
 काय-पीडा तपोऽङ्गत्वे  
-ऽस्मद्-दृष्टौ स्थिरा यतः।  
+ऽस्माकं दृष्टौ स्थिरा यतः।  
 खल-यत्नैः कृता किं न  
 **पीडा हासाय** नो भवेत्?
 
