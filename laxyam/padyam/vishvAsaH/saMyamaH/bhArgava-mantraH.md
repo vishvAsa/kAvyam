@@ -72,7 +72,7 @@ One must live in the world seeking delight and health, as if one were a doctor i
 इति निश्चित्य **जीवेयम्**  
 **म्रियेयोत** पुनर् यम।
 
-अनित्यं देह-लोकादि  
+अ-नित्यं देह-लोकादि  
 नित्य-ब्रह्म-कलेवरम्।  
 तद्-भोगाय जगत् सर्वं  
 जीव-भोगो न साम्प्रतः।  
@@ -95,7 +95,7 @@ One must live in the world seeking delight and health, as if one were a doctor i
 यानी-भूतं मुदाऽध्वनि॥
 
 रौद्रं वीर्यं भयं हास्यं  
-बीभत्साद्य्-अखिलं रसम्।  
+बीभत्साद्य्-अ-खिलं रसम्।  
 यथामात्रं यथास्थानम्  
 उल्लासाय लभेमहि॥
 
