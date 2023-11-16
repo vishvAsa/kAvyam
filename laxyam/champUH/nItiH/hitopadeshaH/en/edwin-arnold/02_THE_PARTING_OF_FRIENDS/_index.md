@@ -1,0 +1,23 @@
++++
+title = "+02 THE PARTING OF FRIENDS"
+
++++
+
+Book Two:  
+THE PARTING OF FRIENDS
+
+
+Then spake the Royal Princes to Vishnu-Sarman,
+
+"Reverend Sir! we have listened to the 'Winning of Friends,' we would now hear how friends are parted."
+
+"Attend, then," replied the Sage, "to 'the Parting of Friends,' the first couplet of which runs in this wise—
+
+> 'The Jackal set—of knavish cunning full—  
+> At loggerheads the Lion and the Bull.'
+
+"How was that?" asked the sons of the Rajah.
+
+Vishnu-Sarman proceeded to relate:—
+
+
