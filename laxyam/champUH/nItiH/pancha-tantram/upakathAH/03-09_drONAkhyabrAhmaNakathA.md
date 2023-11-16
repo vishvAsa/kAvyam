@@ -1,5 +1,5 @@
 ---
-title: ०३-०९ द्रोणाख्यब्राह्मणकथा
+title: ०३-०९ द्रोणाख्यब्राह्मण-कथा
 unicode_script: devanagari
 ---
 

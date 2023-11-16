@@ -1,5 +1,5 @@
 ---
-title: ०५-१३ भारुण्डपक्षिकथा
+title: ०५-१३ भारुण्डपक्षि-कथा
 unicode_script: devanagari
 ---
 

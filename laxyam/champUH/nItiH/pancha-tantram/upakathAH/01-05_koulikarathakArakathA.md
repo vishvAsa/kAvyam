@@ -1,5 +1,5 @@
 ---
-title: ०१-०५ कौलिकरथकारकथा
+title: ०१-०५ कौलिकरथकार-कथा
 unicode_script: devanagari
 ---
 

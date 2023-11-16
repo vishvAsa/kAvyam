@@ -1,5 +1,5 @@
 ---
-title: ०५-०४ मूर्खपण्डितकथा
+title: ०५-०४ मूर्खपण्डित-कथा
 unicode_script: devanagari
 
 ---

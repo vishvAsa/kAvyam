@@ -1,5 +1,5 @@
 ---
-title: ०२-०१ हिरण्यकताम्रचूडकथा
+title: ०२-०१ हिरण्यकताम्रचूड-कथा
 unicode_script: devanagari
 
 ---

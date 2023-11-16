@@ -1,5 +1,5 @@
 ---
-title: ०१-२० कृष्णसर्पकथा
+title: ०१-२० कृष्णसर्प-कथा
 unicode_script: devanagari
 ---
 

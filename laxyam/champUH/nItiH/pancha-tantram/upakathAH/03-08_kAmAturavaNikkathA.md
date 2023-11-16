@@ -1,5 +1,5 @@
 ---
-title: ०३-०८ कामातुरवणिक्कथा
+title: ०३-०८ कामातुरवणिक्-कथा
 unicode_script: devanagari
 ---
 

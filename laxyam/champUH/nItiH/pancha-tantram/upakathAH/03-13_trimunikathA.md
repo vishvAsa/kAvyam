@@ -1,5 +1,5 @@
 ---
-title: ०३-१३ त्रिमुनिकथा
+title: ०३-१३ त्रिमुनि-कथा
 unicode_script: devanagari
 ---
 

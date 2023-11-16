@@ -1,5 +1,5 @@
 ---
-title: ०३-१२अ मूषिकाकथा
+title: ०३-१२अ मूषिका-कथा
 unicode_script: devanagari
 ---
 

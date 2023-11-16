@@ -1,5 +1,5 @@
 ---
-title: ०१-१५ कुञ्जरचटकदम्पतीकथा
+title: ०१-१५ कुञ्जरचटकदम्पती-कथा
 unicode_script: devanagari
 ---
 

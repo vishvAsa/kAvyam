@@ -1,5 +1,5 @@
 ---
-title: ०१-१७ वानरयूथकथा
+title: ०१-१७ वानरयूथ-कथा
 unicode_script: devanagari
 ---
 

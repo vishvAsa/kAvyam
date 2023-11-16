@@ -1,5 +1,5 @@
 ---
-title: ०३-०७ कपोतलुब्धककथा
+title: ०३-०७ कपोतलुब्धक-कथा
 unicode_script: devanagari
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: ०३-०२ शशकपिञ्जलकथा
+title: ०३-०२ शशकपिञ्जल-कथा
 unicode_script: devanagari
 ---
 

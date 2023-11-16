@@ -1,5 +1,5 @@
 ---
-title: ०२-०३ शवरशूकरकथा
+title: ०२-०३ शवरशूकर-कथा
 unicode_script: devanagari
 ---
 

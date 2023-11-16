@@ -1,5 +1,5 @@
 ---
-title: ०५-०९ चन्द्रभूपतिकथा
+title: ०५-०९ चन्द्रभूपति-कथा
 unicode_script: devanagari
 ---
 

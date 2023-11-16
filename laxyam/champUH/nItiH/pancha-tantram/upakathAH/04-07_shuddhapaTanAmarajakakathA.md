@@ -1,5 +1,5 @@
 ---
-title: ०४-०७ शुद्धपटनामरजककथा
+title: ०४-०७ शुद्धपटनामरजक-कथा
 unicode_script: devanagari
 ---
 

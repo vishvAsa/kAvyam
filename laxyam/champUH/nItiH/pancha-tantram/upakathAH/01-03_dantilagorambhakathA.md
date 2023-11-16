@@ -1,5 +1,5 @@
 ---
-title: ०१-०३ दन्तिलगोरम्भकथा
+title: ०१-०३ दन्तिलगोरम्भ-कथा
 unicode_script: devanagari
 ---
 
