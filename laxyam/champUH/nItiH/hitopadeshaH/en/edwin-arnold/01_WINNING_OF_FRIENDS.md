@@ -33,7 +33,7 @@ Presently the fowler fixed a net, scattered grains of rice about, and withdrew t
   
 
 
-## The Story of the Tiger and the Traveller
+## Tiger and the Traveller
 
 "Thus," replied Speckle-neck: "I was pecking about one day in the Deccan forest, and saw an old tiger[^6] sitting newly bathed on the bank of a pool, like a Brahman, and with holy kuskus-grass[^7] in his paws.
 
@@ -195,7 +195,7 @@ Now Light o' Leap, the Crow, had been a spectator of the whole transaction, and 
   
 
 
-## The Story of the Jackal, Deer, and Crow
+## Jackal, Deer, and Crow
 
 "Far away in Behar there is a forest called Champak-Grove,[^16] and in it had long lived in much affection a Deer and a Crow. The Deer, roaming unrestrained, happy and fat of carcase, was one day descried by a Jackal. 'Ho! ho!' thought the Jackal on observing him, 'if I could but get this soft meat for a meal! It might be—if I can only win his confidence,' Thus reflecting he approached, and saluted him.
 
@@ -222,7 +222,7 @@ Now Light o' Leap, the Crow, had been a spectator of the whole transaction, and 
   
 
 
-## The Story of the Vulture, the Cat, and the Birds
+## Vulture, the Cat, and the Birds
 
 "On the banks of the Ganges there is a cliff called Vulture-Crag, and thereupon grew a great fig-tree.[^17] It was hollow, and within its shelter lived an old Vulture, named Grey-pate, whose hard fortune it was to have lost both eyes and talons. The birds that roosted in the tree made subscriptions from their own store, out of sheer pity for the poor fellow, and by that means he managed to live. One day, when the old birds were gone, Long-ear, the Cat, came there to get a meal of the nestlings; and they, alarmed at perceiving him, set up a chirruping that roused Grey-pate.
 
@@ -505,7 +505,7 @@ It hath been well written, indeed,
   
 
 
-## The Story of the Dead Game and the Jackal
+## Dead Game and the Jackal
 
 "In a town called 'Well-to-Dwell' there lived a mighty hunter, whose name was 'Grim-face.' Feeling a desire one day for a little venison, he took his bow, and went into the woods; where he soon killed a deer. As he was carrying the deer home, he came upon a wild boar of prodigious proportions. Laying the deer upon the earth, he fixed and discharged an arrow and struck the boar, which instantly rushed upon him with a roar louder than the last thunder,[^29] and ripped the hunter up. He fell like a tree cut by the axe, and lay dead along with the boar, and a snake also, which had been crushed by the feet of the combatants. Not long afterwards, there came that way, in his prowl for food, a Jackal, named 'Howl o' Nights,' and cast eyes on the hunter, the deer, the boar, and the snake lying dead together. 'Aha!' said he,' what luck! Here's a grand dinner got ready for me! Good fortune can come, I see, as well as ill fortune. Let me think:—the man will be fine pickings for a month; the deer with the boar will last two more; the snake will do for to-morrow; and, as I am very particularly hungry, I will treat myself now to this bit of meat on the bow-horn,' So saying, he began to gnaw it asunder, and the bow-string slipping, the bow sprang back, and resolved Howl o' Nights into the five elements[^30] by death. That is my story," continued Slow-toes, "and its application is for the wise:—
 
@@ -620,7 +620,7 @@ Upon the messenger reporting her reply to the Prince, he was in despair.
   
 
 
-## The Story of the Old Jackal and the Elephant
+## Old Jackal and the Elephant
 
 "In the forest of Brahma[^36] lived an Elephant, whose name was 'White-front.' The Jackals knew him, and said among themselves, 'If this great brute would but die, there would be four months' food for us, and plenty, out of his carcase.' With that an old Jackal stood up, and pledged himself to compass the death of the Elephant by his own wit. Accordingly, he sought for 'White-front,' and, going up to him, he made the reverential prostration of the eight members,[^37] gravely saluting him.
 

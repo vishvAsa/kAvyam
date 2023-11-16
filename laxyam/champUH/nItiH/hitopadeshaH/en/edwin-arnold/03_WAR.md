@@ -48,7 +48,7 @@ The Crane related:—
 
 
 
-## The Story of the Weaver-Birds and the Monkeys
+## Weaver-Birds and the Monkeys
 
 "In a nullah that leads down to the Nerbudda river there stood a large silk-cotton tree, where a colony of weaver-birds had built their hanging nests,[^4] and lived snugly in them, whatever the weather. It was in the rainy season, when the heavens are overlaid with clouds like indigo-sheets, and a tremendous storm of water was falling. The birds looked out from their nests, and saw some monkeys, shivering and starved with the cold, standing under a tree. 'Twit! twit! you Monkeys,' they began to chirrup. 'Listen to us!—
 
@@ -88,7 +88,7 @@ The birds related—
 
 
 
-## The Story of the Old Hare and the Elephants
+## Old Hare and the Elephants
 
 "Once on a time, very little rain had fallen in the due season; and the Elephants being oppressed with thirst, thus accosted their leader:—'Master, how are we to live? The small creatures find something to wash in, but we cannot, and we are half dead in consequence; whither shall we go then, and what shall we do?' Upon that the King of the Elephants led them away a little space; and showed them a beautiful pool of crystal water, where they took their ease. Now it chanced that a company of Hares resided on the banks of the pool, and the going and coming of the elephants trampled many of them to death, till one of their number named Hard-head grumbled out, 'This troop will be coming here to water every day, and every one of our family will be crushed.' 'Do not disquiet yourself,' said an old buck named Good-speed, 'I will contrive to avert it,' and so saying, he set off, bethinking himself on his way how he should approach and accost a herd of elephants; for,
 
@@ -155,7 +155,7 @@ The birds related—
 
 
 
-## The Story of the Heron and the Crow
+## Heron and the Crow
 
 'The high-road to Oogein is a very unshaded and sultry one; but there stands upon it one large Peepul-tree,[^9] and therein a Crow and a Heron had their residence together. It was in the hot weather that a tired traveller passed that way, and, for the sake of the shade, he laid his bow and arrows down, and dropped asleep under the tree. Before long the shadow of the tree shifted, and left his face exposed to the glare; which the Heron perceiving, like the kindly bird he was, perched on the Peepul-tree, and spread his wings out so as to cast a shadow on the traveller's face. There the poor fellow, weary with his travel, continued to sleep soundly, and snored away comfortably with open mouth. The sight of his enjoyment was too much for the malevolent Crow, who, perching over him, dropped an unwelcome morsel into the sleeper's mouth, and straightway flew off. The traveller, starting from his slumber, looked about, and, seeing no bird but the Heron, he fitted an arrow and shot him dead. No!' concluded the Parrot, 'I like the society of honest folk.'
 
@@ -176,7 +176,7 @@ Needs must that thou art a bad man; for by thy talk war will have arisen, which 
 
 
 
-## The Story of the Appeased Wheelwright
+## Appeased Wheelwright
 
 "There was a Wheelwright in Shri-nuggur, whose name was 'Heavy-head,' He had good reason to suspect the infidelity of his wife, but he had no absolute proof of it. One day he gave out that he should go to a neighboring town, and he started accordingly; but he went a very little way, and then returning, hid himself in his wife's chamber. She being quite satisfied that he was really gone away, invited her gallant to pass the evening with her, and began to spend it with him in unrestrained freedom. Presently, by chance, she detected the presence of her husband, and her manner instantly changed.
 
@@ -283,7 +283,7 @@ Nevertheless, Sire,' interrupted the Goose, 'we must not forget that he is a lan
 
 
 
-## The Story of the Dyed Jackal
+## Dyed Jackal
 
 "A Jackal once on a time, as he was prowling about the suburbs of a town, slipped into an indigo-tank; and not being able to get out he laid himself down so as to be taken for dead. The dyer presently coming and finding what seemed a dead Jackal, carried him into the jungle and then flung him away. Left to himself, the Jackal found his natural color changed to a splendid blue. 'Really,' he reflected, 'I am now of a most magnificent tint; why should I not make it conduce to my elevation?' With this view, he assembled the other Jackals, and thus harangued them:—
 
@@ -369,7 +369,7 @@ Have you never heard of King Sudraka and the unknown Servant, who gave his son's
 
 
 
-## The Story of the Faithful Rajpoot
+## Faithful Rajpoot
 
 "I will tell you the tale," said the King, "as I heard it from 'Lilyflower,' daughter of the Flamingo 'White-flag,' of whom I was once very fond:—A soldier presented himself one morning at King Sudraka's gate, and bade the porter procure an audience for 'Vira-vara, a Rajpoot,'[^17] who sought employment. Being admitted to the presence, he thus addressed the King:—
 

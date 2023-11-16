@@ -44,7 +44,7 @@ You have forgotten the saying—
   
 
 
-## The Story of the Tortoise and the Geese
+## Tortoise and the Geese
 
 "There is a pool in South Behar called the 'Pool of the Blue Lotus,' and two Geese had for a long time lived there. They had a friend in the pool who was a Tortoise, and he was known as 'Shelly-neck.' It chanced one evening that the Tortoise overheard some fishermen talking by the water. 'We will stop here to-night,' they said, 'and in the morning we will catch the fish, the tortoises, and such like.' Extremely alarmed at this, the Tortoise repaired to his friends the Geese, and reported the conversation.
 
@@ -61,7 +61,7 @@ You have forgotten the saying—
   
 
 
-## The Story of Fate and the Three Fishes
+## Fate and the Three Fishes
 
 "It was just such a pool as this, and on the arrival at it of just such men as these fishermen, that three fishes, who had heard their designs, held consultation as to what should be done.
 
@@ -77,7 +77,7 @@ You have forgotten the saying—
   
 
 
-## The Story of the Unabashed Wife
+## Unabashed Wife
 
 "There was a trader in Vikrama-poora, who had a very beautiful wife, and her name was Jewel-bright. The lady was as unfaithful as she was fair, and had chosen for her last lover one of the household servants. Ah! womankind!—
 
@@ -112,7 +112,7 @@ Now it befell one day that as Jewel-bright was bestowing a kiss on the mouth of 
   
 
 
-## The Story of the Herons and the Mongoose[^2]
+## Herons and the Mongoose[^2]
 
 "Among the mountains of the north there is one named Eagle-cliff, and near it, upon a fig-tree, a flock of Herons had their residence. At the foot of the tree, in a hollow, there lived a serpent; and he was constantly devouring the nestlings of the Herons. Loud were the complaints of the parent birds, until an old Heron thus advised them:—'You should bring some fishes from the pool, and lay them one by one in a line from the hole of yonder Mongoose to the hollow where the Serpent lives. The Mongoose will find him when it comes after the fish, and if it finds him it will kill him.' The advice seemed good, and was acted upon; but in killing the Snake the Mongoose overheard the cry of the young Herons; and climbing the tree daily, he devoured all that the Snake had left. Therefore,' concluded the Geese, 'do we bid you look well into your plan: if you should open your mouth, for instance, as we carry you, you will drop and be killed.'
 
@@ -154,7 +154,7 @@ Now it befell one day that as Jewel-bright was bestowing a kiss on the mouth of 
   
 
 
-## The Story of the Recluse and the Mouse
+## Recluse and the Mouse
 
 "In the forest of the Sage Gautama there dwelt a Recluse named Mighty-at-Prayer. Once, as he sat at his frugal meal, a young mouse dropped beside him from the beak of a crow, and he took it up and fed it tenderly with rice grains. Some time after the Saint observed a cat pursuing his dependent to devour it, whereupon he changed the mouse into a stout cat. The cat was a great deal harassed by dogs, upon which the Saint again transformed it into a dog. The dog was always in danger of the tigers, and his protector at last gave him the form of a tiger—considering him all this while, and treating him withal, like nothing but a mouse. The country-folk passing by would say, 'That a tiger! not he; it is a mouse the Saint has transformed.' And the mouse being vexed at this, reflected, 'So long as the Master lives, this shameful story of my origin will survive!' With this thought he was about to take the Saint's life, when he, who knew his purpose, turned the ungrateful beast by a word to his original shape. Besides, your Majesty," continued the Vulture, "it may not be so easy to take in Camphor-island—
 
@@ -167,7 +167,7 @@ Now it befell one day that as Jewel-bright was bestowing a kiss on the mouth of 
   
 
 
-## The Story of the Crane and the Crab
+## Crane and the Crab
 
 "There was an old Crane at a mere called Lily-water, in Malwa, who stood one day in the shallows with a most dejected look and drooping bill. A Crab observed him and called out, 'Friend Crane! have you given up eating, that you stand there all day?' 'Nay, sir!' replied the old Crane; 'I love my dish of fish, but I have heard the fishermen say that they mean to capture every one that swims in this water; and as that destroys my hope of subsistence, I am resigning myself to death.' All this the fishes overheard. 'In this matter certainly,' they said, 'his interest is ours; we ought to consult him; for it is written—
 
@@ -193,7 +193,7 @@ Thereupon they repaired to him: 'Good Crane,' they said, 'what course is there f
   
 
 
-## The Story of the Brahman and the Pans
+## Brahman and the Pans
 
 "There was a Brahman in the city of Vána, whose name was Deva Sarman. At the equinoctial feast of the Dussera, he obtained for his duxina-gift a dish of flour, which he took into a potter's shed; and there lay down in the shade among the pots, staff in hand. As he thus reclined he began to meditate, 'I can sell this meal for ten cowrie-shells, and with them I can purchase some of these pots and sell them at an advance. With all that money I shall invest in betel-nuts and body-cloths and make a new profit by their sale; and so go on trafficking till I get a lakh of rupees—what's to prevent me? Then I shall marry four wives—and one at least will be beautiful and young, and she shall be my favorite. Of course the others will be jealous; but if they quarrel, and talk, and trouble me I will belabor them like this—and this'—and therewith he flourished his staff to such a purpose as to smash his meal-dish and break several of the potter's jars. The potter, rushing out, took him by the throat, and turned him off; and so ended his speculations. I smiled, my Liege,' concluded the Vulture, 'at your precipitancy, thinking of that story.'
 
@@ -325,7 +325,7 @@ Besides, the Minister detected me immediately. It was the King whose innate good
   
 
 
-## The Story of the Brahman and the Goat
+## Brahman and the Goat
 
 "A Brahman that lived in the forest of Gautama, your Majesty. He had purveyed a goat to make pooja,[^11] and was returning home with it on life shoulder when he was descried by three knaves. 'If we could but obtain that goat,' said they, 'it would be a rare trick'; and they ran on, and seated themselves at the foot of three different trees upon the Brahman's road. Presently he came up with the first of them, who addressed him thus: 'Master! why do you carry that dog on your shoulder?' 'Dog!' said the Brahman, 'it is a goat for sacrifice!' With that he went on a coss,[^12] and came to the second knave; who called out—'What doest thou with that dog, Master?' The Brahman laid his goat upon the ground, looked it all over, took it up again upon his back, and walked on with his mind in a whirl; for—
 
@@ -336,7 +336,7 @@ Besides, the Minister detected me immediately. It was the King whose innate good
   
 
 
-## The Story of the Camel, the Lion, and His Court
+## Camel, the Lion, and His Court
 
 "A Camel, may it please you," replied Night-cloud, "who strayed away from a kafila,[^13] and wandered into the forest. A Lion, named 'Fierce-fangs,' lived in that forest; and his three courtiers, a Tiger, a Jackal, and a Crow, met the Camel, and conducted him to their King. His account of himself was satisfactory, and the Lion took him into his service under the name of Crop-ear. Now it happened that the rainy season was very severe, and the Lion became indisposed, so that there was much difficulty in obtaining food for the Court. The courtiers resolved accordingly to prevail on the Lion to kill the Camel; 'for what interest have we,' they said, 'in this browser of thistles?'
 
@@ -409,7 +409,7 @@ Indeed, it has been said—
   
 
 
-## The Story of the Frogs and the Old Serpent
+## Frogs and the Old Serpent
 
 "In a deserted garden there once lived a Serpent, 'Slow-coil' by name; who had reached an age when he was no longer able to obtain his own food. Lying listlessly by the edge of a pond, he was descried by a certain Frog, and interrogated—
 

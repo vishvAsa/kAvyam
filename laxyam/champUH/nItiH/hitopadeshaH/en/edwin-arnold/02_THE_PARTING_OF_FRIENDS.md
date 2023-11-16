@@ -22,7 +22,7 @@ Vishnu-Sarman proceeded to relate:—
 
 
 
-## The Story of the Lion, the Jackals, and the Bull
+## Lion, the Jackals, and the Bull
 
 "In the Deccan there is a city called Golden-town, and a wealthy merchant lived there named Well-to-do. He had abundant means, but as many of his relations were even yet richer, his mind was bent upon outdoing them by gaining more. Enough is never what we have—
 
@@ -91,7 +91,7 @@ One morning, his Majesty, being exceedingly thirsty, had repaired to the bank of
 
 
 
-## The Story of the Monkey and the Wedge
+## Monkey and the Wedge
 
 "In South Behar, close by the retreat of Dhurmma,[^5] there was an open plot of ground, upon which a temple was in course of erection, under the management of a man of the Káyeth caste,[^6] named Subhadatta. A carpenter upon the works had partly sawed through a long beam of wood, and wedged it open, and was gone away, leaving the wedge fixed. Shortly afterwards a large herd of monkeys came frolicking that way, and one of their number, directed doubtless by the Angel of death, got astride the beam, and grasped the wedge, with his tail and lower parts dangling down between the pieces of the wood. Not content with this, in the mischief natural to monkeys, he began to tug at the wedge; till at last it yielded to a great effort and came out; when the wood closed upon him, and jammed him all fast. So perished the monkey, miserably crushed; and I say again—
 
@@ -108,7 +108,7 @@ Damanaka asked how that happened, and Karataka related:—
 
 
 
-## The Story of the Washerman's Jackass
+## Washerman's Jackass
 
 "There was a certain Washerman[^7] at Benares, whose name was Carpúrapataka, and he had an Ass and a Dog in his courtyard; the first tethered, and the last roaming loose. Once on a time, when he had been spending his morning in the society of his wife, whom he had just married, and had fallen to sleep in her arms, a robber entered the house, and began to carry off his goods. The Ass observed the occupation of the thief, and was much concerned.
 
@@ -276,7 +276,7 @@ and besides, to be near is at last to be needful;—is it not said—
 
 
 
-## The Story of the Cat Who Served the Lion
+## Cat Who Served the Lion
 
 "Far away in the North,[^10] on a mountain named 'Thousand-Crags,' there lived a lion called 'Mighty-heart'; and he was much annoyed by a certain mouse, who made a custom of nibbling his mane while he lay asleep in his den. The Lion would wake in a great rage at finding the ends of his magnificent mane made ragged, but the little mouse ran into his hole, and he could never catch it. After much consideration he went down to a village, and got a Cat named Curd-ear to come to his cave with much persuasion. He kept the Cat royally on all kinds of dainties, and slept comfortably without having his mane nibbled, as the mouse would now never venture out. Whenever the Lion heard the mouse scratching about, that was always a signal for regaling the Cat in a most distinguished style. But one day, the wretched mouse being nearly starved, he took courage to creep timidly from his hole, and was directly pounced upon by Curd-ear and killed. After that the Lion heard no more of the mouse, and quite left off his regular entertainments of the Cat. No!" concluded Damanaka, "we will keep our mouse alive for his Majesty."
 
@@ -319,7 +319,7 @@ Our Lord the King will not vouchsafe his anger to thee; knowest thou not—
 
 
 
-## The Story of the Terrible Bell
+## Terrible Bell
 
 "A goblin, your Majesty," responded Damanaka, "it seemed so, at least, to the good people of Brahmapoora. A thief had stolen a bell from the city, and was making off with that plunder, and more, into the Sri-parvata hills, when he was killed by a tiger. The bell lay in the jungle till some monkeys picked it up, and amused themselves by constantly ringing it. The townspeople found the bones of the man, and heard the noise of the bell all about the hills; so they gave out that there was a terrible devil there, whose ears rang like bells as he swung them about, and whose delight was to devour men. Every one, accordingly, was leaving the town, when a peasant woman named Karála, who liked belief the better for a little proof, came to the Rajah.
 
@@ -399,7 +399,7 @@ Ministers, my royal brother, are often like obstinate swellings that want squeez
 
 
 
-## The Story of the Prince and the Procuress
+## Prince and the Procuress
 
 "In the city of 'Golden-Streets' there reigned a valorous King, named Vira-vikrama, whose officer of justice was one day taking away to punishment a certain Barber, when he was stopped by a strolling mendicant, who held him by the skirts, and cried out, 'Punish not this man—punish them that do wrong of their own knowledge.' Being asked his meaning, he recited the foregoing verses, and, being still further questioned, he told this story—
 
@@ -429,7 +429,7 @@ Damanaka related:—
 
 
 
-## The Story of the Black Snake and the Golden Chain
+## Black Snake and the Golden Chain
 
 "A pair of Crows had their abode in a certain tree, the hollow of which was occupied by a black snake, who had often devoured their young. The Hen-bird, finding herself breeding again, thus addressed her mate: 'Husband, we must leave this tree; we shall never rear young ones while this black snake lives here! You know the saw—
 
@@ -453,7 +453,7 @@ Damanaka related:—
 
 
 
-## The Story of the Lion and the Old Hare
+## Lion and the Old Hare
 
 "On the Mandara mountain there lived a Lion named Fierce-of-heart, and he was perpetually making massacre of all the wild animals. The thing grew so bad that the beasts held a public meeting, and drew up a respectful remonstrance to the Lion in these words:—
 
@@ -534,7 +534,7 @@ What is to be done must be done with despatch. After censuring his treason, woul
 
 
 
-## The Story of the Wagtail and the Sea
+## Wagtail and the Sea
 
 "On the shore of the Southern Sea there dwelt a pair of Wagtails. The Hen-bird was about to lay, and thus addressed her mate:—
 
