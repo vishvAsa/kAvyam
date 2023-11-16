@@ -32,7 +32,7 @@ The monkey tricked the crocodile.
 
 “How was that?” asked the princes. And Vishnusharman told the story of
 
-THE MONKEY AND THE CROCODILE
+## THE MONKEY AND THE CROCODILE
 
 On the shore of the sea was a great rose-apple tree that was never without fruit. In it lived a monkey named Red-Face.
 
@@ -214,7 +214,7 @@ Will see him in the well no more.”
 
 “How was that?” asked the crocodile. And the monkey told the story of
 
-HANDSOME AND THEODORE
+## HANDSOME AND THEODORE
 
 There was once a frog-king in a well, and his name was Theodore. One day when tormented by his relatives, he climbed from bucket to bucket up the water-wheel, and finally emerged. Then he thought: “How can I pay those relatives back? For the proverb says:
 
@@ -394,7 +394,7 @@ When he heard this, the crocodile said: “My good friend, you are quite wrong, 
 
 “But who was Flop-Ear?” asked the crocodile. “And how did he perish in full sight of the danger? Please tell me.” So the monkey told the story of
 
-FLOP-EAR AND DUSTY
+## FLOP-EAR AND DUSTY
 
 There was once a lion named Fierce-Mane, who lived in a part of a forest. And for servant he had a jackal, a faithful drudge named Dusty.
 
@@ -484,7 +484,7 @@ Is sure to lose his victory.”
 
 “How was that?” asked the crocodile. And the monkey told the story of
 
-THE POTTER MILITANT
+## THE POTTER MILITANT
 
 There was once a potter in a certain place. One day he carelessly ran with all his might into the jagged edge of a broken pot, and tumbled. And though the jagged edge tore his forehead, he struggled to his feet, blood streaming over his body. Now as the wound was unskilfully treated, the scar cicatrized horribly.
 
@@ -510,7 +510,7 @@ No elephants are slain.”
 
 “How was that?” asked the potter. And the king told the story of
 
-THE JACKAL WHO KILLED NO ELEPHANTS
+## THE JACKAL WHO KILLED NO ELEPHANTS
 
 In a part of a forest lived a lion and his wife. One day the lioness gave birth to twins. And the lion killed deer and things every day, and gave them to the lioness.
 
@@ -594,7 +594,7 @@ What man can trust his wife?”
 
 “How was that?” asked the crocodile, and the monkey told the story of
 
-THE UNGRATEFUL WIFE
+## THE UNGRATEFUL WIFE
 
 There was once a Brahman in a certain city who loved his wife more than his life. But she squabbled with his family every day, and never rested. Since he could not endure the squabbling, yet was devoted to his wife, he left his family and started for another country far away.
 
@@ -640,7 +640,7 @@ When those who are not horses, neigh?”
 
 “How was that?” asked the crocodile. And the monkey told the story of
 
-KING JOY AND SECRETARY SPLENDOR
+## KING JOY AND SECRETARY SPLENDOR
 
 There was once a king named Joy, lord of the sea-girdled earth, whose power and manliness were famed afar, whose footstool was reticulated with interlacing beams of light from the diadems of uncounted hosts of kneeling princes, whose glory was unspotted as the autumn moonbeams. He had a secretary named Splendor, who had absorbed the total truth of all the scientific text-books, but whose wife pouted in a lovers’ quarrel.
 
@@ -680,7 +680,7 @@ The ass was killed — because he brayed.”
 
 “How was that?” asked the crocodile. And the monkey told the story of
 
-THE ASS IN THE TIGER-SKIN
+## THE ASS IN THE TIGER-SKIN
 
 There was once a laundryman named Clean-Cloth in a certain town. He had a single donkey who had grown very feeble from lack of fodder.
 
@@ -760,7 +760,7 @@ Are lost. But why this vacant stare?”
 
 “How was that?” asked the monkey. And the crocodile told the story of
 
-THE FARMER’S WIFE
+## THE FARMER’S WIFE
 
 There was once a farmer who lived with his wife in a certain place. And because the husband was old, the wife was forever thinking of lovers, and could not possibly be contented at home. Her one idea was strange men.
 
@@ -834,7 +834,7 @@ The-sparrow’s cozy nest.
 
 “How was that?” asked the crocodile. And the monkey told the story of
 
-THE PERT HEN-SPARROW
+## THE PERT HEN-SPARROW
 
 In a certain wood lived a sparrow and his wife who had built their nest on the branch of a tree. One day in the month of February a monkey took shelter under the tree; for he had been caught in an unseasonable hail-storm, and his body shivered to the slightest breeze. Since his teeth were making music and his face was woebegone and his hands and feet were tightly clenched, the hen-sparrow said to him compassionately:
 
@@ -910,7 +910,7 @@ With equals, fight it out.”
 
 “How was that?” asked the crocodile. And the monkey told
 
-HOW SUPERSMART ATE THE ELEPHANT
+## HOW SUPERSMART ATE THE ELEPHANT
 
 There was once a jackal named Supersmart in a part of a forest. One day he came upon an elephant that had died a natural death in the wood. But he could only stalk about the body; he could not cut through the tough hide.
 
@@ -992,7 +992,7 @@ Are wanting in sobriety.”
 
 “How was that?” asked the crocodile. And the monkey told the story of
 
-THE DOG WHO WENT ABROAD
+## THE DOG WHO WENT ABROAD
 
 There was once a dog named Spot in a certain town, which was afflicted by a long famine. And as food gave out, dogs and others began to lose their homes. In fear of this, Spot felt his throat pinched by hunger, and he went to another country far away.
 

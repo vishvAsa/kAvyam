@@ -593,7 +593,7 @@ Points vulnerable in the foe.”
 
 And Live-Strong answered: “Listen. I will tell you
 
-HOW THE BIRDS PICKED A KING
+## HOW THE BIRDS PICKED A KING
 
 Once upon a time the bird-clans gathered for consultation. There were swans and cranes and nightingales; there were peacocks, plovers, and owls; there were doves and pigeons and partridges; there were bluejays, vultures, skylarks; there were demoiselles and cuckoos and woodpeckers and many others.
 
@@ -717,7 +717,7 @@ The rabbits dwelt in comfort soon.”
 
 “How was that?” asked the birds. And the crow told
 
-HOW THE RABBIT FOOLED THE ELEPHANT
+## HOW THE RABBIT FOOLED THE ELEPHANT
 
 In a part of a forest lived an elephant-king named Four-Tusk who had a numerous retinue of elephants. His time was spent in protecting the herd.
 
@@ -849,7 +849,7 @@ They died, confiding in the cat.”
 
 “How was that? Tell us about it,” said the birds, and the crow told the story of
 
-THE CAT’S JUDGMENT
+## THE CAT’S JUDGMENT
 
 At one time I was myself living in a certain tree. And beneath the same tree dwelt another bird, a partridge. So by virtue of our near neighborhood there sprang up between us a firm friendship. Every day after taking our meals and airings we spent the evening hours in a round of amusements, such as repeating witty sayings, telling tales from the old story-books, solving puzzles and conundrums, or exchanging presents.
 
@@ -1107,7 +1107,7 @@ Who robbed the Brahman of his goat.”
 
 “How was that?” asked Cloudy. And Live-Strong told the story of
 
-THE BRAHMAN’S GOAT
+## THE BRAHMAN’S GOAT
 
 In a certain town lived a Brahman named Friendly who had undertaken the labor of maintaining the sacred fire. One day in the month of February, when a gentle breeze was blowing, when the sky was veiled in clouds and a drizzling rain was falling, he went to another village to beg a victim for the sacrifice, and said to a certain man: “O sacrificer, I wish to make an offering on the approaching day of the new moon. Pray give me a victim.” And the man gave him a plump goat, as prescribed in Scripture. This he put through its paces, found it sound, placed it on his shoulder, and started in haste for his own city.
 
@@ -1179,7 +1179,7 @@ For all his quivering.”
 
 “How was that?” asked Cloudy. And Live-Strong told the story of
 
-THE SNAKE AND THE ANTS
+## THE SNAKE AND THE ANTS
 
 In a certain ant-hill lived a prodigious black snake, and his name was Haughty. One day, instead of following the beaten path out of his hole, he tried to crawl through a narrower crevice. In doing so, he suffered a wound, because his body was huge, and the opening was small, and fate willed it so.
 
@@ -1295,7 +1295,7 @@ Lives in an aching heart.”
 
 “How was that?” asked Foe-Crusher. And Red-Eye told the story of
 
-THE SNAKE WHO PAID CASH
+## THE SNAKE WHO PAID CASH
 
 There was once a Brahman in a certain place. His time was wholly spent in unproductive farming.
 
@@ -1321,7 +1321,7 @@ Like swans from lotus nest.
 
 “How was that?” asked the men. And the Brahman told the story of
 
-THE UNSOCIAL SWANS
+## THE UNSOCIAL SWANS
 
 There was once a king named Gay-Chariot in a certain place. He owned a lake named Lotus Lake, which his soldiers guarded carefully. For many golden swans lived there, and they gave one tail-feather apiece every six months.
 
@@ -1363,7 +1363,7 @@ And sacrificed himself for meat.”
 
 “How was that?” asked Foe-Crusher. And Fierce-Eye told the story of
 
-THE SELF-SACRIFICING DOVE
+## THE SELF-SACRIFICING DOVE
 
 A ghastly fowler plied his trade
 
@@ -1761,7 +1761,7 @@ Passionately cling.”
 
 “But,” asked Foe-Crusher, “who is she that does not hug? And who is the thief? I should like to hear this one in detail.” And Flame-Eye told the story of
 
-THE OLD MAN WITH THE YOUNG WIFE
+## THE OLD MAN WITH THE YOUNG WIFE
 
 There was once an aged merchant in a certain town, and his name was Lovelorn. To such an extent had love clouded his reason that, when his wife died, he gave much money in order to marry the daughter of a penniless shopkeeper. But the girl was heartbroken and could not bear to look at the old merchant. This, indeed, might have been anticipated.
 
@@ -1829,7 +1829,7 @@ And cattle by the ghost.”
 
 “How was that?” asked Foe-Crusher.” And Hook-Nose told the story of
 
-THE BRAHMAN, THE THIEF, AND THE GHOST
+## THE BRAHMAN, THE THIEF, AND THE GHOST
 
 There was once a poor Brahman in a certain place. He lived on presents, and always did without such luxuries as fine clothes and ointments and perfumes and garlands and gems and betel-gum. His beard and his nails were long, and so was the hair that covered his head and his body. Heat, cold, rain, and the like had dried him up.
 
@@ -1883,7 +1883,7 @@ And like the belly-snake.”
 
 ‘’How was that?” asked Foe-Crusher. And Wall-Ear told the story of
 
-THE SNAKE IN THE PRINCE’S BELLY
+## THE SNAKE IN THE PRINCE’S BELLY
 
 In a certain city dwelt a king whose name was God-like. He had a son who wasted daily in every limb because of a snake that used his belly as a home instead of an ant-hill. So the prince became dejected and went to another country. In a city of that country he begged alms, spending his time in a great temple.
 
@@ -1925,7 +1925,7 @@ Took wife and him who fouled his bed.”
 
 “How was that?” asked the counselors, and Red-Eye told the story of
 
-THE GULLIBLE CARPENTER
+## THE GULLIBLE CARPENTER
 
 There was once a carpenter in a certain village. His wife was a whore, and reputed to be such. So he, desiring to test her, thought; “How can I put her to the test? For the proverb says:
 
@@ -2019,7 +2019,7 @@ Nature is hard to beat.”
 
 “How was that?” asked Live-Strong. And Red-Eye told the story of
 
-MOUSE-MAID MADE MOUSE
+## MOUSE-MAID MADE MOUSE
 
 The billows of the Ganges were dotted with pearly foam born of the leaping of fishes frightened at hearing the roar of the waters that broke on the rugged, rocky shore. On the bank was a hermitage crowded with holy men devoting their time to the performance of sacred rites — chanting, self-denial, self-torture, study, fasting and sacrifice. They would take purified water only, and that in measured sips. Their bodies wasted under a diet of bulbs, roots, fruits, and moss. A loin-cloth made of bark formed their scanty raiment.
 
@@ -2187,7 +2187,7 @@ we all were fools together.”
 
 “How was that?” they asked. And Red-Eye told the story of
 
-THE BIRD WITH GOLDEN DUNG
+## THE BIRD WITH GOLDEN DUNG
 
 There was once a great tree on a mountain side. On it lived a bird in whose dung gold appeared.
 
@@ -2233,7 +2233,7 @@ But never heard a cave that talked.
 
 “How was that?” they asked. And Red-Eye told the story of
 
-THE CAVE THAT TALKED
+## THE CAVE THAT TALKED
 
 There was once a lion in a part of a forest, and his name was Rough-Claw. One day he found nothing whatever to eat in his wanderings, and his throat was pinched by hunger. At sunset he came to a great mountain cave and went in, for he thought: “Surely, some animal will come into this cave during the night. I will hide and wait.”
 
@@ -2495,7 +2495,7 @@ Slew many frogs.”
 
 “How was that?” asked Cloudy. And Live-Strong told the story of
 
-THE FROGS THAT RODE SNAKEBACK
+## THE FROGS THAT RODE SNAKEBACK
 
 There was once an elderly black snake in a certain spot, and his name was Slow-Poison. He considered the situation from this point of view: “How in the world can I get along without overtaxing my energies?” Then he went to a pond containing many frogs, and behaved as if very dejected.
 
@@ -2541,7 +2541,7 @@ The Brahman butter-blind.
 
 “How was that?” asked the snake. And Slow-Poison told the story of
 
-THE BUTTER-BLINDED BRAHMAN
+## THE BUTTER-BLINDED BRAHMAN
 
 There was once a Brahman named Theodore in a certain town. His wife, being unchaste and a pursuer of other men, was forever making cakes with sugar and butter for a lover, and so cheating her husband.
 

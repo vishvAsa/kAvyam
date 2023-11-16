@@ -1878,7 +1878,7 @@ And so the dreadful snake was slain.”
 
 “How was that?” asked Cheek. And Victor told
 
-HOW THE CROW-HEN KILLED THE BLACK SNAKE
+## HOW THE CROW-HEN KILLED THE BLACK SNAKE
 
 In a certain region grew a great banyan tree. In it lived a crow and his wife, occupying the nest which they had built. But a black snake crawled through the hollow trunk and ate their chicks as fast as they were born, even before baptism. Yet for all his sorrow over this violence, the poor crow could not desert the old familiar banyan and seek another tree. For
 
@@ -4162,7 +4162,7 @@ The elephant flat.”
 
 “How was that?” asked Sprawl. And Constance told the story of
 
-**THE DUEL BETWEEN ELEPHANT AND SPARROW**
+## THE DUEL BETWEEN ELEPHANT AND SPARROW
 
 In a dense bit of jungle lived a sparrow and his wife, who had built their nest on the branch of a tamal tree, and in course of time a family appeared.
 
@@ -5002,7 +5002,7 @@ Provide a mungoose meal.”
 
 “How was that?” asked Wrong-Mind. And his father told the story of
 
-A REMEDY WORSE THAN THE DISEASE
+## A REMEDY WORSE THAN THE DISEASE
 
 A flock of herons once had their nests on a fig tree in a part of a forest. In a hole in the tree lived a black snake who made a practice of eating the heron chicks before their wings sprouted.
 

@@ -11,12 +11,7 @@ title = "05 ILL-CONSIDERED ACTION"
 
 
 
-BOOK V
-
-
-
-
-
+BOOK V  
 ILL-CONSIDERED ACTION
 
 Here, then, begins Book V, called “Ill-considered Action.” The first verse runs:
@@ -163,7 +158,7 @@ As with lady and mungoose.
 
 “How was that?” asked Jewel. And they told the story of
 
-THE LOYAL MUNGOOSE
+## THE LOYAL MUNGOOSE
 
 There was once a Brahman named Godly in a certain town. His wife mothered a single son and a mungoose. And as she loved little ones, she cared for the mungoose also like a son, giving him milk from her breast, and salves, and baths, and so on. But she did not trust him, for she thought: “A mungoose is a nasty kind of creature. He might hurt my boy.” Yes, there is sense in the proverb:
 
@@ -191,7 +186,7 @@ Found on his head a wheel that whirled.”
 
 “How was that?” asked the Brahman. And his wife told the story of
 
-THE FOUR TREASURE-SEEKERS
+## THE FOUR TREASURE-SEEKERS
 
 In a certain town in the world were four Brahmans who lived as the best of friends. And being stricken with utter poverty, they took counsel together: “A curse, a curse on this business of being poor\! For
 
@@ -441,7 +436,7 @@ Made a lion; then they died.”
 
 “How was that?” asked the wheel-bearer. And the gold-finder told the story of
 
-THE LION-MAKERS
+## THE LION-MAKERS
 
 In a certain town were four Brahmans who lived in friendship. Three of them had reached the far shore of all scholarship, but lacked sense. The other found scholarship distasteful; he had nothing but sense.
 
@@ -479,7 +474,7 @@ Is paddling in the water clear.”
 
 “How was that?” asked the gold-finder. And the wheel-bearer told the story of
 
-HUNDRED-WIT, THOUSAND-WIT, AND SINGLE-WIT
+## HUNDRED-WIT, THOUSAND-WIT, AND SINGLE-WIT
 
 In a certain pond lived two fishes whose names were Hundred-Wit and Thousand-Wit. And a frog named Single-Wit made friends with them. Thus all three would for some time enjoy at the water’s edge the pleasure of conversation spiced with witticism, then would dive into the water again.
 
@@ -523,7 +518,7 @@ Music medals rich and rare.”
 
 “How was that?” asked the wheel-bearer. And the other told the story of
 
-THE MUSICAL DONKEY
+## THE MUSICAL DONKEY
 
 In a certain town was a donkey named Prig. In the daytime he carried laundry packages, but was at liberty to wander anywhere at night. One night while wandering in the fields he fell in with a jackal and made friends. So the two broke through a hedge into cucumber-beds, and having eaten what they could hold of that comestible, parted at dawn to go home.
 
@@ -621,7 +616,7 @@ To a fatal end.”
 
 “How was that?” asked the gold-finder. And the wheel-bearer told the story of
 
-SLOW, THE WEAVER
+## SLOW, THE WEAVER
 
 In a certain town lived a weaver named Slow. One day all the pegs in his loom broke. So he took an axe, and in his search for wood, came to the seashore. There he found a great sissoo tree, and he thought: “This seems a good-sized tree. If I cut it down, I can make plenty of weaving-tools.” He therefore lifted his axe upon it.
 
@@ -723,7 +718,7 @@ Of Moon-Lord, you will lie.”
 
 “How was that?” asked the gold-finder. And the other told the story of
 
-THE BRAHMAN’S DREAM
+## THE BRAHMAN’S DREAM
 
 In a certain town lived a Brahman named Seedy, who got some barley-meal by begging, ate a portion, and filled a jar with the remainder. This jar he hung on a peg one night, placed his cot beneath it, and fixing his gaze on the jar, fell into a hypnotic reverie.
 
@@ -749,7 +744,7 @@ For example take King Moon.”
 
 “How was that??’ asked the wheel-bearer. And the other told the story of
 
-THE UNFORGIVING MONKEY
+## THE UNFORGIVING MONKEY
 
 In a certain city was a king named Moon, who had a pack of monkeys for his son’s amusement. They were kept in prime condition by daily provender and pabulum in great variety.
 
@@ -921,7 +916,7 @@ He lives who wins the race.”
 
 “How was that?” asked the wheel-bearer. And the other told the story of
 
-THE CREDULOUS FIEND
+## THE CREDULOUS FIEND
 
 In a certain city lived a king whose name was Fine-Army. He had a daughter named Pearl, blessed with the thirty-two marks of perfect beauty.
 
@@ -965,7 +960,7 @@ Fortune favors wayward men.”
 
 “How was that?” asked the gold-finder. And the wheel-bearer told the story of
 
-THE THREE-BREASTED PRINCESS
+## THE THREE-BREASTED PRINCESS
 
 In the north country was a city called Honey-Town, where the king was named Honey-Host. And once there was born to him a daughter with three breasts. As soon as he learned of the birth of a three-breasted girl, he summoned the chamberlain and said: “Sir, let this girl be exposed in the forest, so that not a single soul may learn the fact.”
 
@@ -981,7 +976,7 @@ But let him go again.”
 
 “How was that?” asked the king. And the chamberlain told the story of
 
-THE FIEND WHO WASHED HIS FEET
+## THE FIEND WHO WASHED HIS FEET
 
 In a certain forest lived a fiend named Cruel. One day he met a Brahman in his wanderings, climbed on his shoulder, and said: “Now go ahead’
 

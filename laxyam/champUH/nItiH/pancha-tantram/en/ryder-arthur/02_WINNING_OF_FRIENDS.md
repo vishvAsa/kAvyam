@@ -106,7 +106,7 @@ They took a diet incorrect.”
 
 “How was that?” asked the doves. And Gay-Neck told the story of
 
-THE BHARUNDA BIRDS
+## THE BHARUNDA BIRDS
 
 By a certain lake in the world lived birds called “bharunda birds.” They had one belly and two necks apiece.
 
@@ -592,7 +592,7 @@ Has come to visit you.”
 
 And Gold told the story of
 
-GOLD’S GLOOM
+## GOLD’S GLOOM
 
 In the southern country is a city called Maidens’ Delight, and in the neighborhood a shrine to Shiva. In a cell near by lived a hermit named Crop-Ear. During his begging hour he would fill his alms-bowl with dainties from the city, eatables jellified, melting in the mouth, toothsome, flavored with sugar, treacle, and pomegranate. Then, returning to his cell, he satisfied himself according to the ordinance, hid what food was left in the alms-bowl, and hung it on a peg, keeping it for the servants’ breakfast. On this food I subsisted with my companions. And so the time passed.
 
@@ -672,7 +672,7 @@ Has some good reason in her mind.”
 
 “How was that?” asked Crop-Ear. And Wide-Bottom told the story of
 
-MOTHER SHANDILEE’S BARGAIN
+## MOTHER SHANDILEE’S BARGAIN
 
 At one time I asked a certain Brahman in a certain town for shelter during the rainy season, and this he gave me. So there I lived, occupied with pious duties.
 
@@ -738,7 +738,7 @@ Perceived a topknot on his head.”
 
 “How was that?” asked the wife. And the Brahman told the story of
 
-SELF-DEFEATING FORETHOUGHT
+## SELF-DEFEATING FORETHOUGHT
 
 There was once a hillman in a certain place who set out to increase his sins by hunting. As he walked along, he met a boar that resembled the top of Sooty Mountain. Straightway he drew an arrow as far as his ear, and recited this verse:
 
@@ -1172,7 +1172,7 @@ For what is mine, no strangers take.
 
 “Hqw was that?” asked the crow and the turtle. And Gold told the story of
 
-MISTER DULY
+## MISTER DULY
 
 In a certain city lived a merchant named Ocean. His son picked up a book at a sale for a hundred rupees. In this book was the line:
 
@@ -1660,7 +1660,7 @@ In that great forest, learned.”
 
 “How was that?” asked Gold. And Slow told the story of
 
-SOFT, THE WEAVER
+## SOFT, THE WEAVER
 
 In a certain town lived a weaver. His name was Soft, and he spent his time making garments dyed in various patterns, fit for such people as princes. But for all his labors, he could not collect a bit of money beyond food and clothes. Yet he saw other weavers, who made coarse fabrics, rolling in wealth, and he said to his wife: “Look at these fellows, my dear. They make coarse stuff, but they earn heaps of money. This city does not offer me a decent living. I am going to move.”
 
@@ -1772,7 +1772,7 @@ Till the fifteenth year.”
 
 “How was that?” asked the figure. And Soft told the story of
 
-HANG-BALL AND GREEDY
+## HANG-BALL AND GREEDY
 
 In a certain town lived a bull named Hang-Ball. From excess of male vigor he abandoned the herd, tore the river-banks with his horns, browsed at will on emerald-tipped grasses, and went wild in the forest.
 
@@ -2108,7 +2108,7 @@ That mice set free.”
 
 “How was that?” asked Slow. And Spot told the story of
 
-THE MICE THAT SET ELEPHANTS FREE
+## THE MICE THAT SET ELEPHANTS FREE
 
 There was once a region where people, houses, and temples had fallen into decay. So the mice, who were old settlers there, occupied the chinks in the floors of stately dwellings with sons, grandsons \(both in the male and female line\), and further descendants as they were born, until their holes formed a dense tangle. They found uncommon happiness in a variety of festivals, dramatic performances \(with plots of their own invention\), wedding-feasts, eating-parties, drinking-bouts, and similar diversions. And so the time passed.
 
@@ -2240,7 +2240,7 @@ You, my saintly friend are familiar with the caprices of constraining destiny. T
 
 “Tell me,” said Gold, “how once before you suffered the woes of captivity. I am eager to learn the full detail.” And Spot told the story of
 
-SPOT’S CAPTIVITY
+## SPOT’S CAPTIVITY
 
 Long ago, when I was six months old, I used to gambol in front of all the rest, as a youngster does. Out of sheer spirits I would run far ahead, then wait for the herd. Now we deer have two gaits, called the Jump-Up and the Straightaway. Of these I knew the Straightaway, but not the Jump-Up.
 
