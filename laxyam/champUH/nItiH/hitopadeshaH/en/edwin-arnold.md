@@ -23,33 +23,33 @@ October 2004
 
 ### Translator's Preface
 
-> A story-book from the Sanscrit at least possesses the minor merit of novelty. The "perfect language" has been hitherto regarded as the province of Scholars, and few of these even have found time or taste to search its treasures. And yet among them is the key to the heart of modern India—as well as the splendid record of her ancient Gods and glories. The hope of Hindostan lies in the intelligent interest of England. Whatever avails to dissipate misconceptions between them, and to enlarge their intimacy, is a gain to both Peoples; and to this end the present volume aspires, in an -humble degree, to contribute.
+A story-book from the Sanscrit at least possesses the minor merit of novelty. The "perfect language" has been hitherto regarded as the province of Scholars, and few of these even have found time or taste to search its treasures. And yet among them is the key to the heart of modern India—as well as the splendid record of her ancient Gods and glories. The hope of Hindostan lies in the intelligent interest of England. Whatever avails to dissipate misconceptions between them, and to enlarge their intimacy, is a gain to both Peoples; and to this end the present volume aspires, in an -humble degree, to contribute.
 >
-> The _Hitopadesa_ is a work of high antiquity, and extended popularity. The prose is doubtless as old as our own era; but the intercalated verses and proverbs compose a selection from writings of an age extremely remote. The _Mahabharata_ and the textual _Veds_ are of those quoted; to the first of which Professor M. Williams (in his admirable edition of the _Nala_ (1860) assigns a date of 350 B.C., while he claims for the _Rig-Veda_ an antiquity as high as B.C. 1300. The _Hitopadesa_ may thus be fairly styled "The Father of all Fables"; for from its numerous translations have come Esop and Pilpay, and in later days _Reineke Fuchs_. Originally compiled in Sanscrit, it was rendered, by order of Nushiraván, in the sixth century, A.D., into Persic. From the Persic it passed, A.D. 850, into the Arabic, and thence into Hebrew and Greek. In its own land it obtained as wide a circulation. The Emperor Acbar, impressed with the wisdom of its maxims and the ingenuity of its apologues, commended the work of translating it to his own Vizir, Abdul Fazel. That minister accordingly put the book into a familiar style, and published it with explanations, under the title of the _Criterion of Wisdom_. The Emperor had also suggested the abridgment of the long series of shlokes which here and there interrupt the narrative, and the Vizir found this advice sound, and followed it, like the present Translator. To this day, in India, the _Hitopadesa_, under other names (as the _Anvári Suhaili_**[/1/](#n01)**, retains the delighted attention of young and old, and has some representative in all the Indian vernaculars. A work so well esteemed in the East cannot be unwelcome to Western readers, who receive it here, a condensed but faithful transcript of sense and manner.
+The _Hitopadesa_ is a work of high antiquity, and extended popularity. The prose is doubtless as old as our own era; but the intercalated verses and proverbs compose a selection from writings of an age extremely remote. The _Mahabharata_ and the textual _Veds_ are of those quoted; to the first of which Professor M. Williams (in his admirable edition of the _Nala_ (1860) assigns a date of 350 B.C., while he claims for the _Rig-Veda_ an antiquity as high as B.C. 1300. The _Hitopadesa_ may thus be fairly styled "The Father of all Fables"; for from its numerous translations have come Esop and Pilpay, and in later days _Reineke Fuchs_. Originally compiled in Sanscrit, it was rendered, by order of Nushiraván, in the sixth century, A.D., into Persic. From the Persic it passed, A.D. 850, into the Arabic, and thence into Hebrew and Greek. In its own land it obtained as wide a circulation. The Emperor Acbar, impressed with the wisdom of its maxims and the ingenuity of its apologues, commended the work of translating it to his own Vizir, Abdul Fazel. That minister accordingly put the book into a familiar style, and published it with explanations, under the title of the _Criterion of Wisdom_. The Emperor had also suggested the abridgment of the long series of shlokes which here and there interrupt the narrative, and the Vizir found this advice sound, and followed it, like the present Translator. To this day, in India, the _Hitopadesa_, under other names (as the _Anvári Suhaili_[^1], retains the delighted attention of young and old, and has some representative in all the Indian vernaculars. A work so well esteemed in the East cannot be unwelcome to Western readers, who receive it here, a condensed but faithful transcript of sense and manner.
 >
-> As often as an Oriental allusion, or a name in Hindoo mythology, seemed to ask some explanation for the English reader, notes have been appended, bearing reference to the page. In their compilation, and generally, acknowledgment is due to Professor Johnson's excellent version and edition of the _Hitopadesa_, and to Mr. Muir's _Sanskrit Texts_.
+As often as an Oriental allusion, or a name in Hindoo mythology, seemed to ask some explanation for the English reader, notes have been appended, bearing reference to the page. In their compilation, and generally, acknowledgment is due to Professor Johnson's excellent version and edition of the _Hitopadesa_, and to Mr. Muir's _Sanskrit Texts_.
 >
-> A residence in India, and close intercourse with the Hindoos, have given the author a lively desire to subserve their advancement. No one listens now to the precipitate ignorance which would set aside as "heathenish" the high civilization of this great race; but justice is not yet done to their past development and present capacities. If the wit, the morality, and the philosophy of these "beasts of India" (so faithfully _rendered_ by Mr. Harrison Weir) surprise any vigorous mind into further exploration of her literature, and deeper sense of our responsibility in her government, the Author will be repaid.
+A residence in India, and close intercourse with the Hindoos, have given the author a lively desire to subserve their advancement. No one listens now to the precipitate ignorance which would set aside as "heathenish" the high civilization of this great race; but justice is not yet done to their past development and present capacities. If the wit, the morality, and the philosophy of these "beasts of India" (so faithfully _rendered_ by Mr. Harrison Weir) surprise any vigorous mind into further exploration of her literature, and deeper sense of our responsibility in her government, the Author will be repaid.
 >
-> Edwin Arnold.  
-> Framfield, Sussex  
-> March, 1861
+Edwin Arnold.  
+Framfield, Sussex  
+March, 1861
 
 **~~~~~~~~~~~**  
 N O T E S
 
-**[/1/](#m01)** "The Lights of Canopus," a Persian paraphrase; as the _Khirad Afroz_, "the lamp of the Understanding," is in Hindustani.
+[^1]: "The Lights of Canopus," a Persian paraphrase; as the _Khirad Afroz_, "the lamp of the Understanding," is in Hindustani.
 
 ### Introduction
 
   
 
-Honor to Gunesh,**[/1/](#n01)** God of Wisdom!
+Honor to Gunesh,[^1] God of Wisdom!
 
 > This book of Counsel read, and you shall see,  
 > Fair speech and Sanscrit lore, and Policy.
 
-On the banks of the holy river Ganges there stood a city named Pataliputra.**[/2/](#n02)** The King of it was a good King and a virtuous, and his name was Sudarsana. It chanced one day that he overheard a certain person reciting these verses—
+On the banks of the holy river Ganges there stood a city named Pataliputra.[^2] The King of it was a good King and a virtuous, and his name was Sudarsana. It chanced one day that he overheard a certain person reciting these verses—
 
 > "Wise men, holding wisdom highest, scorn delights, as false as fair,  
 > Daily live they as Death's fingers twined already in their hair.  
@@ -58,9 +58,9 @@ On the banks of the holy river Ganges there stood a city named Pataliputra.**[/2
 > Bringing dark things into daylight, solving doubts that vex the mind,  
 > Like an open eye is Wisdom—he that hath her not is blind."
 
-Hearing these the King became disquieted, knowing that his own sons were gaining no wisdom, nor reading the Sacred Writings,**[/3/](#n03)** but altogether going in the wrong way; and he repeated this verse to himself—
+Hearing these the King became disquieted, knowing that his own sons were gaining no wisdom, nor reading the Sacred Writings,[^3] but altogether going in the wrong way; and he repeated this verse to himself—
 
-> "Childless art thou?**[/4/](#n04)** dead thy children? leaving thee to want and dool?  
+> "Childless art thou?[^4] dead thy children? leaving thee to want and dool?  
 > Less thy misery than his is, who is father to a fool."
 
 And again this—
@@ -83,7 +83,7 @@ And again this—
 "But then that comes from idleness, with people who will not do what they should do. Rather,
 
 > "Nay! and faint not, idly sighing, 'Destiny is mightiest,'  
-> Sesamum**[/5/](#n05)** holds oil in plenty, but it yieldeth none unpressed.  
+> Sesamum[^5] holds oil in plenty, but it yieldeth none unpressed.  
 > Ah! it is the Coward's babble, 'Fortune taketh, Fortune gave;'  
 > Fortune! rate her like a master, and she serves thee like a slave."
 
@@ -104,12 +104,12 @@ And again this—
 
 Having concluded his reflections, the Raja gave orders to assemble a meeting of learned men. Then said he—
 
-"Hear now, O my Pundits!**[/6/](#n06)** Is there one among you so wise that he will undertake to give the second birth of Wisdom to these my sons, by teaching them the Books of Policy; for they have never yet read the Sacred Writings, and are altogether going in the wrong road; and ye know that
+"Hear now, O my Pundits![^6] Is there one among you so wise that he will undertake to give the second birth of Wisdom to these my sons, by teaching them the Books of Policy; for they have never yet read the Sacred Writings, and are altogether going in the wrong road; and ye know that
 
 > "Silly glass, in splendid settings, something of the gold may gain;  
 > And in company of wise ones, fools to wisdom may attain."
 
-Then uprose a great Sage, by name Vishnu-Sarman, learned in the principles of Policy as is the angel of the planet Jupiter**[/7/](#n07)** himself, and he said—
+Then uprose a great Sage, by name Vishnu-Sarman, learned in the principles of Policy as is the angel of the planet Jupiter[^7] himself, and he said—
 
 "My Lord King, I will undertake to teach these princes Policy, seeing they are born of a great house; for—
 
@@ -141,19 +141,19 @@ Vishnu-Sarman answered—
 **~~~~~~~~~~~**  
 N O T E S
 
-**[/1/](#m01)** Ganesh, or Gunputtee, is the God of Prudence, whom the Hindoos invoke at the outset of all undertakings. His image, having four hands, and the head of a female elephant with one tusk, surmounts the portal of a Hindoo residence, as the guardian of the household.
+[^1]: Ganesh, or Gunputtee, is the God of Prudence, whom the Hindoos invoke at the outset of all undertakings. His image, having four hands, and the head of a female elephant with one tusk, surmounts the portal of a Hindoo residence, as the guardian of the household.
 
-**[/2/](#m02)** Now Patna, near the confluence of the Soane and Ganges.
+[^2]: Now Patna, near the confluence of the Soane and Ganges.
 
-**[/3/](#m03)** The Vedas are the holy books of India. They are four in number: the Rig-Veda, Yajur-Veda, Sama-Veda, and Atharva-Veda. 
+[^3]: The Vedas are the holy books of India. They are four in number: the Rig-Veda, Yajur-Veda, Sama-Veda, and Atharva-Veda. 
 
-**[/4/](#m04)** The force of this comparison is only perceived by recollecting the extreme anxiety of the Hindoo to obtain, and leave behind him, male offspring. The Sanskrit word _putra_ (son) is declared to be a contraction from _puttra_, which means a deliverer from the hell _put_; and the simple performance of the funeral "shraddh" (a libation by a son) is held sufficient to procure repose for the spirit of his departed father. The Hindoo proverb says, "Whoso begetteth a son, planteth a tree, and diggeth a well; that man shall rest in Heaven."
+[^4]: The force of this comparison is only perceived by recollecting the extreme anxiety of the Hindoo to obtain, and leave behind him, male offspring. The Sanskrit word _putra_ (son) is declared to be a contraction from _puttra_, which means a deliverer from the hell _put_; and the simple performance of the funeral "shraddh" (a libation by a son) is held sufficient to procure repose for the spirit of his departed father. The Hindoo proverb says, "Whoso begetteth a son, planteth a tree, and diggeth a well; that man shall rest in Heaven."
 
-**[/5/](#m05)** The "tilla" seed; which, together with the cocoa-nut, supplies Hindostan with oil.
+[^5]: The "tilla" seed; which, together with the cocoa-nut, supplies Hindostan with oil.
 
-**[/6/](#m06)** Learned men.
+[^6]: Learned men.
 
-**[/7/](#m07)** Vrihaspati, the Instructor of the gods. Like the rest of the Hindoo divinities, he casts no shadow in moving, his eternally watchful eyes never even wink with fatigue, and the crown of flowers on his head blooms in perpetual beauty and freshness.
+[^7]: Vrihaspati, the Instructor of the gods. Like the rest of the Hindoo divinities, he casts no shadow in moving, his eternally watchful eyes never even wink with fatigue, and the crown of flowers on his head blooms in perpetual beauty and freshness.
 
 ## WINNING OF FRIENDS
 Book One:  
@@ -176,7 +176,7 @@ THE WINNING OF FRIENDS
 
 Vishnu-Sarman replied:—
 
-"On the banks of the Godavery there stood a large silk-cotton-tree,**[/1/](#n01)** and thither at night, from all quarters and regions, the birds came to roost. Now once, when the night was just spent, and his Radiance the Moon,**[/2/](#n02)** Lover of the white lotus, was about to retire behind the western hills, a Crow**[/3/](#n03)** who perched there, 'Light o' Leap' by name, upon awakening, saw to his great wonder a fowler approaching—a second God of Death.**[/4/](#n04)** The sight set him reflecting, as he flew off uneasily to follow up the man's movements, and he began to think what mischief this ill-omened apparition foretold.
+"On the banks of the Godavery there stood a large silk-cotton-tree,[^1] and thither at night, from all quarters and regions, the birds came to roost. Now once, when the night was just spent, and his Radiance the Moon,[^2] Lover of the white lotus, was about to retire behind the western hills, a Crow[^3] who perched there, 'Light o' Leap' by name, upon awakening, saw to his great wonder a fowler approaching—a second God of Death.[^4] The sight set him reflecting, as he flew off uneasily to follow up the man's movements, and he began to think what mischief this ill-omened apparition foretold.
 
 > "For a thousand thoughts of sorrow, and a hundred things of dread,  
 > By the wise unheeded, trouble day by day the foolish head."
@@ -188,7 +188,7 @@ And yet in this life it must be that
 
 Presently the fowler fixed a net, scattered grains of rice about, and withdrew to hide. At this moment "Speckle-neck," King of the Pigeons, chanced to be passing through the sky with his Court, and caught sight of the rice-grains. Thereupon the King of the Pigeons asked of his rice-loving followers, 'How can there possibly be rice-grains lying here in an unfrequented forest? We will see into it, of course, but We like not the look of it—love of rice may ruin us, as the Traveller was ruined.
 
-> "All out of longing for a golden bangle,**[/5/](#n05)**  
+> "All out of longing for a golden bangle,[^5]  
 > The Tiger, in the mud, the man did mangle."
 
 "How did that happen?" asked the Pigeons.  
@@ -197,7 +197,7 @@ Presently the fowler fixed a net, scattered grains of rice about, and withdrew t
 
 The Story of the Tiger and the Traveller
 
-"Thus," replied Speckle-neck: "I was pecking about one day in the Deccan forest, and saw an old tiger**[/6/](#n06)** sitting newly bathed on the bank of a pool, like a Brahman, and with holy kuskus-grass**[/7/](#n07)** in his paws.
+"Thus," replied Speckle-neck: "I was pecking about one day in the Deccan forest, and saw an old tiger[^6] sitting newly bathed on the bank of a pool, like a Brahman, and with holy kuskus-grass[^7] in his paws.
 
 'Ho! ho! ye travellers,' he kept calling out, 'take this golden bangle!'
 
@@ -214,9 +214,9 @@ The Tiger stretched forth his paw and exhibited it.
 
 'Hem!' said the Traveller, 'can I trust such a fierce brute as thou art?'
 
-'Listen,' replied the Tiger, 'once, in the days of my cub-hood, I know I was very wicked. I killed cows, Brahmans, and men**[/8/](#n08)** without number—and I lost my wife and children for it—and haven't kith or kin left. But lately I met a virtuous man who counselled me to practise the duty of almsgiving—and, as thou seest, I am strict at ablutions and alms. Besides, I am old, and my nails and fangs are gone—so who would mistrust me? and I have so far conquered selfishness, that I keep the golden bangle for whoso comes. Thou seemest poor! I will give it thee. Is it not said,
+'Listen,' replied the Tiger, 'once, in the days of my cub-hood, I know I was very wicked. I killed cows, Brahmans, and men[^8] without number—and I lost my wife and children for it—and haven't kith or kin left. But lately I met a virtuous man who counselled me to practise the duty of almsgiving—and, as thou seest, I am strict at ablutions and alms. Besides, I am old, and my nails and fangs are gone—so who would mistrust me? and I have so far conquered selfishness, that I keep the golden bangle for whoso comes. Thou seemest poor! I will give it thee. Is it not said,
 
-> 'Give to poor men, son of Kûnti**[/9/](#n09)**—on the wealthy waste not wealth;  
+> 'Give to poor men, son of Kûnti[^9]—on the wealthy waste not wealth;  
 > Good are simples for the sick man, good for nought to him in health.'
 
 'Wade over the pool, therefore, and take the bangle.'
@@ -233,13 +233,13 @@ So saying he approached the wretched man and seized him—who meanwhile bitterly
 And on that verse, too—
 
 > 'Trust not water, trust not weapons; trust not clawed nor horned things;  
-> Neither give thy soul to women, nor thy life to Sons of Kings.'**[/10/](#n10)**
+> Neither give thy soul to women, nor thy life to Sons of Kings.'[^10]
 
 And those others—
 
 > 'Look! the Moon, the silver roamer, from whose splendor darkness flies  
 > With his starry cohorts marching, like a crowned king through the skies.  
-> All the grandeur, all the glory, vanish in the Dragon's jaw;**[/11/](#n11)**  
+> All the grandeur, all the glory, vanish in the Dragon's jaw;[^11]  
 > What is written on the forehead, that will be, and nothing more.'
 
 Here his meditations were cut short by the Tiger devouring him. "And that," said Speckle-neck, "is why we counselled caution."
@@ -258,7 +258,7 @@ Hearing that, the Pigeons settled at once; for we know that
 
 And again,
 
-> 'Can a golden Deer have being?**[/12/](#n12)** yet for such the Hero pined:—  
+> 'Can a golden Deer have being?[^12] yet for such the Hero pined:—  
 > When the cloud of danger hovers, then its shadow dims the mind.'
 
 Presently they were caught in the net. Thereat, indeed, they all began to abuse the pigeon by whose suggestion they had been ensnared. It is the old tale!
@@ -282,7 +282,7 @@ When King Speckle-neck heard their reproaches, he said, "No, no! it is no fault 
 > Ever eloquent in council, never in the fight affrayed—  
 > Proudly emulous of honor, steadfastly on wisdom set;  
 > Perfect virtues in the nature of a noble soul are met.  
-> Whoso hath them, gem and glory of the three wide worlds**[/13/](#n13)** is he;  
+> Whoso hath them, gem and glory of the three wide worlds[^13] is he;  
 > Happy mother she that bore him, she who nursed him on her knee."
 
 "Let us do this now directly," continued the King: "at one moment and with one will, rising under the net, let us fly off with it: for indeed
@@ -299,7 +299,7 @@ Having pondered this advice, the Pigeons adopted it; and flew away with the net.
 
 "What is the next thing to be done, O King?"
 
-"A friend of mine," said Speckle-neck, "lives near in a beautiful forest on the Gundaki. Golden-skin is his name—the King of the Mice**[/14/](#n14)**—he is the one to cut these bonds."
+"A friend of mine," said Speckle-neck, "lives near in a beautiful forest on the Gundaki. Golden-skin is his name—the King of the Mice[^14]—he is the one to cut these bonds."
 
 Resolving to have recourse to him, they directed their flight to the hole of Golden-skin—a prudent monarch, who dreaded danger so much that he had made himself a palace with a hundred outlets, and lived always in it. Sitting there he heard the descent of the pigeons, and remained silent and alarmed.
 
@@ -310,7 +310,7 @@ Resolving to have recourse to him, they directed their flight to the hole of Gol
 "That," said King Speckle-neck, "is the effect of some wrong-doing in a former life—
 
 > 'Sickness, anguish, bonds, and woe  
-> Spring from wrongs wrought long ago,'**[/15/](#n15)**
+> Spring from wrongs wrought long ago,'[^15]
 
 Golden-skin, without replying, ran at once to the net, and began to gnaw the strings that held Speckle-neck.
 
@@ -359,7 +359,7 @@ Now Light o' Leap, the Crow, had been a spectator of the whole transaction, and 
 
 The Story of the Jackal, Deer, and Crow
 
-"Far away in Behar there is a forest called Champak-Grove,**[/16/](#n16)** and in it had long lived in much affection a Deer and a Crow. The Deer, roaming unrestrained, happy and fat of carcase, was one day descried by a Jackal. 'Ho! ho!' thought the Jackal on observing him, 'if I could but get this soft meat for a meal! It might be—if I can only win his confidence,' Thus reflecting he approached, and saluted him.
+"Far away in Behar there is a forest called Champak-Grove,[^16] and in it had long lived in much affection a Deer and a Crow. The Deer, roaming unrestrained, happy and fat of carcase, was one day descried by a Jackal. 'Ho! ho!' thought the Jackal on observing him, 'if I could but get this soft meat for a meal! It might be—if I can only win his confidence,' Thus reflecting he approached, and saluted him.
 
 'Health be to thee, friend Deer!'
 
@@ -386,7 +386,7 @@ The Story of the Jackal, Deer, and Crow
 
 The Story of the Vulture, the Cat, and the Birds
 
-"On the banks of the Ganges there is a cliff called Vulture-Crag, and thereupon grew a great fig-tree.**[/17/](#n17)** It was hollow, and within its shelter lived an old Vulture, named Grey-pate, whose hard fortune it was to have lost both eyes and talons. The birds that roosted in the tree made subscriptions from their own store, out of sheer pity for the poor fellow, and by that means he managed to live. One day, when the old birds were gone, Long-ear, the Cat, came there to get a meal of the nestlings; and they, alarmed at perceiving him, set up a chirruping that roused Grey-pate.
+"On the banks of the Ganges there is a cliff called Vulture-Crag, and thereupon grew a great fig-tree.[^17] It was hollow, and within its shelter lived an old Vulture, named Grey-pate, whose hard fortune it was to have lost both eyes and talons. The birds that roosted in the tree made subscriptions from their own store, out of sheer pity for the poor fellow, and by that means he managed to live. One day, when the old birds were gone, Long-ear, the Cat, came there to get a meal of the nestlings; and they, alarmed at perceiving him, set up a chirruping that roused Grey-pate.
 
 'Who comes there?' croaked Grey-pate.
 
@@ -404,7 +404,7 @@ The Story of the Vulture, the Cat, and the Birds
 
 'Wherefore, then, comest thou?' said the Vulture.
 
-'I live,' began Long-ear, 'on the Ganges, bathing, and eating no flesh, practising the moon-penance,**[/18/](#n18)** like a Bramacharya.**[/19/](#n19)** The birds that resort thither constantly praise your worship to me as one wholly given to the study of morality, and worthy of all trust; and so I came here to learn law from thee, Sir, who art so deep gone in learning and in years. Dost thou, then, so read the law of strangers as to be ready to slay a guest? What say the books about the householder?—
+'I live,' began Long-ear, 'on the Ganges, bathing, and eating no flesh, practising the moon-penance,[^18] like a Bramacharya.[^19] The birds that resort thither constantly praise your worship to me as one wholly given to the study of morality, and worthy of all trust; and so I came here to learn law from thee, Sir, who art so deep gone in learning and in years. Dost thou, then, so read the law of strangers as to be ready to slay a guest? What say the books about the householder?—
 
 > 'Bar thy door not to the stranger, be he friend or be he foe,  
 > For the tree will shade the woodman while his axe doth lay it low.'
@@ -432,25 +432,25 @@ And that other, too,
 For verily,
 
 > 'In the house the husband ruleth, men the Brahmans "master" call;  
-> Agni is the Twice-born Master**[/20/](#n20)**—but the guest is lord of all.'
+> Agni is the Twice-born Master[^20]—but the guest is lord of all.'
 
 "To these weighty words Grey-pate answered,
 
 'Yes! but cats like meat, and there are young birds here, and therefore I said, go.'
 
-'Sir,' said the Cat (and as he spoke he touched the ground, and then his two ears, and called on Krishna**[/21/](#n21)** to witness to his words), 'I that have overcome passion, and practised the moon-penance, know the Scriptures; and howsoever they contend, in this primal duty of abstaining from injury they are unanimous. Which of them sayeth not—
+'Sir,' said the Cat (and as he spoke he touched the ground, and then his two ears, and called on Krishna[^21] to witness to his words), 'I that have overcome passion, and practised the moon-penance, know the Scriptures; and howsoever they contend, in this primal duty of abstaining from injury they are unanimous. Which of them sayeth not—
 
 > 'He who does and thinks no wrong—  
 > He who suffers, being strong—  
 > He whose harmlessness men know—  
-> Unto Swerga such doth go.'**[/22/](#n22)**
+> Unto Swerga such doth go.'[^22]
 
 "And so, winning the old Vulture's confidence, Long-ear, the Cat, entered the hollow tree and lived there. And day after day he stole away some of the nestlings, and brought them down to the hollow to devour. Meantime the parent birds, whose little ones were being eaten, made an inquiry after them in all quarters; and the Cat, discovering this fact, slipped out from the hollow, and made his escape. Afterwards, when the birds came to look closely, they found the bones of their young ones in the hollow of the tree where Grey-pate lived; and the birds at once concluded that their nestlings had been killed and eaten by the old Vulture, whom they accordingly executed. That is my story, and why I warned you against unknown acquaintances."
 
 "Sir," said the Jackal, with some warmth, "on the first day of your encountering the Deer you also were of unknown family and character: how is it, then, that your friendship with him grows daily greater? True, I am only Small-wit, the Jackal, but what says the saw?—
 
 > "In the land where no wise men are, men of little wit are lords;  
-> And the castor-oil's a tree, where no tree else its shade affords."**[/23/](#n23)**
+> And the castor-oil's a tree, where no tree else its shade affords."[^23]
 
 The Deer is my friend; condescend, sir, to be my friend also."
 
@@ -534,7 +534,7 @@ And then, too,
 > 'Good men's friendships may be broken, yet abide they friends at heart;  
 > Snap the stem of Luxmee's lotus, and its fibres will not part.'
 
-"Good sir," said the King of the Mice, "your conversation is as pleasing as pearl necklets or oil of sandal-wood**[/24/](#n24)** in hot weather. Be it as you will"—and thereon King Golden-skin made a treaty with the Crow, and after gratifying him with the best of his store reëntered his hole. The Crow returned to his accustomed perch:—and thenceforward the time passed in mutual presents of food, in polite inquiries, and the most unrestrained talk. One day Light o' Leap thus accosted Golden-skin:—
+"Good sir," said the King of the Mice, "your conversation is as pleasing as pearl necklets or oil of sandal-wood[^24] in hot weather. Be it as you will"—and thereon King Golden-skin made a treaty with the Crow, and after gratifying him with the best of his store reëntered his hole. The Crow returned to his accustomed perch:—and thenceforward the time passed in mutual presents of food, in polite inquiries, and the most unrestrained talk. One day Light o' Leap thus accosted Golden-skin:—
 
 "This is a poor place, your Majesty, for a Crow to get a living in. I should like to leave it and go elsewhere."
 
@@ -560,7 +560,7 @@ And then, too,
 
 Accordingly, the two set forth together, enjoying charming converse upon the road. Slow-toes perceived Light o' Leap a long way off, and hastened to do him the guest-rites, extending them to the Mouse upon Light o' Leap's introduction.
 
-"Good Slow-toes," said he, "this is Golden-skin, King of the Mice—pay all honor to him—he is burdened with virtues—a very jewel-mine of kindnesses. I don't know if the Prince of all the Serpents,**[/25/](#n25)** with his two thousand tongues, could rightly repeat them." So speaking, he told the story of Speckle-neck. Thereupon Slow-toes made a profound obeisance to Golden-skin, and said, "How came your Majesty, may I ask, to retire to an unfrequented forest?"
+"Good Slow-toes," said he, "this is Golden-skin, King of the Mice—pay all honor to him—he is burdened with virtues—a very jewel-mine of kindnesses. I don't know if the Prince of all the Serpents,[^25] with his two thousand tongues, could rightly repeat them." So speaking, he told the story of Speckle-neck. Thereupon Slow-toes made a profound obeisance to Golden-skin, and said, "How came your Majesty, may I ask, to retire to an unfrequented forest?"
 
 "I will tell you," said the King. "You must know that in the town of Champaka there is a college for the devotees. Unto this resorted daily a beggar-priest, named Chudakarna, whose custom was to place his begging-dish upon the shelf, with such alms in it as he had not eaten, and go to sleep by it; and I, so soon as he slept, used to jump up, and devour the meal. One day a great friend of his, named Vinakarna, also a mendicant, came to visit him; and observed that while conversing, he kept striking the ground with a split cane, to frighten me. 'Why don't you listen?' said Vinakarna. 'I am listening!' replied the other; 'but this plaguy mouse is always eating the meal out of my begging-dish,' Vinakarna looked at the shelf and remarked, 'However can a mouse jump as high as this? There must be a reason, though there seems none. I guess the cause—the fellow is well off and fat,' With these words Vinakarna snatched up a shovel, discovered my retreat, and took away all my hoard of provisions. After that I lost strength daily, had scarcely energy enough to get my dinner, and, in fact, crept about so wretchedly, that when Chudakarna saw me he fell to quoting—
 
@@ -588,7 +588,7 @@ Accordingly, the two set forth together, enjoying charming converse upon the roa
 > As moonlight dies in gloom,  
 > As Slavery's menial duty  
 > Is Honor's certain tomb;  
-> As Hari's name and Hara's**[/26/](#n26)**  
+> As Hari's name and Hara's[^26]  
 > Spoken, charm sin away,  
 > So Poverty can surely  
 > A hundred virtues slay.'
@@ -596,7 +596,7 @@ Accordingly, the two set forth together, enjoying charming converse upon the roa
 'And as to sustaining myself on another man's bread, that,' I mused, 'would be but a second door of death. Say not the books the same?—
 
 > 'Half-known knowledge, present pleasure purchased with a future woe,  
-> And to taste the salt of service**[/27/](#n27)**—greater griefs no man can know.'
+> And to taste the salt of service[^27]—greater griefs no man can know.'
 
 'And herein, also—
 
@@ -647,7 +647,7 @@ And he is very hard upon money-grubbing: as thus—
 And thus—
 
 > 'He whose coins are kept for counting, not to barter nor to give,  
-> Breathe he like a blacksmith's bellows,**[/28/](#n28)** yet in truth he doth not live.'
+> Breathe he like a blacksmith's bellows,[^28] yet in truth he doth not live.'
 
 It hath been well written, indeed,
 
@@ -669,7 +669,7 @@ It hath been well written, indeed,
 
 The Story of the Dead Game and the Jackal
 
-"In a town called 'Well-to-Dwell' there lived a mighty hunter, whose name was 'Grim-face.' Feeling a desire one day for a little venison, he took his bow, and went into the woods; where he soon killed a deer. As he was carrying the deer home, he came upon a wild boar of prodigious proportions. Laying the deer upon the earth, he fixed and discharged an arrow and struck the boar, which instantly rushed upon him with a roar louder than the last thunder,**[/29/](#n29)** and ripped the hunter up. He fell like a tree cut by the axe, and lay dead along with the boar, and a snake also, which had been crushed by the feet of the combatants. Not long afterwards, there came that way, in his prowl for food, a Jackal, named 'Howl o' Nights,' and cast eyes on the hunter, the deer, the boar, and the snake lying dead together. 'Aha!' said he,' what luck! Here's a grand dinner got ready for me! Good fortune can come, I see, as well as ill fortune. Let me think:—the man will be fine pickings for a month; the deer with the boar will last two more; the snake will do for to-morrow; and, as I am very particularly hungry, I will treat myself now to this bit of meat on the bow-horn,' So saying, he began to gnaw it asunder, and the bow-string slipping, the bow sprang back, and resolved Howl o' Nights into the five elements**[/30/](#n30)** by death. That is my story," continued Slow-toes, "and its application is for the wise:—
+"In a town called 'Well-to-Dwell' there lived a mighty hunter, whose name was 'Grim-face.' Feeling a desire one day for a little venison, he took his bow, and went into the woods; where he soon killed a deer. As he was carrying the deer home, he came upon a wild boar of prodigious proportions. Laying the deer upon the earth, he fixed and discharged an arrow and struck the boar, which instantly rushed upon him with a roar louder than the last thunder,[^29] and ripped the hunter up. He fell like a tree cut by the axe, and lay dead along with the boar, and a snake also, which had been crushed by the feet of the combatants. Not long afterwards, there came that way, in his prowl for food, a Jackal, named 'Howl o' Nights,' and cast eyes on the hunter, the deer, the boar, and the snake lying dead together. 'Aha!' said he,' what luck! Here's a grand dinner got ready for me! Good fortune can come, I see, as well as ill fortune. Let me think:—the man will be fine pickings for a month; the deer with the boar will last two more; the snake will do for to-morrow; and, as I am very particularly hungry, I will treat myself now to this bit of meat on the bow-horn,' So saying, he began to gnaw it asunder, and the bow-string slipping, the bow sprang back, and resolved Howl o' Nights into the five elements[^30] by death. That is my story," continued Slow-toes, "and its application is for the wise:—
 
 > 'Sentences of studied wisdom, nought avail they unapplied;  
 > Though the blind man hold a lantern, yet his footsteps stray aside.'
@@ -681,7 +681,7 @@ The secret of success, indeed, is a free, contented, and yet enterprising mind. 
 > His, who for the vague to-morrow barters not the sure to-day—  
 > Master of himself, and sternly steadfast to the rightful way:  
 > Very mindful of past service, valiant, faithful, true of heart—  
-> Unto such comes Lakshmi**[/31/](#n31)** smiling—comes, and will not lightly part.'
+> Unto such comes Lakshmi[^31] smiling—comes, and will not lightly part.'
 
 "What indeed," continued Slow-toes, "is wealth, that we should prize it, or grieve to lose it?—
 
@@ -691,7 +691,7 @@ The secret of success, indeed, is a free, contented, and yet enterprising mind. 
 It is unstable by nature. We are told—
 
 > 'Worldly friendships, fair but fleeting, shadows of the clouds at noon  
-> Women, youth, new corn,**[/32/](#n32)** and riches—these be pleasures passing soon.'
+> Women, youth, new corn,[^32] and riches—these be pleasures passing soon.'
 
 And it is idle to be anxious; the Master of Life knows how to sustain it. Is it not written?—
 
@@ -707,7 +707,7 @@ And it is idle to be anxious; the Master of Life knows how to sustain it. Is it 
 
 Hearing the wisdom of these monitions, Light o' Leap broke out, 'Good Slow-toes! thou art a wise protector of those that come to thee; thy learning comforts my enlightened friend, as elephants drag elephants from the mire.' And thus, on the best of terms, wandering where they pleased for food, the three lived there together.
 
-One day it chanced that a Deer named Dapple-back,**[/33/](#n33)** who had seen some cause of alarm in the forest, came suddenly upon the three in his flight. Thinking the danger imminent, Slow-toes dropped into the water, King Golden-skin slipped into his hole, and Light o' Leap flew up into the top of a high tree. Thence he looked all round to a great distance, but could discover nothing. So they all came back again, and sat down together. Slow-toes welcomed the Deer.
+One day it chanced that a Deer named Dapple-back,[^33] who had seen some cause of alarm in the forest, came suddenly upon the three in his flight. Thinking the danger imminent, Slow-toes dropped into the water, King Golden-skin slipped into his hole, and Light o' Leap flew up into the top of a high tree. Thence he looked all round to a great distance, but could discover nothing. So they all came back again, and sat down together. Slow-toes welcomed the Deer.
 
 'Good Deer,' said he, 'may grass and water never fail thee at thy need. Gratify us by residing here, and consider this forest thine own.'
 
@@ -754,7 +754,7 @@ Now Lávanyavati, from the moment she saw the Prince, was hit with the same weap
 
 'I am my husband's,' she said,'and that is my honor; for—
 
-> 'Beautiful the Koíl**[/34/](#n34)** seemeth for the sweetness of his song,  
+> 'Beautiful the Koíl[^34] seemeth for the sweetness of his song,  
 > Beautiful the world esteemeth pious souls for patience strong;  
 > Homely features lack not favor when true wisdom they reveal,  
 > And a wife is fair and honored while her heart is firm and leal.'
@@ -767,7 +767,7 @@ What the lord of my life enjoins, that I do.'
 
 Upon the messenger reporting her reply to the Prince, he was in despair.
 
-'The God of the five shafts**[/35/](#n35)** has hit me,' he exclaimed, 'and only her presence will cure my wound.'
+'The God of the five shafts[^35] has hit me,' he exclaimed, 'and only her presence will cure my wound.'
 
 'We must make her husband bring her, then,' said the messenger.
 
@@ -784,7 +784,7 @@ Upon the messenger reporting her reply to the Prince, he was in despair.
 
 The Story of the Old Jackal and the Elephant
 
-"In the forest of Brahma**[/36/](#n36)** lived an Elephant, whose name was 'White-front.' The Jackals knew him, and said among themselves, 'If this great brute would but die, there would be four months' food for us, and plenty, out of his carcase.' With that an old Jackal stood up, and pledged himself to compass the death of the Elephant by his own wit. Accordingly, he sought for 'White-front,' and, going up to him, he made the reverential prostration of the eight members,**[/37/](#n37)** gravely saluting him.
+"In the forest of Brahma[^36] lived an Elephant, whose name was 'White-front.' The Jackals knew him, and said among themselves, 'If this great brute would but die, there would be four months' food for us, and plenty, out of his carcase.' With that an old Jackal stood up, and pledged himself to compass the death of the Elephant by his own wit. Accordingly, he sought for 'White-front,' and, going up to him, he made the reverential prostration of the eight members,[^37] gravely saluting him.
 
 'Divine creature,' said he, 'vouchsafe me the regard of one look.'
 
@@ -796,7 +796,7 @@ The Story of the Old Jackal and the Elephant
 > Who is true to social ties?  
 > He is formed for Emperies.'
 
-Let your Majesty, therefore, repair thither at once, that the moment of fortunate conjunction**[/38/](#n38)** may not escape us.' So saying he led the way, followed at a great pace by White-front, who was eager to commence his reign.
+Let your Majesty, therefore, repair thither at once, that the moment of fortunate conjunction[^38] may not escape us.' So saying he led the way, followed at a great pace by White-front, who was eager to commence his reign.
 
 "Presently the Jackal brought him upon a deep slough, into which he plunged heavily before he could stop himself.
 
@@ -808,7 +808,7 @@ Let your Majesty, therefore, repair thither at once, that the moment of fortunat
 
 Shortly afterwards, by the Slave's advice, the Prince sent for the merchant's son (whose name was Charudatta), and appointed him to be near his person; and one day, with the same design, when he was just come from the bath, and had on his jewels, he summoned Charudatta, and said—
 
-"I have a vow to keep to Gauri**[/39/](#n39)**—bring hither to me every evening for a month some lady of good family, that I may do honor to her, according to my vow; and begin to-day."
+"I have a vow to keep to Gauri[^39]—bring hither to me every evening for a month some lady of good family, that I may do honor to her, according to my vow; and begin to-day."
 
 Charudatta in due course brought a lady of quality, and, having introduced her, retired to watch the interview. The Prince, without even approaching his fair visitor, made her the most respectful obeisances, and dismissed her with gifts of ornaments, sandal-wood, and perfumes, under the protection of a guard. This made Charudatta confident, and longing to get some of these princely presents he brought his own wife next evening. When the Prince recognized the charming Lávanyavati—the joy of his soul—he sprang to meet her, and kissed and caressed her without the least restraint. At sight of this the miserable Charudatta stood transfixed with despair—the very picture of wretchedness'——
 
@@ -842,96 +842,96 @@ Then spake the King Sudarsana's sons, "We have heard every word, and are delight
 > Lakshmi keep your lands in ease!  
 > Set, your sovereign thrones beside,  
 > Policy, a winsome bride!  
-> And He, whose forehead-jewel is the moon**[/40/](#n40)**  
+> And He, whose forehead-jewel is the moon[^40]  
 > Give peace to us and all—serene and soon."
 
   
 **~~~~~~~~~~~**  
 N O T E S
 
-**[/1/](#m01)** Sans. "Shalmali."
+[^1]: Sans. "Shalmali."
 
-**[/2/](#m02)** The moon (Chandra) is a masculine deity in Hindu mythology. The white lotus opens its blossoms at night only, hence the descriptive epithet.
+[^2]: The moon (Chandra) is a masculine deity in Hindu mythology. The white lotus opens its blossoms at night only, hence the descriptive epithet.
 
-**[/3/](#m03)** The Indian crow is everywhere seen and heard in India. Its plumage is black, with a dull grey hood extending over the head and neck.
+[^3]: The Indian crow is everywhere seen and heard in India. Its plumage is black, with a dull grey hood extending over the head and neck.
 
-**[/4/](#m04)** Yama, called here Kritanta, or the "Endbringer." He is God of Justice as well as of Death, and sits in judgment upon disembodied souls in his infernal city of Yama-poora. Thence he dismisses them upwards to Swerga, downwards to Naraka, or back again to earth in the form of some animal.
+[^4]: Yama, called here Kritanta, or the "Endbringer." He is God of Justice as well as of Death, and sits in judgment upon disembodied souls in his infernal city of Yama-poora. Thence he dismisses them upwards to Swerga, downwards to Naraka, or back again to earth in the form of some animal.
 
-**[/5/](#m05)** The bracelet, in one solid piece, of gold, silver, brass, glass, or earthenware, worn by all Indian women.
+[^5]: The bracelet, in one solid piece, of gold, silver, brass, glass, or earthenware, worn by all Indian women.
 
-**[/6/](#m06)** It is true to nature that an "old tiger" should be the villain of this episode, and devour the traveller; for it is only when the tiger has lost his teeth and claws by age, and with them his power of securing antelopes, cattle, &c., that he becomes a professed man-stealer. The popular notion was that the hide of a "man-killer" became worn and mangy as a punishment for attacking man, his lord; but it is not until his hide thus assumes the aspect of old age that he has recourse to such easy but illicit food. Livingston, in his African travels, first draws attention to this.
+[^6]: It is true to nature that an "old tiger" should be the villain of this episode, and devour the traveller; for it is only when the tiger has lost his teeth and claws by age, and with them his power of securing antelopes, cattle, &c., that he becomes a professed man-stealer. The popular notion was that the hide of a "man-killer" became worn and mangy as a punishment for attacking man, his lord; but it is not until his hide thus assumes the aspect of old age that he has recourse to such easy but illicit food. Livingston, in his African travels, first draws attention to this.
 
-**[/7/](#m07)** Used in many religious observances by the Hindoos. (_Poa cynosuroides_.)
+[^7]: Used in many religious observances by the Hindoos. (_Poa cynosuroides_.)
 
-**[/8/](#m08)** The tiger justifies his self-condemnation by confessing to the greatest moral guilt possible, the slaughter of cows—a sin all but inexpiable.
+[^8]: The tiger justifies his self-condemnation by confessing to the greatest moral guilt possible, the slaughter of cows—a sin all but inexpiable.
 
-**[/9/](#m09)** Kûnti was wife of Pându, and mother of the Pandava princes of the _Mahabharata_.
+[^9]: Kûnti was wife of Pându, and mother of the Pandava princes of the _Mahabharata_.
 
-**[/10/](#m10)** Here, and elsewhere, the intelligent reader will remark a curious similarity between these ancient Hindoo proverbs and those of Solomon.
+[^10]: Here, and elsewhere, the intelligent reader will remark a curious similarity between these ancient Hindoo proverbs and those of Solomon.
 
-**[/11/](#m11)** Rahoo, an evil spirit, with the tail of a dragon, was held to be the cause of eclipses, by swallowing occasionally the moon and sun. The legend had this origin. At the time when the gods were drinking the nectar, churned from the ocean by the direction of Vishnu, Rahoo insinuated himself among them, and began to drink. The sun and moon, as guardians for the gods, observed the intrusion and revealed it. Vishnu at once cut off the head of the venturous devil, but as the "amrit" drink had rendered him immortal the head and tail retained their separate life, and were placed in the stellar sky. Rahoo, therefore, still mindfull of the injury done him by the sun's interference, loses no opportunity of enclosing his ancient enemy in his jaws.
+[^11]: Rahoo, an evil spirit, with the tail of a dragon, was held to be the cause of eclipses, by swallowing occasionally the moon and sun. The legend had this origin. At the time when the gods were drinking the nectar, churned from the ocean by the direction of Vishnu, Rahoo insinuated himself among them, and began to drink. The sun and moon, as guardians for the gods, observed the intrusion and revealed it. Vishnu at once cut off the head of the venturous devil, but as the "amrit" drink had rendered him immortal the head and tail retained their separate life, and were placed in the stellar sky. Rahoo, therefore, still mindfull of the injury done him by the sun's interference, loses no opportunity of enclosing his ancient enemy in his jaws.
 
-**[/12/](#m12)** An allusion to an episode in the great poem of the Ramayana. Manicha takes the form of a golden deer, in pursuing which Rama is led away insensibly from his abode, and Râvana comes as a beggar and carries off Sita in his absence.
+[^12]: An allusion to an episode in the great poem of the Ramayana. Manicha takes the form of a golden deer, in pursuing which Rama is led away insensibly from his abode, and Râvana comes as a beggar and carries off Sita in his absence.
 
-**[/13/](#m13)** Heaven, earth, and the lower regions.
+[^13]: Heaven, earth, and the lower regions.
 
-**[/14/](#m14)** The mouse, as vehicle of Gunesh, is an important animal in Hindoo legend.
+[^14]: The mouse, as vehicle of Gunesh, is an important animal in Hindoo legend.
 
-**[/15/](#m15)** By this theory of a series of existences continued until the balance is just, and the soul has purified itself, the Hindoo accounts for the origin of evil. Every fault must have its expiation, and every higher faculty its development; pain and misery being signs of and ordeals in the trial, which is to end in the happy re-absorption of the emancipated spirit.
+[^15]: By this theory of a series of existences continued until the balance is just, and the soul has purified itself, the Hindoo accounts for the origin of evil. Every fault must have its expiation, and every higher faculty its development; pain and misery being signs of and ordeals in the trial, which is to end in the happy re-absorption of the emancipated spirit.
 
-**[/16/](#m16)** The champak is a bushy deciduous tree, bearing a profusion of white star-like blossoms with golden centres, and of the most pleasing perfume.
+[^16]: The champak is a bushy deciduous tree, bearing a profusion of white star-like blossoms with golden centres, and of the most pleasing perfume.
 
-**[/17/](#m17)** (Sans. "Parkti").—A large handsome tree, with leaves curiously waved.
+[^17]: (Sans. "Parkti").—A large handsome tree, with leaves curiously waved.
 
-**[/18/](#m18)** A religious observance, inculcated by Manu. The devotee commences the penance at the full moon with an allowance of fifteen mouthfuls for his food, diminishing this by one mouthful each day, till on the fifteenth it is reduced to one. As the new moon increases, his allowance also ascends to its original proportion.
+[^18]: A religious observance, inculcated by Manu. The devotee commences the penance at the full moon with an allowance of fifteen mouthfuls for his food, diminishing this by one mouthful each day, till on the fifteenth it is reduced to one. As the new moon increases, his allowance also ascends to its original proportion.
 
-**[/19/](#m19)** A votary of the Vedas, a name technically applied to young Brahmans after their investiture with the sacred cord, and generally to pundits and Vedic professors.
+[^19]: A votary of the Vedas, a name technically applied to young Brahmans after their investiture with the sacred cord, and generally to pundits and Vedic professors.
 
-**[/20/](#m20)** Agni, the deity of Fire, under his manifestations of light, the sun, &c., occupies a large portion of the Vedic liturgy. The twice-bown is the Brahman, whose second birth is dated from his investiture with the "sacred thread."
+[^20]: Agni, the deity of Fire, under his manifestations of light, the sun, &c., occupies a large portion of the Vedic liturgy. The twice-bown is the Brahman, whose second birth is dated from his investiture with the "sacred thread."
 
-**[/21/](#m21)** The god Vishnoo under his most celebrated and popular form. He is represented as of a handsome and graceful person, with the dark blue complexion which the name implies.
+[^21]: The god Vishnoo under his most celebrated and popular form. He is represented as of a handsome and graceful person, with the dark blue complexion which the name implies.
 
-**[/22/](#m22)** Heaven, the paradise of Indra, and the happy abode of the souls of the just and of the gods.
+[^22]: Heaven, the paradise of Indra, and the happy abode of the souls of the just and of the gods.
 
-**[/23/](#m23)** The castor plant, although not altogether a shrub, seldom assumes the proportions and dignity of a tree. It either grows thick as a bush, or shoots up to twelve or sixteen feet, like a sapling.
+[^23]: The castor plant, although not altogether a shrub, seldom assumes the proportions and dignity of a tree. It either grows thick as a bush, or shoots up to twelve or sixteen feet, like a sapling.
 
-**[/24/](#m24)** An extract from the well-known fragrant tree of India.
+[^24]: An extract from the well-known fragrant tree of India.
 
-**[/25/](#m25)** Vásuki, or Ananta, the chief of the human-headed serpents, who people Pátála, or the region under the earth.
+[^25]: Vásuki, or Ananta, the chief of the human-headed serpents, who people Pátála, or the region under the earth.
 
-**[/26/](#m26)** The first is the god Vishnoo, the second Shiva.
+[^26]: The first is the god Vishnoo, the second Shiva.
 
-**[/27/](#m27)** Italian scholars will recall the sorrowful lines of Dante, so nearly resembling these (_Paradiso_, cant. 17):
+[^27]: Italian scholars will recall the sorrowful lines of Dante, so nearly resembling these (_Paradiso_, cant. 17):
 
 > "Tu proverai siccome sa di sale  
 > Lo pane altrui, e com 'e duro calle  
 > Lo scendere e l' salir per l'altrui scale."
 
-**[/28/](#m28)** This implement in India is a sewn goat skin, inflated with one hand and noisily emptied by the other.
+[^28]: This implement in India is a sewn goat skin, inflated with one hand and noisily emptied by the other.
 
-**[/29/](#m29)** Alluding to the "Pralaya," or termination of one of the kalpas of the world's existence.
+[^29]: Alluding to the "Pralaya," or termination of one of the kalpas of the world's existence.
 
-**[/30/](#m30)** The five constituent ingredients of the body. A common periphrasis for death in Sanskrit writings.
+[^30]: The five constituent ingredients of the body. A common periphrasis for death in Sanskrit writings.
 
-**[/31/](#m31)** The wife of Vishnoo, Goddess of beauty and abundance. She sprang, like Aphrodite, from the sea, when the gods churned it with the mountain Mandara to obtain the "Amrit," or nectar.
+[^31]: The wife of Vishnoo, Goddess of beauty and abundance. She sprang, like Aphrodite, from the sea, when the gods churned it with the mountain Mandara to obtain the "Amrit," or nectar.
 
-**[/32/](#m32)** The Hindoos are as fond as the English learn to become, of the green ear of the jowaree stalk parched and eaten hot with butter and pepper.
+[^32]: The Hindoos are as fond as the English learn to become, of the green ear of the jowaree stalk parched and eaten hot with butter and pepper.
 
-**[/33/](#m33)** Antelopes are common in all parts of India. The true deer, such as the sambur, is found in the forests only.
+[^33]: Antelopes are common in all parts of India. The true deer, such as the sambur, is found in the forests only.
 
-**[/34/](#m34)** The black of Indian cuckoo.
+[^34]: The black of Indian cuckoo.
 
-**[/35/](#m35)** "Kama," the Indian Cupid. His bow is made of flowers, the string is a row of bees, and he wounds with five arrows, typifying the five senses. He is known, also, as _Manmatha_, the heart-shaker; _Manasija_, the heart-begotten; and _Ananga_, the bodiless. The second title refers to his reputed origin from the heart of Brahma, though the god is also represented as the son of Lukshmi and Vishnoo. He is called the Bodiless, from a misadventure with Shiva, whom he dared to aim at, but the indignant deity reduced the archer to cinders with one glance of his central eye. He is painted as a handsome boy, riding on a parrot, and surrounded by maidens, who bear his banner with the fish _Makara_.
+[^35]: "Kama," the Indian Cupid. His bow is made of flowers, the string is a row of bees, and he wounds with five arrows, typifying the five senses. He is known, also, as _Manmatha_, the heart-shaker; _Manasija_, the heart-begotten; and _Ananga_, the bodiless. The second title refers to his reputed origin from the heart of Brahma, though the god is also represented as the son of Lukshmi and Vishnoo. He is called the Bodiless, from a misadventure with Shiva, whom he dared to aim at, but the indignant deity reduced the archer to cinders with one glance of his central eye. He is painted as a handsome boy, riding on a parrot, and surrounded by maidens, who bear his banner with the fish _Makara_.
 
-**[/36/](#m36)** A wood where the Vedas are read and expounded. A Hindoo academe.
+[^36]: A wood where the Vedas are read and expounded. A Hindoo academe.
 
-**[/37/](#m37)** The salutations of India are Spanish in their variety and exactness. The "salaam" is universal; but the native greets his neighbour with the more cordial "ram-ram," and receives it with gratification from the Sahib. The better hand must always be employed, and is raised pressed to the palm of the other to perform a "namuskar," the salutation of a Brahman. The prostration alluded to in the text is performed by lowering at once to the ground the hands, breast, forehead, eyes, two knees, and two feet.
+[^37]: The salutations of India are Spanish in their variety and exactness. The "salaam" is universal; but the native greets his neighbour with the more cordial "ram-ram," and receives it with gratification from the Sahib. The better hand must always be employed, and is raised pressed to the palm of the other to perform a "namuskar," the salutation of a Brahman. The prostration alluded to in the text is performed by lowering at once to the ground the hands, breast, forehead, eyes, two knees, and two feet.
 
-**[/38/](#m38)** The astrologer is an important personage in every Hindoo town or village to decide upon lucky or unlucky days. The rules for his decision are freely given by Manu. "The day of new moon," he says, "destroys the spiritual teacher (or _gooroo_), the fourteenth is bad for the learner, and nothing in the jVedas read on the eighth day and the day of full moon will be remembered."
+[^38]: The astrologer is an important personage in every Hindoo town or village to decide upon lucky or unlucky days. The rules for his decision are freely given by Manu. "The day of new moon," he says, "destroys the spiritual teacher (or _gooroo_), the fourteenth is bad for the learner, and nothing in the jVedas read on the eighth day and the day of full moon will be remembered."
 
-**[/39/](#m39)** "The fair goddess," _i.e_., Párvati, wife of Shiva.
+[^39]: "The fair goddess," _i.e_., Párvati, wife of Shiva.
 
-**[/40/](#m40)** Shiva.
+[^40]: Shiva.
 
 ## THE PARTING OF FRIENDS
 
@@ -982,10 +982,10 @@ And is not wealth won by courage and enterprise?—
 
 And wealth that increases not, diminishes—a little gain is so far good—
 
-> 'Seeing how the soorma**[/1/](#n01)** wasteth, seeing how the ant-hill grows,**[/2/](#n02)**  
+> 'Seeing how the soorma[^1] wasteth, seeing how the ant-hill grows,[^2]  
 > Little adding unto little—live, give, learn, as life-time goes.'
 >
-> 'Drops of water falling, falling, falling, brim the chatty**[/3/](#n03)** o'er;  
+> 'Drops of water falling, falling, falling, brim the chatty[^3] o'er;  
 > Wisdom comes in little lessons—little gains make largest store.'
 
 Moved by these reflections Well-to-do loaded a cart with wares of all kinds, yoked two bulls to it, named Lusty-life and Roarer, and started for Kashmir to trade. He had not gone far upon his journey when in passing through a great forest called Bramble-wood, Lusty-life slipped down and broke his foreleg. At sight of this disaster Well-to-do fell a-thinking, and repeated—
@@ -1019,7 +1019,7 @@ One morning, his Majesty, being exceedingly thirsty, had repaired to the bank of
 > Swing of golden tassels,  
 > Wave of silken fan—  
 > But for regal manner  
-> That the "Chattra"**[/4/](#n04)** brings,  
+> That the "Chattra"[^4] brings,  
 > Horse, and foot, and banner—  
 > What would come of kings?'
 
@@ -1036,7 +1036,7 @@ One morning, his Majesty, being exceedingly thirsty, had repaired to the bank of
 
 The Story of the Monkey and the Wedge
 
-"In South Behar, close by the retreat of Dhurmma,**[/5/](#n05)** there was an open plot of ground, upon which a temple was in course of erection, under the management of a man of the Káyeth caste,**[/6/](#n06)** named Subhadatta. A carpenter upon the works had partly sawed through a long beam of wood, and wedged it open, and was gone away, leaving the wedge fixed. Shortly afterwards a large herd of monkeys came frolicking that way, and one of their number, directed doubtless by the Angel of death, got astride the beam, and grasped the wedge, with his tail and lower parts dangling down between the pieces of the wood. Not content with this, in the mischief natural to monkeys, he began to tug at the wedge; till at last it yielded to a great effort and came out; when the wood closed upon him, and jammed him all fast. So perished the monkey, miserably crushed; and I say again—
+"In South Behar, close by the retreat of Dhurmma,[^5] there was an open plot of ground, upon which a temple was in course of erection, under the management of a man of the Káyeth caste,[^6] named Subhadatta. A carpenter upon the works had partly sawed through a long beam of wood, and wedged it open, and was gone away, leaving the wedge fixed. Shortly afterwards a large herd of monkeys came frolicking that way, and one of their number, directed doubtless by the Angel of death, got astride the beam, and grasped the wedge, with his tail and lower parts dangling down between the pieces of the wood. Not content with this, in the mischief natural to monkeys, he began to tug at the wedge; till at last it yielded to a great effort and came out; when the wood closed upon him, and jammed him all fast. So perished the monkey, miserably crushed; and I say again—
 
 'Let meddlers mark it, and be edified.'
 
@@ -1053,7 +1053,7 @@ Damanaka asked how that happened, and Karataka related:—
 
 The Story of the Washerman's Jackass
 
-"There was a certain Washerman**[/7/](#n07)** at Benares, whose name was Carpúrapataka, and he had an Ass and a Dog in his courtyard; the first tethered, and the last roaming loose. Once on a time, when he had been spending his morning in the society of his wife, whom he had just married, and had fallen to sleep in her arms, a robber entered the house, and began to carry off his goods. The Ass observed the occupation of the thief, and was much concerned.
+"There was a certain Washerman[^7] at Benares, whose name was Carpúrapataka, and he had an Ass and a Dog in his courtyard; the first tethered, and the last roaming loose. Once on a time, when he had been spending his morning in the society of his wife, whom he had just married, and had fallen to sleep in her arms, a robber entered the house, and began to carry off his goods. The Ass observed the occupation of the thief, and was much concerned.
 
 'Good Dog,' said he, 'this is thy matter: why dost thou not bark aloud, and rouse the master?'
 
@@ -1069,7 +1069,7 @@ The Story of the Washerman's Jackass
 
 'Mean-spirited beast,' retorted the Ass, 'who neglectest thy master's business! Well, then, I at least will endeavor to arouse him; it is no less than religion,
 
-> 'Serve the Sun with sweat of body; starve thy maw to feed the flame;**[/8/](#n08)**  
+> 'Serve the Sun with sweat of body; starve thy maw to feed the flame;[^8]  
 > Stead thy lord with all thy service; to thy death go, quit of blame.'
 
 So saying, he put forth his very best braying. The Washerman sprang up at the noise, and missing the thief, turned in a rage upon the Ass for disturbing him, and beat it with a cudgel to such an extent that the blows resolved the poor animal into the five elements of death. 'So that,' continued Karataka, 'is why I say, Let the prime minister look to him. The hunting for prey is our duty—let us stick to it, then. And this,' he said, with a meditative look, 'need not trouble us to-day; for we have a capital dish of the royal leavings.'
@@ -1139,7 +1139,7 @@ and besides, to be near is at last to be needful;—is it not said—
 
 'I can't see how you can venture to speak,' objected the other, 'without an opportunity—
 
-> 'If Vrihaspati, the Grave,**[/9/](#n09)**  
+> 'If Vrihaspati, the Grave,[^9]  
 > Spoke a sentence out of season,  
 > Even Vrihaspati would have  
 > Strong rebuke for such unreason.'
@@ -1221,7 +1221,7 @@ and besides, to be near is at last to be needful;—is it not said—
 
 The Story of the Cat Who Served the Lion
 
-"Far away in the North,**[/10/](#n10)** on a mountain named 'Thousand-Crags,' there lived a lion called 'Mighty-heart'; and he was much annoyed by a certain mouse, who made a custom of nibbling his mane while he lay asleep in his den. The Lion would wake in a great rage at finding the ends of his magnificent mane made ragged, but the little mouse ran into his hole, and he could never catch it. After much consideration he went down to a village, and got a Cat named Curd-ear to come to his cave with much persuasion. He kept the Cat royally on all kinds of dainties, and slept comfortably without having his mane nibbled, as the mouse would now never venture out. Whenever the Lion heard the mouse scratching about, that was always a signal for regaling the Cat in a most distinguished style. But one day, the wretched mouse being nearly starved, he took courage to creep timidly from his hole, and was directly pounced upon by Curd-ear and killed. After that the Lion heard no more of the mouse, and quite left off his regular entertainments of the Cat. No!" concluded Damanaka, "we will keep our mouse alive for his Majesty."
+"Far away in the North,[^10] on a mountain named 'Thousand-Crags,' there lived a lion called 'Mighty-heart'; and he was much annoyed by a certain mouse, who made a custom of nibbling his mane while he lay asleep in his den. The Lion would wake in a great rage at finding the ends of his magnificent mane made ragged, but the little mouse ran into his hole, and he could never catch it. After much consideration he went down to a village, and got a Cat named Curd-ear to come to his cave with much persuasion. He kept the Cat royally on all kinds of dainties, and slept comfortably without having his mane nibbled, as the mouse would now never venture out. Whenever the Lion heard the mouse scratching about, that was always a signal for regaling the Cat in a most distinguished style. But one day, the wretched mouse being nearly starved, he took courage to creep timidly from his hole, and was directly pounced upon by Curd-ear and killed. After that the Lion heard no more of the mouse, and quite left off his regular entertainments of the Cat. No!" concluded Damanaka, "we will keep our mouse alive for his Majesty."
 
 So conversing, the Jackals went away to find Lusty-life the Bull, and upon discovering him, Karataka squatted down with great dignity at the foot of a tree, while Damanaka approached to accost him.
 
@@ -1238,7 +1238,7 @@ So conversing, the Jackals went away to find Lusty-life the Bull, and upon disco
 
 'Bull,' said Karataka, 'thou art foolish; fear nothing—
 
-> "When the King of Chedi**[/11/](#n11)** cursed him,  
+> "When the King of Chedi[^11] cursed him,  
 > Krishna scorned to make reply;  
 > Lions roar the thunder quiet,  
 > Jackals' yells they let go by."
@@ -1274,7 +1274,7 @@ The Story of the Terrible Bell
 
 'Give her a consideration forthwith,' said the Rajah.
 
-"Karála, who had her own ideas upon the matter, took the present and set out. Being come to the hills, she made a circle, and did homage to Gunputtee,**[/12/](#n12)** without whom nothing prospers. Then, taking some fruit she had brought, such as monkeys love extremely, she scattered it up and down in the wood, and withdrew to watch. Very soon the monkeys finding the fruit, put down the bell, to do justice to it, and the woman picking it up, bore it back to the town, where she became an object of uncommon veneration. We, indeed," concluded Damanaka, "bring you a Bull instead of a bell—your Majesty shall now see him!"
+"Karála, who had her own ideas upon the matter, took the present and set out. Being come to the hills, she made a circle, and did homage to Gunputtee,[^12] without whom nothing prospers. Then, taking some fruit she had brought, such as monkeys love extremely, she scattered it up and down in the wood, and withdrew to watch. Very soon the monkeys finding the fruit, put down the bell, to do justice to it, and the woman picking it up, bore it back to the town, where she became an object of uncommon veneration. We, indeed," concluded Damanaka, "bring you a Bull instead of a bell—your Majesty shall now see him!"
 
 "Thereupon Lusty-life was introduced, and, the interview passing off well, he remained many days in the forest on excellent terms with the Lion.
 
@@ -1304,7 +1304,7 @@ The Story of the Terrible Bell
 'No wealth will stand such waste, your Majesty—
 
 > 'He who thinks a minute little, like a fool misuses more;  
-> He who counts a cowry**[/13/](#n13)** nothing, being wealthy, will be poor.'
+> He who counts a cowry[^13] nothing, being wealthy, will be poor.'
 
 'A king's treasury, my liege, is the king's life.'
 
@@ -1346,12 +1346,12 @@ The Story of the Prince and the Procuress
 
 "In the city of 'Golden-Streets' there reigned a valorous King, named Vira-vikrama, whose officer of justice was one day taking away to punishment a certain Barber, when he was stopped by a strolling mendicant, who held him by the skirts, and cried out, 'Punish not this man—punish them that do wrong of their own knowledge.' Being asked his meaning, he recited the foregoing verses, and, being still further questioned, he told this story—
 
-"I am Prince Kandarpa-ketu, son of the King of Ceylon. Walking one day in my summer-garden, I heard a merchant-captain narrating how that out at sea, deep under water, on the fourteenth day of the moon, he had seen what was like nothing but the famous tree of Paradise,**[/14/](#n14)** and sitting under it a lady of most lustrous beauty, bedecked with strings of pearls like Lukshmi herself, reclining, with a lute in her hands, on what appeared to be a golden couch crusted all over with precious stones. At once I engaged the captain and his ship, and steered to the spot of which he told me. On reaching it I beheld the beautiful apparition as he had described it, and, transported with the exquisite beauty of the lady, I leapt after her into the sea. In a moment I found myself in a city of gold; and in an apartment of a golden palace, surrounded by young and beautiful girls, I found the Sea-queen. She perceived my approach, and sent an attendant with a courteous message to meet me. In reply to my questions, I learned that the lady was the Princess Ratnamanjari, daughter of the King of All the Spirits—and how she had made a vow that whoever should first come to see her golden city, with his own eyes, should marry her. So I married her by the form called Gundharva,**[/15/](#n15)** or 'Union by mutual consent,' and spent many and happy days in her delightful society. One day she took me aside, and said, 'Dear Prince! all these delights, and I myself, are thine to enjoy; only that picture yonder, of the Fairy Streak-o'-Gold, that thou must never touch!' For a long time I observed this injunction; at last, impelled by resistless curiosity, I laid my hand on the picture of 'Streak-o'-Gold,' In one instant her little foot, lovely as the lotus-blossom, advanced from out of the painting, and launched me through sea and air into my own country. Since that I have been a miserable wanderer; and passing through this city, I chanced to lodge at a Cowkeeper's hut, and saw the truth of this Barber's affair. The herdsman returned at night with his cattle, and found his wife talking with the wife of the Barber, who is no better than a bawd. Enraged at this, the man beat his wife, tied her to the milking-post, and fell asleep. In the dead of the night the Barber's wife came back, and said to the woman, 'He, whom thou knowest, is burnt with the cruel fire of thine absence, and lies nigh to death; go therefore and console him, and I will tie myself to the post until thou returnest.' This was done, and the Cowkeeper presently awoke. 'Ah! thou light thing!' he said jeeringly, 'why dost not thou keep promise, and meet thy gallant?' The Barber's wife could make no reply; whereat becoming incensed, the man cried out, 'What! dost thou scorn to speak to me? I will cut thy nose off!'**[/16/](#n16)** And so he did, and then lay down to sleep again. Very soon the Cowkeeper's wife came back and asked if 'all was well.' 'Look at my face!' said the Barber's wife, 'and you will see if all is well.' The woman could do nothing but take her place again, while the Barber's wife, picking up the severed nose, and at a sad loss how to account for it, went to her house. In the morning, before it was light, the Barber called to her to bring his box of razors, and she bringing one only, he flung it away in a passion. 'Oh, the knave!' she cried out, directly, aloud, 'Neighbors, neighbors! he has cut my nose off!' and so she took him before the officers. The Cowkeeper, meantime, wondering at his wife's patience, made some inquiry about her nose; whereto she replied, 'Cruel wretch! thou canst not harm a virtuous woman. If Yama and the seven guardians of the world**[/17/](#n17)** know me chaste, then be my face unmaimed!' The herdsman hastened to fetch a light, and finding her features unaltered, he flung himself at her feet, and begged forgiveness. For,
+"I am Prince Kandarpa-ketu, son of the King of Ceylon. Walking one day in my summer-garden, I heard a merchant-captain narrating how that out at sea, deep under water, on the fourteenth day of the moon, he had seen what was like nothing but the famous tree of Paradise,[^14] and sitting under it a lady of most lustrous beauty, bedecked with strings of pearls like Lukshmi herself, reclining, with a lute in her hands, on what appeared to be a golden couch crusted all over with precious stones. At once I engaged the captain and his ship, and steered to the spot of which he told me. On reaching it I beheld the beautiful apparition as he had described it, and, transported with the exquisite beauty of the lady, I leapt after her into the sea. In a moment I found myself in a city of gold; and in an apartment of a golden palace, surrounded by young and beautiful girls, I found the Sea-queen. She perceived my approach, and sent an attendant with a courteous message to meet me. In reply to my questions, I learned that the lady was the Princess Ratnamanjari, daughter of the King of All the Spirits—and how she had made a vow that whoever should first come to see her golden city, with his own eyes, should marry her. So I married her by the form called Gundharva,[^15] or 'Union by mutual consent,' and spent many and happy days in her delightful society. One day she took me aside, and said, 'Dear Prince! all these delights, and I myself, are thine to enjoy; only that picture yonder, of the Fairy Streak-o'-Gold, that thou must never touch!' For a long time I observed this injunction; at last, impelled by resistless curiosity, I laid my hand on the picture of 'Streak-o'-Gold,' In one instant her little foot, lovely as the lotus-blossom, advanced from out of the painting, and launched me through sea and air into my own country. Since that I have been a miserable wanderer; and passing through this city, I chanced to lodge at a Cowkeeper's hut, and saw the truth of this Barber's affair. The herdsman returned at night with his cattle, and found his wife talking with the wife of the Barber, who is no better than a bawd. Enraged at this, the man beat his wife, tied her to the milking-post, and fell asleep. In the dead of the night the Barber's wife came back, and said to the woman, 'He, whom thou knowest, is burnt with the cruel fire of thine absence, and lies nigh to death; go therefore and console him, and I will tie myself to the post until thou returnest.' This was done, and the Cowkeeper presently awoke. 'Ah! thou light thing!' he said jeeringly, 'why dost not thou keep promise, and meet thy gallant?' The Barber's wife could make no reply; whereat becoming incensed, the man cried out, 'What! dost thou scorn to speak to me? I will cut thy nose off!'[^16] And so he did, and then lay down to sleep again. Very soon the Cowkeeper's wife came back and asked if 'all was well.' 'Look at my face!' said the Barber's wife, 'and you will see if all is well.' The woman could do nothing but take her place again, while the Barber's wife, picking up the severed nose, and at a sad loss how to account for it, went to her house. In the morning, before it was light, the Barber called to her to bring his box of razors, and she bringing one only, he flung it away in a passion. 'Oh, the knave!' she cried out, directly, aloud, 'Neighbors, neighbors! he has cut my nose off!' and so she took him before the officers. The Cowkeeper, meantime, wondering at his wife's patience, made some inquiry about her nose; whereto she replied, 'Cruel wretch! thou canst not harm a virtuous woman. If Yama and the seven guardians of the world[^17] know me chaste, then be my face unmaimed!' The herdsman hastened to fetch a light, and finding her features unaltered, he flung himself at her feet, and begged forgiveness. For,
 
 > 'Never tires the fire of burning, never wearies death of slaying,  
 > Nor the sea of drinking rivers, nor the bright-eyed of betraying.'
 
-Thereupon the King's officer dismissed Kandarpa-ketu, and did justice by setting the Barber free, shaving the head of the Barber's wife,**[/18/](#n18)** and punishing the Cowkeeper's.
+Thereupon the King's officer dismissed Kandarpa-ketu, and did justice by setting the Barber free, shaving the head of the Barber's wife,[^18] and punishing the Cowkeeper's.
 
 'That is my story,' concluded Damanaka, 'and thence I said that we had no reason to complain.'
 
@@ -1424,7 +1424,7 @@ The Story of the Lion and the Old Hare
 
 'Speak!' said the King, with much graciousness.
 
-'Your Majesty,' said the Jackal, 'this Bull has been detected of treason. To my face he has spoken contemptuously of the three prerogatives of the throne,**[/19/](#n19)** unto which he aspires.'
+'Your Majesty,' said the Jackal, 'this Bull has been detected of treason. To my face he has spoken contemptuously of the three prerogatives of the throne,[^19] unto which he aspires.'
 
 "At these words King Tawny-hide stood aghast.
 
@@ -1448,7 +1448,7 @@ The Story of the Lion and the Old Hare
 > Bind a cur's tail ne'er so straightly, yet it curleth up again.'
 >
 > 'How, in sooth, should Trust and Honor change the evil nature's root?  
-> Though one watered them with nectar,**[/20/](#n20)** poison-trees bear deadly fruit.'
+> Though one watered them with nectar,[^20] poison-trees bear deadly fruit.'
 
 I have now at least warned your Majesty: if evil comes, the fault is not mine.'
 
@@ -1497,7 +1497,7 @@ The Story of the Wagtail and the Sea
 
 'Be of good heart! my Life,' answered he.
 
-"And therewith he called a meeting of fowls, and went with them into the presence of Gurud, the Lord of the birds.**[/21/](#n21)** When the Master of the Mighty Wing had listened to their complaint, he conveyed it to the knowledge of the God Narayen,**[/22/](#n22)** who keeps, and kills, and makes alive the world. The almighty mandate given, Gurud bound it upon his forehead, and bore it to the Ocean, which, so soon as it heard the will of Narayen, at once gave back the eggs.
+"And therewith he called a meeting of fowls, and went with them into the presence of Gurud, the Lord of the birds.[^21] When the Master of the Mighty Wing had listened to their complaint, he conveyed it to the knowledge of the God Narayen,[^22] who keeps, and kills, and makes alive the world. The almighty mandate given, Gurud bound it upon his forehead, and bore it to the Ocean, which, so soon as it heard the will of Narayen, at once gave back the eggs.
 
 'How, indeed,' concluded Damanaka, 'should I judge of the Bull's power, not knowing who supports him?'
 
@@ -1522,7 +1522,7 @@ The Story of the Wagtail and the Sea
 
 'But, good friend,' said the Bull, 'at least tell me what is in thy mind.'
 
-'Bull,' began Damanaka, 'it is a King's secret, and should not be spoken; but thou didst come here upon my safeguard, and as I hope for the life to come,**[/23/](#n23)** I will tell thee of what touches thee so nearly. Listen!—the heart of the King is turned against thee! he hath sworn secretly that he will kill thee and feast upon thy flesh.'
+'Bull,' began Damanaka, 'it is a King's secret, and should not be spoken; but thou didst come here upon my safeguard, and as I hope for the life to come,[^23] I will tell thee of what touches thee so nearly. Listen!—the heart of the King is turned against thee! he hath sworn secretly that he will kill thee and feast upon thy flesh.'
 
 'Then Lusty-life the Bull was sorely troubled, and he fell a-musing thus—
 
@@ -1536,7 +1536,7 @@ The Story of the Wagtail and the Sea
 
 Then he said aloud, 'wherein can I have angered the King? Do kings hate without cause? I can tell nothing, except that there is no happiness which abides long—
 
-> 'Where the azure lotus**[/24/](#n24)** blossoms, there the alligators hide;  
+> 'Where the azure lotus[^24] blossoms, there the alligators hide;  
 > In the sandal-tree are serpents. Pain and pleasure live allied.'
 
 I thought his Majesty noble as the sandal-tree; but that, indeed, is not wholly noble—
@@ -1582,9 +1582,9 @@ Still, I can but die—and I will die fighting! When death is certain, and no ho
 'I repent me of this deed!—
 
 > 'As when an Elephant's life-blood is spilt,  
-> Another hath the spoils**[/25/](#n25)**—mine is the guilt.'
+> Another hath the spoils[^25]—mine is the guilt.'
 
-'Sire,' replied the Jackal, 'a King over-merciful is like a Brahman that eats all things equally.**[/26/](#n26)** May all your Majesty's enemies perish as did this Bull.'
+'Sire,' replied the Jackal, 'a King over-merciful is like a Brahman that eats all things equally.[^26] May all your Majesty's enemies perish as did this Bull.'
 
 "Thus endeth," said the Sage Vishnu-Sarman, "the 'Parting of Friends.'"
 
@@ -1608,57 +1608,57 @@ N O T E S
 
 
 
-**[/1/](#m01)**  (Unjun.) The antimony powder used universally by Hindoo women to darken the lids and lashes of the eye. It is applied with a small stick rubbed upon the powder, and a little consequently goes a long way.
+[^1]:  (Unjun.) The antimony powder used universally by Hindoo women to darken the lids and lashes of the eye. It is applied with a small stick rubbed upon the powder, and a little consequently goes a long way.
 
-**[/2/](#m02)** In the great plains of India the large ant-hills form a marked feature. They are thrown up with great rapidity, and have been seen to rise by a public road to the height of three feet or more in a night or two.
+[^2]: In the great plains of India the large ant-hills form a marked feature. They are thrown up with great rapidity, and have been seen to rise by a public road to the height of three feet or more in a night or two.
 
-**[/3/](#m03)** The large earthen pot employed to hold water.
+[^3]: The large earthen pot employed to hold water.
 
-**[/4/](#m04)** The white umbrella borne above the heads of Indian rajahs, and especially appropriated to royalty, like the Chowri or Yak-tail.
+[^4]: The white umbrella borne above the heads of Indian rajahs, and especially appropriated to royalty, like the Chowri or Yak-tail.
 
-**[/5/](#m05)** Personified virtue, under the form of the bull of Shiva, and with this title.
+[^5]: Personified virtue, under the form of the bull of Shiva, and with this title.
 
-**[/6/](#m06)** A writer; a man sprung from a Kshatriya father and a Sudra mother.
+[^6]: A writer; a man sprung from a Kshatriya father and a Sudra mother.
 
-**[/7/](#m07)** The labour of the laundry in India is always performed on hard rocks by the river side, and principally by men called "dhobies."
+[^7]: The labour of the laundry in India is always performed on hard rocks by the river side, and principally by men called "dhobies."
 
-**[/8/](#m08)** (Literally, "with the belly serve the Eater of oblations"—hutáshan), _i.e._, stint thyself to perform the sacrifice.
+[^8]: (Literally, "with the belly serve the Eater of oblations"—hutáshan), _i.e._, stint thyself to perform the sacrifice.
 
-**[/9/](#m09)** Regent of the planet Jupiter, and Instructor of the divinities.
+[^9]: Regent of the planet Jupiter, and Instructor of the divinities.
 
-**[/10/](#m10)** There are no lions in India, excepting that called "the maneless lion," occasionally met with in Guzerat; but they abound to the north-west.
+[^10]: There are no lions in India, excepting that called "the maneless lion," occasionally met with in Guzerat; but they abound to the north-west.
 
-**[/11/](#m11)** Shishupála; he took also the forms of Ravana and of Hiranya Kasipu, to oppose Krishna, who killed him.
+[^11]: Shishupála; he took also the forms of Ravana and of Hiranya Kasipu, to oppose Krishna, who killed him.
 
-**[/12/](#m12)** Gunesh; the deity of prudence. Born from the bathing-water of the Goddess Parvati.
+[^12]: Gunesh; the deity of prudence. Born from the bathing-water of the Goddess Parvati.
 
-**[/13/](#m13)** The little sea-shell used in India for small change. About 6,000 go to the rupee.
+[^13]: The little sea-shell used in India for small change. About 6,000 go to the rupee.
 
-**[/14/](#m14)** A tree growing in Indra's Swerga, which instantly produced whatever was desired.
+[^14]: A tree growing in Indra's Swerga, which instantly produced whatever was desired.
 
-**[/15/](#m15)** Manu, in his Book III, gives the form of eight different kinds of marriage. This is that without ceremonies, and by mutual consent. The ordinary Hindoo rite is very graceful, and resembles in some points the classic custom. At any time after the "Moonj," or investiture with the sacred thread, the Brahman boy is marriageable, and the girl must not be ten years old. They meet at the bride's house, the laganpatrica or "marriage horoscope" having been previously made out by the astrologer. There they go through the _suptupadi_, walking together three times round a fire, seven steps at each time; then their garments are tied together, and an offering is placed upon the flames, completing the rite. The bride remains at her father's house until the age of twelve or thirteen, when she is claimed by her husband.
+[^15]: Manu, in his Book III, gives the form of eight different kinds of marriage. This is that without ceremonies, and by mutual consent. The ordinary Hindoo rite is very graceful, and resembles in some points the classic custom. At any time after the "Moonj," or investiture with the sacred thread, the Brahman boy is marriageable, and the girl must not be ten years old. They meet at the bride's house, the laganpatrica or "marriage horoscope" having been previously made out by the astrologer. There they go through the _suptupadi_, walking together three times round a fire, seven steps at each time; then their garments are tied together, and an offering is placed upon the flames, completing the rite. The bride remains at her father's house until the age of twelve or thirteen, when she is claimed by her husband.
 
-**[/16/](#m16)** The ordinary expedient of an incensed husband in the East.
+[^16]: The ordinary expedient of an incensed husband in the East.
 
-**[/17/](#m17)** These dight protecting deities rank next below the Hindoo Trinity. They are: —1. Indra, the air; 2. Agni, the fire; 3. Chandra, the moon; 4. Surya, the sun; 5. Pavana, the wind; 6. Yama, the lord of justice and of the lower worlds; 7. Varuna, God of the waters; and 8. Kuvera, the master of wealth.
+[^17]: These dight protecting deities rank next below the Hindoo Trinity. They are: —1. Indra, the air; 2. Agni, the fire; 3. Chandra, the moon; 4. Surya, the sun; 5. Pavana, the wind; 6. Yama, the lord of justice and of the lower worlds; 7. Varuna, God of the waters; and 8. Kuvera, the master of wealth.
 
-**[/18/](#m18)** This indignity reduced her to the appearance and the miserable status of a widow.
+[^18]: This indignity reduced her to the appearance and the miserable status of a widow.
 
-**[/19/](#m19)** Regal authority derives its rights from three sources with the Hindoo authors—viz. Power, Prescription or continuance, and Wisdom.
+[^19]: Regal authority derives its rights from three sources with the Hindoo authors—viz. Power, Prescription or continuance, and Wisdom.
 
-**[/20/](#m20)** The Greek word _nectar_, and the Sanskrit _amrit_, and alike in their etymology—"the immortal." Both were the food of the undying gods, and the Hindoo deities thus obtained their ambrosia. The Daityas, like the Titans, had waged war upon the divinities (the Suras), and these last betook themselves to Vishnoo for protection. He bade them cast certain medicinal herbs into the "sea of milk;" then taking Mount Mandara for a churning-stick, and the king of the serpents for the twisting-string, the gods began to churn the ocean for nectar. The Daityas themselves aided on promise of sharing in the strength-restoring extract, and stood at the serpent's head while the Suras worked at the tail. The great Vishnoo also took part in the work as a tortoise, upon whose back the mountain whirled round backwards and forwards. Out of the seething flood there came up at the last a figure robed in white—Dhanwantari, the physician of the gods—who bore in his hands the first cup-full of the _amrit_. From the same ocean also rose the ever-lovely Lukshmi,—the marvellous cow, from which all things that could be desired might be milked,—and the kalkût, or poison which stained the neck of Shiva. The nectar thus obtained bestowed new vigour on the wearied gods, and was stored up in the moon, where the lunar rays ripen and perfect it.
+[^20]: The Greek word _nectar_, and the Sanskrit _amrit_, and alike in their etymology—"the immortal." Both were the food of the undying gods, and the Hindoo deities thus obtained their ambrosia. The Daityas, like the Titans, had waged war upon the divinities (the Suras), and these last betook themselves to Vishnoo for protection. He bade them cast certain medicinal herbs into the "sea of milk;" then taking Mount Mandara for a churning-stick, and the king of the serpents for the twisting-string, the gods began to churn the ocean for nectar. The Daityas themselves aided on promise of sharing in the strength-restoring extract, and stood at the serpent's head while the Suras worked at the tail. The great Vishnoo also took part in the work as a tortoise, upon whose back the mountain whirled round backwards and forwards. Out of the seething flood there came up at the last a figure robed in white—Dhanwantari, the physician of the gods—who bore in his hands the first cup-full of the _amrit_. From the same ocean also rose the ever-lovely Lukshmi,—the marvellous cow, from which all things that could be desired might be milked,—and the kalkût, or poison which stained the neck of Shiva. The nectar thus obtained bestowed new vigour on the wearied gods, and was stored up in the moon, where the lunar rays ripen and perfect it.
 
-**[/21/](#m21)** He is the vehicle and the attendant of Vishnoo, and has a human face with the wings of a bird.
+[^21]: He is the vehicle and the attendant of Vishnoo, and has a human face with the wings of a bird.
 
-**[/22/](#m22)** Varuna, god of the world of waters. This Deity is regent of the west, and a lord of punishment, holding a noosed cord, wherewith to bind transgressors beneath the sea. His _váhana_, a vehicle, is the great fish _mukur_. The present age (_kalpa_) of the world is called Váráha, or the boar's, and was initiated by Narayen. "When that supreme lord," says the Vishnoo Pooran, "woke and beheld the universe void, knowing that the earth lay hid within the waters, he assumed the body of a wild boar, and plunging in them raised up the earth till it floated upon the waves." The name Narayen, suggestive of the Greek Nereus, denotes Him "whose progress (_ayana_) is upon the face of the waters (_harah_)."
+[^22]: Varuna, god of the world of waters. This Deity is regent of the west, and a lord of punishment, holding a noosed cord, wherewith to bind transgressors beneath the sea. His _váhana_, a vehicle, is the great fish _mukur_. The present age (_kalpa_) of the world is called Váráha, or the boar's, and was initiated by Narayen. "When that supreme lord," says the Vishnoo Pooran, "woke and beheld the universe void, knowing that the earth lay hid within the waters, he assumed the body of a wild boar, and plunging in them raised up the earth till it floated upon the waves." The name Narayen, suggestive of the Greek Nereus, denotes Him "whose progress (_ayana_) is upon the face of the waters (_harah_)."
 
-**[/23/](#m23)** Literally, "the other world" (_Paralók_).
+[^23]: Literally, "the other world" (_Paralók_).
 
-**[/24/](#m24)** The lotus resembles our water-lily, but is more varied in form and colour. There are white, red, blue, and yellow varieties.
+[^24]: The lotus resembles our water-lily, but is more varied in form and colour. There are white, red, blue, and yellow varieties.
 
-**[/25/](#m25)** There is a belief, constantly occurring in Hindoo writings, that the elephant's head contains precious stones, resembling pearls. The remorseful monarch alludes to this, and compares his conquest to the slaughter of an elephant, which leaves guilt to the lion, and gives the pearls to some chance hunter.
+[^25]: There is a belief, constantly occurring in Hindoo writings, that the elephant's head contains precious stones, resembling pearls. The remorseful monarch alludes to this, and compares his conquest to the slaughter of an elephant, which leaves guilt to the lion, and gives the pearls to some chance hunter.
 
-**[/26/](#m26)** This epithet, "_sarwabhaksha_," and the comparison, are very strong, and suffice to quiet King Tawny-hide's conscience. A Brahman who ate flesh would be like the unclean "_Rákshasas_" or demons.
+[^26]: This epithet, "_sarwabhaksha_," and the comparison, are very strong, and suffice to quiet King Tawny-hide's conscience. A Brahman who ate flesh would be like the unclean "_Rákshasas_" or demons.
 
 ## WAR
 
@@ -1681,7 +1681,7 @@ When the next day of instruction was come, the King's sons spake to the Sage, Vi
 
 "I am to speak on what shall please you," replied Vishnu-Sarman. "Hear now, therefore, of 'War,' whose opening is thus:—
 
-> 'Between the peoples of Peacock and Swan**[/1/](#n01)**  
+> 'Between the peoples of Peacock and Swan[^1]  
 > War raged; and evenly the contest ran,  
 > Until the Swans to trust the Crows began.'
 
@@ -1699,7 +1699,7 @@ The Battle of the Swans and Peacocks
 
 'Speak!' said King Silver-sides.
 
-'You must know, my Liege,' began the Crane, 'that over all the birds of the Vindhya**[/2/](#n02)** mountains in Jambudwipa**[/3/](#n03)** a Peacock is King, and his name is 'Jewel-plume.' I was looking for food about a certain burnt jungle there, when some of his retainers discovered me, and asked my name and country. 'I am a vassal of King Silver-sides, Lord of the Island of Camphor,' I replied, 'and I am travelling in foreign lands for my pleasure.' Upon that the birds asked me which country, my own or theirs, and which King, appeared to me superior. 'How can you ask?' I replied; 'the island of Camphor is, as it were, Heaven itself, and its King a heaven-born ruler. To dwellers in a barren land like yours how can I describe them? Come for yourselves, and see the country where I live.' Thereupon, your Majesty, the birds were exceedingly offended, as one might expect—
+'You must know, my Liege,' began the Crane, 'that over all the birds of the Vindhya[^2] mountains in Jambudwipa[^3] a Peacock is King, and his name is 'Jewel-plume.' I was looking for food about a certain burnt jungle there, when some of his retainers discovered me, and asked my name and country. 'I am a vassal of King Silver-sides, Lord of the Island of Camphor,' I replied, 'and I am travelling in foreign lands for my pleasure.' Upon that the birds asked me which country, my own or theirs, and which King, appeared to me superior. 'How can you ask?' I replied; 'the island of Camphor is, as it were, Heaven itself, and its King a heaven-born ruler. To dwellers in a barren land like yours how can I describe them? Come for yourselves, and see the country where I live.' Thereupon, your Majesty, the birds were exceedingly offended, as one might expect—
 
 > 'Simple milk, when serpents drink it, straightway into venom turns;  
 > And a fool who heareth counsel all the wisdom of it spurns.'
@@ -1717,7 +1717,7 @@ The Crane related:—
 
 The Story of the Weaver-Birds and the Monkeys
 
-"In a nullah that leads down to the Nerbudda river there stood a large silk-cotton tree, where a colony of weaver-birds had built their hanging nests,**[/4/](#n04)** and lived snugly in them, whatever the weather. It was in the rainy season, when the heavens are overlaid with clouds like indigo-sheets, and a tremendous storm of water was falling. The birds looked out from their nests, and saw some monkeys, shivering and starved with the cold, standing under a tree. 'Twit! twit! you Monkeys,' they began to chirrup. 'Listen to us!—
+"In a nullah that leads down to the Nerbudda river there stood a large silk-cotton tree, where a colony of weaver-birds had built their hanging nests,[^4] and lived snugly in them, whatever the weather. It was in the rainy season, when the heavens are overlaid with clouds like indigo-sheets, and a tremendous storm of water was falling. The birds looked out from their nests, and saw some monkeys, shivering and starved with the cold, standing under a tree. 'Twit! twit! you Monkeys,' they began to chirrup. 'Listen to us!—
 
 > 'With beaks we built these nests, of fibres scattered;  
 > You that have hands and feet, build, or be spattered.'
@@ -1739,7 +1739,7 @@ On hearing that the Monkeys were by no means pleased. 'Ho! ho!' said they, 'the 
 
 'Yet a man should measure his own strength first,' said the Rajah, smiling; 'how did you fare against King Jewel-plume's fellows?'
 
-'Very scurvily,' replied Long-bill. "Thou rascal Crane," they cried, "dost thou feed on his soil, and revile our Sovereign? That is past bearing!" And thereat they all pecked at me. Then they began again: "Thou thick-skulled Crane! that King of thine is a goose—a web-footed lord of littleness—and thou art but a frog in a well**[/5/](#n05)** to bid us serve him—- him forsooth!—
+'Very scurvily,' replied Long-bill. "Thou rascal Crane," they cried, "dost thou feed on his soil, and revile our Sovereign? That is past bearing!" And thereat they all pecked at me. Then they began again: "Thou thick-skulled Crane! that King of thine is a goose—a web-footed lord of littleness—and thou art but a frog in a well[^5] to bid us serve him—- him forsooth!—
 
 > 'Serving narrow-minded masters dwarfs high natures to their size:—  
 > Seen before a convex mirror, elephants do show as mice.'
@@ -1770,7 +1770,7 @@ The Story of the Old Hare and the Elephants
 
 'State your business,' said the Elephant-king.
 
-'Sire,' began the Hare, 'an ambassador speaks the truth safely by charter of his name. Thus saith the Moon, then: "These hares were the guardians of my pool, and thine elephants in coming thither have scared them away. This is not well. Am I not Sasanka,**[/6/](#n06)** whose banner bears a hare, and are not these hares my votaries?"'
+'Sire,' began the Hare, 'an ambassador speaks the truth safely by charter of his name. Thus saith the Moon, then: "These hares were the guardians of my pool, and thine elephants in coming thither have scared them away. This is not well. Am I not Sasanka,[^6] whose banner bears a hare, and are not these hares my votaries?"'
 
 'Please your worship,' said the Elephant-king with much trepidation, 'we knew nothing of this; we will go there no more.'
 
@@ -1809,11 +1809,11 @@ The Story of the Old Hare and the Elephants
 'And virtuous,' said the Vulture, 'and therefore a Brahman:—
 
 > 'Better Virtue marked a herald than that noble blood should deck;  
-> Shiva reigns forever Shiva while the sea-wave stains his neck.'**[/7/](#n07)**
+> Shiva reigns forever Shiva while the sea-wave stains his neck.'[^7]
 
 'Then let the Parrot be appointed,' said the Rajah.
 
-'I am your Majesty's humble servant,' replied the Parrot; 'but this Crane is a bad character, and with the bad I never like to travel. The ten-headed Ravana carried off the wife of Ramchundra!**[/8/](#n08)** It does not do,
+'I am your Majesty's humble servant,' replied the Parrot; 'but this Crane is a bad character, and with the bad I never like to travel. The ten-headed Ravana carried off the wife of Ramchundra![^8] It does not do,
 
 > 'With evil people neither stay nor go;  
 > The Heron died for being with the Crow.'
@@ -1824,7 +1824,7 @@ The Story of the Old Hare and the Elephants
 
 The Story of the Heron and the Crow
 
-'The high-road to Oogein is a very unshaded and sultry one; but there stands upon it one large Peepul-tree,**[/9/](#n09)** and therein a Crow and a Heron had their residence together. It was in the hot weather that a tired traveller passed that way, and, for the sake of the shade, he laid his bow and arrows down, and dropped asleep under the tree. Before long the shadow of the tree shifted, and left his face exposed to the glare; which the Heron perceiving, like the kindly bird he was, perched on the Peepul-tree, and spread his wings out so as to cast a shadow on the traveller's face. There the poor fellow, weary with his travel, continued to sleep soundly, and snored away comfortably with open mouth. The sight of his enjoyment was too much for the malevolent Crow, who, perching over him, dropped an unwelcome morsel into the sleeper's mouth, and straightway flew off. The traveller, starting from his slumber, looked about, and, seeing no bird but the Heron, he fitted an arrow and shot him dead. No!' concluded the Parrot, 'I like the society of honest folk.'
+'The high-road to Oogein is a very unshaded and sultry one; but there stands upon it one large Peepul-tree,[^9] and therein a Crow and a Heron had their residence together. It was in the hot weather that a tired traveller passed that way, and, for the sake of the shade, he laid his bow and arrows down, and dropped asleep under the tree. Before long the shadow of the tree shifted, and left his face exposed to the glare; which the Heron perceiving, like the kindly bird he was, perched on the Peepul-tree, and spread his wings out so as to cast a shadow on the traveller's face. There the poor fellow, weary with his travel, continued to sleep soundly, and snored away comfortably with open mouth. The sight of his enjoyment was too much for the malevolent Crow, who, perching over him, dropped an unwelcome morsel into the sleeper's mouth, and straightway flew off. The traveller, starting from his slumber, looked about, and, seeing no bird but the Heron, he fitted an arrow and shot him dead. No!' concluded the Parrot, 'I like the society of honest folk.'
 
 'But why these words, my brother?' I said; 'his Majesty's herald is to me even as his Majesty.'
 
@@ -1858,14 +1858,14 @@ The Story of the Appeased Wheelwright
 > 'Of the wife the lord is jewel, though no gems upon her beam;  
 > Lacking him, she lacks adornment, howsoe'er her jewels gleam?'
 
-Thou, and the like of thee, may serve a whim, as we chew a betel-leaf**[/10/](#n10)** and trifle with a flower; but my husband is my master, and can do with me as he will. My life is wrapped up in him—and when he dies, alas! I will certainly die too. Is it not plainly said—
+Thou, and the like of thee, may serve a whim, as we chew a betel-leaf[^10] and trifle with a flower; but my husband is my master, and can do with me as he will. My life is wrapped up in him—and when he dies, alas! I will certainly die too. Is it not plainly said—
 
 > 'Hairs three-crore, and half-a-crore hairs, on a man so many grow—  
 > And so many years to Swerga shall the true wife surely go?'
 
 And better still is promised; as herein—
 
-'When the faithful wife,**[/11/](#n11)** embracing tenderly her husband dead,  
+'When the faithful wife,[^11] embracing tenderly her husband dead,  
 Mounts the blazing pile beside him, as it were the bridal-bed;  
 Though his sins were twenty thousand, twenty thousand times o'er-told,  
 She shall bring his soul to splendor, for her love so large and bold.'
@@ -1928,7 +1928,7 @@ And your Majesty,' continued the Goose, 'will recall the points of a good fortre
 
 'Whom, then, shall we entrust with this work?' asked King Silver-sides.
 
-'The Paddy-bird**[/12/](#n12)** is a good bird, and a skilful,' replied his Minister.
+'The Paddy-bird[^12] is a good bird, and a skilful,' replied his Minister.
 
 'Let him be summoned!' said the King. And upon the entrance of the Paddy-bird, the superintendence of the fortress was committed to him, and accepted with a low prostration.
 
@@ -1937,7 +1937,7 @@ And your Majesty,' continued the Goose, 'will recall the points of a good fortre
 > 'Gems will no man's life sustain;  
 > Best of gold is golden grain.'
 
-'Good!' said King Silver-sides; 'let it be looked to.' Thereupon, as the Paddy-bird was retiring, the Usher entered again, and making prostration, said: 'May it please your Majesty, the King of all the Crows, Night-cloud by name, has just arrived from Singhala-dwipa,**[/13/](#n13)** and desires to lay his homage at your Majesty's feet.'
+'Good!' said King Silver-sides; 'let it be looked to.' Thereupon, as the Paddy-bird was retiring, the Usher entered again, and making prostration, said: 'May it please your Majesty, the King of all the Crows, Night-cloud by name, has just arrived from Singhala-dwipa,[^13] and desires to lay his homage at your Majesty's feet.'
 
 'He is a wise bird, and a far-travelled,' said the King; 'I think we must give him audience.'
 
@@ -1958,7 +1958,7 @@ The Story of the Dyed Jackal
 
 "The Jackals, overcome by so distinguished a color, could do nothing but prostrate themselves and promise obedience. His reign, thus begun, extended in time to the lions and tigers; and with these high-born attendants he allowed himself to despise the Jackals, keeping his own kindred at a distance, as though ashamed of them. The Jackals were indignant, but an old beast of their number thus consoled them:—
 
-"Leave the impudent fellow to me. I will contrive his ruin. These tigers and the rest think him a King, because he is colored blue; we must show them his true colors. Do this, now!—in the evening-time come close about him, and set up a great yell together—he is sure to join in,**[/14/](#n14)** as he used to do—
+"Leave the impudent fellow to me. I will contrive his ruin. These tigers and the rest think him a King, because he is colored blue; we must show them his true colors. Do this, now!—in the evening-time come close about him, and set up a great yell together—he is sure to join in,[^14] as he used to do—
 
 > 'Hard it is to conquer nature: if a dog were made a King,  
 > Mid the coronation trumpets, he would gnaw his sandal-string.'
@@ -2015,9 +2015,9 @@ And its commanders must be judiciously appointed; for it is said—
 > 'Ever absent, harsh, unjustly portioning the captured prey—  
 > These, and cold or laggard leaders make a host to melt away.'
 
-'Ah!' interrupted the Rajah, 'what need of so much talk? We will go, and, if Váchaspati**[/15/](#n15)** please, we will conquer.'
+'Ah!' interrupted the Rajah, 'what need of so much talk? We will go, and, if Váchaspati[^15] please, we will conquer.'
 
-Shortly afterwards the Spy returned to Camphor-island. 'King Silver-sides,' he cried, 'the Rajah, Jewel-plume, is on his way hither, and has reached the Ghauts.**[/16/](#n16)** Let the fort be manned, for that Vulture is a great minister; and I have learned, too, that there is one among us who is in his pay.'
+Shortly afterwards the Spy returned to Camphor-island. 'King Silver-sides,' he cried, 'the Rajah, Jewel-plume, is on his way hither, and has reached the Ghauts.[^16] Let the fort be manned, for that Vulture is a great minister; and I have learned, too, that there is one among us who is in his pay.'
 
 'King!' said the Goose, 'that must be the Crow.'
 
@@ -2038,7 +2038,7 @@ Have you never heard of King Sudraka and the unknown Servant, who gave his son's
 
 The Story of the Faithful Rajpoot
 
-"I will tell you the tale," said the King, "as I heard it from 'Lilyflower,' daughter of the Flamingo 'White-flag,' of whom I was once very fond:—A soldier presented himself one morning at King Sudraka's gate, and bade the porter procure an audience for 'Vira-vara, a Rajpoot,'**[/17/](#n17)** who sought employment. Being admitted to the presence, he thus addressed the King:—
+"I will tell you the tale," said the King, "as I heard it from 'Lilyflower,' daughter of the Flamingo 'White-flag,' of whom I was once very fond:—A soldier presented himself one morning at King Sudraka's gate, and bade the porter procure an audience for 'Vira-vara, a Rajpoot,'[^17] who sought employment. Being admitted to the presence, he thus addressed the King:—
 
 'If your Highness needs an attendant, behold one!'
 
@@ -2050,7 +2050,7 @@ The Story of the Faithful Rajpoot
 
 'Are these two arms, and this sabre, which serve for a third,' said Vira-vara, rolling up his sleeve.
 
-'I cannot entertain you,' rejoined his Majesty; and thereupon the Rajpoot made salaam, and withdrew. Then said the Ministers, 'If it please your Majesty, the stipend is excessive, but give him pay for four days, and see wherein he may deserve it.' Accordingly, the Rajpoot was recalled, and received wages for four days, with the complimentary betel.**[/18/](#n18)**—Ah! the rare betel! Truly say the wise of it—
+'I cannot entertain you,' rejoined his Majesty; and thereupon the Rajpoot made salaam, and withdrew. Then said the Ministers, 'If it please your Majesty, the stipend is excessive, but give him pay for four days, and see wherein he may deserve it.' Accordingly, the Rajpoot was recalled, and received wages for four days, with the complimentary betel.[^18]—Ah! the rare betel! Truly say the wise of it—
 
 > 'Betel-nut is bitter, hot, sweet, spicy, binding, alkaline—  
 > A demulcent—an astringent—foe to evils intestine;  
@@ -2061,7 +2061,7 @@ The Story of the Faithful Rajpoot
 
 'Now the King narrowly watched the spending of Vira-vara's pay, and discovered that he bestowed half in the service of the Gods and the support of Brahmans, a fourth part in relieving the poor, and reserved a fourth for his sustenance and recreation. This daily division made, he would take his stand with his sabre at the gate of the palace; retiring only upon receiving the royal permission.
 
-'It was on the fourteenth night of the dark half of the month**[/19/](#n19)** that King Sudraka heard below a sound of passionate sobbing. 'Ho! there,' he cried, 'who waits at the gate?'
+'It was on the fourteenth night of the dark half of the month[^19] that King Sudraka heard below a sound of passionate sobbing. 'Ho! there,' he cried, 'who waits at the gate?'
 
 'I,' replied Vira-vara, 'may it please you.'
 
@@ -2071,11 +2071,11 @@ The Story of the Faithful Rajpoot
 
 'No sooner was he gone than the King repented him of sending one man alone into a night so dark that a bodkin might pierce a hole in it, and girding on his scimitar, he followed his guard beyond the city gates. When Vira-vara had gone thus far he encountered a beautiful and splendidly dressed lady who was weeping bitterly; and accosting her, he requested to know her name, and why she thus lamented.
 
-'I am the Fortune**[/20/](#n20)** of the King Sudraka,' answered she; 'a long while I have lived happily in the shadow of his arm; but on the third day he will die, and I must depart, and therefore lament I.'
+'I am the Fortune[^20] of the King Sudraka,' answered she; 'a long while I have lived happily in the shadow of his arm; but on the third day he will die, and I must depart, and therefore lament I.'
 
 'Can nothing serve, Divine Lady, to prolong thy stay?' asked the Rajpoot.
 
-'It might be,' replied the Spirit, 'if thou shouldst cut off the head of thy first-born Shaktidhar, that hath on his body the thirty-two auspicious marks**[/21/](#n21)** of greatness. Were his head offered to the all-helpful Durga, the Rajah should live a hundred years, and I might tarry beside him.'
+'It might be,' replied the Spirit, 'if thou shouldst cut off the head of thy first-born Shaktidhar, that hath on his body the thirty-two auspicious marks[^21] of greatness. Were his head offered to the all-helpful Durga, the Rajah should live a hundred years, and I might tarry beside him.'
 
 'So speaking, she disappeared, and Vira-vara retraced his steps to his own house and awoke his wife and son. They arose, and listened with attention until Vira-vara had repeated all the words of the vision. When he had finished, Shaktidhar exclaimed, 'I am thrice happy to be able to save the state of the King. Kill me, my father, and linger not; to give my life in such a cause is good indeed,' 'Yes,' said the Mother, 'it is good, and worthy of our blood; how else should we deserve the King's pay?' Being thus agreed, they repaired together at once to the temple of the Goddess Durga, and having paid their devotions and entreated the favor of the deity on behalf of the King, Vira-vara struck off his son's head, and laid it as an offering upon the shrine. That done, Vira-vara said, 'My service to the King is accomplished, and life without my boy is but a burden,' and therewith he plunged his sword in his own breast and fell dead. Overpowered with grief for her husband and child, the mother also withdrew the twice-blooded weapon, and slew herself with it on the bodies of Vira-vara and Shaktidhar.
 
@@ -2144,7 +2144,7 @@ And therefore I have been absent.'
 
 Then the Vulture's anger melted, and he reflected—
 
-> 'Where the Gods are, or thy Gúrú**[/22/](#n22)**—in the face of Pain and Age,  
+> 'Where the Gods are, or thy Gúrú[^22]—in the face of Pain and Age,  
 > Cattle, Brahmans, Kings, and Children—reverently curb thy rage.'
 
 And with a benignant smile, he answered the King thus, 'Be of good heart, my Liege; thou shalt not only bring the host back safely, but thou shalt first destroy the castle of King Silver-sides.'
@@ -2214,11 +2214,11 @@ Then spake the Princes: "In that army of the Swans there was no soldier like the
 "There be nowhere many such," replied Vishnu-Sarman; "for
 
 > 'All the cows bring forth are cattle—only now and then is born  
-> An authentic lord of pastures, with his shoulder-scratching horn.'**[/23/](#n23)**
+> An authentic lord of pastures, with his shoulder-scratching horn.'[^23]
 
 "It is well spoken," said the Princes.
 
-"But for him that dares to die so," added the Sage, "may an eternal heaven be reserved, and may the lustrous Angels of Paradise, the Apsaras,**[/24/](#n24)** conduct him thither! Is it not so declared, indeed?—
+"But for him that dares to die so," added the Sage, "may an eternal heaven be reserved, and may the lustrous Angels of Paradise, the Apsaras,[^24] conduct him thither! Is it not so declared, indeed?—
 
 > 'When the soldier in the battle lays his life down for his king,  
 > Unto Swerga's perfect glory such a deed his soul shall bring.'
@@ -2245,11 +2245,11 @@ Then spake the Princes: "In that army of the Swans there was no soldier like the
 **~~~~~~~~~~~**  
 N O T E S
 
-**[/1/](#m01)** The peacock is wild in most Indian jungles. The swan (Sanscrit, _hansa_) is a species of flamingo of a white color, with markings of a golden yellow. The voice and gait of a beautiful woman are likened by the Hindoo poets to those of the "Hansa." It is the vehicle of the god Brahma.
+[^1]: The peacock is wild in most Indian jungles. The swan (Sanscrit, _hansa_) is a species of flamingo of a white color, with markings of a golden yellow. The voice and gait of a beautiful woman are likened by the Hindoo poets to those of the "Hansa." It is the vehicle of the god Brahma.
 
-**[/2/](#m02)** The chain between Hindustan and the south country of Deccan. The name is said to imply that they appear,from their loftiness, to _stop_ the sun in his declining course.
+[^2]: The chain between Hindustan and the south country of Deccan. The name is said to imply that they appear,from their loftiness, to _stop_ the sun in his declining course.
 
-**[/3/](#m03)** "The land of the rose-apple"—the central of the seven continents, containing the regions known to Hindoo geographers. It may not be out of place to sketch in this note the Hindoo's cosmogony. He reads in his Poorans that Priyavrata, son of the Self-born, grieving to see the earth but half illumined at one time by the sun, drove round it seven times in his own flaming chariot, the wheels of which formed seven ruts, which are now the beds of the seven oceans. The continents thus divided are also seven. Jambu-dwipa is the central one, with Mount Meru for its own centre, where "men are born of the colour of burnished gold, and the women resemble blue lotuses; where all live as do the gods, and have the vital forces of 10,000 elephants."  
+[^3]: "The land of the rose-apple"—the central of the seven continents, containing the regions known to Hindoo geographers. It may not be out of place to sketch in this note the Hindoo's cosmogony. He reads in his Poorans that Priyavrata, son of the Self-born, grieving to see the earth but half illumined at one time by the sun, drove round it seven times in his own flaming chariot, the wheels of which formed seven ruts, which are now the beds of the seven oceans. The continents thus divided are also seven. Jambu-dwipa is the central one, with Mount Meru for its own centre, where "men are born of the colour of burnished gold, and the women resemble blue lotuses; where all live as do the gods, and have the vital forces of 10,000 elephants."  
     Around _Jambu-dwipa_ runs a sea of salt-water, and beyond it lies _Plaksha-dwipa_. There the happy inhabitants know nothing of sickness, and live 5,000 years.  
     _Plaksha-dwipa_ is divided by a sea of sugar-cane juice from _Shálmali-dwipa_. The castes of this continent are the tawny, the purple, the yellow, and the red, and in it "the vicinity of the gods is very delightful to the soul."  
     A sea of wine intervenes between this land and _Kusha-dwipa_. There no one dies; but the gods and gandharvas, the heavenly minstrels, share in the pastimes of the fair and innocent persons who dwell in the land.  
@@ -2259,51 +2259,51 @@ N O T E S
     And (for the mind yet unsatiated with receding infinity) beyond _Pushkara_ is the sea of fresh water, equal to itself in breadth. Passing that is the _Golden Land_, without inhabitants, and yet beyond it lie the _Loka loka_ mountains, dark, immovable, and 10,000 yojans (50,000 miles) high and broad. Outside that darkness is the shell of the mundane egg.  
     "Of which eggs," concludes the Poorana, "there be thousands, and tens of thousands—yea, a hundred millions of millions!"
 
-**[/4/](#m04)** These birds seem to select the bushes over the mouth of a well, or the slender twigs of a tree, as safe places from the snakes.
+[^4]: These birds seem to select the bushes over the mouth of a well, or the slender twigs of a tree, as safe places from the snakes.
 
-**[/5/](#m05)** Having no more knowledge than the frog has of light.
+[^5]: Having no more knowledge than the frog has of light.
 
-**[/6/](#m06)** From the Sanskrit—_Sasa_, a hare.
+[^6]: From the Sanskrit—_Sasa_, a hare.
 
-**[/7/](#m07)** At the churning of the waters, along with the "amrita" and the beautiful Lukshmi, came up also a deadly venom (Kalkût), fatal to mortals. To avert its evil influence the god Shiva drank it up; but it was potent enough to stain his throat black or dark-blue, whence his title of "Nilkanta," the blud-throated.
+[^7]: At the churning of the waters, along with the "amrita" and the beautiful Lukshmi, came up also a deadly venom (Kalkût), fatal to mortals. To avert its evil influence the god Shiva drank it up; but it was potent enough to stain his throat black or dark-blue, whence his title of "Nilkanta," the blud-throated.
 
-**[/8/](#m08)**_I.e._, Rama, who was absent in the chase of a phantom deer of gold.
+[^8]:_I.e._, Rama, who was absent in the chase of a phantom deer of gold.
 
-**[/9/](#m09)** Or "Pimpal," the holy fig.
+[^9]: Or "Pimpal," the holy fig.
 
-**[/10/](#m10)** The "pan-sooparee," a compound of betel-nut, lime, and cloves, wrapped up in a leaf of the pepper-vine, and chewed by all India.
+[^10]: The "pan-sooparee," a compound of betel-nut, lime, and cloves, wrapped up in a leaf of the pepper-vine, and chewed by all India.
 
-**[/11/](#m11)** By such a death as that alluded to, she earns the title of Sati, the "excellent."
+[^11]: By such a death as that alluded to, she earns the title of Sati, the "excellent."
 
-**[/12/](#m12)** The common Indian crane; a graceful white bird, to be seen everywhere, and always, in the interior of Hindostan.
+[^12]: The common Indian crane; a graceful white bird, to be seen everywhere, and always, in the interior of Hindostan.
 
-**[/13/](#m13)** The "Land of the Lion"—Ceylon.
+[^13]: The "Land of the Lion"—Ceylon.
 
-**[/14/](#m14)** The cry of one jackal at night raises a chorus from all those within hearing.
+[^14]: The cry of one jackal at night raises a chorus from all those within hearing.
 
-**[/15/](#m15)** Policy, "the Lord of Talk." Hodiè, "Diplomacy."
+[^15]: Policy, "the Lord of Talk." Hodiè, "Diplomacy."
 
-**[/16/](#m16)** A word applied to ranges of mountains, by which, as by a _staircase_, the country rises into an elevated region. Also to the step-like path leading over or through the mountains, and to the flight of stairs at a river side landing-place.
+[^16]: A word applied to ranges of mountains, by which, as by a _staircase_, the country rises into an elevated region. Also to the step-like path leading over or through the mountains, and to the flight of stairs at a river side landing-place.
 
-**[/17/](#m17)** Here synonymous with "Kshattriya," a man of the military caste.
+[^17]: Here synonymous with "Kshattriya," a man of the military caste.
 
-**[/18/](#m18)** The "pan-sooparee" (see note 10), neatly folded into a triangular form, and pierced through by a clove, is handed round at the close of all occasions of ceremony. Judged by its popularity (and not by a first experiment upon it), it deserves the encomium which King Silver-sides cannot repress.
+[^18]: The "pan-sooparee" (see note 10), neatly folded into a triangular form, and pierced through by a clove, is handed round at the close of all occasions of ceremony. Judged by its popularity (and not by a first experiment upon it), it deserves the encomium which King Silver-sides cannot repress.
 
-**[/19/](#m19)** The Hindoos divide their month into two divisions of fifteen tithees (or days) each. "_Shood_," the bright half, is occupied by the increase of the moon; and "_Vud_," the dark half, marks the moon's waning. The fourteenth night of the dark half would be intensely dark.
+[^19]: The Hindoos divide their month into two divisions of fifteen tithees (or days) each. "_Shood_," the bright half, is occupied by the increase of the moon; and "_Vud_," the dark half, marks the moon's waning. The fourteenth night of the dark half would be intensely dark.
 
-**[/20/](#m20)** The "Lukshmi," the attendant genius.
+[^20]: The "Lukshmi," the attendant genius.
 
-**[/21/](#m21)** This superstition, preserved to us in palmistry, os of common occurrence in the Hindoo writings. In Book 19 of the _Vana-parva_ (_Mahabharat_), Vahúka chooses his horses by the ten avartas, or marks of excellence. "Never," says King Rituparna—"Never shall we reach Vidarbha, drawn by steeds so slight and small." Vahuka replies—
+[^21]: This superstition, preserved to us in palmistry, os of common occurrence in the Hindoo writings. In Book 19 of the _Vana-parva_ (_Mahabharat_), Vahúka chooses his horses by the ten avartas, or marks of excellence. "Never," says King Rituparna—"Never shall we reach Vidarbha, drawn by steeds so slight and small." Vahuka replies—
 
 > "Two on head, and one on forehead, marks of mettle here be all,  
 > Two on chest, on this and that flank two and two, on crupper one,  
 > These the steeds shall reach Vidarbha long before the day be done."
 
-**[/22/](#m22)** The spiritual instructur of a young Brahman.
+[^22]: The spiritual instructur of a young Brahman.
 
-**[/23/](#m23)** Large branching horns which reach backward and rub upon his shoulders. 
+[^23]: Large branching horns which reach backward and rub upon his shoulders. 
 
-**[/24/](#m24)** The houris of Indra's heaven. They also were produced at the churning of the ocean, in raiment and ornaments of celestial splendour. Their office is to receive into Paradise and to solace there with the delights of love the souls of all who have died fighting bravely. In the "Nala" of the Mahabharat (Book 2) Indra the god is made to say—
+[^24]: The houris of Indra's heaven. They also were produced at the churning of the ocean, in raiment and ornaments of celestial splendour. Their office is to receive into Paradise and to solace there with the delights of love the souls of all who have died fighting bravely. In the "Nala" of the Mahabharat (Book 2) Indra the god is made to say—
 
 > "They, the just—the lion-hearted,—Lords, who, never yielding place,  
 > Saw the shaft's descending death-blow—saw, and took it on their face!  
@@ -2387,7 +2387,7 @@ The Story of Fate and the Three Fishes
 
 "It was just such a pool as this, and on the arrival at it of just such men as these fishermen, that three fishes, who had heard their designs, held consultation as to what should be done.
 
-'I shall go to another water,' said "Time-not-come,"**[/1/](#n01)** and away he went.
+'I shall go to another water,' said "Time-not-come,"[^1] and away he went.
 
 'Why should we leave unless obliged?' asked "Quick-at-peril." 'When the thing befalls I shall do the best I can—
 
@@ -2434,7 +2434,7 @@ Now it befell one day that as Jewel-bright was bestowing a kiss on the mouth of 
   
  
 
-The Story of the Herons and the Mongoose**[/2/](#n02)**
+The Story of the Herons and the Mongoose[^2]
 
 "Among the mountains of the north there is one named Eagle-cliff, and near it, upon a fig-tree, a flock of Herons had their residence. At the foot of the tree, in a hollow, there lived a serpent; and he was constantly devouring the nestlings of the Herons. Loud were the complaints of the parent birds, until an old Heron thus advised them:—'You should bring some fishes from the pool, and lay them one by one in a line from the hole of yonder Mongoose to the hollow where the Serpent lives. The Mongoose will find him when it comes after the fish, and if it finds him it will kill him.' The advice seemed good, and was acted upon; but in killing the Snake the Mongoose overheard the cry of the young Herons; and climbing the tree daily, he devoured all that the Snake had left. Therefore,' concluded the Geese, 'do we bid you look well into your plan: if you should open your mouth, for instance, as we carry you, you will drop and be killed.'
 
@@ -2509,7 +2509,7 @@ Thereupon they repaired to him: 'Good Crane,' they said, 'what course is there f
 'Then the Vulture Far-sight laughed a low laugh and said—
 
 > 'Who, ere he makes a gain has spent it,  
-> Like the pot-breaker**[/3/](#n03)** will repent it.'
+> Like the pot-breaker[^3] will repent it.'
 
 'What was that?' asked the King. Far-sight related:—  
   
@@ -2532,7 +2532,7 @@ The Story of the Brahman and the Pans
 
 Oh, my Liege! war is uncertain! Nay, it may ruin victor and vanquished—
 
-> 'Sunda the strong, and giant Upasunda,**[/4/](#n04)**  
+> 'Sunda the strong, and giant Upasunda,[^4]  
 > Contending, like the lightning and the thunder,  
 > Slew each the other. Learn, the while you wonder.'
 
@@ -2544,13 +2544,13 @@ Oh, my Liege! war is uncertain! Nay, it may ruin victor and vanquished—
 
 The Duel of the Giants
 
-"Long ago, my Liege, there were two Daityas named Sunda and Upasunda, the which with penance and fasting worshipped that God who wears the moon**[/5/](#n05)** for his forehead-jewel; desiring to win his favor, and thereby the lordship of the Three Worlds. At last the God, propitiated by their devotion, spake thus unto them:—
+"Long ago, my Liege, there were two Daityas named Sunda and Upasunda, the which with penance and fasting worshipped that God who wears the moon[^5] for his forehead-jewel; desiring to win his favor, and thereby the lordship of the Three Worlds. At last the God, propitiated by their devotion, spake thus unto them:—
 
 'I grant a boon unto ye—choose what it shall be.'
 
-'And they, who would have asked dominion, were suddenly minded of Saraswati**[/6/](#n06)**—who reigns over the hearts and thoughts of men—to seek a forbidden thing.
+'And they, who would have asked dominion, were suddenly minded of Saraswati[^6]—who reigns over the hearts and thoughts of men—to seek a forbidden thing.
 
-'If,' said they, 'we have found favor, let the Divinity give us his own cherished Parvati,**[/7/](#n07)** the Queen of Heaven!'
+'If,' said they, 'we have found favor, let the Divinity give us his own cherished Parvati,[^7] the Queen of Heaven!'
 
 'Terribly incensed was the God, but his word had passed, and the boon must be granted; and Parvati the Divine was delivered up to them. Then those two world-breakers, sick at heart, sin-blinded, and afire with the glorious beauty of the Queen of Life—began to dispute, saying one to another: 'Mine is she! mine is she!' At the last they called for an umpire, and the God himself appeared before them as a venerable Brahman.
 
@@ -2558,7 +2558,7 @@ The Duel of the Giants
 
 'Then spake that Brahman:—
 
-> Brahmans for their lore**[/8/](#n08)** have honor; Kshattriyas for their bravery;  
+> Brahmans for their lore[^8] have honor; Kshattriyas for their bravery;  
 > Vaisyas for their hard-earned treasure; Sudras for humility.'
 
 Ye are Kshattriyas—and it is yours to fight; settle, then, this question by the sword.'
@@ -2587,7 +2587,7 @@ The Swan-king has friends and kinsmen, my Liege:—
 
 'Minister!' began the King, upon the departure of the Crane, 'tell me as to this peace, who are they with whom it should not be concluded?'
 
-'They be twenty,**[/9/](#n09)** namely——'
+'They be twenty,[^9] namely——'
 
 'Tarry not to name them,' said the King; 'and what be the qualities of a good ally?'
 
@@ -2625,7 +2625,7 @@ Counsel, my Liege, is quintuple—Commencing, providing, dividing, repelling, an
 
 'Crow!' asked King Jewel-plume, 'what sort of a Monarch is the Rajah Silver-sides?'
 
-'Truthful, may it please you,' replied the Crow; 'and therewithal noble as Yudisthira**[/10/](#n10)** himself.'
+'Truthful, may it please you,' replied the Crow; 'and therewithal noble as Yudisthira[^10] himself.'
 
 'And his Minister, the Goose?'
 
@@ -2649,7 +2649,7 @@ Besides, the Minister detected me immediately. It was the King whose innate good
 
 The Story of the Brahman and the Goat
 
-"A Brahman that lived in the forest of Gautama, your Majesty. He had purveyed a goat to make pooja,**[/11/](#n11)** and was returning home with it on life shoulder when he was descried by three knaves. 'If we could but obtain that goat,' said they, 'it would be a rare trick'; and they ran on, and seated themselves at the foot of three different trees upon the Brahman's road. Presently he came up with the first of them, who addressed him thus: 'Master! why do you carry that dog on your shoulder?' 'Dog!' said the Brahman, 'it is a goat for sacrifice!' With that he went on a coss,**[/12/](#n12)** and came to the second knave; who called out—'What doest thou with that dog, Master?' The Brahman laid his goat upon the ground, looked it all over, took it up again upon his back, and walked on with his mind in a whirl; for—
+"A Brahman that lived in the forest of Gautama, your Majesty. He had purveyed a goat to make pooja,[^11] and was returning home with it on life shoulder when he was descried by three knaves. 'If we could but obtain that goat,' said they, 'it would be a rare trick'; and they ran on, and seated themselves at the foot of three different trees upon the Brahman's road. Presently he came up with the first of them, who addressed him thus: 'Master! why do you carry that dog on your shoulder?' 'Dog!' said the Brahman, 'it is a goat for sacrifice!' With that he went on a coss,[^12] and came to the second knave; who called out—'What doest thou with that dog, Master?' The Brahman laid his goat upon the ground, looked it all over, took it up again upon his back, and walked on with his mind in a whirl; for—
 
 > 'The good think evil slowly, and they pay  
 > A price for faith—as witness "Crop-ear" may.'
@@ -2660,7 +2660,7 @@ The Story of the Brahman and the Goat
 
 The Story of the Camel, the Lion, and His Court
 
-"A Camel, may it please you," replied Night-cloud, "who strayed away from a kafila,**[/13/](#n13)** and wandered into the forest. A Lion, named 'Fierce-fangs,' lived in that forest; and his three courtiers, a Tiger, a Jackal, and a Crow, met the Camel, and conducted him to their King. His account of himself was satisfactory, and the Lion took him into his service under the name of Crop-ear. Now it happened that the rainy season was very severe, and the Lion became indisposed, so that there was much difficulty in obtaining food for the Court. The courtiers resolved accordingly to prevail on the Lion to kill the Camel; 'for what interest have we,' they said, 'in this browser of thistles?'
+"A Camel, may it please you," replied Night-cloud, "who strayed away from a kafila,[^13] and wandered into the forest. A Lion, named 'Fierce-fangs,' lived in that forest; and his three courtiers, a Tiger, a Jackal, and a Crow, met the Camel, and conducted him to their King. His account of himself was satisfactory, and the Lion took him into his service under the name of Crop-ear. Now it happened that the rainy season was very severe, and the Lion became indisposed, so that there was much difficulty in obtaining food for the Court. The courtiers resolved accordingly to prevail on the Lion to kill the Camel; 'for what interest have we,' they said, 'in this browser of thistles?'
 
 'What, indeed!' observed the Tiger; 'but will the Rajah kill him after his promise of protection, think you?'
 
@@ -2748,7 +2748,7 @@ The Story of the Frogs and the Old Serpent
 > Stands before the King to succor, follows to the pile to sigh;  
 > He is friend and he is kinsman—less would make the name a lie.'
 
-Then spoke a twice-passed Brahman,**[/14/](#n14)** Kapila by name, 'O Kaundinya! thou dost forget thyself to lament thus. Hear what is written—
+Then spoke a twice-passed Brahman,[^14] Kapila by name, 'O Kaundinya! thou dost forget thyself to lament thus. Hear what is written—
 
 > 'Weep not! Life the hired nurse is, holding us a little space;  
 > Death, the mother who doth take us back into our proper place.'  
@@ -2832,12 +2832,12 @@ To be master of one's self—to eat only to prolong life—to yield to love no m
 > Thine own self is the stream for thee to make ablutions in:  
 > In self-restraint it rises pure—flows clear in tide of truth,  
 > By widening banks of wisdom, in waves of peace and ruth.  
-> Bathe there, thou son of Pandu!**[/15/](#n15)** with reverence and rite,  
+> Bathe there, thou son of Pandu![^15] with reverence and rite,  
 > For never yet was water wet could wash the spirit white.'
 
 Resign thyself to loss. Pain exists absolutely. Ease, what is it but a minute's alleviation?'
 
-'It is nothing else,' said Kaundinya: 'I will resign myself!' Thereupon,' the Serpent continued, 'he cursed me**[/16/](#n16)** with the curse that I should be a carrier of frogs, and so retired—and here remain I to do according to the Brahman's malediction.'
+'It is nothing else,' said Kaundinya: 'I will resign myself!' Thereupon,' the Serpent continued, 'he cursed me[^16] with the curse that I should be a carrier of frogs, and so retired—and here remain I to do according to the Brahman's malediction.'
 
 'The Frog, hearing all this, went and reported it to Web-foot the Frog-King, who shortly came himself for an excursion on the Serpent. He was carried delightfully, and constantly employed the conveyance. But one day observing the Serpent to be sluggish, he asked the reason.
 
@@ -2929,41 +2929,41 @@ Unto lips, and breast, and head:
 And day by day, that these fair things befall,  
 The Lady Lukshmi give her grace to all.'
 
- **~~~~~~~~~~~**  
-N O T E S
 
-**[/1/](#m01)** These composite titles may serve as instances of conjoined Sanskrit words. One such in the Champú of Trivikrama contains 118 letters.
 
-**[/2/](#m02)** An animal of the weasel kind, very common in India, and valued for its active animosity against all serpents.
 
-**[/3/](#m03)** This episode is the undoubted origin of "Almaschar" in the _Arabian Nights_; and of a host of stories and proverbs against the imprudence of "counting chickens before they are hatched."
+[^1]: These composite titles may serve as instances of conjoined Sanskrit words. One such in the Champú of Trivikrama contains 118 letters.
 
-**[/4/](#m04)** Two of the Daityas, the Hindoo Titans who fought against the Suras.
+[^2]: An animal of the weasel kind, very common in India, and valued for its active animosity against all serpents.
 
-**[/5/](#m05)** Shiva:
+[^3]: This episode is the undoubted origin of "Almaschar" in the _Arabian Nights_; and of a host of stories and proverbs against the imprudence of "counting chickens before they are hatched."
+
+[^4]: Two of the Daityas, the Hindoo Titans who fought against the Suras.
+
+[^5]: Shiva:
 
 > "On whose brow the Moon shines brave,  
 > Like the foam on Gunga's wave."
 
-**[/6/](#m06)** The wife of Brahma, goddess of speech and eloquence—inventress of the Devanagari character and of the Sanskrit. "Thou," says the Sage Vásistha, addressing her in the Mahabharat (Salya Parva), "art nourishment, radiance, fame, perfection, intellect, light. Thou art speech; thou art Swáhá; this world is thine, and thou, in four-fold form, art in all its creatures."
+[^6]: The wife of Brahma, goddess of speech and eloquence—inventress of the Devanagari character and of the Sanskrit. "Thou," says the Sage Vásistha, addressing her in the Mahabharat (Salya Parva), "art nourishment, radiance, fame, perfection, intellect, light. Thou art speech; thou art Swáhá; this world is thine, and thou, in four-fold form, art in all its creatures."
 
-**[/7/](#m07)** The sife of Shiva—another name for Durga, the "Mountain Queen." She is the daughter of Himála, King of the Snowy Hills; and her temple, as at Poona, stands generally on a lofty spot.
+[^7]: The sife of Shiva—another name for Durga, the "Mountain Queen." She is the daughter of Himála, King of the Snowy Hills; and her temple, as at Poona, stands generally on a lofty spot.
 
-**[/8/](#m08)** Here is a mention of the four castes, with their distinctive occupations.
+[^8]: Here is a mention of the four castes, with their distinctive occupations.
 
-**[/9/](#m09)** I suppress in this place nineteen shlokes, or stanzas, of the original, which enumerate rather tediously the vices or failings to be avoided in an ally.
+[^9]: I suppress in this place nineteen shlokes, or stanzas, of the original, which enumerate rather tediously the vices or failings to be avoided in an ally.
 
-**[/10/](#m10)** The hero of the _Mahabharat_, who crowns the devotion of his life by refusing to enter Heaven, unless his wife and friends share in its felicities with him.
+[^10]: The hero of the _Mahabharat_, who crowns the devotion of his life by refusing to enter Heaven, unless his wife and friends share in its felicities with him.
 
-**[/11/](#m11)** Sacrifice.
+[^11]: Sacrifice.
 
-**[/12/](#m12)** Two miles.
+[^12]: Two miles.
 
-**[/13/](#m13)** A caravan.
+[^13]: A caravan.
 
-**[/14/](#m14)** The young Brahman, being invested with the sacred thread, and having concluded his studies, becomes of the second order,—a householder—"grihastha."
+[^14]: The young Brahman, being invested with the sacred thread, and having concluded his studies, becomes of the second order,—a householder—"grihastha."
 
-**[/15/](#m15)** Yudisthira, titular son of the Prince of Delhi, in the _Mahabharata_.
+[^15]: Yudisthira, titular son of the Prince of Delhi, in the _Mahabharata_.
 
-**[/16/](#m16)** The power of a Brahman's curse is everywhere illustrated in Hindoo writings. "Carry me to Viswamitra," says Vasistha, "lest he curse thee, O chief of rivers!" (_Mahabharata_—Salya Parva). These sages transformed each other into birds, by the force of mutual imprecation. _Bhagvata-Pooran_—ix. 7, 6. But Vaswamitra was originally a Kshattriya, and became a Brahman by his austerities only. Vasistha, a true Brahman, resisted by a curse the celestial weapons raised against him. Saktri also, his son, met the King Kalmashapada, and, refusing to yield the path, was struck by him. The Brahman instantly cursed the King to become a man-eater, and the first victim of the imposed propensity was the powerful but improvident Saktri himself. (_Mahabharata_, Adi Parva.) The ocean, originally fresh and pure, became salt by the power of a Brahmanic imprecation.
+[^16]: The power of a Brahman's curse is everywhere illustrated in Hindoo writings. "Carry me to Viswamitra," says Vasistha, "lest he curse thee, O chief of rivers!" (_Mahabharata_—Salya Parva). These sages transformed each other into birds, by the force of mutual imprecation. _Bhagvata-Pooran_—ix. 7, 6. But Vaswamitra was originally a Kshattriya, and became a Brahman by his austerities only. Vasistha, a true Brahman, resisted by a curse the celestial weapons raised against him. Saktri also, his son, met the King Kalmashapada, and, refusing to yield the path, was struck by him. The Brahman instantly cursed the King to become a man-eater, and the first victim of the imposed propensity was the powerful but improvident Saktri himself. (_Mahabharata_, Adi Parva.) The ocean, originally fresh and pure, became salt by the power of a Brahmanic imprecation.
 
