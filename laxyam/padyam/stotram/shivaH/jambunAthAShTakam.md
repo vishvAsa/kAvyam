@@ -76,7 +76,7 @@ Adi Shankaracharya is said to have visited the temple and worshipped the Lord an
 शमित-स्मर-दव-विसरश्  
 शक्राद्य्-आशास्य-सेवनावसरः ।  
 करि-वन-घन-भाग्य-भरो  
-गिरतु मलं मम मनस्-सरश्-शफरः ॥ ४॥
+गिरतु मलं मम मनस्-सरश्-शफरः ॥ ४॥+++(4)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -104,7 +104,7 @@ Adi Shankaracharya is said to have visited the temple and worshipped the Lord an
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत-शमन-दर्प-हरणं  
-कृतकेतर-फणिति+++(=भणिति→वेदा अश्वीकृता)+++-चारि-रथ-चरणम् ।  
+कृतकेतर-फणिति+++(=भणिति→वेदा अश्वीकृता)+++-चारि-रथ-चरणम् ।+++(4)+++  
 शक्रादि-श्रित-चरणं  
 शरणं जम्भू-द्रुमान्तिकाभरणम् ॥ ६॥
 </details>
