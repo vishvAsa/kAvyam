@@ -3,9 +3,22 @@ title = "०७ उत्तर-काण्डम्"
 
 +++
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हाटक-गिरि-कटक-लडह+++(=मनोज्ञ)+++--**पाद-पीठ**--निकट-तट--परिलुठित-  
 निखिल-**नृपति-किरीट**-कोटि--  
 विविध-मणि-गण--किरण-निकर--**नीराजित--चरण**-राजीव !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+हाटक-गिरि-कटक-लडह+++(=मनोज्ञ)+++--**पाद-पीठ**--निकट-तट--परिलुठित-  
+निखिल-**नृपति-किरीट**-कोटि--  
+विविध-मणि-गण--किरण-निकर--**नीराजित--चरण**-राजीव !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -13,7 +26,18 @@ Oh RaghuveerA! You were seated on the throne of IshvAku dynasty after Your coron
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दिव्य-भौमायोध्याधिदैवत !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+दिव्य-भौमायोध्याधिदैवत !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -23,9 +47,22 @@ Swamy Desikan salutes the Raghuveeran, who is the Lord of Nithya VibhUthi and Le
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पितृ-वध-कुपित--परशु-धर-मुनि--विहित--  
 नृप-हनन-कदन+++(=पीडा)+++--पूर्व-काल-प्रभव--  
 शत-गुण--**प्रतिष्ठापित--+++(नूतन-)+++धार्मिक-राज-वंश** !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+पितृ-वध-कुपित--परशु-धर-मुनि--विहित--  
+नृप-हनन-कदन+++(=पीडा)+++--पूर्व-काल-प्रभव--  
+शत-गुण--**प्रतिष्ठापित--+++(नूतन-)+++धार्मिक-राज-वंश** !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -34,8 +71,20 @@ Here Swamy Desikan salutes the superior the establishment of hundreds of Raaja v
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 शुभ-चरित-रत--**भरत-खर्वित**-गर्व--  
 **गन्धर्व**-यूथ-गीत--विजय-गाथा-शत !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+शुभ-चरित-रत--**भरत-खर्वित**-गर्व--  
+**गन्धर्व**-यूथ-गीत--विजय-गाथा-शत !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -44,7 +93,18 @@ The land on both banks of Sindhu river belong to GandharvAs. During the time of 
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 **शासित-मधु-सुत**--शत्रुघ्न-सेवित !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+**शासित-मधु-सुत**--शत्रुघ्न-सेवित !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -53,7 +113,18 @@ During the Raama Raajyam, there was an asuran by the name of LavaNan, who was th
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 **कुश-लव-परिगृहीत**--कुल-गाथा-विशेष !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+**कुश-लव-परिगृहीत**--कुल-गाथा-विशेष !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -66,9 +137,22 @@ They learnt the Ithihsam from the Sage (author) himself and set the slOkams to m
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 विधि-वश-+++(श्लोक-रूप-)+++परिणमद्--  
 अमर-भणिति-कविवर-रचित--  
 निज-चरित--**निबन्धन-निशमन-निर्वृत** !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+विधि-वश-+++(श्लोक-रूप-)+++परिणमद्--  
+अमर-भणिति-कविवर-रचित--  
+निज-चरित--**निबन्धन-निशमन-निर्वृत** !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -78,7 +162,18 @@ Sage Vaalmiki flew into a rage over the cruelty of the hunter and could not take
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सर्व-जन-सम्मानित !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्व-जन-सम्मानित !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -86,8 +181,20 @@ Hail to Thee my Lord, who is eulogized by every one ! In Your Raaja sabhai, Kusa
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुनर्-उपस्थापित--विमान-वर-विश्राणन--  
 प्रीणित-वैश्रवण--**विश्रावित-यशः-प्रपञ्च** !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुनर्-उपस्थापित--विमान-वर-विश्राणन--  
+प्रीणित-वैश्रवण--**विश्रावित-यशः-प्रपञ्च** !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -95,7 +202,18 @@ Hail to Thee, Oh Lord Raamachandra, whose generosity was praised by the happy Ku
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पञ्चताऽपन्न--मुनि-कुमार--**सञ्जीवनामृत** !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+पञ्चताऽपन्न--मुनि-कुमार--**सञ्जीवनामृत** !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -104,7 +222,18 @@ Hail to Thee, Oh RaghuveerA, who brought back to life the son of a sage in Your 
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 त्रेता-युग-**प्रवर्तित--कार्त-युग-वृत्तान्त** !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्रेता-युग-**प्रवर्तित--कार्त-युग-वृत्तान्त** !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -117,8 +246,20 @@ During His reign, Raamachandran established and maintained the superior dharmams
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अविकल-बहु-सुवर्ण--हय-मख-सहस्र--निर्वहण-- 
 **निर्वर्तित-निज-वर्णाश्रम-धर्म** !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+अविकल-बहु-सुवर्ण--हय-मख-सहस्र--निर्वहण-- 
+**निर्वर्तित-निज-वर्णाश्रम-धर्म** !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -127,7 +268,18 @@ Hail to Thee Oh Lord, who observed meticulously Your VarNAsRaama dharmams and co
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सर्व-कर्म-समाराध्य !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्व-कर्म-समाराध्य !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -136,7 +288,18 @@ Hail to Thee My Lord, who is worshipped by all karmAs performed by the people! I
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 +++(सर्व-कर्म-समाराध्यत्वात्)+++ सनातन-धर्म !  
+</details>
+
+<details><summary>मूलम्</summary>
+
++++(सर्व-कर्म-समाराध्यत्वात्)+++ सनातन-धर्म !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -144,8 +307,20 @@ Hail To Thee, Oh Lord Raamachandra, who is the embodiment of all the eternal dha
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 साकेत-जन-पद--जनि-धनिक--जङ्गम--तद्-इतर-जन्तु-जात--  
 दिव्य-गति-दान--**दर्शित--नित्य-निस्सीम-वैभव** !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+साकेत-जन-पद--जनि-धनिक--जङ्गम--तद्-इतर-जन्तु-जात--  
+दिव्य-गति-दान--**दर्शित--नित्य-निस्सीम-वैभव** !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 

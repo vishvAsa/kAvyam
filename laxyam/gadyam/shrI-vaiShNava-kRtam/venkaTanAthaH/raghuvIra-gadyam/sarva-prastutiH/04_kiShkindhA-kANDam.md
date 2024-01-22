@@ -30,7 +30,18 @@ HanumAn took the disguise of a mendicant and approached the brothers. He bowed b
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 **प्रभञ्जन-तनय**--भावुक-भाषित--**रञ्जित**-हृदय !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+**प्रभञ्जन-तनय**--भावुक-भाषित--**रञ्जित**-हृदय !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -78,7 +89,18 @@ PURANDARA VITALANA PUNYATHA KOOSU
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 **तरणि-सुत-शरणागति**--परतन्त्री-कृत--स्वातन्त्र्य !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+**तरणि-सुत-शरणागति**--परतन्त्री-कृत--स्वातन्त्र्य !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -101,9 +123,22 @@ This is the reference to the Bhaktha Paaratantryam or the Yathokthakaari aspect 
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 द्रुत-घटित--कैलास-कोटि-विकट+++(=विशाल)+++--  
 **दुन्दुभि-कङ्काल**-कूट--दूर-**विक्षेप**-दक्ष--  
 दक्षिणेतर-पादाङ्गुष्ठ--दर+++(=ईषत्)+++-चलन--**विश्वस्त-सुहृद्-आशय** !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्रुत-घटित--कैलास-कोटि-विकट+++(=विशाल)+++--  
+**दुन्दुभि-कङ्काल**-कूट--दूर-**विक्षेप**-दक्ष--  
+दक्षिणेतर-पादाङ्गुष्ठ--दर+++(=ईषत्)+++-चलन--**विश्वस्त-सुहृद्-आशय** !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -126,8 +161,20 @@ SugreevA asked Raama: “O prince of Ayodhyaa! How will you be able to kill my m
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अति-पृथुल--बहु-**विटपि--गिरि--धरणि-विवर**--  
 युगपद्-उदय--विवृत--चित्र-**पुङ्ख**+++(=बाण)+++-वैचित्र्य !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+अति-पृथुल--बहु-**विटपि--गिरि--धरणि-विवर**--  
+युगपद्-उदय--विवृत--चित्र-**पुङ्ख**+++(=बाण)+++-वैचित्र्य !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -146,11 +193,26 @@ ANJALI: PARAAMA MUDRAA KSHIPRAM DEVA PRASAADHINI “Swami Desikan with Anjali Mu
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 +++(स्व-)+++विपुल-भुज-शैल-मूल-निबिड+++(मांस)+++-  
 **निपीडित-रावण**--रणरणक+++(=उद्वेग)+++-जनक--  
 चतुर्-उदधि-विहरण-चतुर--  
 **कपि-कुल-पति**--हृदय-विशाल-शिलातल--  
 **दारण**-दारुण--शिली-मुख !  
+</details>
+
+<details><summary>मूलम्</summary>
+
++++(स्व-)+++विपुल-भुज-शैल-मूल-निबिड+++(मांस)+++-  
+**निपीडित-रावण**--रणरणक+++(=उद्वेग)+++-जनक--  
+चतुर्-उदधि-विहरण-चतुर--  
+**कपि-कुल-पति**--हृदय-विशाल-शिलातल--  
+**दारण**-दारुण--शिली-मुख !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 

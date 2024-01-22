@@ -3,7 +3,18 @@ title = "०८ निगमनम्"
 
 +++
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भव-तपन-तापित--भक्त-जन-भद्राराम !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+भव-तपन-तापित--भक्त-जन-भद्राराम !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -12,7 +23,18 @@ Hail to Thee, My Lord, who is the cool and comfortable flower garden for those a
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 श्री-राम-भद्र !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्री-राम-भद्र !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -20,7 +42,18 @@ Hail to Thee, My Lord, who is helps Your bhakthAs fall in love with Your most au
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नमस् ते पुनस् ते नमः ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+नमस् ते पुनस् ते नमः ॥
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -28,10 +61,24 @@ NamaskArams to You, My Lord of such limitless glories! AdiyEn salutes again and 
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 चतुर्-मुखेश्वर-मुखैः  
 पुत्र-पौत्रादि-शालिने ।  
 **नमः** सीता-समेताय  
 **रामाय** गृह-मेधिने ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+चतुर्-मुखेश्वर-मुखैः  
+पुत्र-पौत्रादि-शालिने ।  
+**नमः** सीता-समेताय  
+**रामाय** गृह-मेधिने ॥
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -42,10 +89,24 @@ Lord Raamachandra has SithA Devi as His dharma Pathni. Brahma is His son and Siv
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कवि-कथक-सिंह-  
 **कथितं** कठोर--सु-कुमार-गुम्फ-गम्भीरम् ।  
 भव-भय-भेषजम् एतत्  
 **पठत** महावीर-वैभवं सुधियः ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+कवि-कथक-सिंह-  
+**कथितं** कठोर--सु-कुमार-गुम्फ-गम्भीरम् ।  
+भव-भय-भेषजम् एतत्  
+**पठत** महावीर-वैभवं सुधियः ॥
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 

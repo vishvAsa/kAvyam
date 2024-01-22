@@ -36,9 +36,22 @@ SRI RAAMA RATNAM PRANATHOSMI NITYAM II YUDHDHA KAANDAM
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अहित-**सहोदर-रक्षः-परिग्रह**--  
 विसंवादि-विविध-सचिव--विप्रलम्भ-समय-संरम्भ+++(=प्रयास)+++--  
 समुज्जृम्भित-**सर्वेश्वर-भाव** !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+अहित-**सहोदर-रक्षः-परिग्रह**--  
+विसंवादि-विविध-सचिव--विप्रलम्भ-समय-संरम्भ+++(=प्रयास)+++--  
+समुज्जृम्भित-**सर्वेश्वर-भाव** !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -87,9 +100,22 @@ Such is his Dayaa for the PrapannAs and His Deekshaa to protect them.
 
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सकृत्-**प्रपन्न**-जन-**संरक्षण**-दीक्षित !  
 वीर !  
 सत्य-व्रत !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+सकृत्-**प्रपन्न**-जन-**संरक्षण**-दीक्षित !  
+वीर !  
+सत्य-व्रत !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 

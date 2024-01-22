@@ -30,8 +30,20 @@ The emperor begs his son Raama to take him captive and ascend the throne. Raama 
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अनृत-भय-मुषित-हृदय--**पितृ-वचन-पालन**-  
 प्रतिज्ञा-ऽवज्ञात-यौवराज्य !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनृत-भय-मुषित-हृदय--**पितृ-वचन-पालन**-  
+प्रतिज्ञा-ऽवज्ञात-यौवराज्य !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -41,7 +53,18 @@ As a result of that promise to his father, Raama abandoned willingly his legitim
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 **निषाद-राज-सौहृद**-सूचित-सौशील्य-सागर !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+**निषाद-राज-सौहृद**-सूचित-सौशील्य-सागर !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -59,8 +82,20 @@ Hail to Thee! O Raghuveera who through your expression of friendship to the chie
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भरद्वाज-शासन-परिगृहीत--  
 विचित्र-**चित्र-कूट**-गिरि-कटक-तट-**रम्यावसथ** !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+भरद्वाज-शासन-परिगृहीत--  
+विचित्र-**चित्र-कूट**-गिरि-कटक-तट-**रम्यावसथ** !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -92,7 +127,18 @@ Such is the glory of Chitrakootam celebrated by Sage Valmiki, Kulasekhara Azhwaa
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 +++(भरत-जाबल्यादि-प्रत्याख्यानेन)+++ अनन्य-शासनीय !  
+</details>
+
+<details><summary>मूलम्</summary>
+
++++(भरत-जाबल्यादि-प्रत्याख्यानेन)+++ अनन्य-शासनीय !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 

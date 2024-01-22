@@ -3,7 +3,18 @@ title = "०१ बाल-काण्डम्"
 
 +++
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जय जय **महावीर** !
+</details>
+
+<details><summary>मूलम्</summary>
+
+जय जय **महावीर** !
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -12,7 +23,18 @@ MAHAVEERA! This Gadhyam derives its name of Maha Veera Vaibhavam from this FIRST
 Swami endearingly addresses Sri Raama, the destroyer of Ravana as the valorous one, who has no match regarding His heroic deeds in the battlefield.
 </details>
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 **महाधीर** धौरेय !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+**महाधीर** धौरेय !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -20,9 +42,22 @@ MAHA DHEERA DHOWREYA! JAYA JAYA! Hail to thee, Hail to thee, who are in the fron
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 देवासुर-समर-समय-+++(जय-)+++समुदित--  
 निखिल-निर्जर-निर्धारित--  
 **निरवधिक-माहात्म्य** !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+देवासुर-समर-समय-+++(जय-)+++समुदित--  
+निखिल-निर्जर-निर्धारित--  
+**निरवधिक-माहात्म्य** !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -30,7 +65,18 @@ O Lord, who was accepted and praised by all the Devas, as the one of unsurpassed
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दशवदन-दमित--**दैवत-परिषद्-अभ्यर्थित**--दाशरथि-भाव !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+दशवदन-दमित--**दैवत-परिषद्-अभ्यर्थित**--दाशरथि-भाव !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -40,7 +86,18 @@ Lord Vishnu agrees to become the son of the Emperor and appears as Prajapati fro
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 **दिनकर-कुल**-कमल-दिवाकर !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+**दिनकर-कुल**-कमल-दिवाकर !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -68,9 +125,22 @@ The central tribute in all these salutations is to Sri Raama's birth in the Sury
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दिविषद्-अधिपति-रण--  
 सह-चरण-चतुर--  
 **दशरथ-चरम-ऋण-विमोचन** !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+दिविषद्-अधिपति-रण--  
+सह-चरण-चतुर--  
+**दशरथ-चरम-ऋण-विमोचन** !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -82,7 +152,18 @@ Like all mortals, he had the three debts to discharge. Emperor Dasaratha liquida
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कोसल-सुता--कुमार-भाव--कञ्चुकित--**कारणाकार** !
+</details>
+
+<details><summary>मूलम्</summary>
+
+कोसल-सुता--कुमार-भाव--कञ्चुकित--**कारणाकार** !
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -113,7 +194,18 @@ Vaamam means Kalyana Gunas. Since the Lord makes us through His Grace to have mo
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कौमार-केलि-**गोपायित-कौशिकाध्वर**!  
+</details>
+
+<details><summary>मूलम्</summary>
+
+कौमार-केलि-**गोपायित-कौशिकाध्वर**!  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -156,7 +248,18 @@ Swami Desikan celebrated with this Gadya portion, the heroism of the young boy R
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रणाध्वर-धुर्य--भव्य-**दिव्यास्त्र-वृन्द--वन्दित** !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+रणाध्वर-धुर्य--भव्य-**दिव्यास्त्र-वृन्द--वन्दित** !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
@@ -168,7 +271,18 @@ As the Sage recited the mantras for the missiles, all of them appeared before Sr
 </details>
 
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रणत-जन-**विमत-विमथन**--दुर्-ललित--दोर्-ललित !  
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रणत-जन-**विमत-विमथन**--दुर्-ललित--दोर्-ललित !  
+</details>
+
 
 <details><summary>शठकोपः (En)</summary>
 
