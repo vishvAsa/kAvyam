@@ -21,7 +21,7 @@ unicode_script = "devanagari"
 **परम-व्योम भास्करः** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Our Lord, who is the Sun of the PaRaamakasam (Sri Vaikuntam) shines with supreme effulgence. He took the incarnation as the son of the Emperor Dasaratha to destroy the darkness (fear) of those, who sought refuge at His feet. He is inseparable from Sita Devi, just as the disc of Sun is inseparable from its luster. Sri Raamachandra of these attributes towers over every one through his anantha kalyana gunas (limitless auspicious attributes).
 </details>
@@ -40,7 +40,7 @@ Our Lord, who is the Sun of the PaRaamakasam (Sri Vaikuntam) shines with supreme
 
 जय जय **महावीर** !
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 MAHAVEERA! This Gadhyam derives its name of Maha Veera Vaibhavam from this FIRST salutation.
 
@@ -49,7 +49,7 @@ Swami endearingly addresses Sri Raama, the destroyer of Ravana as the valorous o
 
 **महाधीर** धौरेय !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 MAHA DHEERA DHOWREYA! JAYA JAYA! Hail to thee, Hail to thee, who are in the front row of all known for their courage! In the last salutation, Sri Raama was hailed as a supreme hero. Here his courage and steadfastness in the battlefield is saluted. One who overcomes setbacks and fights on in the face of adversities is said to have the quality of Dhairyam, the key attribute of a Dheera. Raama is recognized as the supreme Dheera (Maha Deera) here.
 </details>
@@ -59,7 +59,7 @@ MAHA DHEERA DHOWREYA! JAYA JAYA! Hail to thee, Hail to thee, who are in the fron
 निखिल-निर्जर-निर्धारित--  
 **निरवधिक-माहात्म्य** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Lord, who was accepted and praised by all the Devas, as the one of unsurpassed valor, as a result of your help to the suffering Devas in the time of their battle with the Asuraas! Hail to Thee! Hail to Thee! (Many eons ago, there was a mighty battle between the Devas and the Asuras. The Devas were routed and prayed for the Lord's help in their hour of distress. He responded to their call with alacrity and defeated the Asuras soundly. The elated Devas hailed Him as the Devathidevan and eulogized Him as the one with matchless glory).
 </details>
@@ -67,7 +67,7 @@ O Lord, who was accepted and praised by all the Devas, as the one of unsurpassed
 
 दशवदन-दमित--**दैवत-परिषद्-अभ्यर्थित**--दाशरथि-भाव !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Mighty hero, who took the incarnation as the celebrated son of emperor Dasaratha, at the pleading of the assembly of the Devas tormented by the ten-headed Ravana! Hail to thee! Hail to Thee! (Sarga 15 and 16 of Bala Khaandam is summarized here. Sage Rysyasringa performs an Atharva Veda Ishti (sacrifice to bless Emperor Dasaratha with male progeny. The Devas approach Brahma at that very sacrifice and pray to him to destroy the evil Ravana. Brahma in turn pleads with Vishnu present at the same sacrifice to take the incarnation of the son of Emperor Dasaratha with the mission of destroying Ravana.
 
@@ -77,7 +77,7 @@ Lord Vishnu agrees to become the son of the Emperor and appears as Prajapati fro
 
 **दिनकर-कुल**-कमल-दिवाकर !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 DINAKARA KULA KAMALA DIWAKARA! Hail to thee, who is the Sun for the lotus of Surya Vamsam! The Sun makes all the lotuses of the world blossom, as it rises on the eastern horizon.
 
@@ -107,7 +107,7 @@ The central tribute in all these salutations is to Sri Raama's birth in the Sury
 सह-चरण-चतुर--  
 **दशरथ-चरम-ऋण-विमोचन** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Hail to thee O Lord, who through your birth liquidated the third debt of your father Dasaratha, who was famous for his help to Indra in his battles with Asuraas! 12
 
@@ -119,7 +119,7 @@ Like all mortals, he had the three debts to discharge. Emperor Dasaratha liquida
 
 कोसल-सुता--कुमार-भाव--कञ्चुकित--**कारणाकार** !
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 KOSALASUTHAA KUMARA BHAVA KANCHUKITA KAARANAAKAARA! Hail to thee who hid his avathara rahasyam through your birth as the child of queen Kousalai! O Lord! The entire Universe emanates from you and therefore you are the root cause for every thing on this universe created, sustained and destroyed by you. Out of your mere Sankalpa (ideation), You could have destroyed Ravana and removed the worries of the Devas. You as the Supreme Being hid all of your glories and did garbha Vaasam in queen Kousaya's womb as a mere mortal child. As a continuation of that play, you were born on this earth; breast fed at your mother's breast, cried when you were hungry and played on the sands of Sarayu like an ordinary child. The people of Ayodhya and the world were unable to understand your divinity and supreme status as Sriman Narayana as a result of the deeds that you performed as a mere human child.
 
@@ -150,7 +150,7 @@ Vaamam means Kalyana Gunas. Since the Lord makes us through His Grace to have mo
 
 कौमार-केलि-**गोपायित-कौशिकाध्वर**!  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Hail to Thee, who protected the yagam of Sage Viswamitra as if it were a child's play! Here Swami Desikan pays tribute to the extraordinary valor of Sri Raghavan even as a small boy. He destroyed the mighty foes of Sage Viswamitra (the Rakshasas and their leaders, Maricha and Subahu) with effortless ease, when they interfered with the performance of the sage's Yagam at his hermitage. He sent Maricha spinning in the sky over enormous distance and dumped him into the ocean and yet spared his life this time. He killed the other demon Subahu. Sri Raama constructed a canopy of arrows over the site of the Yagam. Kamban the Illustrious Tamil poet describes the valor of Sri Raama this way: 14
 
@@ -193,7 +193,7 @@ Swami Desikan celebrated with this Gadya portion, the heroism of the young boy R
 
 रणाध्वर-धुर्य--भव्य-**दिव्यास्त्र-वृन्द--वन्दित** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Hail to Thee! O Raghuveera saluted by the assembly of sacred and mighty arrows waiting humbly for your command to invoke them in the yaga known as the battle.
 
@@ -205,7 +205,7 @@ As the Sage recited the mantras for the missiles, all of them appeared before Sr
 
 प्रणत-जन-**विमत-विमथन**--दुर्-ललित--दोर्-ललित !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Hail to Thee, O Raghuveera, shining with the fearsome shoulders that engage in the destruction of the enemies of those, who seek refuge at your feet! Swami pays tribute to the powerful and mighty shoulders of the Lord engaged in the battle with the enemies of those, who sought his protection. Swami points out that those shoulders of the Raghuveeran are unsurpassable in their beauty and majesty.
 </details>
@@ -214,7 +214,7 @@ Hail to Thee, O Raghuveera, shining with the fearsome shoulders that engage in t
 तनुतर-विशिख--विताडन--**विघटित**--  
 विशरारु+++(=ऋषि)+++-शरारु--**ताटका-ताटकेय** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Hail to Thee, O Valorous one, who used tiny arrows to destroy Tatakaa and humiliate her sons not tormented until then by anyone.
 
@@ -227,7 +227,7 @@ Here, Swami refers to the killing of Tataka at the command of Sage Viswamitra an
 -रज-उप-**मृदित-**निज-**वृजिन**+++(=पाप)+++--  
 जहद्-उपल-तनु-रुचिर--**परम-मुनि-वर-युवति--नुत** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 JAYA! JAYA! This Gadya salutation is one of the two long passages in Bala Khandam providing an excellent example of the figure of speech known as onomatopoeia, where the rhetorical effect resulting from reciting merges with the meaning intended. Words flow from the tongue and mind of Swami Desikan as a result of the blessings of Lord Hayagriva, his Upasana Murthy. The other passage of Bala Khandam resonant with musical sounds is the twentieth Gadya salutation dealing with Parasuraama Garva Bhangam.
 
@@ -239,7 +239,7 @@ Now, Swami connects the holiness and redeeming quality of the Makarandha dust pa
 
 **कुशिक-सुत-कथित**--विदित-नव+++(=नूतन)+++-विविध-कथ !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Raghuveera who heard many a novel story told by Sage Viswamitra as you walked with him to protect his Yajna and also on your way to Mithilai! Hail to Thee! Here Swami refers to the many stories that the Sage told to the brothers so that they did not feel the strain of the journey through the forest. You heard those novel stories with great intensity and desire. Sage told stories on the origin of Manmathan, history of Tatakaa, Sriman Naaraayana's incarnation as Vaamana to curb the pride and arrogance of Mahaa Bali and the history of SiddhaasRaama, Siva Dhanus (Bow) in King Janaka's possession, his (sage Viswamitra's )own lineage, the birth of SubRaamanya and the story of the sons of Sakara and the birth of Ganga.
 </details>
@@ -247,7 +247,7 @@ O Raghuveera who heard many a novel story told by Sage Viswamitra as you walked 
 
 **मैथिल**-नगर-सुलोचना--**लोचन-चकोर-चन्द्र** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Lord who is the life-giving moon to the beautiful eyes of the women of Mithila known for the beauty of their eyes! Hail to Thee! Hail to Thee! As Lord Raamachandra entered the city of Mithilai, the beautiful women feasted on your beauty just as the legendary chakora birds’ feast on the rays of moon, their only food. These women felt that the fruits of possessing eyes were realized that day.
 
@@ -259,7 +259,7 @@ AruNachala Kavirayar describes the wonder and bafflement of Sita seeing the divi
 
 खण्ड-परशु+++(=शिव)+++-**कोदण्ड**+++(=धनुः)+++-प्रकाण्ड+++(=शाखा)+++-**खण्डन-शौण्ड**--भुज-दण्ड !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Here, Swami Desikan pays tribute to the mighty shoulders of Raama and their valor in breaking the powerful bow of Siva. Hail to Thee O Raghuveera, who effortlessly broke into two the mighty bow of Siva through your matchless strength and heroism! “Effortlessly breaking Siva’s bow” It took five thousand men to draw the bow resting in its case to the court of King Janaka for the competition to string the bow. The winner in that competition was promised beautiful Sita's hand in marriage by king Janaka. All the kings assembled for that Svayamvaram failed miserably in the contest. Sri Raama at the behest of Sage Viswamitra lifted the bow effortlessly and broke it into two, when he tried to string it.
 
@@ -270,7 +270,7 @@ Such was the power of his mighty shoulders (SHOWNDA BHUJADHANDA)!
 +++(सीता-लाभेन)+++ चण्ड-कर--किरण-मण्डल--बोधित--  
 **पुण्डरीक**-वन--रुचि--लुण्टाक-**लोचन** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 The poetic skills of Swami Desikan are revealed here. He suggests that the Lord's eyes stole the beauty of the fully blossomed lotuses that responded to the welcoming rays of their friend, the Sun. This DINAAKARA KAMALA KULA DIVAAKARAN had a special relationship to the lotuses.
 
@@ -282,7 +282,7 @@ The Siva Dhanus was broken by now. Sri Raama was assured thus of receiving Sita 
 
 **मोचित-जनक**-हृदय-**शङ्कातङ्क** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 MOCHITA JANAKA HRUDHAYA SHANKAATANKA! JAYA! JAYA! O Raghuveera who banished the worries that resided in the heart of King Janaka about your power to string the Siva Dhanus and win in the Svayamvaram and fulfil your avathara kaaryam! Hail to Thee! Hail to Thee! “Sita-kalyana vaibhogam” 21
 </details>
@@ -293,7 +293,7 @@ MOCHITA JANAKA HRUDHAYA SHANKAATANKA! JAYA! JAYA! O Raghuveera who banished the 
 परिहृत--निखिल-नर-पति-वरण--  
 **जनक-दुहितृ--कुच-तट-विहरण**-समुचित--कर-तल !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Here Swami Desikan salutes the unique valor that Sri RaAmachandra displayed at the Svayamvaram to win the hand and heart of Sita Piratti. Since none of the assembled kings other than Sri Raamachandra were able to string the Siva Dhanus, Sita Devi had to reject (happily) their wishes to marry her. O, Sri Raama! You bent and broke that mighty bow and qualified yourself to engage in amorous and conjugal sports with your bride.
 </details>
@@ -303,7 +303,7 @@ Here Swami Desikan salutes the unique valor that Sri RaAmachandra displayed at t
 कर-धृत--दुर्-अवनमतम--  
 निज-**धनुर्--आकर्षण**-प्रकाशित-पारमेष्ठ्य !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 ParasuraAma was the possessor of a mighty axe that was stronger than the Vajra weapon of Indra by a hundred fold. He used that to settle his dispute with the Kshatriyas for the injustice done by the sons of one Kshatriya king by the name of Kaarthaveerya. ParasuraAma used his axe as the battle weapon to cut asunder twenty one generations of Kshatriyas and made the earth devoid of Kshatriyas (AKSHATRAAMIHA SAMTATAKSHA YA IMAAM TRI: SAPTHA KRUTHVA: KSHITHIM).
 
@@ -331,7 +331,7 @@ In the next Gadhya salutation, Swami Desikan's mind is still occupied with Paras
 **भृगु-पति--सुगति-विहति**--
 कर-नत+++(??)+++--परुस्+++(=पर्व)+++-इषु-परिघ !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Swami Desikan's mind is still admiring the valor and kaarunyam of Sri Raama in dealing with the arrogant outburst of Parasuraama. Hence, he devotes one more (this) gadhya salutation to Parasuraama Garva bhangam. In this salutation which its musical echos (Dahnthi Dantha Danthura Dasavadana Dhamana---), Swami gives an 24
 
@@ -350,7 +350,7 @@ Raamachandra's broad arrow resembling the lock for a door put an end to the Suga
 
 ## अरण्य-काण्डम्
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 There are 119 chapters in Ayodhyaa Khaandam of Sri Vaalmiki RaamayaNam.
 
@@ -380,7 +380,7 @@ The emperor begs his son Raama to take him captive and ascend the throne. Raama 
 अनृत-भय-मुषित-हृदय--**पितृ-वचन-पालन**-  
 प्रतिज्ञा-ऽवज्ञात-यौवराज्य !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Hail to Thee, O Raghuveera, who abandoned the position of crown prince of Ayodhya to fulfill the promise implicit in the boon of your father, who was fear-stricken over the thought that his word to Kaikeyi would become a lie! Emperor Dasaratha had no choice. He had to grant his queen the boons that she demanded. With a broken heart, he had to order Raama's banishment to the forest to prepare the way for Bharatha's crowning. He was being tormented by the thought that his son might refuse to obey that command and make his words untrue. He was afraid of being called a liar, who made false promises to his queen. Raama however welcomed his father's command and immediately promised to honor the boon given to Kaikeyi.
 
@@ -390,7 +390,7 @@ As a result of that promise to his father, Raama abandoned willingly his legitim
 
 **निषाद-राज-सौहृद**-सूचित-सौशील्य-सागर !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Swami Desikan salutes the Sowsheelyam of Sri Raamachandra here. Sowsheelyam is the attribute of a great soul, who mixes with people lower than him in status with ease.
 
@@ -409,7 +409,7 @@ Hail to Thee! O Raghuveera who through your expression of friendship to the chie
 भरद्वाज-शासन-परिगृहीत--  
 विचित्र-**चित्र-कूट**-गिरि-कटक-तट-**रम्यावसथ** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Raghu Veera who obeyed the instructions of Sage Bharadwaaja and resided in the foot hills of Chitrakoota Mountain in a beautiful residence built by LakshmaNaa! Hail to Thee! Hail to Thee! Reminiscences: Sri Raama befriended the king of forest hunters, Guha and enjoyed his hospitality and displayed His Sowlabhya GuNam through recognizing Guhan as the fourth brother of His besides LakshmaNA, Bharatha and Satrugnaa. With Guha's help, He crossed the river Ganga and took leave of him and reached Sage Bharadwaja's aasRaamam on the other side of the river Yamuna. The sage was surprised to see the royal travellers in hermit's dresses and inquired about what happened. Learning the circumstances that led to the royal party's journey through the forest, Sage Bharadhwaajaa instructed Raama to establish His residence few kilometers from his own AshRaamam at a site located on the foot hills of the beautiful chitrakoota mountain. Raama obeyed the sage's command and accepted the kaimkaryam of His brother LakshmaNaa, who constructed a delightful residence according to the codes of building construction.
 
@@ -441,7 +441,7 @@ Such is the glory of Chitrakootam celebrated by Sage Valmiki, Kulasekhara Azhwaa
 
 +++(भरत-जाबल्यादि-प्रत्याख्यानेन)+++ अनन्य-शासनीय !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Lord who cannot to be commanded by any one! Hail to Thee! Hail to Thee! 
 
@@ -496,7 +496,7 @@ Such is the greatness of Raama Bhakthas, who cannot bear even for a moment to Pa
 प्रणत-भरत--मकुट-तट-सुघटित--  
 **पादुकाग्र्य्-आभिषेक**-निर्वर्तित--सर्व-लोक--योग-क्षेम !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Lord who looked after the Yoga Kshemam of the entire world by placing your Padhukas snugly on the head of your brother Bharata, who ruled as a representative of those sacred Padhukas after performing the coronation ceremony (Padhuka pattAbhishekam ) for them. Hail to Thee! Hail to Thee! Musings: The sorrowing Bharata journeyed to Chitrakutam with his mothers and Acharyas. He begged his brother to accept the kingdom and return to Ayodhya to be coronated as the king of Kosala desam. Raama refused to accede to the request of his dear brother since he could not break the pledge that he gave to his father. The heart-broken Bharata fell at Raama's feet and the compassionate Raama placed his padhukAs on his brother's head. Bharata carried those PadhukAs on his head back to NandigRaamam and performed the coronation ceremony for them and ruled the land as the representative as 33
 
@@ -541,7 +541,7 @@ SITAAPATHIM SUNAYANAM JAGADEKA VEERAM SRI RAAMACHANDRAM ANISAM KALAYAAMI CHITTEH
 शयन-**तृण-शकल**--परिपतन--  
 भय-चरित--स-कल--सुर-मुनि-वर--बहु-मत--**महास्त्र-सामर्थ्य** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Lord of incomparable valor whose skills in endowing a mere blade of grass with the power of Brahmaasthram! You sent that blade of grass from your darbha mattress, when You were horrified to see the apachaaram done by KAkAsura to your Devi out of his desire for eating flesh. All the Devas and sages were afraid that the Darbham consecrated by you to have the power of the mighty BrahmAsthram would land on them, when KaaakAsuran sought them as refuge. O Lord of such valor! Hail to Thee! Hail to Thee! Musings: KaakAsuran (Crow) was the son of Indran, the king of Devaas. Kaakasuran saw Sita Devi in Chitrakutam. She was holding the head of Sri Raama on her thigh as he was taking rest. The crow slowly approached the Jaganmaathaa and took a second peck at her breast because of his desire for eating flesh. Blood poured out and fell on the sleeping Raama's head. Sita Devi would not move since she did not want to wake up Raama by her movement. The contact of the warm blood however woke up Raama and he sized up the situation immediately.
 
@@ -553,7 +553,7 @@ father's feet. Indra was afraid to give protection to his own son for fear of th
 
 द्रुहिण--हर--वल-मथन--**दुर्-आलक्ष्य--शर-लक्ष्य** !
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Lord whose arrow's aim can not be interfered with even by Brahmaa, Rudraa and Indraa. They could not protect the object of your arrow's target with their power. Hail to Thee! Hail to Thee! Musings: The incident of the Apacharam of KaakAsuran took place in Chitrakutam. There is however no mention of this incident by Sage Valmiki in the Ayodhyaa Khaandam verses dealing with the life of the divine couple at Chitrakootam. This incident is mentioned by Sita Devi in Ashoka Vanam in Sundara Khaandam in her conversations with Hanuman in the 38 th sargam. She was recalling the anger of Raama at the “Eththisaiyum uzhanrODi iLaiththu vizhum kaakam” 36
 
@@ -581,7 +581,7 @@ Hence, he wanted to leave Chitrakutam. He paid a brief visit to the hermitage of
 
 **दण्डका**--तपो-वन--**जङ्गम-पारिजात** !+++(5)+++  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 DHANDAKAA TAPOVANA JANGAMA PAARIJAATHA! JAYA! JAYA! Here Swami Desikan salutes Sri Raamachandra as the abundant boon-giving, celestial paarijaathaa tree that moved around the Dandakaa forest which was ideal for performing penance.
 
@@ -591,7 +591,7 @@ Sri Raama entered the Dandakaa forest. The sages performing severe penance there
 
 **विराध**-हरिण-शार्दूल !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Lord who was like a tiger to the deer of Viraadha! Hail to Thee! Hail to Thee! There was a Gandharvaa by the name of Thumbhuru, who committed Apachaaram to Kubheraa and was cursed in turn by latter to become a Rakshasa. Viradhaa was causing a lot of mischief in Dandaka forest and was making the lives of sages unbearable.
 
@@ -607,7 +607,7 @@ waiting for seeing Raama before ascending to Brahma lokam. Raama was greeted by 
 **रजनि-चर**--मृग-**मृगयारम्भ**-  
 सम्भृत--चीर-भृद्-अनुरोध !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 The Raghu Veeran's many battles with the Rakshasaas of the fearful Dandakaa Vanam are equated here to the hunting down of beasts that destroy the crops. Penance of the sages is compared to the crops here and the hunter is the Lord himself. Sri Raama's welcome help to the sages was like wearing the processed bark of trees as their dress (Cheera Bruth). Sri Raama's blessed and heroic deeds are saluted here.
 </details>
@@ -615,7 +615,7 @@ The Raghu Veeran's many battles with the Rakshasaas of the fearful Dandakaa Vana
 
 **त्रि-शिरः**-शिरस्-त्रितय--तिमिर-निरास--वासर-कर !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Lord who resembled a sun in banishing the deep darkness caused by the three heads of the Rakshasa by the name of Trisiras.
 
@@ -638,7 +638,7 @@ DANDAKARANYAVASAYA KANDITHAAMARASATRAVE I JANAKEE PRANANATHAYA SADHAA RAAMAYA MA
 **दूषण**--जल-निधि-**शोषण--तोषित**--  
 ऋषि-गण--**घोषित-विजय-घोषण** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Raghuveeraa who dried the ocean of the night-stalker by the name of DhushaNa by the fiery arrows leaving form Your Kodhandam! The assembly of sages thrilled by witnessing your power as a supreme archer rose to sky level their eulogies to celebrate Your victory.
 
@@ -655,7 +655,7 @@ Raama broke the bow of DhushaNa, killed his charioter as well as his horses and 
 
 खरतर--**खर**-तरु--**खण्डन**--चण्ड-पवन !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Lord who was like a fierce cyclone (chanta maarutham) in breaking in to two the strong tree named Khara. The ferocious Khara upset over the destruction of Trisiras, DhushaNan and his huge army by Raama attacked latter. Raama broke him in the battle like a swift wind would break a tall tree into two pieces. Thus in the course of one and half hours Raama destroyed Khara, his two genarals and the army of 14,000 ogres.
 
@@ -668,7 +668,7 @@ Hence, he goes on to add two more salutations to celebrate Raama's victory at Pa
 
 **द्विसप्त-रक्षः-सहस्र**--नल+++(=कलम)+++-वन-विलोलन--महा-कलभ !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Hero who destroyed the tall grass of 14,000 RakshasAs just as a powerful elephant destroys a forest of swamp grass. Hail to Thee! Hail to Thee!
 </details>
@@ -677,7 +677,7 @@ O Hero who destroyed the tall grass of 14,000 RakshasAs just as a powerful eleph
 असहाय-शूर !  
 
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 ASAHAYA SURA! JAYA! JAYA! Hail to Thee O great hero who does not need the support of anyone else in your battles! You destroyed single handedly Khara, DhushaNa, Trisaras and their retinue of fourteen thousand warriors in the battle at Panchavati right in front of Your ParNasAla. There is no one to match your heroism in battles.
 
@@ -686,7 +686,7 @@ ASAHAYA SURA! JAYA! JAYA! Hail to Thee O great hero who does not need the suppor
 
 अनपाय-साहस !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 It is daring act indeed to take on all these fierce rakshsAs in battle and to crown that act by emerging victorious at the end of this terrific battle. Your daring and courage is indeed unmatched. Hail to Thee! Hail to Thee!
 
@@ -697,7 +697,7 @@ It is daring act indeed to take on all these fierce rakshsAs in battle and to cr
 दृढ-तर-**परिरम्भण**-विभव--  
 विरोपित-विकट-वीर-व्रण !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Raghuveeraa! You stood firm in your battle with the thousands of RakshasAs headed “Sri Raama Destroyed 14,000 RakshasAs” 
 
@@ -719,7 +719,7 @@ In the remaining four salutations relating to AaraNya KhAndam, Swami Desikan cov
 **मारीच**--माया-मृग-चर्म-परिकर्मित+++(=भूषित)+++--  
 निर्भर-दर्भास्तरण !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Lord whose darbhAsanam is decorated by the skin of the deceitful MaarichA, who appeared before You as a beautiful deer! Hail to Thee! Hail to Thee! RaavanA was intent on kidnapping Sita by deceit and hence commanded Maaricha to take the form of a beautiful deer and to prance in front of Sita's parNasAlaa at Panchavati. Sita Devi was charmed by the golden deer and begged her husband to catch it and present it to her for use as a pet. Raama followed the deer and killed it and brought back its skin. He returned to the parNasAla and put that deer skin (KrishNAjinam) under the darbhaasanam for His daily anushtAnam. That Aasanam got beautified by that deer skin.
 
@@ -730,7 +730,7 @@ O Lord whose darbhAsanam is decorated by the skin of the deceitful MaarichA, who
 **गृध्र-राज-देह-दिधक्षा**--लक्षित-  
 भक्त-जन-दाक्षिण्य !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O DayALu, who demonstrated your special attachment to Your devotees through Your act of performing the final rites for the mortally wounded eagle king JatAyu, who put his life on line to fight the evil RAvaNA and to foil RAvaNA's attempt to get away with the kidnapping of SitA dEvi.
 
@@ -755,7 +755,7 @@ The first slokam of Swami Desikan's Parmaartha sthuthi salutes Vijayaraaghava Pe
 
 कल्पित-विबुध-भाव--**कबन्धाभिनन्दित** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Hail to Thee, O Lord who was eulogised by the asura Kabhandhaa, who regained his erstwhile celestial form as a result of your severing his arms.
 
@@ -777,7 +777,7 @@ JAYATHU JAYATHU RAMO JAANAKI VALLABHOYAM I JAYATHU JAYATHU RAMO CHANDRACHOOTAARC
 अवन्ध्य-महिम--मुनि-जन-भजन--मुषित-हृदय-कलुष--  
 **शबरी-मोक्ष**-साक्षि-भूत !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Lord who was the witness to the Moksha attainment of Sabari, who through her devoted service to the assembly of sages of unblemished reputation had all of her blemishes removed! Hail to Thee! Hail to Thee! Sabari was an old lady, who lived on the banks of Pampaa River. She spent her life serving the sages doing penance in that region. This service earned her a vast amount of PuNyams which in turn destroyed any blemishes that she might have had. She had started her Bhakthi Yogam in a previous birth and completed that yogam in her next birth as a resident of Pampaa theeram. When Raama stopped at Pampaa Vanam on his way to meet Sugreeva, she met Raama and was blessed to have his darsana soubhagyam to her heart's content. She offered the Lord fruits that she had collected from the forest with great affection. Then she ascended Sri Vaikuntam right in front of Raama's eyes. Hence Swami Desikan describes Raama as the witness to Sabari's Bhagyam.
 
@@ -801,7 +801,7 @@ We will move next to the salutations of Swami Desikan to the incidents of Kishki
 
 
 ## किष्किन्धा-काण्डम्
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 KISHKINDHA KHAANDAM:
 
@@ -831,7 +831,7 @@ HanumAn took the disguise of a mendicant and approached the brothers. He bowed b
 
 **प्रभञ्जन-तनय**--भावुक-भाषित--**रञ्जित**-हृदय !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Lord whose heart was filled with joy over the auspicious and adroit conversation of HanumAn, the son of Vaayu (prabhanjana)! Hail to Thee! Hail to Thee! The conversation of HanumAn was rich in Vedic vocabulary and correct in grammar.
 
@@ -879,7 +879,7 @@ PURANDARA VITALANA PUNYATHA KOOSU
 
 **तरणि-सुत-शरणागति**--परतन्त्री-कृत--स्वातन्त्र्य !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Hail to Thee O Lord who who sought refuge in SugreevA, the son of Sun God! You sought the friendship and help of SugreevA to find and rescue Sita Devi. Through your act of SaraNaagathi (seeking refuge and help in a state of utter dependence) to SugreevA, You gave up your independence as the supreme Lord of the Universe and stood meekly obeying as it were the command of SugreevA.
 
@@ -904,7 +904,7 @@ This is the reference to the Bhaktha Paaratantryam or the Yathokthakaari aspect 
 **दुन्दुभि-कङ्काल**-कूट--दूर-**विक्षेप**-दक्ष--  
 दक्षिणेतर-पादाङ्गुष्ठ--दर+++(=ईषत्)+++-चलन--**विश्वस्त-सुहृद्-आशय** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 In this long salutation, Swami Desikan seems to suggest the long distance over which an object was sent flying with a miniscule exercise of the power of Sri Raama's left toe.
 
@@ -928,7 +928,7 @@ SugreevA asked Raama: “O prince of Ayodhyaa! How will you be able to kill my m
 अति-पृथुल--बहु-**विटपि--गिरि--धरणि-विवर**--  
 युगपद्-उदय--विवृत--चित्र-**पुङ्ख**+++(=बाण)+++-वैचित्र्य !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Hero whose fast-moving, powerful arrow with marvellous decorations that appeared at the same time in the seven Saal trees, mountains, earth and the nether world! Hail to Thee! Hail to Thee! Background: When doubting SugreevA requested Raama to demonstrate once again his prowess, Raama obliged him by sending few arrows at the seven Saal trees. Those arrows moved like a band of lightning. They pierced the seven Saal trees in a trice and continued on their way to neighboring mountains in their path and broke the crests of those mountains, changed their direction and traveled through the nether world (PaathALam/seventh of the lower worlds) and then returned quickly to their home in the quiver of Raama. The awe-inspired and terror -stricken SugreevA could not believe his own eyes about what had transpired. He fell flat in front of the Raghuveeran of unquestionable veeram and declared that his grief over the ill treatment of Vaali and doubts about the adequacy of Raama's power to protect him from the wrath of his brother were completely banished. In the words of Adi Kavi Valmiki, SugreevA said:
 
@@ -951,7 +951,7 @@ ANJALI: PARAAMA MUDRAA KSHIPRAM DEVA PRASAADHINI “Swami Desikan with Anjali Mu
 **कपि-कुल-पति**--हृदय-विशाल-शिलातल--  
 **दारण**-दारुण--शिली-मुख !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Vaali Vadham is the subject matter of this Gadhyam passage. This is the last of the salutations to the Raghu Veeran from the incidents described in the KishkindhA KaaNDam..
 
@@ -969,7 +969,7 @@ Such was the bhuja Bala parAkRaamam of Vaali. Lord Raamachandra of matchless val
 पवन-भव--**कपि-वर--परिष्वङ्ग**-  
 भावित--सर्वस्व-दान !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Raama's power to bless one with every kind of Iswaryam including Moksham is covered by Swami Desikan here.
 
@@ -979,7 +979,7 @@ O Lord, who embraced HanumAn with joy over the good tidings of locating Sita's p
 
 ## यद्ध-काण्डम्
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 We now come to the Sixth and penultimate canto of Adi Kavi Valmiki”s Srimadh RaamayaNam, which is known as the Yuddha KhAndham (YK). Here, Sri Raama's avathAra kAryam is executed and his heroism is fully demonstrated. Hence, the Gadhyam of Swami Desikan on the Raghu Veeran comes into full focus. The salutations of Swami Desikan echo here with the battle sounds majestically.
 
@@ -1016,7 +1016,7 @@ SRI RAAMA RATNAM PRANATHOSMI NITYAM II YUDHDHA KAANDAM
 विसंवादि-विविध-सचिव--विप्रलम्भ-समय-संरम्भ+++(=प्रयास)+++--  
 समुज्जृम्भित-**सर्वेश्वर-भाव** !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Lord, who revealed your svarupam as the Lord of all Gods during the occasion when you countered the different arguments of the ministers of SugreevA and energetically motivated them to drop their objections to accept VibhishaNA as a SaraNAgatha at Your lotus feet! Hail to Thee! Hail to Thee! Background: Sri Raama had learned about the place of incarceration of Sita through HanumAn and thereafter arrived at the Adhi Jagannatha Kshethram on the sea side (ThiruppullANi) with the army of monkeys and bears to launch his invasion of Lankhaa. At that time,the younger brother of RAvaNA known by the name of (VibhishaNa) arrived at that site to seek the refuge of Raama after failing in his efforts to persuade his brother RAvaNA to return Sitaa DEvi to her husband and to seek latter's apology. VibhishaNA cried out from his position in the sky and described his plight to SugreevA this way: “There is an ogre of evil conduct by the name of RAvaNA, who is the Lord of ogres. I am his younger brother known by the name of VibhishaNA. My brother kidnapped Sita from Jansthaanam, killed Jatayu and has incarcerated the helpless Sita. I have vehemently opposed his despicable deed and asked him to restore Sita to Raama with apologies. My brother would not listen to me and has discarded my good advice. I have 62
 
@@ -1067,7 +1067,7 @@ Such is his Dayaa for the PrapannAs and His Deekshaa to protect them.
 वीर !  
 सत्य-व्रत !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Musings on the VibhishaNa SaraNaagathi: As a PaRaamachaarya, Swami Desikan dwelled extensively on the doctrines of Prapatthi in many of his sacred works. What Sri Raama said at the sea side to VibhishaNaa riveted his attention? He elaborated on the SaraNAgathi concepts in his work known as Abhaya Pradhaana Saaram, where he followed the tradition of Sri Raamanujaa, Thirumalai Nambhi, who studied intensively and taught the rahasyaarthaas of SaraNAgathi embedded in the different KhAndAs of VAlmiki RaamayaNam.
 
@@ -1124,7 +1124,7 @@ It is with all these in mind; Swami Desikan saluted Srimadh RaamayaNam as SaraNA
 
 **प्रति-शयन**+++(→प्रायोपवेश)+++-भूमिका-भूषित--पयोधि-पुलिन !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Hail to Thee! O Raghuveera, who beautified the assembly of sands of the beach (at ThirupullANi) through your lying down on them in a bed of sacred grass in observance of Your PraayOpvesam! Hail to Thee! Background: Facing the ocean that separated him from the kingdom of RAvaNA, Sri Raamachandra contemplated on the method to cross the Ocean and reach LankA.
 
@@ -1168,7 +1168,7 @@ SRI DHARBHA SAYANA RAAMACHANDRA PARABRAHMANE NAMA:
 
 प्रलय-शिखि-परुष--विशिख+++(=बाण)+++-शिखा--**शोषिताकूपार**-वारि-पूर !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Hail to You, O Raghuveera, who evaporated the waters of the ocean with the power of your arrows that resembled the fire which destroys the world at the time of deluge! Background: The Sea-God did not understand the significance of your SaraNAgathi to him and ignored you. You were enraged by his indifference. He would not open a passage for you and your army to cross the ocean. Then, you aimed frightening arrows at the SeaGod and his territory. Those arrows were more powerful than the assembly of flames 72
 
@@ -1188,7 +1188,7 @@ architect) by the name of NaLA, a commander in the monkey army of SugreevA build
 गिरि-निकर-**साधित--सेतु**-  
 पथ-सीमा-सीमन्तित--समुद्र !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O mighty hero of the scion of Raghus, who created the demarcation of the ocean with your bridge built by the mighty monkeys, who out of their eagerness to reach LankA to fight their enemies splintered huge mountains and threw them into the ocean as though they were feathery bales of cotton! Hail to Thee! Hail to Thee! Background: After the Sea-God gave the permission for the bridge to be built by NaLA; latter requested the powerful monkeys to collect the material for the building of the bridge.
 
@@ -1212,7 +1212,7 @@ SALAKSHMANAM SARVA JANAANTHARASTHAM PARATHPARAM RAAMAM AHAM NAMAMI II
 ऽवरोध-वेपथु**-लास्य--  
 लीलोपदेश-देशिक--धनुर्-**ज्या-घोष** !+++(5)+++  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 O Acharyaa (Desikaa), who appeared as though you were the dance instructor for the ladies of the harem of RAvaNA, when their bodies were shaking from intense fear over the siege, lay on their beloved city by the swift-moving army of monkeys. Your instruction came in the form of the mighty roar emanating from the pulling of the chord of your bow on top of the SuvelA Mountain.
 
@@ -1233,7 +1233,7 @@ SANNADDHA: KAVACHEE KADHGHEE CHAPABHANA DHARO YUVA I GACCHAN MAMAAGRATHO NITYAM 
 गगन-चर--कनक-गिरि-गरिम-धर--निगम-मय--निज-**गरुड**--  
 गरुद्-अनिल-लव--**गलित--विष**-वदन-शर-कदन+++(=पीड)+++ !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Hail to thee! O Raghuveera, whose sufferings from the tips of the poisonous NagAsthrams were chased away by the slight breeze associated with the wings of your friend Garudan, who has the reputation both as the embodiment of the Vedas as well as the mighty Meru mountain flying in the skies! Hail to Thee! Background: The last salutation (55th) was associated with the twenty second canto of Srimadh RaamayaNam, where the reference was to the building of the Sethu and traveling across it by Raama and his retinue to arrive in LankA.
 
@@ -1275,7 +1275,7 @@ STHITHAM RAAMAMURTHIM NISHEVE NISHEVE ANYA DHAIVAM NA SEVE NA SEVE NA SEVE II
 **वक्षः**--कवाट-**पाटन**-  
 पटिम--साटोप-कोपावलेप !  
 
-<details><summary>English</summary>
+<details><summary>शठकोपः (En)</summary>
 
 Hail to Thee, O RaghuveerA with the right mixture of anger and valor, who with 79 majesty had the power to split into two the broad, door-like chests of the multitudes of ogres that closed their eyes out of a sense of shame over the thought of fighting the “lowly” monkeys for the first time in their careers as warriors! Hail to Thee! 
 
@@ -1302,64 +1302,530 @@ SRI RAAMACHANDRAM PRANAMAMI CHITTHE II
 
 
 कटु-रटद्--अटनि+++(=मौर्वी-बन्धन-शृङ्ग)+++-  
-**टङ्कृति-चटुल**+++(=चञ्चल)+++--कठोर-कार्मुक !  
+**टङ्कृति-चटुल**+++(=चञ्चल)+++--कठोर-**कार्मुक**--  
+विशङ्कट+++(=बृहद्)+++-विशिख--विताडन--  
+विघटित-मकुट--विह्वल-**विश्रवस्-तनय--  
+विश्रम-समय-विश्राणन**+++(=दान)+++-विख्यात-विक्रम !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail to Thee, O Raghuveera, who through your compassionate act of letting RAvaNA leaves the battle field and rest overnight to restore his strength, when the agitated RAvaNA could not match your prowess in the battle field! The ferocious sounding 80
+
+arrows leaving your bow did their powerful work and split into pieces the crowns of the ten-headed RAvaNA and made him fear for his life. Seeing his weak state, you as a noble warrior did not want to take advantage of him, when he was weak and unable to defend himself. You permitted him to retire from the battle field and then return the next day after a well-needed rest in his palace.
+
+Background: RAvaNA sent his commander-in-chief, PrahasthA to the battle field as the simian army led by NilA destroyed many divisions of his army. Prahastha caused a lot of damage to the army of monkeys, who fought only with uprooted trees and pieces of rocks. In a fierce battle, NilA threw a big rock over the head of Prahastha and shattered his head and killed him. RAvaNA was disconsolate over the death of his commander-in-chief and decided to take control of the battle in his own hands. He appeared on the battle field and immediately began to make short work of the monkey chieftains. He stupefied Sugreeva with a swift arrow. He struck Hanuman in the chest and sent him reeling. Then he began to torment NilA, who had earlier killed PrahasthA, his commander-in-chief. With great agility, NilA evaded RAvaNA and perched himself on the banner of the chariot of RAvaNA. The angry RAvaNA dispatched an arrow empowered by Agni at NilA, the son of Agni. NilA's life was spared by his father, but he was knocked unconscious.
+
+“HanumAn with Raama-lakshmana on his shoulders” 81
+
+The triumphant RAvaNA gloated with pride now dashed towards LakshmaNA and sent a flurry of arrows at him. LakshmaNA sent his own arrows flying at the speed of lightning and tore the arrows of RAvaNA in flight. LakshmaNA cut the bow of RAvaNA in to three pieces with his arrows and bathed RAvaNA in a shower of sharp arrows. The enraged RAvaNA struck LakshmaNA with a javelin given to him by Brahma and grievously hurt LakshmaNA with it and knocked him off his feet. The tenheaded king of Ogres came down from his chariot and tried to lift and carry away LakshmaNA as a trophy. The great RAvaNA, who had once lifted Kailaasa Mountain, could not however succeed in lifting LakshmaNA. Meanwhile, Hanuman had recovered from his earlier battle with RAvaNA and rushed to the side of the fallen LakshmaNa. He gave a mighty blow to RAvaNA and sent him reeling. Hanuman used that moment to lift and carry off the unconscious LakshmaNA to the side of the worried Raama. Hanuman had no problem lifting LakshmaNA, while RAvaNA could not succeed in his efforts.
+
+HanumAn now appealed to Raama and requested Raama to subdue the king of ogres and to fight him, while being mounted on his shoulders. RAvaNA was standing in his chariot and Raama confronted him from his perch on the shoulders of Hanumaan. In a fierce battle, Raama tore up into pieces RAvaNA's chariot with its wheels, horses, standard, canopy, the charioteer and the weapons stored on the sides of that mighty chariot. Next, Raama hit RAvaNA in the chest with a fiery arrow and RAvaNA reeled and began to swoon. With another crescent-shaped arrow shining like fire, Raama tore the diadem of the king of ogres. Now, RAvaNA looked like a poisonous snake divested of its poison. Raama sized the situation quickly and recognized that RAvaNA was in no shape to continue the fight and could easily be killed then and there. Out of his sense of fairness and compassion, Raama praised RAvaNA for the earlier display of his great skills in the battle field and told him that he (Raama) will not elect to kill him then, when he (RAvaNA) was in no shape to continue the fight. Raama’s words were:
+
+KRUTHAM TVAYA KARMA MAHATH SUBHEEMAM HATAPRAVEERASCCHA KRUTHASTVAYAAHAM I
 
 
+TASMAATH PARISRANTHA ITHI VYAVASYA NA TVAAM SARAI: MRUTHYU VASAM NAYAAMI II
 
-विशङ्कट+++(=बृहद्)+++-विशिख--विताडन-विघटित-मकुट--विह्वल-**विश्रवस्-तनय--विश्रम-समय-विश्राणन**+++(=दान)+++-विख्यात-विक्रम !  
-**कुम्भकर्ण**--कुल-गिरि-विदलन--दम्भोलि-भूत--निःशङ्क-कङ्कपत्र !  
-अभिचरण--हुत-वह--परिचरण--विघटन--स-रभस-परिपतद्--अ-परिमित-कपि-बल--जल-धि--लहरि--कल-कल-रव-कुपित--**मघव-जिद्-अभिहनन-कृद्**-अनुज-साक्षिक--+++(गन्धर्वास्त्र-मोहित-)+++राक्षस-+++(परस्पर-)+++द्वन्द्व-युद्ध !  
-अ-प्रतिद्वन्द्व पौरुष !  
+PRAYAHI JANAMI RANARDHITASTVAM PRAVISYA RAATHRIM CHARARAJA LANKHAM I
+
+
+AASVASYA NIRYAHI RATHEE CHA DHANVEE TADHA BALAM PREKSHYASI ME RATHASTHA: II
+
+A great and exceedingly difficult task has been accomplished by you in killing many of my heroic simian chieftains and overpowering Sugreeva, Hanumaan, NilA and 82
+
+LakshamNA. I recognize that you are battle-fatigued. Hence, I would not kill you now and dispatch you to the world of Yama. You are not in any shape to stand up and continue your fight with me. Hence; I give you permission to leave the battle field.
+
+Reenter LankA, rest a while and return with a new chariot and weapons. Then, you can witness my strength.
+
+Consoled by the words of the compassionate Raama, the mighty RAvaNA shorn of his vanity, pride and joy hastily left the battle field in disgrace and returned to his palace.
+
+After RAvaNA left, Raama and the recovered LakshmaNA toured the battle field and removed the arrows from the limbs of the brave monkey chieftains, who had been wounded in their battle with RAvaNA before Raama came to their rescue. The oudhAryam and the heroism of Raama is celebrated in this famous, fifty ninth canto of Yuddha Khaandham by sage Vaalmiki.
+</details>
+
+
+**कुम्भकर्ण**--कुल-गिरि-विदलन--दम्भोलि-भूत--  
+निःशङ्क-कङ्कपत्र !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Oh Raghuveera with the arrow of unquestioned power to break apart the family mountain of RAvaNA known as KumbhakarNA! Hail to The! Hail to Thee! Background: After his humiliating encounter with Raama in the battle field, RAvaNA retired to his palace. He thinks of his slumbering brother KumbhakarNa as the one, who can destroy Raama and his retinue. With great effort, RAvaNA succeeds in waking his brother from his deep sleep and sends him to battle. The nine cantos of Yuddha Khaandham of Srimadh RaamAyanam (60 to 68) cover the incidents related to KumbhakarNA and his loss of life at the hands of Raama. Swami Desikan's fifty ninth salutation of Raghuveera Gadhyam covers the heroic deeds of Raama in dispatching KumbhakarNA to his permanent rest. Swami Desikan states that the unmatched power of Raama's arrows broke into two the mighty and proud chest of KumbhakarNa and finally severed his royal head. The salutation here is to the heroism of Raama and the unassailable power of his arrows. They tore open the chest of the ogre like the Vajra weapon of Indra broke the mountains into two. Swami states that there was no doubt whatsoever on the capabilities of Raama's arrows.
+
+KumbhakarNA was the younger brother of RAvaNA. Due to Brahma's curse, he slept for six months at a stretch and was awake only for a day. Then he went right back to sleep for another six months. He was asleep till the time of RAvaNA's battle with 83
+
+Raama. The humiliated and brooding RAvaNA thought over all the curses of the gods and celestials that he had offended earlier such as Brahma, Vedavathi, Nandkeswara, Rambha and PunjikasthalA. Brahma's boon to RAvaNA gave him immunity from death from every class of beings except by “a human being”. Nandikeswara’s curse made sure that RAvaNA's kingdom will be destroyed by the monkeys. The curses of Rambha, Vedavathi, Parvathi and PunjikasthalA made RAvaNA vulnerable to death from his offensive behavior to women. Reflecting over all of these incidents from his past, RAvaNA came to the conclusion that his mighty younger brother would be the right agent to engage the army of monkeys and Raama in battle and save him.
+
+RAvaNA woke up his slumbering brother with great effort and warned KumbhakarNa about the danger posed by Raama and urged him to destroy the princes of AyodhyA along with the simian army. The just and brave KumbhakarNA criticized RAvaNA for his past misdeeds as a ruler and gives a piece of his mind: “Speedily enough has the fruit of your sinful deed (the abduction of Sita) has come upon you, even as the damnation would visit a person of sinful deeds. Initially, of course, was this course of action (returning Sita and asking for Raama's apology) not weighed by you; Nor was the consequence taken into account in the sheer pride of your prowess.” RAvaNA did not like the beratings of his brother and yet needed his help.
+
+He said: “A kinsman is he, who is able to render help to those, who have deviated from the right course.” Recognizing the agitated state of his elder brother, KumbhakarNA calms him down and agrees to engage Raama and his retinue in battle. He entered the battle field and terrorized the army of monkeys and its chieftains. Hanuman, AngadA, NilA fought valiantly with KumbhakarNA and could not stop him. LakshmaNA took on the ogre, who praised the valor of the younger brother of Raama and yet bypassed him seeking his battle with Raama. The intrepid Raama rushed towards KumbhakarNA with a quiver full of powerful arrows and listened to latter braggadocio.
+
+Raama's arrow severed the mace-wielding arm of the boasting ogre. Now KumbhakarNa lifted a Palmyra tree with his other hand and rushed towards Raama.
+
+Raama cut that arm too with a missile presided over by Indra. With two more crescent shaped arrows, Raama severed the legs of the rushing KumbhakarNA. With yet another arrow shining with its effulgence in all directions, Raama severed the head of kumbhakarNA. Thus the mighty KumbhakarNA was reduced to a headless, limbless mass by Raama’s unquestionable arrows.
+
+Saint Thyagaraja in his Saveri Krithi “Raama BhANa thrANa sowrya mEmani telupathurA O manasA” pays his tribute to the power of the arrows of Raama. He says: “O my mind! How can I describe the saving valor of Raama's arrow, the arrow that killed the army of RAvaNA, who desired Sita Devi; when LakshmaNA lay senseless on the battle field and RAvaNA rejoiced and Indrajith exhorted and his hosts rose up to 84
+
+attack at that opportune moment, Raama aimed that arrow with the thundering noise of the bowstring, and saw his brother LakshmNA getting up woth his senses restored.” The Saint salutes the thundering noise (dankAra Dwani) of Raama’s Kodhandam this way: “KodhandapujyAghoshamu lasanulu jesi”.
+
+Swami Desiakn's next salutation (#### 60) focuses on the episode of Indrajith and his fateful encounter with LakshmaNA witnessed by the proud elder, Raama.
+
+KAKUTHSTAM DASAKANTA BAHUVIDHALTHKODHANDA BANANVITHAM PAPAGNAM VISADHAYATAKSHI YUGALAM SOWMITHRI SAMSEVITHAM
+
+BHAKTHANAM PARAMOUSHADHAM MUNIVARAI: SAMSTHUYAMANAM BHAJE
+
+</details>
+
+
+अभिचरण--हुत-वह--परिचरण--विघटन--  
+स-रभस-परिपतद्--अ-परिमित-कपि-बल--जल-धि--लहरि--  
+कल-कल-रव-कुपित--**मघव-जिद्--  
+अभिहनन-कृद्**-अनुज-साक्षिक--+++(गन्धर्वास्त्र-मोहित-)+++राक्षस-+++(परस्पर-)+++द्वन्द्व-युद्ध !  
+
+<details><summary>शठकोपः (En)</summary>
+
+O Raghuveera! Hail to Thee, who used the GaandarvAsthram on the troops of RAvaNA's choice fighting unit known as moola Bhalam and caused them as a result to be deluded to fight with each other instead of fighting with the members of your army.Your brother LakshmaNA was the witness to that scene of utter confusion in the ranks of RAvaNA's soldiers after he himself had dispatched Indrajith in a fierce battle.
+
+Earlier Indrajith's efforts to acquire invincible powers through the performance of necromancy was interrupted by the huge army of monkeys which noisily invaded the site of that abhichAra homam and interrupted the completion of that homam. The angry Indrajith stopped the homam halfway through and came to fight your brother and lost his life in that battle. Hail to thee! O Lord, who dispatched the GandharvAsthram! Background: After the defeat of RAvaNA in the battle field and the death of KumbhakarNA at the hands of Raama and loss of many generals of the army of his father, Indrajith returned once again to the scene of combat and aimed the powerful BrahmAsthram at Raama, LakshmaNA and the simian army. That missile rendered the princes of AyodhyA and the monkey army of Sugreeva totally unconscious. Raama and LakshmaNA decided to honor the power of the missile presided over by Brahma and stayed motionless and helpless. Sugrreva and a host of other high-ranking generals of his army were also knocked out.
+
+VibhishaNa and Hanumaan were the ones, who were not affected. They found the old bear JAmbhavAn lying semiconscious on the battle ground. JaambhavAn advised the approaching VibhishaNA that Hanuman alone can save the day. He suggested that HanumAn known for his speed in the air should rush to a specific site in HimaalayAs and fetch the four powerful medicinal herbs to restore Raama, LakshmaNA and all the monkeys that were rendered unconscious by Indrajith. The bear king described the four medicines and their power this way: 1. Mruthasanjeevini, which had the power to bring the dead back to life 2. Visalyakarani, which had the power of extracting the weapons and healing the    wounds caused by those weapons 3. SuvarNakaraNi, which had the power to restore the body to its original complexion 4. SandhAni, which had the power to join back torn limbs and broken bones    Earlier, Sugreeva’s father-in-law had suggested bringing of these medicinal herbs by    86
+
+HanumAn. That occasion was when Raama and LakshmaNA were bound by the Naaga Paasam of Indrajith. GarudA appeared and chased off the snakes and embraced the brothers back to their original state. HanumAn did not have to go then in search of these four herbs.
+
+HanumAn set forth on this mission and jumped off from the top of the Trikuta mountain of Lankha in search of the four divine herbs. As he approached the site of the herbs, they hid from HanumAn's sight. AnjaneyA got angry at their lack of compassion to help even Raama, Hanuman tore of the whole mountain housing the herbs and sped away with frightening speed back to the battle field and put the mountain down in the midst of the simian ranks. This expedition gave Hanuman the name of Sanjeevi Raayan.
+
+Raama, LakshmaNA and every one of the members of the simian army recovered from their state of torpor or state of death after inhaling the wind-blown fragrance of these herbs. Even monkeys, whose dead bodies were cast into the oceans by the ogres, were restored back to life. The joyous monkeys ran through the gates of LankA and set fire to the city. More ogres were killed by the monkeys and Raama. The surprised Indrajith returned to the battle field and engaged in a formidable fight. He used black magic and became invisible and began to torment the princes of AyodhyA once again. He then retreated to the city and returned with an illusory image of Sita and killed her in front of Hanumaan. Sri Raama fainted on hearing the death of Sita. LakshmaNA and VibhishaNA consoled Raama. LakshmaNA vowed then to kill Indrajith. VibhishaNA told Raama that Sita was alive and that his nephew was only creating an illusory act so that he can return to a secret place (Nikumbhala) to gain more magical powers through performance of a homam based on necromancy.
+
+VibhishaNA guided the simian army and LakshmaNA to the site of the abhichara homam. The monkeys fell on the site in huge numbers and disrupted the completion of that homam. There was a mighty battle between LakshmaNA and Indrajith.
+
+LakshmaNa used a missile presided by IndrA and addressed the following prayer to IndrAsthrA: “If Sri Raama, son of Dasaratha has set his mind on virtue and is true to his promise and is unrivalled in prowess, make short work, the, of this son of RAvaNA.” Sage Valmiki's slokam housing this prayer of lakshmaNA is as follows:
+
+DHARMATHMA SATYASANDHASCCHA RAMO DASARATHIRYATHA I POWRUSHE CHAPRATHIDHWANDHVASTHADHAINAM JAHI RAVANIM II
+
+After this prayer, LakshmaNA released the Missile presided over by IndrA. Flying at lightning speed, that missile severed the head of Indrajith.
+
+87
+
+Raama was delighted with the news of Indrajith's death at LakshmaNA's hands at Nikumbhilai. RAvaNA was grief stricken over the loss of his son. He sent his diverse battalion known as mula Balam to avenge the death of his beloved son. Raama dispatched the mystic GandharvAsthram resided over by the GandharvAs. That asthram created the illusion of many Raamas in the middle of the ranks of the Mula balam. The rank and file of RAvaNA's powerful army mistook each other for Raama and killed each other. There was utter confusion in the battle field. Two lakhs of ogres fighting on foot were eliminated by Raama single-handedly through the use of GandharvAsthram. LakshmaNa was the thrilled witness to the prowess of his brother, which he ahd invoked in his prayer to the IndrAsthram to decapitate Indrajith. That is what Swami Desikan refers to in the sixtieth salutation of Raghuveera Gadhyam, when he addresses Raama as “Maghavajith abhihanana kruth anuja saakshika rakshasa dwandhva Yuddha.” Thus ends the ninety third canto of the Yuddha KhAndam of Sage Valmiki’s Srimadh RaamAyaNam from which Swami Desikan drew his inspiration.
+</details>
+
+
+अ-प्रतिद्वन्द्व-पौरुष !  
+
+<details><summary>शठकोपः (En)</summary>
+
+O Raghuveera of unmatched Valour! Hail to Thee! Hail to Thee! Background: The extraordinary heroism of Raama in dispatching two lakhs of foot soldiers of Mula Balam is still very much on the mind of Swami Desikan. He is also thinking about the other heroic deeds such as the destruction of mighty KumbhakarNa. Overpowered by these thoughts, Swami Desikan eulogizes Raama as the warrior whose performance in the battle field can not be matched by anyone.
+</details>
+
+
 त्र्य्-अम्बक--समधिक-**घोरास्त्राडम्बर** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+O Lord, who has the assembly of arrows that are fiercer than that of Parameswaran himself! Background: 88
+
+At the end of the destruction of the Mula Balam, Raama said: “Yethadh asthra balam divyam mama vA trayambhakasya vA.” -- Yuddha Khaandham 93. 38 Raama was conversing with the assembled SugreevA, VibhishaNa, HanumAn, JaambhavAn, MaindA and DwividhA, who were standing near him witnessing the frenzied fight between the foot soldiers of Mula balam. It is here he said: “Such wonderful power of using divine missiles exists either in me or in Lord Siva (TryambhakA).” Raama's power in using the mystic weapons was greater than that of Lord Siva and yet he compared himself as equal to Lord Siva out of his generous nature to give credit to others. Further, as a “human being”, he did not want to set an example of just praising himself as being far superior to a God known for his skills in handling virulent asthrams such as Paasupatham.
+</details>
+
+
 सारथि-हृत-रथ--स-त्रप-+++(रावणाख्य-)+++**शात्रव--सत्यापित-प्रताप** !  
-शित-शर-कृत-लवन--दश-मुख--मुख-दशक--निपतन--पुनर्-उदय--**दर**--+++(ब्रह्मास्त्र-प्रयोग)+++-**गलित--जनित-दर--तरल**--हरि-हय--**+++(सहस्र-)+++नयन-नलिन-वन-रुचि**-खचित--निपतित--सुर-तरु--**कुसुम**-वितति-**सुरभित--रथ-पथ** !  
-अखिल-जगद्-अधिक--भुज-बल--वर-बल--**दश-लपन**--लपन-दशक--**लवन**-जनित-**कदन**+++(=पीडा)+++-परवश--**रजनि-चर-युवति--विलपन**-वचन-समविषय--**निगम-शिखर**-निकर--मुखर-मुख--**मुनि**-वर--**परिपणित**!  
-अभिगत--शत-मख--हुत-वह--पितृ-पति--निरृति-वरुण-पवन--धन-द--गिरि-श--प्रमुख--**सुर-पति--नुति-मुदित** !  
-अमित-मति-**विधि**-विदित-**कथित-निज-विभव**-जलधि-पृषत-लव !  
-विगत-भय--विबुध-**विबोधित**--वीर-शयन-शायित-**वानर**-पृतनौघ !  
-स्व-+++(रावण-वध--अग्नि-परीक्षा)+++-समय-विघटित--सु-घटित--**स-हृदय--सह-धर्मचारिणीक** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+O Raghuveera, whose prowess was certified to be true by your enemy RAvaNA, when he was led away from the battle field in shame by his charioteer! Hail to Thee! Background: RAvaNA lost more generals and mighty warriors following the death of his beloved son, Indrajith. He came hence to the battle field once again and there was a mighty battle between Raama and RAvaNA.
+
+Displaying unmatchable martial ardour, Raama sent many weapons to put an end to the evil ogre. RAvaNA could not cope with the onslaught and became bewildered.
+
+RAvaNA's charioteer sensed the danger to which his master was exposed to. He quickly turned the royal chariot of his master away from the battle field to a safe destination. RAvaNA was enraged by the well-meant act of his charioteer and chided him. RAvaNA acknowledged Raama's undisputed valor to his charioteer, while berating him for his initative to take him away from the battle field. RAvaNA’s words captured by Sage Valmiki in the one hundred and fourth canto of Yuddha Khaandham in this context are: “While my adversary (Raama),whose prowess is widely known, and who deserved to be gratified through feats of valor, stood looking on, myself, who was covetous of fighting was made a coward of by you.” 89
+
+The key words of this verse of Valmiki are: “sathrO: prakhyaata veeryasya ranjaneeyasya vikRaamai:” RavaNa then ordered his charioteer to take him back to the battle field.
+</details>
+
+
+शित-शर-कृत-लवन--दश-मुख--मुख-दशक--  
+निपतन--पुनर्-उदय--**दर**--  
++++(ब्रह्मास्त्र-प्रयोग)+++-**गलित--जनित-दर--तरल**--  
+हरि-हय--+++(सहस्र-)+++**नयन-नलिन-वन-रुचि**-खचित--  
+निपतित--सुर-तरु--**कुसुम**-वितति-  
+**सुरभित--रथ-पथ** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+O Raghuveera! You had the path of your chariot made fragrant with the showering blossoms of the celestial Kalpaka tree! That fragrance of the blossoms joined with the beauty of the agitated eyes of Indra, which resembled the assembly of red lotuses in a lotus forest. Indra's eyes were agitated first with fear over the sight of the falling of the ten heads of RAvaNA as they were being severed by your arrows and their immediate reappearance as though nothing had happened. You removed the fear of IndrA by “Madurantakam Sri Raamar on thEr” 90
+
+using BrahmAsthram and cut off the evil RAvaNA's head once and for all. That heroic act of yours was appreciated by the celestials and they showered Kalpaka flowers on you, which collected under the path of your chariot and made that path fragrant. Indra, the king of celestials was joyous over the destruction of RAvaNA and his eyes lit up with happiness. At that time, his multitude of eyes looked like the assembly of blossomed red lotuses in a lotus forest. Indra has 1,000 eyes according to the PurANAs.
+
+When all of them lit up, it was like the multitude of simultaneously blossoming lotus flowers. Swami Desikan salutes here the MahA Veeran, who dispatched RAvaNA to the abode of death and made the Devas and their king joyous through his victory over the evil ogre.
+</details>
+
+
+अखिल-जगद्-अधिक--भुज-बल--वर-बल--**दश-लपन**--  
+लपन-दशक--**लवन**-जनित-  
+**कदन**+++(=पीडा)+++-परवश--**रजनि-चर-युवति--  
+विलपन**-वचन-समविषय--  
+**निगम-शिखर**-निकर--मुखर-मुख--  
+**मुनि**-वर--**परिपणित**!  
+
+<details><summary>शठकोपः (En)</summary>
+
+In this beautiful passage resonant with sound effects and TaaLam synchronized with the heaving heart beats of lamenting MandOdhari, the principal queen of RAvaNA, Swami Desikan's poetic skills reaches once again a high water mark.
+
+In the section “Bhuja Bala, vara Bala, dasa lapana, lapana dasaka, lavana janitha”, the playful as well as the skillful use of the same words (Bala, Lapana, dasa lapana, lavana dasaka) to denote a different context-based meanings, is an illustration of the skills of our immortal poet.
+
+Swami Desikan starts this gadhyam section by describing RAvaNA's mighty shoulders known for their power to destroy his enemies: “akhila jagadhadhika bhuja bala”.
+
+Swami says that RAvaNA (until he met RaamA in battle) had the bhuja parAkRaamam that was superior to all the denizens of this earth and heaven. Bhuja balam is related to his “Vara Balam” referred to in the next section. RAvaNA had earned many boons from BrahmA and Maheswaran through the performance of severe penances. His bhuja balam came from this vara Balam.
+
+Swami alludes next to the ten heads of RAvaNA as dasa Lapana and rhymes it with “lapana dasaka lavana”, which means “as a result of cutting off of the ten heads”. First we see those diadem decked heads of DasagreevA on his neck and next we see them 91
+
+rolling on the floor of the battle field at the feet of Sri RaamachandrA.
+
+When MandOdhari saw this sad sight, she was overcome by grief and lost herself in an avalanche of sorrow. She lamented loudly in her inconsolable grief. This state of hers is described by Swami Desikan as “Dasa lapana lapana dasaka lavana janitha kadhana paravasa rajanichara yuvathi vilapana vachana”.
+
+The sufferings of MandOdhari arose from the (death) severance of the ten heads of her husband (Lapana dasaka lavana janitham). She was beyond herself (paravasam) due to that grief. She was RAvaNA's young wife (Rajanichara Yuvathi). Her words of Lamentation (Vilapana vachanaas) rang out in the battle field and melted the hearts of the onlookers. Those words however contained Vedanthic truths and were tributes to the PARATHVAM of Sri Raama in addition to serving as lamentations over her widowhood. Swami calls those lamentations mingled with vedanthic wisdom as “nigama sikhara nikara sama vishayam”. Their sAmyam (equivalence) to the Vedanthic truths describing the nature of Brahman (Supreme Being) is the purport of our Acharya's words. Swami Desikan concludes this salutation by stating that the victorious Raama was eulogised by great sages with stotrAs, which had Vedic connotations similar to the ones used by the wise and chaste MandOdhari, while she lamented over her personal misfortune. “Nigama sikhara nikara mukara muka munivara paripanitha” is Swami's words. “Nigma sikhara Nikara” stands for the assembly of Vedanthic truths. “Mukara Nikara Muka munivara” reminds us of the great sage’s eulogizing their Lord Raama with praises steeped in the Vedic tradition.
+
+ParipaNitha stands for the saluting by the Muni gaNaas.
+
+“Mudikondan Sri Raamar” 92
+
+The lamentation of Mandodhari is housed in the 111th canto of of the Yuddha khAndam of Srimadh RaamAyaNam.
+</details>
+
+
+
+अभिगत--शत-मख--हुत-वह--  
+पितृ-पति--निरृति-वरुण-पवन--  
+धन-द--गिरि-श--प्रमुख--  
+**सुर-पति--नुति-मुदित** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+O MahA VeerA who was made happy by the eulogies of IndrA, Agni, YamA, Nirruthi, VaruNA, Vaayu, KubherA and Siva, who approached you at the end of your successful battle with RAvaNA! Hail to Thee! Hail to Thee! Background: VibhishaNA rushed to the side of Sita Devi at AsOka vanam and brought the tidings of RAvaNA's destruction at the hands of her consort. VibhishaNA brought SitA Devi to the side of Raama in the battle field. RaamA harshly asked Sita to prove her innocence by stepping into fire, since he wanted to counter any doubt on the part of citizens over her staying in the stranger's (RAvaNA's) house for many months. At that time, Indra, Agni, Vaayu, YamA, SivA, KubherA and other celestials approached you, eulogized you and begged you not to abandon the MahA pathivrathai SitA and to accept her without “Pomona (New York, USA) Sri Raamar” 93
+
+any doubt. Swami Desikan says here: “O Maha VeerA! You were pleased with the eulogies and appeals of the celestials”.
+</details>
+
+
+अमित-मति-**विधि**-विदित-  
+**कथित-निज-विभव**-जलधि-पृषत-लव !  
+
+<details><summary>शठकोपः (En)</summary>
+
+O Raghu Veera! After the eulogies of the celestials, Brahma Devan began to praise your glories. Brahma had limitless intellect and comprehension. Even he could only fathom a very small portion of your vast glories and his eulogy resembled the small drop of a mighty ocean. If this was the fate of BrahmA, there is no need to describe the pitiable plight of other celestials as they attempted to eulogize your kalyANa guNAs. Hail to Thee! Hail to Thee!
+</details>
+
+
+विगत-भय--विबुध-**विबोधित**--  
+वीर-शयन-शायित-**वानर**-पृतनौघ !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Indra's long-held fear vanished, once RAvaNA was killed by RaamA in battle. Indra wanted to express his gratitude to You and asked you about what kind of service he could render. You requested him to bring back to life the monkeys, which lost their life in the battle. Indra made that wish come true. The dead monkeys rose up and moved with alacrity like rapidly flowing floods. O Maha VeerA! Is there any limit to your compassion?
+
+SRI RAGHAVAM RAAMACHANDRAM RAVANARIM RAAMAPATHIM I RAAJIVA LOCHANAM RAAMAM TAM VANDE RAGHUNAYAKAM II
+
+</details>
+
+
+स्व-समय+++(←सङ्कल्प)+++--+++(रावण-वध--अग्नि-परीक्षा-)+++विघटित--  
++++(युद्ध-जय-)+++सु-घटित--  
+**स-हृदय--सह-धर्मचारिणीक** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+O Lord who out of your own volition (sankalpam) separated and then united with your consort! Hail to Thee! Hail to Thee! Background: Your consort was united with you by VibhishaNA, when RAvaNA was killed. You wanted to demonstrate to the world her purity and asked her to enter the fire before the assembled gods and monkey chieftains. Agni Bhagavan lifted your Devi in his hands and united her with you to demonstrate her unimpeachable chastity as a Pathivratha of the highest order. Both of you, as husband and wife, had agreed on this course of action to be separated first and then united to fulfill the mission of your incarnation as the son of DasarathA. It is no surprise that your dharmapathnee went along with your sankalpam.
+</details>
+
+
 **विभीषण**--वशंवदी-कृत--**लङ्कैश्वर्य** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+O Lord, who put at VibhishaNA's disposal the entire wealth of the kingdom of LankA and crowned him as the king! Hail to Thee! Hail to Thee! Comments: Raama had won the kingdom of LankA by his valor and therefore could easily have appointed VibhishaNA as the care-taker of Lankha on behalf of him as the conquering hero. Being of a generous disposition and being an unfailing keeper of promises made, Raama would not think of anything else except to crown VibhishaNA as the successor to RAvaNA to rule LankA. Earlier on the beach at ThirupullANi, Raama asked LakshmaNA to bathe VibhishaNA in the waters of the ocean to symbolize his future coronation as the king of LankA. Therefore this satyavrathA (Raama) crowned VibhishaNA as per his original pledge.
+</details>
+
+
 निष्पन्न-कृत्य !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail to Thee! O Lord, who fulfilled your duties! Comments: Sriman NarAyaNA was approached by the Devas at the milky ocean as he was resting on Adhiseshan to save them from the cruelties of the evil RAvaNA. Sriman NarAyaNA heard their pleas and agreed to incarnate as a human being on this earth and remove “Thiru-ayindai Sri Raaman” 96
+
+the fears of the Devas by killing RAvaNA. During his wanderings in the forest as the son of king DasarathA, the sages sought his protection from the marauding rakshasAs.
+
+Raama came to the rescue of the DevAs, VibhishaNA and the sages and demonstrated his auspicious attributes as the saraNAgatha rakshakan. He performed his duties and freed them all from their fears. The excellent manner in which Raama completed his duties is saluted by Swami Desikan as “nishpanna krithya”.
+</details>
+
+
 ख-पुष्पित--रिपु-पक्ष !  
-**पुष्पक**-रभस-**गति**--गोष्पदी-कृत-गगनार्णव !  
-प्रतिज्ञार्णव-तरण-कृत-क्षण--भरत-मनोरथ-संहित--**सिंहासनाधिरूढ** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+O Raghuveera who made those who opposed you in battle reaches the status of the blossomed lotuses of the sky! Hail to Thee! Hail to Thee! Comments: Here Swami Desikan suggests that Raama made his enemies nonexistent just like lotuses blossoming in the sky. Lotuses do not bloom in the sky and therefore they have no existence. The same situation existed for the enemies of Raama according to Swami Desikan.
+</details>
+
+
+**पुष्पक**-रभस-**गति**--  
+गोष्पदी-कृत-गगनार्णव !  
+
+<details><summary>शठकोपः (En)</summary>
+
+O Lord who made the vast ocean resembles the size of a hoof of a cow because of the speed with which you traveled over that ocean to reach your kingdom! Hail to Thee! Hail to Thee! Background: At the end of the coronation of VibhishaNA and completing his duties, Raama wanted to return to AyodhyA for reunion with the waiting Bharatha and His mothers. He stepped into Pushpaka VimAnam with his Devi, LakshmaNA, VibhishaNA, SugreevA, Hanumaan and the vast simian army. That airship accomodated all of them and sped over the vast ocean with the speed of the lightning. That vast area of the ocean looked at time like the little space covered by one hoof of a cow because of the speed with 97
+
+which the VimAnam traveled to its destination.
+
+VIMOHITHA JAGATH TRAYAM VIKACHA PADMA PATREKSHANAM I VIBHISHANA SURAKSHAKAM VIJAYARAAMAM EELE HARIM II
+
+</details>
+
+
++++(अग्नि-प्रवेश-रूप--)+++प्रतिज्ञार्णव-तरण--कृत-क्षण--  
+भरत-मनोरथ-संहित--**सिंहासनाधिरूढ** !  
+
+
+<details><summary>शठकोपः (En)</summary>
+
+O Lord, who ascended the throne of AyodhyA and celebrated your coronation ceremonies and thus fulfilled the deep wish of Bharatha, who had made a vow earlier to enter the fire to immolate himself, had you not returned from your exile to sit on the throne of the Raghus! Hail to Thee! Hail to Thee! Comments: Bharatha returned to NandigRaamam with Raama PaadhukhAs, when he failed to persuade Raama to abandon his exile and return to Ayodhya to succeed King Dasaratha as the rightful heir to the throne of Raghus. At that time, BharathA made a vow that he will immolate himself in fire, if Raama did not return to Ayodhya at the end of his exile of 14 years in the forest. On the last day of the fourteenth year, he was all set to enter the fire, when Raama’s messenger (Hanumaan) rushed to his side to tell Bharatha that his brother was speeding in Pushpaka vimAnam to reunite with him.
+
+Bharatha was thus saved from his vow of self-immolation.
+
+“Thiruvallikkeni Sri Raaman” 99
+
+The brothers were united and the coronation (PattAbhishekam) was celebrated to the utter delight of Bharatha and others. BharathA's heart overflowed with joy at the sight of Janaki Raaman on the ancient throne of the Raghus.
+
+VAIDEHEE SAHITAM SURADHRUMA TALE HAIME MAHAMANTAPE MADHYE PUSHPAKAMASANE MANIMAYE VEERASANE SUSTHITHAM I
+
+AGRE VACHAYATHI PRABANJANA SUTHE TATVAM MUNIBHYA: PARAM VYAKYANTHAM BHARATHADHIBHI: PARIVRUTHAM RAAMAM BHAJE SYAMALAM II VAME BHUMISUTHA PURASCCHA HANUMAN PASCCHATH SUMITHRASUTHA: SATRUGNO BHARATHASCCHA PARSVADHALAYO : VAYVADHI KONESHU CHA I
+
+SUGREEVASCCHA VIBHISHANSCCHA YUVARAT TARASUTHO JAMBHAVAN MADHYE NEELA SAROJA KOMALARUCHIM RAAMAM BHAJE SYAMALAM II
+</details>
+
+
 स्वामिन् !  
-राघव-सिंह !  
+
+<details><summary>शठकोपः (En)</summary>
+
+O Lord of the entire universe! Hail to Thee! Hail to Thee! O BhoothAthmA, the inner soul of ALL beings! Hail to Thee! O Bhuthakrith, the creator of ALL beings and such their YajamAnA! Hail to Thee! O Bhootha Bhavya Bhavath Prabhu, the Swami (Master) of all things of the past, future and the present! Hail to Thee! O VashatkArAha Swami, the one who controls and directs and thereby lords over the universe! Hail to Thee! O Bhootha bhavana bhootEsa Swami, the sustainer and the Lord of this universe! Hail to Thee! O Lord saluted by svetasvatAra Upanishad as: Superior to Him, there is no one whatsoever (“yasmAth param nAparam asthi kimchith”)! Hail to Thee! O PradhAna Purushevara, the Lord of primordial matter and PurushAs! Hail to Thee!
+</details>
+
+राघव-सिंह !
+
+<details><summary>शठकोपः (En)</summary>
+
+Oh the exalted one among the scion of Raghu! Hail to Thee! Hail to Thee! Comments: The kings of Raghu Vamsam are famous for protecting those, who sought refuge in them. There is however no one in your vamsam, who excels you in the matter of Abhaya PradhAnam and SaraNAgatha Rakshakathvam. In the divine story of yours told by Sage Vaalmiki, every khAndam of that epic is full with stories of your protection of SaraNAgathAs. In Bala KhAndham, DevAs sought your refuge at the milky ocean to protect them from the terrors of RAvaNA. You protected them. In AyodhyA khaandham, your brother LakshmaNA fell at your feet and performed Prapatthi and gained the fruits of that Prapatthi by being blessed to join you in Your exile.
+
+In AaraNya KhAndham, the sages of DandakAraNyam sought your protection and performed SaraNAgathi. You destroyed Kharan, DhushaNan and others and came to their rescue. You accepted the SaraNAgathi of the aparAdhi, the KaakAsuran and did not kill him for his unforgivable offense. In KishkindhA KhAndham, you responded the SaraNAgathi of Sugreeva and saved him from the terrors of his brother Vaali. In Yuddha KhAndham, You gave Abhaya PradhAnam to VibhishaNA and accepted his SaraNAgathi. What Vibhishana really wanted was Kaimkaryam to You. He received the total response to his paripurNa SaraNagathi and even today, he serves you at Srirangam. Your prakAsam (effulgence) as SaraNYa seelan (Rakshakan) and your Vaibhavam as the unfailing observer of SaraNya vratham entitle you to the title of RAGHAVA SIMHAM. Hail to Thee! Hail to Thee! 101
+
+With this 76th salutation, the Yuddha KhAndham section of Swami Desikan's Raghuveera Gadhyam comes to an auspicious conclusion.
+
+</details>
+
 
 ## उत्तर-काण्डम्
-हाटक-गिरि-कटक-लडह+++(=मनोज्ञ)+++--पाद-पीठ--निकट-तट--परिलुठित-निखिल-**नृपति-किरीट**-कोटि--  
+
+हाटक-गिरि-कटक-लडह+++(=मनोज्ञ)+++--**पाद-पीठ**--निकट-तट--परिलुठित-  
+निखिल-**नृपति-किरीट**-कोटि--  
 विविध-मणि-गण--किरण-निकर--**नीराजित--चरण**-राजीव !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Oh RaghuveerA! You were seated on the throne of IshvAku dynasty after Your coronation.At that time the big foot rest of Your throne shone like the foot hills of golden Meru mountain. The kings of the world prostrated in front of the foot rest of Your throne with their crowned heads. The lustre from the gems in their crowns fell on Your sacred feet, while they prostrated before You. The assembly of the lustre form the many gems on their crowns looked at that time like a MangaLa Aarathi (neerAjanam) for your lotus feet (KiraNa nikara neerAjitha CharaNa Raajeeva!).
+</details>
+
+
 दिव्य-भौमायोध्याधिदैवत !  
+
+<details><summary>शठकोपः (En)</summary>
+
+The tribute here is for Lord Raamachandran as the Ubhaya VibhUthi NaaTan. Hail to Thee, Oh Raamachandra, who is the Emperor of the two invincible kingdoms (AyOdhyAs)! One of the AyOdhyA is the Supreme abode of Sri Vaikuntam. The other AyOdhya is the kingdom on His LeelA VibhUthi on the banks of Sarayu River.
+
+Swamy Desikan salutes the Raghuveeran, who is the Lord of Nithya VibhUthi and LeelA VibhUthi here.
+</details>
+
+
 पितृ-वध-कुपित--परशु-धर-मुनि--विहित--  
 नृप-हनन-कदन+++(=पीडा)+++--पूर्व-काल-प्रभव--  
-शत-गुण-**प्रतिष्ठापित--धार्मिक-राज-वंश** !  
+शत-गुण--**प्रतिष्ठापित--+++(नूतन-)+++धार्मिक-राज-वंश** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Here Swamy Desikan salutes the superior the establishment of hundreds of Raaja vamsams (royal lineages), which are hundred times superior to those good raaja vamsams that existed before ParasuRaama destroyed twenty one generations of KshathriyAs. At the beginning of ThrEthA Yugam, ParasuRaama avathAram took place. ParasuRaama flew into a rage, when king Kaarthaveerya killed his father, Sage Jamadhagni. He revenged the death of his father by killing twenty one generations of Kshathriyaas. Before that time of ParasuRaama's revenge, there were many good Raaja vamsams. Swamy Desikan observes that Lord Raamachandra reestablished royal lineages, which were hundred fold superior to those that existed before the anger of ParasuRaama destroyed those good raaja vamsams indiscriminately. Swamy Desikan pays his tribute to the Soorya Kula tilakam, Sri Raamachandra here: “Poorva kaala prabhava SathaguNa prathishtApitha dhArmika Raajavamsa”.
+
+</details>
+
+
 शुभ-चरित-रत--**भरत-खर्वित**-गर्व--  
 **गन्धर्व**-यूथ-गीत--विजय-गाथा-शत !  
+
+<details><summary>शठकोपः (En)</summary>
+
+The land on both banks of Sindhu river belong to GandharvAs. During the time of reign of Raamachandran, these Gandharvaas gave up their traditional profession of singing and amused themselves by tormenting their citizens. The uncle of Bharathan, YudhAjith requested Lord Raamachandran to control the rampaging GandharvAs and restablish order. Emperor Raama sent His trusted brother Bharathan on the mission to teach a lesson to the GandharvAs and to bring them back to pursuing their skills in the field of music. GandharvAs were delighted to practise their traditional crafts and were grateful to Lord Raamachandran for bringing them away from disaster. They expressed their gratitude through singing songs about the prowess of the Raghuveeran.
+
+</details>
+
+
 **शासित-मधु-सुत**--शत्रुघ्न-सेवित !  
+
+<details><summary>शठकोपः (En)</summary>
+
+During the Raama Raajyam, there was an asuran by the name of LavaNan, who was the son of the asuran, Madhu. LavaNan was ruling over his kingdom from Mathura 104 nakaram. LavaNan was causing a lot of trouble to the sages in his kingdom. The unhappy dEvAs approached You to help in getting rid of this asuran. Oh RaamachandrA! You dispatched Your brother Sathrugna to kill LavaNan and free the sages from the ills caused by him. SathrugnA destroyed LavaNan in battle and returned to AyOdhyA to prostrate before his brother's sacred feet.
+
+</details>
+
+
 **कुश-लव-परिगृहीत**--कुल-गाथा-विशेष !  
-विधि-वश-परिणमद्--अमर-भणिति-कविवर-रचित--  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail to Thee, Oh Lord, Whose Vaibhavam and that of Your ancestors were learned and sung by Your sons, Lava and Kusa! At Sage Vaalmiki's AasRaamam, Your sons, Kusa “Raamayana Leela” 105
+
+and Lava were born. Sage Vaalmiki was struck by their extraordinary talents and taught them Srimath RaamAyaNam, which contains the description of IshvAku Vamsam.
+
+They learnt the Ithihsam from the Sage (author) himself and set the slOkams to music and sang before their father at AyOdhya in the royal assembly to the utter delight of their father.
+
+</details>
+
+
+विधि-वश-+++(श्लोक-रूप-)+++परिणमद्--  
+अमर-भणिति-कविवर-रचित--  
 निज-चरित--**निबन्धन-निशमन-निर्वृत** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail to Thee Lord RaamachandrA, who was thrilled to hear Srimath RaamAyaNa grantham describing His divya charithram, which incarnated from the lips of Sage Vaalmiki as immaculate Sanskrit slOkams due to the anugraham of Brahma dEvan! Sage Vaalmiki went for his bath one day to the riverside. There he witnessed a sad scene, where a cruel hunter had killed a male bird, which was sporting with its wife.
+
+Sage Vaalmiki flew into a rage over the cruelty of the hunter and could not take in the suffering of the widowed bird. The curse that emanated from the lips of Sage Vaalmiki aimed at the hunter transformed itself into a well structured Sanskrit slOkam and through that slOkam, the stage was set for the avathAram of the great IthihAsam of Srimath RaamAyaNam. This magnificent RaamAyaNam set in Deva BhAshai was learnt by Your sons from Sage Vaalmiki and they sang it sweetly in Your AswamEdha Mahaa Mantapam at AyOddhi and made You very happy.
+</details>
+
+
 सर्व-जन-सम्मानित !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail to Thee my Lord, who is eulogized by every one ! In Your Raaja sabhai, Kusa and Lava sang the slOkams of Srimath RaamAyaNam. All the people, who heard that recital comprehended your vaibhavam very well and praised You very much.
+</details>
+
+
 पुनर्-उपस्थापित--विमान-वर-विश्राणन--  
 प्रीणित-वैश्रवण--**विश्रावित-यशः-प्रपञ्च** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail to Thee, Oh Lord Raamachandra, whose generosity was praised by the happy KubhEran, the owner of the Pushpaka VimAnam, when it was returned back to him by You! RaavaNan appropriated the aerial vehicle, Pushpaka VimAnam form its rightful owner, KubhEran and kept it for his use in Lankai. When VibhishaNan was coronated, he presented it to you for travel back to AyOdhyA with Your Devi and parivArams. When You returened to AyOdhyA, You sent it to the rightful owner, KubhEran, who was immensely pleased and delighted to experience your display of generosity. KubhEran broadcast your udhAra guNam all over the world. You thus became “VaisravaNa viSrAvitha Yasa: Prapanjan”. VaisravaNan is another name for KubhEran, the god of wealth. “Yasa: Prapanjan” means assembly of Fame.
+</details>
+
+
 पञ्चताऽपन्न--मुनि-कुमार--**सञ्जीवनामृत** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail to Thee, Oh RaghuveerA, who brought back to life the son of a sage in Your kingdom, who had met untimely death! During the long reign of Raama, the child of a Brahmin experienced akAla MaraNam (premature death). The Brahmin was overcome with grief and lamented before Lord Raamachandra about his misfortune that should not have happened. The Brahmin accused the Lord that the lapses in His governance were the cause for his son's untimely death. Sage Naaradha revealed the reason for this tragedy to Lord Raamachandra. Oh Lord! You went on the Pushpaka VimAnam and saw from the air that an unqualified man from a lower caste was doing unauthorized penance and breaking the established VarNAsRaama dharmams. When you killed that man linked to the akAla maraNam of the child of the Brahmin, immediately the dead boy woke up and had a long life. You became the nectar (sanjeevana amrutham) to bring back the child to life and gladdened the heart of the Father.
+
+</details>
+
+
 त्रेता-युग-**प्रवर्तित--कार्त-युग-वृत्तान्त** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail to Thee, Oh Lord, who maintained the superior dharmam of Krutha Yugam while You had Your Vibhava avathAram in ThrEthA Yugam! In ThrEthA yugam, the dharmams and the anushtAnams based on them would be some what lower in status compared to Krutha Yugam. These dharmams will be at “With Simple Alankaram – Madurantakam” 108
+
+their lowest level in Kali Yugam. Raama incarnated and ruled in ThrEthaa Yugam.
+
+During His reign, Raamachandran established and maintained the superior dharmams of Krutha Yugam by banishing adharmam even if it was Krutha Yugam.
+
+</details>
+
+
 अविकल-बहु-सुवर्ण--हय-मख-सहस्र--निर्वहण-- 
 **निर्वर्तित-निज-वर्णाश्रम-धर्म** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail to Thee Oh Lord, who observed meticulously Your VarNAsRaama dharmams and completed many AswamEdha Yaagams marked by the most generous gifts (dakshiNais) to the participants! The Kings have to perform AswamEdha Yaagams. In these Yaagams, huge amounts of dakshiNai have to be presented to the rthviks. Lord Raamachandran performed many AswamEdha Yaagams during His long rule with sraddhA. You are the Lord of Universe and it was not required for You to perform these YaagAs and yet as one born in Kingly varNam (Kshathriya vamsam), You upheld the requirements and set an example to the people of the world and got saluted as “DharmO VigrahavAn”.
+
+</details>
+
+
 सर्व-कर्म-समाराध्य !  
-सनातन-धर्म !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail to Thee My Lord, who is worshipped by all karmAs performed by the people! In this world, whatever Yaagam or AarAdhanam that on peerforms be it for Sriman NaarAyaNan or other Gods, the results of all of those karmAs reach You alone. “Sarva Deva NamaskAram Raamam Prathigacchathy”. You alone are worshipped by all of these Yaagams and Yaj~nams, since You are the indweller of all these dEvathAs. It is like Arjuna, who placed a flower on the head of Lord Siva one evening and next day he found that same flower at the sacred feet of Lord KrishNa.
+
+</details>
+
+
++++(सर्व-कर्म-समाराध्यत्वात्)+++ सनातन-धर्म !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail To Thee, Oh Lord Raamachandra, who is the embodiment of all the eternal dharmAs! Besides facilitating all karmAs and being worshipped by all of them, You exist as the embodiment of the dharmAs behind those karmAs. The karmAs in the form of action are liable to disappear in a trice and therefore they can not succeed in granting the phalans for those performed karmAs. It is You who is pleased by the performance of those karmAs as One who stays eternal (SanAthanan) and grants the fruits for those karmAs.
+</details>
+
+
 साकेत-जन-पद--जनि-धनिक--जङ्गम--तद्-इतर-जन्तु-जात--  
 दिव्य-गति-दान--**दर्शित--नित्य-निस्सीम-वैभव** !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail to Thee, My Lord, who granted Sathgathy for even the achEtanams (insentient plants and other objects) for the mere fact that they had the good fortune of being born in Your kingdom of Kosala! Lord Raamachandra had completed His avathAra kaaryam and was getting ready to return to His Supreme abode of Sri Vaikuntam. At that time, the entire assembly of sentients and insentients were uplifted to Sathgathy. The achEtana vashtus had not earned any good merits to deserve such a high status. You reasoned that their birth in the Kingdom that You ruled was sufficent reason toelevate them and asked Brahma to grant them residence in the upper (higher) worlds. Brahma responded to his Master's commands and arranged for the insentients of Kosala desam to reside in a special lOkam named SaanthAnikam.Those who witnessed the SoubhAgyam that came the way of even the insentients, who were born in Your land and lived in close proximity to you were astonished and spread the story of Your permanent glory all over the world.
+
+</details>
+
+
 भव-तपन-तापित--भक्त-जन-भद्राराम !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail to Thee, My Lord, who is the cool and comfortable flower garden for those afflicted by the scorching Sun of SamsAram! When those suffering intensely from the tApams of SamsAram meditate on Your cool and comforting ThirumEni, they gain the soothing anubahavam of residing in a shady and verdant flower garden.
+
+</details>
+
+
 श्री-राम-भद्र !  
+
+<details><summary>शठकोपः (En)</summary>
+
+Hail to Thee, My Lord, who is helps Your bhakthAs fall in love with Your most auspicious divya MangaLa Vigraham and grant them all soubhAgyams!
+</details>
+
+
 नमस् ते पुनस् ते नमः ॥
+
+<details><summary>शठकोपः (En)</summary>
+
+NamaskArams to You, My Lord of such limitless glories! AdiyEn salutes again and again Your sacred feet and Your SarvEswarathvam! 
+</details>
+
 
 चतुर्-मुखेश्वर-मुखैः  
 पुत्र-पौत्रादि-शालिने ।  
-नमः सीता-समेताय  
-रामाय गृह-मेधिने ॥
+**नमः** सीता-समेताय  
+**रामाय** गृह-मेधिने ॥
+
+<details><summary>शठकोपः (En)</summary>
+
+AdiyEn's namaskArams to Sri Raamabhadran, who is engaged in the activities associated with GrahasthAsRaama dharmam with His dharma pathni, SitA PirAtti and with His son Brahma and grandson SivA.
+
+Lord Raamachandra has SithA Devi as His dharma Pathni. Brahma is His son and Sivan is his grandson. He performs the duties of a Grahasthan with His family, which extends to all the chEtanams of this world and others. All of us are the children of this divya dampathis. AdiyEn salutes this Lord with the universe and its beings as His kudumbam.
+
+</details>
+
 
 कवि-कथक-सिंह-  
 **कथितं** कठोर--सु-कुमार-गुम्फ-गम्भीरम् ।  
 भव-भय-भेषजम् एतत्  
 **पठत** महावीर-वैभवं सुधियः ॥
+
+<details><summary>शठकोपः (En)</summary>
+
+Sudhiya: = Oh Men and Women of discriminating intellect! yEthath MahA Veera Vaibhavam = This composition with the name of MahA Veera Vaibhavam about Lord Raama kavi kaTaka simhEna kaTitham = has been created by VedAntha Desikan, the Lion among the assembly of Poets and Logicians ( group of elephants) .
+
+(yEthath) katOra sukumAra gumbha gambheeram = This Sri Sookthi on the glories of Lord Raamachandra has passages consisting of hard and soft padhams, which have deep meanings.
+
+(yEthath) bhava bhaya bhEshajam = This Sri Sookthi is the powerful medicine for destroying the fear about the disease of SamsAram.
+
+In the concluding section of benedictions for the readers of his magnum opus on the “Thanjavur Style” 
+
+many noble messages of Srimath RaamAyaNam, Swamy Desikan identifies himself as a Lion among the group of poets and logicians and states that this composition has many hard and soft padhams mixed together in a majestic manner to house the deep meanings of the Aadhi Kaavyam of Sage Vaalmiki. He points out that those, who fear SamsAric disease will consider Sri Raghuveera Gadhyam as the unfailing medicine for curing that scourge of a disease. They will study Sri Raghuveera Gadhyam, develop bhakthi for Lord Raamabhadran and perform Prapatthi at His sacred feet of this Sarva Loka SaraNyan and Jagath Rakshakan. They will gain Moksha Sukham. Swamy Desikan appeals to those with discriminating intellect to enjoy the Sri Sookthi of Sri MahA Veera Vaibhavam to gain Sathgathi.
+
+</details>
