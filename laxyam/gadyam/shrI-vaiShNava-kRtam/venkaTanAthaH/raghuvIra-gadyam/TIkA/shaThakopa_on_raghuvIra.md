@@ -26,9 +26,7 @@ Swami Desikan as a Sarva Tantra Svatantra might also have followed the foot step
 
 Swami Desikan was so fascinated by the Gadya Trayams of Sri Raamanuja that he created a commentary on them known as Gadya Traya Bhashya. This work fits inside another work of Swami Desikan known as Rahasya Raksha with four chapters.
 
-The first chapter of Rahasya Raksha is the commentary on Saranagathi Gadyam also known as Prthugadhyam. The second chapter is known as Mitagadhya Bhashyam consisting of commentaries on both Sriranga and Vaikunta Gadhyams. The subject matter of Sri Raamanuja's Gadhyams were the important doctrine of Prapatthi and his supreme devotion to the Archa murthy at Srirangam worshipped by Sri Raamachandra himself (Sriranga Gadhyam) and the rapturous description of Sri Vaikuntam (Sri Vaikunta Gadyam), the supreme abode of Sriman Narayana and His consort, the object 2
-
-of our Prapatthi.
+The first chapter of Rahasya Raksha is the commentary on Saranagathi Gadyam also known as Prthugadhyam. The second chapter is known as Mitagadhya Bhashyam consisting of commentaries on both Sriranga and Vaikunta Gadhyams. The subject matter of Sri Raamanuja's Gadhyams were the important doctrine of Prapatthi and his supreme devotion to the Archa murthy at Srirangam worshipped by Sri Raamachandra himself (Sriranga Gadhyam) and the rapturous description of Sri Vaikuntam (Sri Vaikunta Gadyam), the supreme abode of Sriman Narayana and His consort, the object 2 of our Prapatthi.
 
 It is not an exaggeration to state that Swami Desikan's Raghu Veera Gadyam is his OWN Prapatthi to the Lord, who declared at Sethu: “It is my solemn covenant that I stand by anyone who surrenders his all to my keeping. According to this, Vibhishana comes under my protecting hand, which even Ravana is free to accept. I now charge Sugreeva to hail Vibhishana and lead him to me”.
 
@@ -140,7 +138,7 @@ mhaxIr xaErey ! jy ! jy !
 
 “Maha Dheera!” 9
 
-BALA KHAANDAM:
+### BALA KHAANDAM:
 
 #### 3:
 devasur smr smy smuidt iniol injRr inxaRirt inrvixk mahaTMy !
@@ -272,7 +270,7 @@ BRGHUPATHI SUGADHI VIHATHIKARA NATHA PARIDHISHU PARIDHA! JAYA! JAYA!
 
 
 
-AYODHYAA KHAANDAM 
+### AYODHYAA KHAANDAM 
 
 
 #### 21:
@@ -678,7 +676,7 @@ RAGHAVA SIMHA! JAYA! JAYA!
 “Raghava Simham- Thirupputkuzhi” 102
 
 
-UTTHARA KHAANDAM
+### UTTHARA KHAANDAM
 
 
 #### 77:
