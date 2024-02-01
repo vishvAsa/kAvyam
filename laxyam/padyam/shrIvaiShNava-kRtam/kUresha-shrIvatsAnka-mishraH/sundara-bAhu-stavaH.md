@@ -2,9 +2,35 @@
 title = "सुन्दरबाहुस्तवः"
 
 +++
+
+<details><summary>ThirumAlirum-chOlai (शठकोपः)</summary>
+
+
+SrI SundarabAhu Sthavam is a big sthavam with 132 slOkams .  KurEsar enjoyed the Vaibhavam of ThirumAlirum-chOlai SundararAja PerumAl intensively as the Six AzhwArs did through their 128 Paasurams . PeriyAzhwAr , ANDAL , Thirumangai , BhUthatthAzhwAr , pEy AzhwAr and NammAzhwAr have blessed us with 128 deeply moving Pasaurams about the divya Soundharyam of the Lord celebrated as Azhagar , MaalalankArar , Sundara ThOLudayAn , Sundara Baahu , KaLLazhagar. As archA Moorthy , Azhagar's aprAkrutha soundharyam shines through His aparanji tanga ThirumEni .
+
+Here at ThirmAlirumchOlati known otherwise as Azhagar Koil  , Lord SundarabAhu enjoys the cool breezes from Vrushabha Giri and enjoys Thirumanjanam from the waters of SilambARu (Noopura Ganghai) . Here the Lord is accompanied by Sundaravalli ThAyAr and resides under Somasundara VimAnam . The fragrant breeze from the Vrushabha Giri embraces the natural perfume of the Sandal Wood Trees , which are the Sthala Vrukshams at this dhivya dEsam .
+</details>
+
+
+<details><summary>kuresha (शठकोपः)</summary>
+
+KurEsar's ancestors were performing atthANi sEvakam to SundarabAhu and Sundaravalli ThAyAr for centuries before one of their descendants settled down in Kooram agrahaaram near Kaanchipuram . Hence , KooratthAzhwAn had ancestral links to ThirumAlirumchOlai . In the 76th SlOkam of SundarabAhu Sthavam , Swamy KurEsar refers to his ancestral links to ThirumAlirumchOlat :
+
+" MaamakAsccha Gurava: purAdhanaa: Sundaram Vanamaheedhragam srithA: "
+
+Here , KurEsar states that his ancestors arrived at ThirumAlirumchOlai and gained Parama PurushArTam through their worship of Azhagar, who had settled earlier at the foothills of VrushabhAdhri .    
+
+This elaborate Sthavam was created by KurEsar at ThirumAlirumchOlai , when he was an exile from ChOLa Naadu due to the cruelty of the fanatic ChOLa king . He missed the Sriranga SrI. His AchAryan was away at Melkote.  He was approaching the ripe age of one hundred . 
+
+Here at " Thenn KooDarkkOn tennan koNDAdum tenn ThirumAlirumchOlai " , KurEsar reminds the Lord about his ancestor's atthANi sEvakam to Him following the foot steps of Malayadhwaja Paandyan , the ruling king of Tenn Mathurai, who gained Moksham at this dhivya dEsam . Lord SundarabAhu is pratyaksham to Malayadhwaja PaaNDyan even today at this dhivya dEsam . 
+
+Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who was away at Melkote  and prayed to Lord SundarabAhu to unite him with his AchAryan . This union happened and AchArya RaamAnuja took his dearest sishyan to Lord VaradarAjan's Sannidhi and commanded his sishyan to pray for the restoration of his eyesight . The matchless boon giver, Lord VaradarAjan responded positively . KurEsar did not want the eye sight for seeing any one except his AchAryan and Lord VardarAjan , His aarAdhana Moorthy . Lord VaradarAjan granted that special boon to his dear devotee.
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(श्रीवत्सचिह्नमिश्रेभ्यो  
+(श्रीवत्स-चिह्नमिश्रेभ्यो  
 नम उक्तिम् **अधीमहे** ।  
 यद्-उक्तयस् त्रयी-कण्ठे  
 **यान्ति** मङ्गलसूत्रताम् ॥)+++(5)+++
@@ -1559,8 +1585,8 @@ title = "सुन्दरबाहुस्तवः"
 
 किञ्चेदं च विरिञ्च-भावन! वनाद्रीश! प्रभो! सुन्दर!  
 प्रत्याख्यान-पराङ्-मुखो **वर-दतां पश्यन्न्** अवश्यं **कुरु** ।  
-**श्रीरङ्ग-श्रियम्** अन्वहं प्रगुणयन् **त्वद्-भक्त-भोग्यां कुरु**  
-प्रत्यक्षं **सुनिरस्तम् एव विदधत्** प्रत्य्-अर्थिनां प्रार्थनाम् ॥ १३० ॥
+श्रीरङ्ग-श्रियम् अन्वहं **प्रगुणयन्** **त्वद्-भक्त-भोग्यां कुरु**  
+प्रत्यक्षं **सुनिरस्तम् एव विदधत्** +++(कु-चोल-निभ-)+++प्रत्य्-अर्थिनां प्रार्थनाम् ॥ १३० ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1572,7 +1598,7 @@ title = "सुन्दरबाहुस्तवः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कारुण्यामृत-वारि-धे! वृष-पते हे! सत्य-सङ्कल्पन!  
-श्रीमन्! सुन्दर! **योग्यता-विरहितान् उत्सार्य** सद्-वत्सल! ।  
+श्रीमन्! सुन्दर! +++(कु-चोल-निभ-)+++**योग्यता-विरहितान् उत्सार्य** सद्-वत्सल! ।  
 **क्षाम्यन्** साधु-जनैः कृतांस् तु निखिलान् एवापचारान् क्षणात्  
 **तद्-भोग्याम्** अनिशं **कुरुष्व** भगवन्! श्री-रङ्ग-धाम-श्रियम् ॥ १३१ ॥
 </details>
