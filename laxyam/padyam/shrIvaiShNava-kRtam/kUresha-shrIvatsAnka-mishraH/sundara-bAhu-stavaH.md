@@ -1527,7 +1527,7 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हरित-वारण-भृत्य-समाह्वयं  
+हरित-वारण-भृत्य-समाह्वयं+++(=??-)+++  
 करि-गिरौ वरदस् त्वम् अपूर्विकाम् ।  
 **दृशम् अलम्भय** एव हि सुन्दर!  
 स्फुट-मदाश् च परश्-शतम् ईदृशम् ॥ १२६ ॥
