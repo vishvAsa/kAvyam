@@ -3,7 +3,25 @@ title = "वैराग्यपञ्चकम्"
 
 +++
   
+Source: [TW](https://www.prekshaa.in/vair%C4%81gya-pa%C3%B1cakam-five-verses-detachment)
+
+
 वैराग्यपञ्चकम्   
+
+
+<details><summary>English - Hari R</summary>
+
+There is a historically inaccurate account that Deśika wrote these verses in response to Vidyāraṇya's invitation. One can have a look at Śatāvadhāni Dr. R Ganesh’s biography of the great preceptor of Vijayanagara, Vibhūtipuruṣa Vidyāraṇya for more details.
+
+
+My heartfelt thanks to Shashi Kiran B N for copyediting the Sanskrit verses, identifying the poetic meters, reviewing my translation, and giving me several valuable suggestions.
+ 
+References  
+Vairagya Panchakam  
+Śatāvadhāni Dr. R Ganesh’s Kavitegondu Kathe (Bangalore: Abhijñāna, 2012)
+
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -46,7 +64,7 @@ in exchange for a fistful of rice
 शिलं+++(=पतित-धान्यानि)+++ किम् अन्-अलं भवेद् अनलम् औदरं बाधितुं  
 पयः प्रसृति+++(=कर-तल)+++-पूरकं किमु न धारकं सारसम्।  
 अ-यत्न--मल-मल्लकं पथि पटच्+++(→पट)+++-चरं कच्-चरं  
-**भजन्ति विबुधा मुधा** ह्य् अहह कुक्षितः कुक्षितः॥ २॥
+**भजन्ति विबुधा मुधा** ह्य् अहह कु-क्षितः+++(=राज्ञः)+++ कुक्षितः॥ २॥+++(5)+++
 </details>
 
 <details><summary>English - Hari R</summary>
@@ -75,9 +93,9 @@ all for the sake of their stomachs!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्वलतु जलधि-क्रोड+++(=अङ्क)+++--क्रीडत्--कृपीट+++(=जल)+++-भव-प्रभा-  
+ज्वलतु जलधि--क्रोड+++(=अङ्क)+++--क्रीडत्---कृपीट+++(=जल)+++-भव-प्रभा--  
 प्रतिभट-पटु--ज्वाला-मालाऽऽकुलो जठरानलः।  
-तृणम् अपि वयं सायं सम्फुल्ल-मल्लि-मतल्लिका+++(=श्रेष्ठ)+++-  
+तृणम् अपि वयं,, सायं सम्फुल्ल-मल्लि-मतल्लिका+++(=श्रेष्ठ)+++-  
 परिमल-मुचा वाचा **याचामहे न महीश्वरान्**॥ ३॥
 </details>
 
@@ -107,7 +125,7 @@ like the fully-blossomed jasmine at dusk
 
 दुरीश्वर-द्वार-बहिर्-वितर्दिका+++(=वेदिका)+++-
 दुर्-आसिकायै **रचितो ऽयम् अञ्जलिः**।
-यद् अञ्जनाभं निर्-अपायम् अस्ति मे
+यद् अञ्जनाभं निर्-अपायम् **अस्ति** मे
 धनञ्-जय--स्यन्दन-भूषणं धनम् ॥ ४ ॥
 </details>
 
@@ -135,9 +153,9 @@ and adorns the chariot of Arjuna!
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरीर-पतनावधि प्रभु-निषेवणापादनाद्  
-अब्-इन्धन+++(-साधन)+++--+++(जठरस्थ-)+++धनञ्-जय--प्रशम-दं धनं दन्धनम्+++(=मोषः??)+++ ।  
+अब्-इन्धन+++(-साधन)+++--+++(जठरस्थ-)+++धनञ्-जय--प्रशम-दं धनं **दन्धनम्**+++(=मोषः??)+++ ।  
 धनञ्-जय--विवर्धनं धनम् उदूढ-गोवर्धनं  
-सु-साधनम् अबाधनं, सुमनसां समाराधनम् ॥ ५॥+++(5)+++
+सु-साधनम् अ-बाधनं, सुमनसां **समाराधनम्** ॥ ५॥+++(5)+++
 </details>
 
 <details><summary>English - Hari R</summary>
@@ -166,10 +184,26 @@ and that which brings joy to the noble
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काचाय नीचं कमनीय-वाचा  
-मोचा-फल-स्वाद-मुचा **न याचे** ।  
+मोचा+++(=शाल्मली)+++-फल-स्वाद-मुचा **न याचे** ।  
 दया-कु-चेले+++(=सागरे)+++ धन-दत्+++(=कुबेरत्)+++--कुचेले  
-स्थिते ऽकुचेले श्रित-मा-कुचेले+++(=कुचभूमौ)+++ ॥  
+स्थिते ऽकु-चेले श्रित-मा-कुचेले+++(=कुचभूमौ)+++ ॥  
 </details>
+
+<details><summary>English - Hari R</summary>
+
+(Meter: Pṛthvī)
+
+Wealth produced from praising kings
+satisfies the stomach-fire with water,
+lasting only until the body falls; it’s useless
+True wealth is that which uplifted Arjuna
+and raised the Govardhana mountain
+It’s the wealth that obstructs not good work
+and that which brings joy to the noble
+
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -180,9 +214,9 @@ and that which brings joy to the noble
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नास्ति पित्रार्जितं किञ्चिन्  
-न मया किञ्चिद् आर्जितम् ।  
-अस्ति मे हस्ति शैलाग्रे  
+**नास्ति** पित्रार्जितं किञ्चिन्  
+**न** मया किञ्चिद् **आर्जितम्** ।  
+**अस्ति** मे हस्ति शैलाग्रे  
 वस्तु पैतामहं धनम् ॥ ६॥
 </details>
 
@@ -206,15 +240,6 @@ the lord of Hasti-śaila (Lord Varadaraja of Kanchipuram)
 <details><summary>English - Hari R</summary>
 
 The beauty of these verses is not merely in their meaning but also in their form. The brilliant word-play and the alliterations that Deśika uses with aplomb are totally lost in translation. Even if one doesn't know the language, one can derive great pleasure by reading aloud the verses for their lilting melody resulting from its intricate syllabic structure.
-
-There is a historically inaccurate account that Deśika wrote these verses in response to Vidyāraṇya's invitation. One can have a look at Śatāvadhāni Dr. R Ganesh’s biography of the great preceptor of Vijayanagara, Vibhūtipuruṣa Vidyāraṇya for more details.
-
-
-My heartfelt thanks to Shashi Kiran B N for copyediting the Sanskrit verses, identifying the poetic meters, reviewing my translation, and giving me several valuable suggestions.
-
-References
-Vairagya Panchakam
-Śatāvadhāni Dr. R Ganesh’s Kavitegondu Kathe (Bangalore: Abhijñāna, 2012)
 </details>
 
 
