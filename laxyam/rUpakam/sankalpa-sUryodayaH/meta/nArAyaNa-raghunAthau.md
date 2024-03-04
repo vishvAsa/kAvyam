@@ -21,7 +21,7 @@ Vol. I.-Acts I to V.
 SRIRANGAM:  
 BRI VANI VILAS PRESS.  
 
-## 0
+## 00
 
 As a mark of humble devotion  
 THE ENGLISH TRANSLATION  
@@ -32,9 +32,29 @@ The Sacred Memory of
 SRI VEDANTA DESIKA.  
 
 ### भूमिका
-ज्ञातमेवैतदनवद्यहृद्यविद्याविमलीकृतमतीनां रसभावालंकारपरिकर्मितसरसशब्दार्थसंघटनात्मक काव्यभावनापरिणतप्रज्ञानां रसिकशिखामणीनाम्, 
-यदुत - नियतिविहित- 
-नियमविरहितादाह्वादमयाद्रसभरतरङ्गितात्काव्यादेव सरससरमा कर्तव्यताधीः समुत्पद्यत इति । तदपि काव्यं दृश्यं श्राव्यमिति सामान्यतो द्वेधा विभज्यमानमपि क्रमादेकैकं प्रधानरूपको परूपकभेदाद्गद्यपद्यो भयमयत्वाकारेण च द्वेधा त्रेधा च व्यभाजि । एतेषु कविवरमहनीयकवितासुवर्णवर्णपरीक्षणघर्षणशाणोपलायमानौ प्राक्तनावेव | ययोरेव मधुरोदात्तरसभावनिरन्तरत्वं रसिककुलावतंसैः प्रयोगतन्त्रपरिज्ञानसुरभिलस्वान्तैः क्रियासमभिहारेणोदघोषि । तादृशस्य दृश्यकाव्यस्य रूपवचक्षुषैवानुभाव्यतया नटेऽनुकार्यनायकादिरूपारोपाच रूपकमिति व्यवहारः । एतच नाटकादिभेदाद्दशधा नाटिकादिभेदादष्टादशधा च विभक्त- 
+
+Source: [TW](https://archive.org/details/in.ernet.dli.2015.92341/page/n375/mode/1up)
+
+अभिज्ञाः,
+
+
+ज्ञातम् एवैतद्  
+अनवद्य-हृद्य-विद्या--विमली-कृत-मतीनां रस-भावालं-कार--परिकर्मित--स-रस--शब्दार्थ-संघटनात्मक-काव्य-भावना-परिणत-प्रज्ञानां  
+रसिक-शिखामणीनाम्,  
+
+यद् उत -  
+नियति-विहित-नियम-विरहिताद् आह्लादमयाद् रस-भर-तरङ्गितात् काव्याद् एव  
+स-रस-सरसा+++(=??)+++ **कर्तव्यता-धीः समुत्पद्यत** इति ।  
+
+तद् अपि **काव्यं**  
+दृश्यं श्राव्यम् इति सामान्यतो द्वेधा विभज्यमानम् अपि  
+क्रमाद् एकैकं  
+प्रधान-रूपकोपरूपक-भेदाद् गद्य-पद्योभयमयत्वाकारेण च  
+द्वेधा त्रेधा च **व्यभाजि** ।  
+
+एतेषु कवि-वर-महनीय--  
+कविता-सुवर्ण-वर्ण-परीक्षण-घर्षण-**शाणोपलायमानौ**  
+प्राक्तनाव् एव । ययोरेव मधुरोदात्तरसभावनिरन्तरत्वं रसिककुलावतंसैः प्रयोगतन्त्रपरिज्ञानसुरभिलस्वान्तैः क्रियासमभिहारेणोदघोषि । तादृशस्य दृश्यकाव्यस्य रूपवचक्षुषैवानुभाव्यतया नटेऽनुकार्यनायकादिरूपारोपाच रूपकमिति व्यवहारः । एतच नाटकादिभेदाद्दशधा नाटिकादिभेदादष्टादशधा च विभक्त- 
 ( २ ( ) . 
 मभियुकैः । तेषु रूपकभेदेषु सर्वप्रकृतिभूततया चतु:षष्ट्यङ्गसंवटित सन्धिपश्चकालंकृर्तितया प्रख्यातवस्तुना, रसराजेन शृङ्गारेण, वीरेण च विभ्राजमानतया, नवरससाधारणनायकाग्रेसर धीरोदात्तनायकगुणवर्णनपरतया च नाटकस्यैव प्राधान्यम् । तन्निर्माणेनैव कवीनामन्यादृशं श्रेष्ठ्यम् । तथा चाहु: कवितास्वरूपसारज्ञा: -' नाटकान्तं कवित्वम्' 
 + 
@@ -49,10 +69,10 @@ SRI VEDANTA DESIKA.
 , 
 श्रियः पतिः श्रीरङ्गनाथः । तादृशस्तुरगवदनतेजोबृंहिताश्चर्य- 
 ( ४ ) 
-शक्तिः श्रीनिगमान्तमहागुरुरेव प्रबन्धेत्यहो भाग्यमस्य प्रबन्धराजस्य | अथवा भुवनतलस्यैवैतत्प्रबन्धुप्रणयनप्रसाधितस्य । ईटां हिमयुक्तमप्येतद्व्रन्थरत्नमद्यावधि देवनागर लिपिभिरमुद्रणान्न सर्वोपभोग्यतामगमत् । संप्रति तु तादृशदोषोद्धाराय बद्धदीक्षेण कल्याणपुरं श्रीनारायणाचार्येण श्रीर डि. रघुनाथस्वामिशर्मणा च बुद्धिश्रममङ्गग्लानिं धनव्ययं थानालोच्य एतन्नाटकं सुस्पष्टदेवनागरलिपिभिः संमुद्रितं श्री - वाणीबिलासयन्त्रालये । आङ्ग्लभाषावचनैः परिवर्तितं च । लोकोपकारधुरन्धरयोर्मनस्विनोर्महाशययोरनयोरध्यवसायः श्रीरङ्गनाथकृपया फलेग्रहिर्जगति जेजीयतामिति भगवन्तं भागवतांश्चानारतं प्रार्थयमानः, 
+शक्तिः श्रीनिगमान्तमहागुरुरेव प्रबन्धेत्यहो भाग्यमस्य प्रबन्धराजस्य । अथवा भुवनतलस्यैवैतत्प्रबन्धुप्रणयनप्रसाधितस्य । ईटां हिमयुक्तमप्येतद्व्रन्थरत्नमद्यावधि देवनागर लिपिभिरमुद्रणान्न सर्वोपभोग्यतामगमत् । संप्रति तु तादृशदोषोद्धाराय बद्धदीक्षेण कल्याणपुरं श्रीनारायणाचार्येण श्रीर डि. रघुनाथस्वामिशर्मणा च बुद्धिश्रममङ्गग्लानिं धनव्ययं थानालोच्य एतन्नाटकं सुस्पष्टदेवनागरलिपिभिः संमुद्रितं श्री - वाणीबिलासयन्त्रालये । आङ्ग्लभाषावचनैः परिवर्तितं च । लोकोपकारधुरन्धरयोर्मनस्विनोर्महाशययोरनयोरध्यवसायः श्रीरङ्गनाथकृपया फलेग्रहिर्जगति जेजीयतामिति भगवन्तं भागवतांश्चानारतं प्रार्थयमानः, 
 
 
-तट्टै बाधूल श्रीनिवासरिः ।  
+तट्टै-वाधूल-श्रीनिवाससूरिः ।  
 साहित्यरत्नम् ।  
 
 
@@ -90,71 +110,72 @@ Xxxvii
 
 
 ### Dramatis Persona. 
-Sūtradhara Nati 
-Stage Manager 
-Chief Actress. 
-Vivêka (Wisdom) 
-· Sumati (Good Sense) Vyavasaya (Application) 
-4 
-Siddhānta 
+Sūtradhara  Stage Manager  
+Nati Chief Actress.  
+Vivêka (Wisdom)  
+Sumati (Good Sense)  
+Vyavasaya (Application)  
+Siddhānta  
 Vāda 
-Tarka (Logic) 
-Samskara (Refinement) Nārada and Tumburu 
-Drishta-Pratyaya Purusha (Jiva) 
-· Vichāranā (Enquiry) 
-* 
-Chêti 
-Sankalpa (Divine Will.) 
-King. 
-Queen (Wife of Vivêka.) Senapati (General.) 
-Guru (Preceptor.) 
-Sishya (Disciple) 
-Charioteer. 
-Sculptor. 
-Divine Bards. 
-Messenger. 
-Lord of Buddhi. 
-}Queen's companions. 
-Maid Servant 
-Vishnu-Bhakti (Devotion King's collaborators. 
-to Lord Vishnu) 
-XXXviii 
-Mahāmōha (Grand Illusion) Rival king. 
-Durmati (Evil Sense) Kāma (Cupid) 
-do. Queen. 
-General. 
-Rati (Goddess of Love) 
-Wife of Kama. 
-Vasanta (Spring) 
-Raga (Attachment) 
-Dvesha (Hate) 
-Krōdha (Anger) 
-Lōbha (Greed) 
-Dambha (Vanity) 
-Friends, of Kāma and Commanders of Mahā- 
-mōha. 
-Darpa (Pride) 
-Trishnān (Covetousness) 
-Wife of Lobha 
-Kubana (Fraud) 
-Wife of Dambha. 
-Asuya (Envy) 
-Wife of Darpa. 
-Samvriti-satya 
-Pratihāri 
-Stambha (Confusion) 
-Abhinivesa (Enthusiasm ) 
-Durvasana (Evil propensity)} King's accomplices 
-Sentinel. 
-Messenger. 
-Door keeper 
-OM=(A-U-M) 
-श्रीमते रामानुजाय नमः 
-Bow to Blessed Ramanuja 
-SANKALPA-SūRYODAYA 
-OR 
-The Dawn of the Divine Will. 
-ACT 1. 
+Tarka (Logic)  
+Samskara (Refinement)  
+Nārada and Tumburu  
+Drishta-Pratyaya  
+Purusha (Jiva) 
+Vichāranā (Enquiry)  
+Chêti  
+Sankalpa (Divine Will.)  
+King.  
+Queen (Wife of Vivêka.)  
+Senapati (General.)  
+Guru (Preceptor.)  
+Sishya (Disciple)  
+Charioteer.  
+Sculptor.  
+Divine Bards.  
+Messenger.  
+Lord of Buddhi.  
+Queen's companions.  
+Maid Servant  
+Vishnu-Bhakti (Devotion King's collaborators. to Lord Vishnu) 
+
+[[XXXviii]] 
+
+Mahāmōha (Grand Illusion) Rival king.  
+Durmati (Evil Sense)  
+Kāma (Cupid)  
+Queen.  
+General.  
+Rati (Goddess of Love)  
+Wife of Kama.  
+Vasanta (Spring)  
+Raga (Attachment)  
+Dvesha (Hate)  
+Krōdha (Anger)  
+Lōbha (Greed)  
+Dambha (Vanity)  
+Friends, of Kāma and Commanders of Mahā-mōha.  
+Darpa (Pride)  
+Trishnā (Covetousness)  Wife of Lobha  
+Kuhana (Fraud) Wife of Dambha.  
+Asuya (Envy)  Wife of Darpa.   
+Samvriti-satya  
+Pratihāri  
+Stambha (Confusion)  
+Abhinivesa (Enthusiasm )  
+Durvasana (Evil propensity)  King's accomplices  
+Sentinel.  
+Messenger.  
+Door keeper  
+
+OM=(A-U-M)  
+श्रीमते रामानुजाय नमः  
+Bow to Blessed Ramanuja  
+SANKALPA-SūRYODAYA  
+OR  
+The Dawn of the Divine Will.  
+
+## 01
 1. May Narayana, the Lord of Sri serve me to overcome (overcross) all contretemps.'-Nārāyana who is envisaged when devotion-steeped dawn breaketh,-Narayana whose Will-Sunrise dispelleth the darkness of worldly wanderings of all Jivas at the termination of Prārabdhakarma,"-Narayana whose super-excellence is 
 2. Conception, Birth, Dotage, Death, etc., also meaning impediments in the way of completing this work. 
 3. Embodied Souls. The word Jiva or Jiv-ātman 
@@ -671,7 +692,7 @@ Therefore Vivêka's ministers, Sama," Dama and others, shall never withstand the
 कोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । ezfafasiagizari gisaransazuia u 
 1. 
 2. 
-Anger. 2 & 3. See n, 3 & 4 p. 36. अरविन्दमशोकं च चूतं च नवमल्लिका | नीलोत्फलं च पंचैते पञ्चबाणस्य सायकाः । 
+Anger. 2 & 3. See n, 3 & 4 p. 36. अरविन्दमशोकं च चूतं च नवमल्लिका । नीलोत्फलं च पंचैते पञ्चबाणस्य सायकाः । 
 [Bh. Gi.] 
 42 
 five, which compare indeed with the weapons1 five of the Lord Supreme (Himself). 
@@ -761,7 +782,7 @@ For **
 3. Goblin. 2. Supreme Devotion to God. 3. भैमरथि - सप्तत्यात्सप्तमे वर्षे सप्तमे मासि सप्तमी । 
 ཉ 
 1. 
-रात्रिमरथी नाम सर्वप्राणिभयंकरी || 
+रात्रिमरथी नाम सर्वप्राणिभयंकरी ।। 
 Satva, Rajas, Tamas. 
 1. जायमानकटाक्षादि सन्धुक्षिताचार्यप्रसादानन्तरकाले 
 2. Ashṭakshari-Mantra, etc. 
@@ -1183,7 +1204,7 @@ Finis Act I, termed Svapakshaprakāsa (Demonstration of one's own creed.)
 AUM. 
 ōM=(A-U-M) 
 SANKALPA-SūRYōDAYA 
-ACT II. 
+## 02 
 THEN ENTER SRADDHA' AND VICHARANA.” 
 Vicharana,—With thy brow bedewed with beads of sweat, thou seemest as flurried as the cow to see her calf. 
 1. Lovely are thy globules of sweat, resembling nectar from thy face-moon dripping, or in the lustrous Malli-blossom blown dewing, or from the noble creeper of youth budding, 
@@ -1279,7 +1300,7 @@ King.-(Musing).
 i. e. Jñana knowledge, Darsana Vision, Prapti= 
 Fruition. 
 1. cf. न च सीता त्वया हीना न चाहमपि राघव । 
-ygenfq ziarał zorenzq|fādìgði || (Bāmāyana.)/ 
+ygenfq ziarał zorenzq।fādìgði ।। (Bāmāyana.)/ 
 96 
 the wits of the Asuras etc. 
 They are like darkness to be swept by the Sun. 
@@ -1352,7 +1373,7 @@ Able lad! Let Jalpa along with Vitanda be far from thee. Win thy opponents, insp
 Or acting under my bebests even like Sri Raghava plying Balā and Atibalā1 under 
 1. The allusion is to the Rakshasas, Subāhu 
 Maricha and the Rakshasi Tātaka who all caused havoc to Visvamitrā's sacritice. Sage Visvamitra to avert this evil begged Dasaratha of Rama's help, who was just then in his teens. Rama accompanied Visvamitra, killed Subāhu and Tātakā and made Māricha flee for life. 
-1. seq:-fafering 541(Prattling with intent for victory.) 3. वितण्डा खपक्षस्थापनहीना परपक्ष प्रतिक्षेपमात्र पर्यवसाना | 
+1. seq:-fafering 541(Prattling with intent for victory.) 3. वितण्डा खपक्षस्थापनहीना परपक्ष प्रतिक्षेपमात्र पर्यवसाना । 
 (criticism.) 
 1. Two mantras taught by Visvamitra to Rāma for 
 vanquishing enemies. 
@@ -1757,7 +1778,7 @@ Listen, lad! the first to be is the exposition of the creed of the Sankhyas, app
 1.  These adepts of the Sānkhya creed, viz. Kapila, Asuri, Panchasikha, etc. discriminating Matter and Soul, treat not of God. Sin-smitten (sure) are their minds. 
 See n. 1, p. 120. 
 1. cf. साक्षान्नारायणो देवः कृत्वा मर्त्यमयीं तनुम् । 
-मग्रानुद्धरते लोकान्कारुण्याचा पाणिना || 
+मग्रानुद्धरते लोकान्कारुण्याचा पाणिना ।। 
 133 
 Pupil.-(Aside.) In the contest about to open, I must first enlist the sympathy of this audience. 
 1.  (Aloud.) Deign to me, I beseech, oh! ye, who are bees in the lotus-feet of Murabbit', tapping therein the honey of Peace! (deign to me) that I may heartily regale your ears with the honey (of words.) 
@@ -2002,7 +2023,7 @@ Are these followers of
 Prabhakara and Kumārila also to be defeated by thine disciple? 
 1. Churning of the sea in the Fish-Avatara, when the Moon was born, is here the allusion from which the metaphor is taken. 
 2. The son of Parāsara - Vyāsa. 
-3. Refering to इदं श्रेयं इदं पुण्यमिदं हितमनुत्तमम् | and 
+3. Refering to इदं श्रेयं इदं पुण्यमिदं हितमनुत्तमम् । and 
 other verses in the Nārāyanîya of the MōkshaDharma in Santi Parva of the Mahabhārata. 
 153 
 Guru. Great king! As defenders of the Vedas but deserters of the Vedānta, they deserve to be extolled as well as condemned. 
@@ -2218,13 +2239,13 @@ totally uproot our foes' might.
 Finis Act II termed Parapaksha-Pratikshêpa (Refutation of opponents.) 
 AUM.ỐM=(A-U-M) 
 SANKALPA-SūRYōDAYA 
-ACT III. 
+## 03 
 THEN ENTER RAGAL-AND DVESHA”. 
 Raga. Friend! With thee for my help, the achievement of my master's mission, I fancy, as (already) accomplished. 
 Dvesha.-Companion! I am in the same boat with thee, as I am ordered by his Majesty to create obstacles against the efforts of Vivêka, who worketh against thee. 
 Raga.—Friend ! Other, mandates (too) there 
 1. 
-- 
+
 are to carry out as occasion may demand. I shall just disclose them. 
 Lust-Attachment to wordliness. 
 1. Hate-for Godliness. 
@@ -2700,7 +2721,7 @@ AUM.
 3. Place of the practice of good. 
 ōM=(A-U-M) 
 SANKALPA-SURYODAYA 
-ACT IV. 
+## 04 
 THEN ENTER KAMA AND VASANTA. 
 Kama. Friend Vasanta ! 
 1. Sugar-cane so tender for my bow, 
@@ -3227,7 +3248,7 @@ Pride.
 1. Envy.ōM-(A-U-M) 
 SANKALPA-SūRYODAYA 
 1 
-ACT V. 
+## 05 
 THEN ENTER DAMBHA AND KUHANA. 
 Dambha.--Halloo! Kuhanā! my dutiful wife ! I want thee. For, thou art my co-partner, by none unpolluted, as was Tārā' owned by Brihaspati, and Ahalyā2 owned by Gautama. Thou wouldst not brook even a moment's separation from me. 
 1. Tarā, the wife of Brihaspati was seduced by Chandra, under the pretext of discipleship. The 
