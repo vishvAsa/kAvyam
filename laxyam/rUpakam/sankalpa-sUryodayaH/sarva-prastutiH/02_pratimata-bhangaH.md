@@ -4911,11 +4911,29 @@ X२८९
 अपर्याप्तास् त्व् एते  
 त्वद्-आदिष्टस्य ममैकस्यापि प्रतिक्षेपाय । तथा हि- 
 
-कथयति जडो विश्वं **वैभाषिकः** क्षणभङ्गुरं,  
+कथयति जडो विश्वं **वैभाषिकः** क्षण-भङ्गुरं,  
 परम् अनुमितं बाह्यं **सौत्रान्तिको** मति-चैत्र्यतः । 
 तद् इदम् अनृतं **योगाचारस्** तथा निखिलं परः  
 स्व-वचन-हताः सर्वे **गर्वं त्यजन्ति** ममाग्रतः ॥ ७२ ॥
 </details>
+
+<details><summary>English</summary>
+
+King.-(With doubt.) Arya! Art thou prepared to subdue these Bauddhas, adepts as they are in juggling arguments ? 
+
+Pupil.--(A bit out of temper.) King! Acting under thy will as I do, all these combatants put together may fail before my single self. 
+
+Thus :- 
+
+1.  The dull Vaibhāshikas boast that the cosmos is momentary: the Sautrāntikas infer the objective universe to be but modifications of the mind; the Yogāchārās aver this same cosmos as unreal; and the rest (the Madhyamikas',) assert that all is unreal (even mind). Hence, their mutually-conflicting theories, self-condemned, stand before me, these (doctrinaires), denuded of their boast. 
+
+1. Different theorists of the Saugata (Buddhist) System of Philosophy.1. 
+
+[[138]] 
+
+</details>
+
+
 
 <details><summary>मूलम् - ७२</summary>
 
@@ -4967,6 +4985,8 @@ X२९१
 +++(क्षणान्तरे बोद्धुर् अनुवर्तनेन)+++ **बुद्ध्वा** बोध्यम् **उदाहरन्ति** विशदं[^168] बुद्धादयश् चेज् जितं +++(क्षणिकवाद-भङ्गतः)+++  
 नो चेद्+धन्त +++(अज्ञात्वैव यत्किञ्चित्प्रलपनाज्)+++ **जितं** पुनस् तद्, इह नस् तूर्यं तु **जोघुष्यते** ॥ ७३ ॥+++(4)+++
 </details>
+
+
 
 <details><summary>मूलम् - ७३</summary>
 
