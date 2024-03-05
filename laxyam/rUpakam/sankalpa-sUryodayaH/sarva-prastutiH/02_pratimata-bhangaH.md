@@ -4913,7 +4913,7 @@ X२८९
 
 कथयति जडो विश्वं **वैभाषिकः** क्षण-भङ्गुरं,  
 परम् अनुमितं बाह्यं **सौत्रान्तिको** मति-चैत्र्यतः । 
-तद् इदम् अनृतं **योगाचारस्** तथा निखिलं परः  
+तद् इदम् अनृतं **योगाचारस्**, तथा +++(चित्-सहितं)+++ निखिलं परः +++(माध्यमकः)+++  
 स्व-वचन-हताः सर्वे **गर्वं त्यजन्ति** ममाग्रतः ॥ ७२ ॥
 </details>
 
@@ -4925,7 +4925,9 @@ Pupil.--(A bit out of temper.) King! Acting under thy will as I do, all these co
 
 Thus :- 
 
-1.  The dull Vaibhāshikas boast that the cosmos is momentary: the Sautrāntikas infer the objective universe to be but modifications of the mind; the Yogāchārās aver this same cosmos as unreal; and the rest (the Madhyamikas',) assert that all is unreal (even mind). Hence, their mutually-conflicting theories, self-condemned, stand before me, these (doctrinaires), denuded of their boast. 
+The dull Vaibhāshikas boast that the cosmos is momentary:   
+the Sautrāntikas infer the objective universe to be but modifications of the mind;  
+the Yogāchārās aver this same cosmos as unreal; and the rest (the Madhyamikas',) assert that all is unreal (even mind). Hence, their mutually-conflicting theories, self-condemned, stand before me, these (doctrinaires), denuded of their boast. 
 
 1. Different theorists of the Saugata (Buddhist) System of Philosophy.1. 
 
@@ -4984,6 +4986,18 @@ X२९१
 **शृण्वन्त्व्** अद्य **विपद्यते** परम् इयं शिक्षा भवत्-पक्षतः ।  
 +++(क्षणान्तरे बोद्धुर् अनुवर्तनेन)+++ **बुद्ध्वा** बोध्यम् **उदाहरन्ति** विशदं[^168] बुद्धादयश् चेज् जितं +++(क्षणिकवाद-भङ्गतः)+++  
 नो चेद्+धन्त +++(अज्ञात्वैव यत्किञ्चित्प्रलपनाज्)+++ **जितं** पुनस् तद्, इह नस् तूर्यं तु **जोघुष्यते** ॥ ७३ ॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Again :- 
+
+1.  Stupid these, Dingnaga', etc., bidding for tusk-to-tusk (kind of) fight! But attend, your school-methods utterly collapse; for the Bauddhas fail in either case, whether, knowing what is to be taught, they venture on expositions, or unknowing-(i. e. in both cases, their argument for momentary doctrine fails). Hence ours is the victory,-let trumpets be beaten !  
+
+Dingnaga: Founder of the Saugata-creed. There is also an implication in this thinker possessing the strength of the elephants, supporting the directions ten of the Earth.  
+
+The meaning is this: -If the present moment vanishes giving place to the next moment, then the teaching of the present moment vanishes, and it is useless; again if the present moment is existent, and the future or the next moment is nonexistent, the teaching also becomes non-existent. Hence, as in either case, if the teaching is to persist, the momentary doctrine must be abandoned. 
+
 </details>
 
 
@@ -5051,13 +5065,26 @@ X२९२
 यश् चैवम् **उद्घोषयति**[^172] 
 
 
-भाषा वैभाषिकाणां शुभम् अनुभवतु, स्वस्ति सौत्रान्तिकेभ्यो  
-योगाचाराः प्रयोगं विजहतु किमु तत्-किङ्करैः शङ्कराद्यैः ।  
-मिथ्या-तत्त्व-व्यवस्था--विघटन-घटनोद्दण्ड-शौण्डीर्य-चण्डो  
-निस्तत्त्वाद्वैतवादी निरुपधिक-कथा--दुर्-जयो निर्जिहीते॥ ७४ ॥
+> भाषा +++(क्षण-भङ्गुर-विश्व-वादिनां)+++ वैभाषिकाणां शुभम् अनुभवतु, स्वस्ति +++(अनुमित-विश्व-वादिभ्यः)+++ सौत्रान्तिकेभ्यो  
++++("सर्वं विज्ञानम् इति वदन्तो")+++ योगाचाराः प्रयोगं विजहतु किमु, तत्-किङ्करैः शङ्कराद्यैः ।+++(4)+++  
++++(चित्-सहित-सर्वस्व-)+++मिथ्या-तत्त्व-व्यवस्था--विघटन-घटनोद्दण्ड-शौण्डीर्य-चण्डो  
++++(शून्यताख्य-)+++निस्तत्त्वाद्वैतवादी निरुपधिक+++(=छल-रहित)+++-कथा--दुर्-जयो **निर्जिहीते**+++(=निर्गच्छति)+++ ॥ ७४ ॥
 
 इति ।  
 </details>
+
+<details><summary>English</summary>
+
+Senapati. (Applauding). Lord! Hearing this Arya's tersely sublime and irresistible harangue, cordially appealing to the assembly, the vile Saugatas have fled in every direction, but Madhyamika alonethe leader of the van of the Bauddhas-disregardeth the accusation with temerity, parading his pedantry. He must in particular be uprooted for his bombasts thus: 
+
+[[140]] 
+
+
+1.  Let the Vaibhāshika's oration enjoy peace; to the Santrantikas, well-wishings; let the Yogāchāras leave their means of proof; let alone the adherents of Sankara &c. who only follow them (Yogacharas, Accepting Yogachara's doctrine - विज्ञानम् एव सत्, अन्यत्सर्वमसदिति । ). But here emergeth this Madhyamika, bursting with his ability to make and unmake theories of non-entity, the upholder of the monistic doctrine of negation, hard to win by unsophisticated arguments. He attempteth victory. 
+
+</details>
+
+
 
 <details><summary>मूलम् - ७४</summary>
 
@@ -5150,50 +5177,51 @@ X२९३
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७५</summary>
 
-राजा -आर्य,[^176] विश्वमिथ्यात्व[^177] व्यवस्थापने[^178] वैतण्डिकपण्डितम्मन्यः शून्यवादी पुनः शून्यतां प्रापयितव्यः[^179] । 
+राजा -आर्य,[^176] विश्व-मिथ्यात्व[^177]-व्यवस्थापने[^178]  
++++(पर-पक्ष-विघटन-मात्र-परः)+++ वैतण्डिक-पण्डितम्-मन्यः शून्यवादी  
+पुनः **शून्यतां प्रापयितव्यः**[^179] । 
 
-[^176]:
-     भगवन्-----क
+गुरुः - भद्र, सावधानम् **अभिदध्याः** । 
 
-
-[^177]:
-     मिथ्यातत्त्व-----ख
-
-
-[^178]:
-     स्थापनशौण्डीर्यचण्डो---क; स्थापन---क
+शिष्यः - किम् अत्रावधातव्यम् ।  
+अयं खलु जननी-वन्ध्यात्व-प्रतिज्ञान-संवादिभिर् अ-यथा-यथ--प्रलापैर्  
+आत्मनोऽपि मौनम् आजन्म-मरणम् **उपपिपादयिषति** । अपि च ;
 
 
-[^179]:
-     प्रमापयितव्यः---क
+(राजा - तथा कुर्याः ।  
+शिष्यः--राजन्, तर्काङ्गपञ्चकान्यतम-हानिना ऽन्तरीयकवचसां दूषणे  
+न विशेषतः प्रयतितव्यम् । तथा हि)
 
 
-गुरुः - भद्र, सावधानमभिदध्याः । 
-
-शिष्यः किमत्रावघातव्यम् । अयं खलु जननीवन्ध्यात्वप्रतिज्ञानसंवादिभिरयथायथ प्रलापैरात्मनोऽपि मौनमाजन्ममरण- 
-
-मुपपिपादयिषति[^180] । अपि च ;[^181] 
-
-[^180]:
-      उपपादयुह्यति-----क ख
-
-
-[^181]:
-     राजा - तथा कुर्याः । शिष्यः--राजन्, तर्कानपञ्चकान्यतमहानिनान्तरीयक- 
-    सां दूषणे न विशेषतः प्रयतितव्यम् । तथा हि--- क.
-
-
-परस्पर विघट्टन त्रुटिततर्कशस्त्रच्छटा- 
-
-तिरस्कृतचमत्कृतिः स्वयमखण्डि वैतण्डिकः ।  
-किमत्र परिशिष्यते किमपि दूषणोद्भावनं 
-
-स्वतो निहतमुद्गरप्रहरणप्रयासायते ।॥ ७५ ॥
+परस्पर-विघट्टन-त्रुटित-तर्क-शस्त्र-च्छटा+++(=समूहा)+++-  
+तिरस्कृत-चमत्-कृतिः स्वयम् **अ-खण्डि** वैतण्डिकः ।  
+**किम्** अत्र **परिशिष्यते**, किम् अपि दूषणोद्भावनं  
+स्वतो-निहत--मुद्गर-**प्रहरण-प्रयासायते** ।॥ ७५ ॥+++(4)+++
 </details>
+
+<details><summary>English</summary>
+
+King.--Arya! This disputatious Paudit-churl, the scholastic of 'total illusion' and advocate of negation,' should himself be relegated to negation.  
+Guru.-Lad! Ponder over this matter deliberately.  
+Pupil.--Why such deep deliberation? He argueth for himself eternal silence, by reckless arguments, akin to those, a son would employ for the barrenness of his mother.  
+
+(1. Anything that is unreal cannot be perceived or known by the sense, just as a man cannot say that his mother is a barren woman, for the very idea of barrenness connotes the fact of being sonless. Similarly the very idea of perception or knowledge implies the existence of a real object.  
+To say that unreality alone is real is a contradiction of words. )
+
+[[141]] 
+
+Further:-  
+This wrangler (Madhyamika, Who form only a sub-sect of Yogāchāra and who hold : -विज्ञानमेव सत् ।) standeth self-condemned,  
+inasmuchas his Own wit is unwitted by the arrows of his own self-contradicting arguments, opposing each other, and breaking down.  
+There seemeth no occasion therefore to advance any more (on our part), for as much as that would be to club-beat one already beaten.  
+
+</details>
+
+
+
 
 <details><summary>मूलम् - ७५</summary>
 
-इति ।  
 राजा -आर्य,[^176] विश्वमिथ्यात्व[^177] व्यवस्थापने[^178] वैतण्डिकपण्डितम्मन्यः शून्यवादी पुनः शून्यतां प्रापयितव्यः[^179] । 
 
 [^176]:
@@ -5214,7 +5242,7 @@ X२९३
 
 गुरुः - भद्र, सावधानमभिदध्याः । 
 
-शिष्यः किमत्रावघातव्यम् । अयं खलु जननीवन्ध्यात्वप्रतिज्ञानसंवादिभिरयथायथ प्रलापैरात्मनोऽपि मौनमाजन्ममरण- 
+शिष्यः - किमत्रावधातव्यम् । अयं खलु जननीवन्ध्यात्वप्रतिज्ञानसंवादिभिरयथायथ प्रलापैरात्मनोऽपि मौनमाजन्ममरण- 
 
 मुपपिपादयिषति[^180] । अपि च ;[^181] 
 
@@ -5223,8 +5251,7 @@ X२९३
 
 
 [^181]:
-     राजा - तथा कुर्याः । शिष्यः--राजन्, तर्कानपञ्चकान्यतमहानिनान्तरीयक- 
-    सां दूषणे न विशेषतः प्रयतितव्यम् । तथा हि--- क.
+     राजा - तथा कुर्याः । शिष्यः--राजन्, तर्काङ्गपञ्चकान्यतमहानिनान्तरीयकवचसां दूषणे न विशेषतः प्रयतितव्यम् । तथा हि--- क.
 
 
 परस्पर विघट्टन त्रुटिततर्कशस्त्रच्छटा- 
