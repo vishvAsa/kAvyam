@@ -92,14 +92,6 @@ unicode_script = "devanagari"
     - Gentleman-like to start with in case of conflict.
     - Yet, not an active do-gooder - has not realized the centrality/ fit of dharma to his natural programming. Ends up living rather aimlessly in a desert trailer.
 
-### उपसन्न्यस्ताः
-- yojimbo
-- zatoichi
-- Samurai Jack
-- V for Vandetta
-- Mad Max
-- Witcher
-
 ### सामान्य-धर्मोपेक्षकाः
 - Salamanca cousins (Just Call Saul, Breaking Bad)
 
@@ -118,11 +110,30 @@ unicode_script = "devanagari"
 ### हास्यपराः
 - Jackie Chan
 
+### स्व-शेषतैक-रसाः
+शेषवृत्तेः शेषतैकरसत्वस्य च परा काष्ठा काचिद्  
+उषःपुत्र-योद्धृषु (सामुराय्-आख्येषु) दृश्यते  
+(यद्य् अपि तत्र शेषी मानुषप्रभुः यःकश्चित्)।  
+तद्-अवगत्यै हगाकुरे-निभ-ग्रन्थानुसन्धानं लाभाय स्यात्।
+
+#### उपसन्न्यस्ताः
+इमे धर्मे धर्म-पुरुषे वा दासतां ययुः। 
+
+- Reacher
+- yojimbo
+- zatoichi
+- Samurai Jack
+- V for Vandetta
+- Mad Max
+- Witcher
+
+
+
 ## भाग्य-हतोत्तमाः
 - चन्दुः (Oru Vadakkan Veeragatha)
 
 ## मायाविनः
-- Luke Skywalker
+- Luke Skywalker (Star Wars)
 - Neo (Matrix)
 
 ## हासकाः
@@ -131,3 +142,7 @@ unicode_script = "devanagari"
 
 ## पितरः
 - Bone scanner salesman turned stock broker (Pursuit of Happyness)
+
+## मान-पराः
+- European gentlemen, late 1700s. Fought duals to "save face". Had some basic level of honor and chivalry; but were open to cheating beyond that level. Driven by artha and kAma, mainly; and secondarily by dharma.
+  - Barry Lyndon
