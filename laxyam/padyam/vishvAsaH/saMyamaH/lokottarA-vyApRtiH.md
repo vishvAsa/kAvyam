@@ -22,10 +22,20 @@ unicode_script: devanagari
 आजीवाधिष्ण्यपर्यन्तं  
 ज्ञानं **नश्येद्धि** सत्वरम्॥
 
-वातुलालय-मध्यस्थः  
+बन्धु-मित्राणि राष्ट्रं च  
+विश्वं चैवाप्य् अधोमुखम्।  
+इति दुःखं च क्रोधं च  
+**मूर्खम् एव दहेच्** चिरम्॥  
+वातुलालय-मध्य-स्थः  
 स्वास्थ्योल्लास-रसोन्मुखः।  
-अनिराशी न चात्याशी  
-वैद्य इव **वसेद्** भुवि॥+++(5)+++
+अनिराशी न चात्य्-आशी  
+वैद्यवद् **वर्ततां** भुवि॥+++(5)+++
+
+<details><summary>English</summary>
+
+One must live in the world seeking delight and health, as if one were a doctor in a mental hospital - neither too hopeful, nor hopeless.
+</details>
+
 
 संसारः सुलभो हन्त,  
 शुद्धा संवित् तथा न हि।  
