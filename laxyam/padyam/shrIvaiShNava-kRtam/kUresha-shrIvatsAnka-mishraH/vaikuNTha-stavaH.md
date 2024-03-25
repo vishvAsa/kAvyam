@@ -2,6 +2,13 @@
 title = "वैकुण्ठस्तवः"
 
 +++
+
+Source: [te - 1](https://archive.org/details/srisrivatsankami023991mbp/page/n85/mode/2up)
+
+Source: [te - 2](https://archive.org/details/SriSriVatsankamishraVirachitaPanchastaviPartIi)
+
+
+
 <details><summary>English</summary>
 
 This magnificent sthavam of Sri KurEsar has 100 slOkams and has the saarAr thams (essential meanings of SrI BhAshyam passage) and therefore it has been recommended as a must to study by us.  
@@ -36,6 +43,8 @@ The structure of Sri VaikuNTha Sthavam
 यदुक्तयस्त्रयीकण्ठे यान्ति मङ्गलसूत्रताम् ॥)
 </details>
 </div>
+
+## आचार्यादि-स्तुतिः
 
 <div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/rAmAnujaH/yo_nityam.md" newLevelForH1="5" includeTitle="false"> 
 
@@ -101,6 +110,7 @@ The trinity of the waters from the river springs and rain join together to make 
 वेदार्थरत्ननिधिरच्युतदिव्यधाम जीयात् पराङ्कुशपयोधिरसीमभूमा ॥ ३ ॥
 </details>
 
+## विष्णु-नुतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन् मङ्गलाय महते जगताम् **उशन्ति**+++(=स्तुवन्ति)+++, त्रैविष्टपान्य् अपि +++(ब्रह्म-रुद्रादि-)+++पदानि यद्-आश्रयाणि ।  
@@ -253,6 +263,7 @@ The pramANams for words and word groups used in this slOkam come from Swamy Alav
 तन्मादृशामपि च गोचरमेति वाचो मन्ये तदीयमिदमाश्रितवत्सलत्वम् ॥ ७ ॥
 </details>
 
+## विनय-वचनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानन्न् अपीह किल माम्, अनपत्रपिष्णुर्  
@@ -283,7 +294,7 @@ KurEsar (AzhwAn) has lowered himself before the Lord out of his enormous Bhakthi
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवस्य दैत्य-मथनस्य गुणेष्व् इयत्ता  
-सङ्ख्या च वाङ्-मनस-गो-चरम् **अत्यभूताम्** ।  
+सङ्ख्या च वाङ्-मनस+++(←अजन्त-निपातनम्)+++--गो-चरम् **अत्यभूताम्** ।  
 अप्य् एवम् अण्व् अपि च तत्र ममार्ति-शान्त्यै  
 कीटस्य **तृष्यत** उदन्वति विप्रुषाऽलम् ॥ ९ ॥+++(4)+++
 </details>
@@ -333,6 +344,7 @@ Through their overflowing love for the Lord, ancient great ones such as BhIshma,
 वाचो विडम्बितमिदं मम नीचवाचः क्षान्तिस्तु ते सविषया मम दुर्वचोभिः ॥ १० ॥
 </details>
 
+## श्रुति-प्रमाणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आज्ञा तवात्रभवती **विदिता** त्रयी सा  
@@ -478,6 +490,7 @@ Swamy KurEsar says here: “With minds filled with profound Bhakthi for You, the
 श्रुत्यर्थमर्थमिव भानुकरैर्विभेजुः त्वद्भक्तिभावितविकल्मषशेमुषीकाः ॥ १५ ॥
 </details>
 
+## भक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये तु त्वद्-अङ्घ्रि-सरसी-रुह-भक्ति-हीनाः  
@@ -534,7 +547,7 @@ Oh Lord meditated upon by the residents of the three worlds! Only Bhakthi for Yo
 द्रष्टुं प्रवेष्टुमपि भक्तित एव शक्यः ॥
 </details>
 
-
+## परत्व-निश्चयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्त्वार्थ--तत्-पर--परश्-शत--वेद-वाक्यैः  
@@ -588,10 +601,28 @@ Oh Achyutha! Some (SaivAs) state that Sivan is the Supreme God because some purA
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यः खल्वणोरणुतरो महतो महीयान्  
-आत्मा जनस्य जनको जगतश्च योऽभूत् ।  
-वेदात्मकप्रणवकारणवर्णवाच्यं तं त्वां वयं तु परमेश्वरमामनामः ॥ १९ ॥
+यः खल्व् अणोर् अणुतरो, महतो महीयान्,  
+आत्मा जनस्य, जनको जगतश्च योऽभूत् ।  
+वेदात्मक-प्रणव--कारण-वर्ण+++(=अ)+++-वाच्यं तं त्वां वयं तु परमेश्वरम् **आमनामः** ॥ १९ ॥
 </details>
+
+<details><summary>English</summary>
+
+[[31]]
+
+MEANING: 
+
+Oh Sriman NaarAyaNa! VaikuNTha NaaTha! We conclude that you and You alone is the ParamEswaran and worship you with the help of PramANams from the Vedaas. You became the One, who is subtler than “the subtlest” and grander than “the grandest”. You gave birth to the sentient and the insen tient universe and entered inside all of them to direct them. You are indicated by the one lettered PraNavam, which is the root and the essence of all the Vaachaka sabdhams of Vedaas.  
+
+COMMENTS: 
+
+Taittiriya Upanishad in the NaarAyaNAnuvAkam section described the Sva roopa-Roopa-GuNams of the Lord: “aNOraNeeyAn MahathO MaheeyAn aathmAasya janthOr-nihithO guhA yAm” (smaller than the smallest and larger than the largest) and concludes with “prasAdhAn-mahimAnam Isam” indicating that Sriman NaarAyaNan is the Isan/Iswaran/ ParamEswaran (Supreme Lord). sadagopan.org KurEsar concludes here therefore: “tvAm thu vayam ParamEswaram aaman Ama: (We recognize You as our Supreme Lord based on Veda Manthrams). That Supreme Being as the one embodiment of the single lettered PraNavam is saluted here by KurEsar: tamm VedAthmaka PraNava-kAraNa varNa-vAchyam tvAm thu vayam ParamEswaram aamanAma: When KurEsar salutes the Lord as “VedAthmaka praNava kaaraNa varNa vaachyam”, it is clear that PraNavam cannot refer to any one other than EmperumAn.  
+  
+    
+[[32]]    
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -601,9 +632,26 @@ Oh Achyutha! Some (SaivAs) state that Sivan is the Supreme God because some purA
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आत्मेश्वरोऽसि न परोऽस्ति तवेश्वरोऽन्यः विश्वस्य चाधिपतिरस्य परायणं च ।  
-नारायणाच्युत! परस्त्वमिहैक एव ब्रह्मादयोऽपि भवदीक्षणलब्धसत्ताः ॥ २० ॥
+आत्मेश्वरोऽसि न परोऽस्ति तवेश्वरोऽन्यः  
+विश्वस्य चाधिपतिर् अस्य +++(←विश्वस्य)+++ परायणं च ।  
+नारायणाच्युत! परस् त्वम् इहैक एव  
+ब्रह्मादयोऽपि भवद्-ईक्षण-लब्ध-सत्ताः ॥ २० ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Sriman NaarAyaNa! You are the Lord unto Yourself (thvam AathmEswara asi). There is no one who is Superior to You (tava Para: adhya Iswara: na asthi). Thou art the Lord and goal of this universe and its beings (asya viswasya adhi pathi: ParAyaNam cha). Oh Lord, who never lets down any one who performed SaraNAgathy to You and sought Your protection. (Oh! Achyutha) When we in quire as to who is the Superior amongst all gods, it becomes apparent that you alone are the Para DEvathai (Supreme Being). Even Brahma, Rudran and others have realized their own existence through the power of your benevo lent glances (BrahmAdhaya: api bhavadhIkshaNa labdha sattaa:).  
+
+COMMENTS: 
+
+KurEsar uses the following Sruthi PramANams for the thoughts behind this slOkam: 1. “YasmAth Param naaparam asthi”, “YasmAth Param naaparam asthi”, 2. “Pathim viswasyaathmEswaram”, “Pathim viswasyaathmEswaram”,  
+ 1. “NivAsa: suhrudh gathi: NaarAyaNa:”
+    
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -613,9 +661,26 @@ Oh Achyutha! Some (SaivAs) state that Sivan is the Supreme God because some purA
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नित्यः समाभ्यधिकवर्जित ऊर्जितश्रीः नित्येऽक्षरे दिवि वसन् पुरुषः पुराणः ।  
-सत्त्वप्रवर्तनकरो जगतोऽस्य मूलं नान्यस्त्वदस्ति धरणीधर! वेदवेद्यः ॥ २१ ॥
+नित्यः सम+अभ्यधिक-वर्जित ऊर्जितश्रीः  
+नित्येऽक्षरे दिवि वसन् पुरुषः पुराणः ।  
+सत्त्व-प्रवर्तन-करो जगतोऽस्य मूलं  
+नान्यस् त्वद् अस्ति धरणी-धर! वेद-वेद्यः ॥ २१ ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh the Lord of BhUmi Devi (dharaNeedhara)! You alone are eternal (tvam yEka nithya:). You have no equal or superior (Sama abhyadhika varjitha:). You are the timeless (anAdhi) Purushan (PurushOtthaman). You are the sole seed for this universe as you stay in Your eternal Parama Padham (NithyE dhivi ak sharE vasan asya jagatha: moolam). You are the One resplendent with the in separable association of MahA Lakshmi (tvam Urjitha SrI:). You spread the Sathtva guNam linked to Jn~Anam (Satthva pravartanakara:). There is no one, who could be comprehended with the help of the VedAs (tvadh anya: Veda vEdya: na asthi).  
+
+COMMENTS: 
+
+When KurEsar uses the term “nithya:” he has in mind the Sruthi passages: “nithyO nithyAnAm chEtanas-chEtanAnAm”. KurEsar selects the Vedic passage of “Hreesccha tE Lakshmeesccha Pathnyou” as PramANam, when he selects the words “DharaNidhara - Urjitha SrI:” to salute the Lord as the divine con sort of BhUmi Devi and MahA Lakshmi.  
+
+35  
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -623,11 +688,29 @@ Oh Achyutha! Some (SaivAs) state that Sivan is the Supreme God because some purA
 सत्त्वप्रवर्तनकरो जगतोऽस्य मूलं नान्यस्त्वदस्ति धरणीधर! वेदवेद्यः ॥ २१ ॥
 </details>
 
+## पुरुषसूक्तम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यं भूतभव्यभवदीशमनीशमाहुः अन्तस्समुद्रनिलयं यमनन्तरूपम् ।  
-यस्य त्रिलोकजननी महिषी च लक्ष्मीः साक्षात् स एव पुरुषोऽसि सहस्रमूर्धा ॥ २२ ॥
+यं भूत-भव्य-भवद्-ईशम् अनीशम् आहुर्  
+अन्तस्-समुद्र-निलयं यम्-अनन्त-रूपम् ।  
+यस्य त्रि-लोक-जननी महिषी च लक्ष्मीः  
+साक्षात् स एव पुरुषोऽसि सहस्र-मूर्धा ॥ २२ ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+You are the Master of the past, future and present (BhUtha bhavya bhavadee san). You are saluted as one, who has no Master (aneesan). You are recog nized as reclining in the middle of the Milky Ocean (antha: samudra nilayan). You are saluted as One with multitudes of roopam/forms (anantha roopan). As the Supreme Being of such glorious attributes and as the divine consort of the Mother of the beings of the three worlds, you become the thousand headed Purushan visualized by the Purusha Sooktham of the VedAs.  
+
+COMMENTS: 
+
+Vedam states: “na tasyEsa kascchana” (There is no Master for the Lord. He is His own Master). KurEsar salutes in this context as: “Yamm aneesam aahu:” The roopam of the Lord resting in the middle of the milky ocean is Padhma nAbhan. KurEsar’s Sruthi PramANams for Salutation of KsheerAbdhi NaaTan as “Yamm antha: samudhra nilayam” are: 1. “ambasya paarE”, “ambasya paarE”, 2. “SamudrEntham Visvasambhuvam”, “SamudrEntham Visvasambhuvam”, 3. “yamantha SamudhrE kavayO vayanthi” The Lord’s countless forms (ananta roopams) are based on the following Sruthi PramANams: “tadhEkam avyaktham ANANTHA ROOPAM, KrishNa roopANi ANANTHAANI”. Swamy Desikan refers later to the 77 roopams of Lord Narasimhan in Gadhya BhAshyam. KurEsar saluted MahA Lakshmi as “thrilOka 36  
+
+Jananee”. The pramANam here is from VishNu PurANam: “SnapayAm chakrirE Deveem SarvalOka- MahEswareem” KurEsar concludes this slOkam with the statement that the Lord of MahA Lak shmi is the Purushan celebrated by Purusha Sooktham as “Sahasra Seersha:” KurEsar’s words are: “Sa: Sahasra-MoordhA Purusha: SaakshAth” Wherever one turns, SrivathsAngAcchAr Swamy identifies the Sruthi, Smruthi, PurANa PramAnams behind each word chosen by KurEsar in the slOkams of Sri VaikuNTha Sthavam to establish the supremacy of Sri VaikuNTha Naathan.  
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -637,9 +720,24 @@ Oh Achyutha! Some (SaivAs) state that Sivan is the Supreme God because some purA
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वश्रुतिष्वनुगतं स्थिरमप्रकम्प्यं नारायणाह्वयधरं त्वमिवानवद्यम् ।  
-सूक्तं तु पौरुषमशेषजगत्पवित्रं त्वामुत्तमं पुरुषमीशमुदाजहार ॥ २३ ॥
+सर्व-श्रुतिष्व् अनुगतं स्थिरम् अप्रकम्प्यं  
+नारायणाह्वय-धरं त्वम् इवानवद्यम् ।  
+सूक्तं तु पौरुषम् अ-शेष-जगत्-पवित्रं  
+त्वाम् उत्तमं पुरुषम् ईशम् **उदाजहार** ॥ २३ ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh the Lord of BhUmi Devi! The same firm (sTiram) and unassailable (aprakampyam) Purusha Sooktham has its abode in all the 4 vedams (Sarva srutishu anugatham) with the name of NaarAyaNa (NaarAyaNa aahvayad haram) This blemishless Purusha Sooktham, which creates purity (Suddhi) in the universe has identified You as the PurushOtthaman in this world (tvAm utthamam Purusham Isam udAjahAra). 
+
+COMMENTS: 
+
+This slOkam is a joint celebration of the Lord and the Purusha Sooktham eulo gizing Him. The five adjectives of the first two lines of this slOkam “Sarva Srutishu anugatam, sTiram, aprakamyam, NaarAyaNa aahvayadharam, anavadhyam” qualify “asEsha Jagath pavithram”. These five visEshaNams (qualifiers) are equally relevant to Purusha Sooktham: It is found in all the four VedAs (Sarva sruthishu anugatham); it is firmly established (sTiram); it is unassailable (aprakampyam); it has the name of NaarAyaNa (PourushamEva SookthEna, tadh VishNOrithi manthrENa sookthEna Pu rushENu thu). Pourusham Sooktham refers to Purusha Sooktham here. 38  
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -647,11 +745,25 @@ Oh Achyutha! Some (SaivAs) state that Sivan is the Supreme God because some purA
 सूक्तं तु पौरुषमशेषजगत्पवित्रं त्वामुत्तमं पुरुषमीशमुदाजहार ॥ २३ ॥
 </details>
 
+## आनन्द-वल्ली
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आनन्दमैश्वरम् अवाङ्मनसावगाह्यम् आम्नासिषुः शतगुणोत्तरितक्रमेण ।  
-सोऽयं तवैव नृषु हि त्वमिहान्तरात्मा त्वं पुण्डरीकनयनः पुरुषश्च पौष्णः ॥ २४ ॥
+आनन्दम् ऐश्वरम्+++(→ब्राह्मं श्रुत्युक्तं)+++ अ-वाङ्-मनस+++(←अजन्त-निपातनम्)++++अवगाह्यम् **आम्नासिषुः** शत-गुणोत्तरित-क्रमेण +++(१००x आनन्द इति)+++ ।  
+सोऽयं +++(→आनन्दः)+++ तवैव, नृषु हि त्वम् इहान्तरात्मा  
+त्वं पुण्डरीक-नयनः पुरुषश् च पौष्णः+++(=सौरः)+++ ॥ २४ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh Lord! Your auspicious guNams have been declared by the VedAs to be be yond mind and speech (avAngh-manasa avagAhyam) and that bliss arising from the contemplation of these divine guNams increases in units of hundred starting from the aanandham of humans. That bliss is unique to you and your matchless guNams. In the Aananda valli passage, you are identified as the indweller of the chEtanams. You also become the indweller of the Sooryan as white lotus eyed Purushan.  
+
+COMMENTS: 
+
+Aanandhavalli passage from Taittireeya Upanishad starts with Maanusha an andham / human bliss (sa yEkO Maanusha aanandha:). That is taken as the unit for the measurement of the bliss of: 1. Manushya- Gandharva 2. Deva-GandharvAs 3. Pithrus 4. aajanaja dEva 5. karma dEva 6. Deva 7. Indhra [[39]] ९. Bruhaspathi and 9. PrajApathi The bliss of each of the set of ten starting from Manushyan is 100 fold larger and ends with the aanandham of Brahman as the loftiest (sa yEkO BrahmaNa aanandha:). KurEsar draws the Upanishad PramANam on Aanandham to point out that the loftiest of aanandham is enjoyed by the Parama Purushan as the Supreme Be ing. That He is inside all chEthanams as antharyAmi (indweller) and in achEthanams as anupravEsam proves His SarvEswarathvam. He is inside the orbit of the Sun (PoushNa: Purusha: Sa:) and has eyes resembling the lotus (“tasya yaTA kapyAsam PuNDareekam yEvamakshiNeem”) KurEsar piles up pramANam after pramANam to remind us of the ParadEvathA Tatthvam of 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
