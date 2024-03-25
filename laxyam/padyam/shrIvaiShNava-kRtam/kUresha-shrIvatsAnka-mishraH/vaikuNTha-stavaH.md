@@ -2,6 +2,25 @@
 title = "वैकुण्ठस्तवः"
 
 +++
+<details><summary>English</summary>
+
+This magnificent sthavam of Sri KurEsar has 100 slOkams and has the saarAr thams (essential meanings of SrI BhAshyam passage) and therefore it has  been recommended as a must to study by us.  
+The structure of Sri VaikuNTha Sthavam  
+1. The First slOkam is a magnificent tribute to EmperumAnAr by KurEsar.   This slOkam is the one that we recite daily:  
+“yO nithyamachyutha padAmbuja-yugma-rukma”  
+2 and 3: These two slOkams offer prayer to receive the anugraham of  swAmy NammAzhwAr in the efforts to compose SrI VaikuNTha sthavam.  
+
+1. Salutations to Sriman NaarAyaNan, the Jagan-MangaLa JyOthi: the  Svayam JyOthi.  
+2. Prayer for the Lord to appear before the Kavi with His Divya MangaLa  Vigraham.  
+3. Salutations to the DivyAthma svaroopam of the Lord.  
+4. Description of the Vaathsalyam of the Lord for His BhakthAs.  
+5. KurEsar’s discomfort about his ability to engage in the task of eulogiz ing the Lord.  
+6. Declaration of his (KurEsar’s) determination to make a feeble attempt  to eulogize a miniscule of the Lord’s limitless glories.  
+7.  Salutations to the Lord’s foremost attribute: KShamA (forbearance).   We will study the Sri VaikuNTha Sthava slOkams few at a time. 
+
+</details>
+
+
 <div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/kUresha-shrIvatsAnka-mishraH/shrIvatsAnkamishrebhyaH.md" newLevelForH1="5" includeTitle="false"> 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -22,8 +41,10 @@ title = "वैकुण्ठस्तवः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो नित्यमच्युतपदाम्बुजयुग्मरुक्मव्यामोहतस्तदितराणि तृणाय मेने ।  
-अस्मद्गुरोर्भगवतोऽस्य दयैकसिन्धोः रामानुजस्य चरणौ शरणं प्रपद्ये ॥ १ ॥
+यो नित्यम् अच्युत-पदाम्बुज-युग्म-रुक्म-  
+व्यामोहतस् तद्-इतराणि तृणाय मेने ।  
+अस्मद्-गुरोर् भगवतोऽस्य दयैकसिन्धोः  
+रामानुजस्य चरणौ शरणं प्रपद्ये ॥ १ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -36,9 +57,21 @@ title = "वैकुण्ठस्तवः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रैविद्यवृद्धजनमूर्धविभूषणं यत् सम्पच्च सात्त्विकजनस्य यदेव नित्यम् ।  
-यद्वा शरण्यं अशरण्यजनस्य पुण्यं तत् संश्रयेम वकुलाभरणाङ्घ्रियुग्मम् ॥ २ ॥
++++(विष्णु-पाद-चिह्न-रूपेण)+++ त्रैविद्य-वृद्ध-जन-मूर्ध-विभूषणं यत्  
+सम्पच् च सात्त्विक-जनस्य यद् एव नित्यम् ।  
+यद् वा शरण्यं अ-शरण्य-जनस्य पुण्यं  
+तत् **संश्रयेम** +++(विष्णु-पादोद्भव-जातीय-)+++वकुलाभरणाङ्घ्रि-युग्मम् ॥ २ ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+May we, who have no other refuge, be blessed to attain the impeccably pure  (sacred) feet of Swamy NammAzhwAr adorning the garland of VakuLa push pams! His sacred pair of feet is the lasting crown for the heads of poorvA chAryAs (AlavanthAr, RaamAnujA and NaaTa Muni); those pair of feet of  Swamy NammAzhwAr is the wealth for those, who are the abodes for Satthva  guNam.  
+
+SrivathsAnkAcchAr Swamy points out that one can hear the echoes of the passages from Swamy AlavanthAr’s and AchArya RaamAnujA’s Sri Sooktis in this  and other slOkams. 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -48,9 +81,19 @@ title = "वैकुण्ठस्तवः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भक्तिप्रभावभवदद्भुतभावबन्धसन्धुक्षितप्रणयसाररसौघपूर्णः ।  
-वेदार्थरत्ननिधिरच्युतदिव्यधाम जीयात् पराङ्कुशपयोधिरसीमभूमा ॥ ३ ॥
+भक्ति-प्रभाव--भवद्-अद्भुत--भाव-बन्ध--  
+सन्धुक्षित--प्रणय-सार--रसौघ-पूर्णः ।  
+वेदार्थ-रत्न-निधिर् अ-च्युत-दिव्य-धाम  
+**जीयात्** पराङ्कुश-पयो-धिर् अ-सीम-भूमा ॥ ३ ॥
 </details>
+
+<details><summary>English</summary>
+
+Swamy NammAzhwAr (ParAnkusar) of limitless glories is compared here to  the auspicious Milky Ocean and is hailed for eternal remembrance by all of us  (aseema bhUmaa ParAnkusa PayOdhi: jeeyAth). PallANDU is sung for the  milky ocean of Swamy NammAzhwAr, who is the abode of lustrous gems rep resenting the essence of VedAs (VedArTa rathna nidhi:). He is recognized as  the living place for BhagavAn (achyutha divya dhAma) and as one, who is full  of divine love for the Lord, which found its outlet as Paasurams renowned for  their Para Bhakthi, Para Jn~Anam and Parama Bhakthi.  
+
+The trinity of the waters from the river springs and rain join together to make  the combined waters of the mighty ocean. Similarly, the intensity of the bhak thi of Swamy NammAzhwAr for BhagavAn transformed into nava rasa anubha vams and flowed as his divine paasurams. The three sources of flow into the  Milky Ocean are Swamy NammAzhwAr’s Para Bhakthi (Bhakthi prabhAvam),  Para Jn~Anam (BhAva bandha:) and Parama Bhakthi (PraNaya Saara:).  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -60,9 +103,45 @@ title = "वैकुण्ठस्तवः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन्मङ्गलाय महते जगतामुशन्ति त्रैविष्टपान्यपि पदानि यदाश्रयाणि ।  
-वन्दामहे सरसिजेक्षणमद्वितीयं वेदान्तवेद्यं अनिदम्प्रथमं महस्तत् ॥ ४ ॥
+यन् मङ्गलाय महते जगताम् **उशन्ति**+++(=स्तुवन्ति)+++,  त्रैविष्टपान्य् अपि +++(ब्रह्म-रुद्रादि-)+++पदानि यद्-आश्रयाणि ।  
+**वन्दामहे** सरसि-जेक्षणम् अ-द्वितीयं वेदान्त-वेद्यं अन्-इदम्-प्रथमं महस् तत् ॥ ४ ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+The great ones (MahAns) attribute the MahA tEjas of Bhagavaan (Mahastham) as being the cardinal reason for the kShEmam of this world (Yath JagathAm mahathE  MangaLAya usanthi). 
+
+This grand jyOthi is resorted to by the DevAs, Rudran and BrahmA for maintaining / retaining their assigned ruler ships (thraivishtapAni padAni api YadAsrayANi). 
+
+We offer our salutations (vandhAmahE) to that lotus eyed Lord (SarasijEkshaNam), who is matchless (adhvitheeyam), ancient/  timeless (anidham praTamam) and can be understood only by the Upanishads, the siras of the Vedams (VedAntha vEdyam).  
+
+COMMENTS: 
+
+The first quarter (padham) of the slOkampoints out that the Lord is ever-present, solely for blessing the world with auspiciousness. This is the meaning of the first  
+
+mahA tEjas—azhagar padham of this slOkam. 
+
+10The greatest of the MangaLams originating from BhagavAn is MOksham since  He is the Only One who can grant us Moksham (Mokshapradhan). Since DevAs  are powerless to grant that boon, KurEsar reminds us in the second padham  that those Devaas owe their positions as Indhran, Rudhran, Brahma Devan  due to BaghavAn’s anugraham. The PurANams state that Brahma Devan et al  got their lofty positions by performing AarAdhanam for thousands of crores of  Yugams (YugakOti sahasrANi VishNum aarAdhya PadhmabhU:, puna: thrailO kya dhAthruthvam prApthavAn ithi susruma:).  
+
+The powerful reference to the Lord as SenthAmarai KaNNan  (SarasijEkshaNan) comes straight out of ChAndhOgyam (KapyAsam  PuNDareekAksham). The allusion to “adhvitheeyan” is based on other Upani shadic and AchArya Sri Sookthis:  
+
+EkamEvAdhvitheeyam—Description of Brahman in Sadh Vidhyai  
+
+dhvitheeya soonyathO ukthyaa cha tath-samAna nishEdhanam—Swamy Desi kan in Satha DhUshaNi.  
+
+The usage of “VEdAntha VEdhyam” refers to the unassailable fact that Bhaga vAn can be comprehended by His own SaasthrAs. AchAryAs instruct us on  those Saasthrams to help us understand Bhagavath Svaroopam (Swamy DEsi kan stated later: “iRai nilayAm uNarnthOm yemm gurukkaL iyampiyathE”).  
+
+Daily new "Gods" come into prevalence in this world. AzhwAr has already re ferred to this fashion: “maRROr puthu dhaivam koNDAdum ThoNDeer”. Sri man NaarAyaNan did not arise yesterday or the day before but has stayed as  the Aadhi Moolam (primordial root) all these times and will continue as the  Supreme Being forever. KurEsar refers to this tatthvam by the choice of the  word: “anidham PraTamam”. KurEsar used the word “Maha:” for BhagavAn to  refer to His Param (Svyam) JyOthi Tatthvam (Param JyOthir- upasampadhya,  NaarAyaNa ParO JyOthi:).  
+
+When one unites the three words used by KurEsar, “Mahas-thath SarasijEk shaNam”, SrivathsAngAcchAr Swamy points out that we arrive then at the meaning of the sacred Gayathri Manthram as derived by Swamy Desikan. 
+
+  
+[[11]]    
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
