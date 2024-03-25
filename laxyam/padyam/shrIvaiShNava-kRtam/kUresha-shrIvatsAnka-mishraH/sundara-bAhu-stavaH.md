@@ -27,7 +27,7 @@ Here at " Thenn KooDarkkOn tennan koNDAdum tenn ThirumAlirumchOlai " , KurEsar r
 Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who was away at Melkote  and prayed to Lord SundarabAhu to unite him with his AchAryan . This union happened and AchArya RaamAnuja took his dearest sishyan to Lord VaradarAjan's Sannidhi and commanded his sishyan to pray for the restoration of his eyesight . The matchless boon giver, Lord VaradarAjan responded positively . KurEsar did not want the eye sight for seeing any one except his AchAryan and Lord VardarAjan , His aarAdhana Moorthy . Lord VaradarAjan granted that special boon to his dear devotee.
 </details>
 
-
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/kUresha-shrIvatsAnka-mishraH/shrIvatsAnkamishrebhyaH.md" newLevelForH1="5" includeTitle="false"> 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (श्रीवत्स-चिह्नमिश्रेभ्यो  
@@ -41,6 +41,9 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 (श्रीवत्सचिह्नमिश्रेभ्यो नम उक्तिमधीमहे ।  
 यदुक्तयस्त्रयीकण्ठे यान्ति मङ्गलसूत्रताम् ॥)
 </details>
+</div>
+
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

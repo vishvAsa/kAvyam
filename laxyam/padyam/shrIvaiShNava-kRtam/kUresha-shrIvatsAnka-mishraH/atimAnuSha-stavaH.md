@@ -2,19 +2,21 @@
 title = "अतिमानुषस्तवः"
 
 +++
-
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/kUresha-shrIvatsAnka-mishraH/shrIvatsAnkamishrebhyaH.md" newLevelForH1="5" includeTitle="false"> 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(श्रीवत्सचिह्नमिश्रेभ्यो नमउक्तिमधीमहे ।  
-यदुक्तयस्त्रयीकण्ठे यान्ति मङ्गलसूत्रताम् ॥)
+(श्रीवत्स-चिह्नमिश्रेभ्यो  
+नम उक्तिम् **अधीमहे** ।  
+यद्-उक्तयस् त्रयी-कण्ठे  
+**यान्ति** मङ्गलसूत्रताम् ॥)+++(5)+++
 </details>
 
 <details><summary>मूलम्</summary>
 
-(श्रीवत्सचिह्नमिश्रेभ्यो नमउक्तिमधीमहे ।  
+(श्रीवत्सचिह्नमिश्रेभ्यो नम उक्तिमधीमहे ।  
 यदुक्तयस्त्रयीकण्ठे यान्ति मङ्गलसूत्रताम् ॥)
 </details>
-
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

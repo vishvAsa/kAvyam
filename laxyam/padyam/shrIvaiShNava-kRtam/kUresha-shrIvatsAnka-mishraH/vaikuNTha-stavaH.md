@@ -2,8 +2,23 @@
 title = "वैकुण्ठस्तवः"
 
 +++
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/kUresha-shrIvatsAnka-mishraH/shrIvatsAnkamishrebhyaH.md" newLevelForH1="5" includeTitle="false"> 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(श्रीवत्स-चिह्नमिश्रेभ्यो  
+नम उक्तिम् **अधीमहे** ।  
+यद्-उक्तयस् त्रयी-कण्ठे  
+**यान्ति** मङ्गलसूत्रताम् ॥)+++(5)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
 (श्रीवत्सचिह्नमिश्रेभ्यो नम उक्तिमधीमहे ।  
 यदुक्तयस्त्रयीकण्ठे यान्ति मङ्गलसूत्रताम् ॥)
+</details>
+</div>
+
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/rAmAnujaH/yo_nityam.md" newLevelForH1="5" includeTitle="false"> 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -16,6 +31,8 @@ title = "वैकुण्ठस्तवः"
 यो नित्यमच्युतपदाम्बुजयुग्मरुक्मव्यामोहतस्तदितराणि तृणाय मेने ।  
 अस्मद्गुरोर्भगवतोऽस्य दयैकसिन्धोः रामानुजस्य चरणौ शरणं प्रपद्ये ॥ १ ॥
 </details>
+</div>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -911,9 +928,16 @@ title = "वैकुण्ठस्तवः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कैङ्कर्यनित्यनिरतैर्भवदेकभोगैः नित्यैरनुक्षणनवीनरसार्द्रभावैः ।  
-नित्याभिवाञ्छितपरस्परनीचभावैः मद्दैवतैः परिजनैस्तव सङ्गसीय ॥ ७७ ॥
+कैङ्कर्य-नित्य-निरतैर् भवद्-एक-भोगैः, नित्यैर् अनुक्षण-नवीन-रसार्द्र-भावैः ।  
+नित्याभिवाञ्छित-परस्पर-नीच-भावैः +++(त्वद्-दासोऽस्मीति)+++  
+मद्-दैवतैः परिजनैस् तव **सङ्गसीय**+++(←गम् कर्मणि आशीर्लिङ्)+++ ॥ ७७ ॥+++(5)+++
 </details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+तत्रोक्तेषु भागवत-विशेषणेषु पूर्वः पूर्वो गरीयान् मे भाति।
+</details>
+
 
 <details><summary>मूलम्</summary>
 
