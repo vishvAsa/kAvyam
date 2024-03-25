@@ -4,19 +4,19 @@ title = "वैकुण्ठस्तवः"
 +++
 <details><summary>English</summary>
 
-This magnificent sthavam of Sri KurEsar has 100 slOkams and has the saarAr thams (essential meanings of SrI BhAshyam passage) and therefore it has  been recommended as a must to study by us.  
+This magnificent sthavam of Sri KurEsar has 100 slOkams and has the saarAr thams (essential meanings of SrI BhAshyam passage) and therefore it has been recommended as a must to study by us.  
 The structure of Sri VaikuNTha Sthavam  
-1. The First slOkam is a magnificent tribute to EmperumAnAr by KurEsar.   This slOkam is the one that we recite daily:  
+1. The First slOkam is a magnificent tribute to EmperumAnAr by KurEsar. This slOkam is the one that we recite daily:  
 “yO nithyamachyutha padAmbuja-yugma-rukma”  
-2 and 3: These two slOkams offer prayer to receive the anugraham of  swAmy NammAzhwAr in the efforts to compose SrI VaikuNTha sthavam.  
+2 and 3: These two slOkams offer prayer to receive the anugraham of swAmy NammAzhwAr in the efforts to compose SrI VaikuNTha sthavam.  
 
-1. Salutations to Sriman NaarAyaNan, the Jagan-MangaLa JyOthi: the  Svayam JyOthi.  
-2. Prayer for the Lord to appear before the Kavi with His Divya MangaLa  Vigraham.  
+1. Salutations to Sriman NaarAyaNan, the Jagan-MangaLa JyOthi: the Svayam JyOthi.  
+2. Prayer for the Lord to appear before the Kavi with His Divya MangaLa Vigraham.  
 3. Salutations to the DivyAthma svaroopam of the Lord.  
 4. Description of the Vaathsalyam of the Lord for His BhakthAs.  
 5. KurEsar’s discomfort about his ability to engage in the task of eulogiz ing the Lord.  
-6. Declaration of his (KurEsar’s) determination to make a feeble attempt  to eulogize a miniscule of the Lord’s limitless glories.  
-7.  Salutations to the Lord’s foremost attribute: KShamA (forbearance).   We will study the Sri VaikuNTha Sthava slOkams few at a time. 
+6. Declaration of his (KurEsar’s) determination to make a feeble attempt to eulogize a miniscule of the Lord’s limitless glories.  
+7. Salutations to the Lord’s foremost attribute: KShamA (forbearance). We will study the Sri VaikuNTha Sthava slOkams few at a time. 
 
 </details>
 
@@ -59,16 +59,16 @@ The structure of Sri VaikuNTha Sthavam
 
 +++(विष्णु-पाद-चिह्न-रूपेण)+++ त्रैविद्य-वृद्ध-जन-मूर्ध-विभूषणं यत्  
 सम्पच् च सात्त्विक-जनस्य यद् एव नित्यम् ।  
-यद् वा शरण्यं अ-शरण्य-जनस्य पुण्यं  
+यद् वा शरण्यम् अ-शरण्य-जनस्य पुण्यं  
 तत् **संश्रयेम** +++(विष्णु-पादोद्भव-जातीय-)+++वकुलाभरणाङ्घ्रि-युग्मम् ॥ २ ॥
 </details>
 
 <details><summary>English</summary>
 
 MEANING: 
-May we, who have no other refuge, be blessed to attain the impeccably pure  (sacred) feet of Swamy NammAzhwAr adorning the garland of VakuLa push pams! His sacred pair of feet is the lasting crown for the heads of poorvA chAryAs (AlavanthAr, RaamAnujA and NaaTa Muni); those pair of feet of  Swamy NammAzhwAr is the wealth for those, who are the abodes for Satthva  guNam.  
+May we, who have no other refuge, be blessed to attain the impeccably pure (sacred) feet of Swamy NammAzhwAr adorning the garland of VakuLa push pams! His sacred pair of feet is the lasting crown for the heads of poorvA chAryAs (AlavanthAr, RaamAnujA and NaaTa Muni); those pair of feet of Swamy NammAzhwAr is the wealth for those, who are the abodes for Satthva guNam.  
 
-SrivathsAnkAcchAr Swamy points out that one can hear the echoes of the passages from Swamy AlavanthAr’s and AchArya RaamAnujA’s Sri Sooktis in this  and other slOkams. 
+SrivathsAnkAcchAr Swamy points out that one can hear the echoes of the passages from Swamy AlavanthAr’s and AchArya RaamAnujA’s Sri Sooktis in this and other slOkams. 
 
 </details>
 
@@ -76,7 +76,7 @@ SrivathsAnkAcchAr Swamy points out that one can hear the echoes of the passages 
 <details><summary>मूलम्</summary>
 
 त्रैविद्यवृद्धजनमूर्धविभूषणं यत् सम्पच्च सात्त्विकजनस्य यदेव नित्यम् ।  
-यद्वा शरण्यं अशरण्यजनस्य पुण्यं तत् संश्रयेम वकुलाभरणाङ्घ्रियुग्मम् ॥ २ ॥
+यद्वा शरण्यम् अशरण्यजनस्य पुण्यं तत् संश्रयेम वकुलाभरणाङ्घ्रियुग्मम् ॥ २ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -89,9 +89,9 @@ SrivathsAnkAcchAr Swamy points out that one can hear the echoes of the passages 
 
 <details><summary>English</summary>
 
-Swamy NammAzhwAr (ParAnkusar) of limitless glories is compared here to  the auspicious Milky Ocean and is hailed for eternal remembrance by all of us  (aseema bhUmaa ParAnkusa PayOdhi: jeeyAth). PallANDU is sung for the  milky ocean of Swamy NammAzhwAr, who is the abode of lustrous gems rep resenting the essence of VedAs (VedArTa rathna nidhi:). He is recognized as  the living place for BhagavAn (achyutha divya dhAma) and as one, who is full  of divine love for the Lord, which found its outlet as Paasurams renowned for  their Para Bhakthi, Para Jn~Anam and Parama Bhakthi.  
+Swamy NammAzhwAr (ParAnkusar) of limitless glories is compared here to the auspicious Milky Ocean and is hailed for eternal remembrance by all of us (aseema bhUmaa ParAnkusa PayOdhi: jeeyAth). PallANDU is sung for the milky ocean of Swamy NammAzhwAr, who is the abode of lustrous gems rep resenting the essence of VedAs (VedArTa rathna nidhi:). He is recognized as the living place for BhagavAn (achyutha divya dhAma) and as one, who is full of divine love for the Lord, which found its outlet as Paasurams renowned for their Para Bhakthi, Para Jn~Anam and Parama Bhakthi.  
 
-The trinity of the waters from the river springs and rain join together to make  the combined waters of the mighty ocean. Similarly, the intensity of the bhak thi of Swamy NammAzhwAr for BhagavAn transformed into nava rasa anubha vams and flowed as his divine paasurams. The three sources of flow into the  Milky Ocean are Swamy NammAzhwAr’s Para Bhakthi (Bhakthi prabhAvam),  Para Jn~Anam (BhAva bandha:) and Parama Bhakthi (PraNaya Saara:).  
+The trinity of the waters from the river springs and rain join together to make the combined waters of the mighty ocean. Similarly, the intensity of the bhak thi of Swamy NammAzhwAr for BhagavAn transformed into nava rasa anubha vams and flowed as his divine paasurams. The three sources of flow into the Milky Ocean are Swamy NammAzhwAr’s Para Bhakthi (Bhakthi prabhAvam), Para Jn~Anam (BhAva bandha:) and Parama Bhakthi (PraNaya Saara:).  
 </details>
 
 
@@ -103,19 +103,19 @@ The trinity of the waters from the river springs and rain join together to make 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन् मङ्गलाय महते जगताम् **उशन्ति**+++(=स्तुवन्ति)+++,  त्रैविष्टपान्य् अपि +++(ब्रह्म-रुद्रादि-)+++पदानि यद्-आश्रयाणि ।  
-**वन्दामहे** सरसि-जेक्षणम् अ-द्वितीयं वेदान्त-वेद्यं अन्-इदम्-प्रथमं महस् तत् ॥ ४ ॥
+यन् मङ्गलाय महते जगताम् **उशन्ति**+++(=स्तुवन्ति)+++, त्रैविष्टपान्य् अपि +++(ब्रह्म-रुद्रादि-)+++पदानि यद्-आश्रयाणि ।  
+**वन्दामहे** सरसि-जेक्षणम् अ-द्वितीयं वेदान्त-वेद्यम् अन्-इदम्-प्रथमं महस् तत् ॥ ४ ॥
 </details>
 
 <details><summary>English</summary>
 
 MEANING: 
 
-The great ones (MahAns) attribute the MahA tEjas of Bhagavaan (Mahastham) as being the cardinal reason for the kShEmam of this world (Yath JagathAm mahathE  MangaLAya usanthi). 
+The great ones (MahAns) attribute the MahA tEjas of Bhagavaan (Mahastham) as being the cardinal reason for the kShEmam of this world (Yath JagathAm mahathE MangaLAya usanthi). 
 
 This grand jyOthi is resorted to by the DevAs, Rudran and BrahmA for maintaining / retaining their assigned ruler ships (thraivishtapAni padAni api YadAsrayANi). 
 
-We offer our salutations (vandhAmahE) to that lotus eyed Lord (SarasijEkshaNam), who is matchless (adhvitheeyam), ancient/  timeless (anidham praTamam) and can be understood only by the Upanishads, the siras of the Vedams (VedAntha vEdyam).  
+We offer our salutations (vandhAmahE) to that lotus eyed Lord (SarasijEkshaNam), who is matchless (adhvitheeyam), ancient/ timeless (anidham praTamam) and can be understood only by the Upanishads, the siras of the Vedams (VedAntha vEdyam).  
 
 COMMENTS: 
 
@@ -123,21 +123,21 @@ The first quarter (padham) of the slOkampoints out that the Lord is ever-present
 
 mahA tEjas—azhagar padham of this slOkam. 
 
-10The greatest of the MangaLams originating from BhagavAn is MOksham since  He is the Only One who can grant us Moksham (Mokshapradhan). Since DevAs  are powerless to grant that boon, KurEsar reminds us in the second padham  that those Devaas owe their positions as Indhran, Rudhran, Brahma Devan  due to BaghavAn’s anugraham. The PurANams state that Brahma Devan et al  got their lofty positions by performing AarAdhanam for thousands of crores of  Yugams (YugakOti sahasrANi VishNum aarAdhya PadhmabhU:, puna: thrailO kya dhAthruthvam prApthavAn ithi susruma:).  
+10The greatest of the MangaLams originating from BhagavAn is MOksham since He is the Only One who can grant us Moksham (Mokshapradhan). Since DevAs are powerless to grant that boon, KurEsar reminds us in the second padham that those Devaas owe their positions as Indhran, Rudhran, Brahma Devan due to BaghavAn’s anugraham. The PurANams state that Brahma Devan et al got their lofty positions by performing AarAdhanam for thousands of crores of Yugams (YugakOti sahasrANi VishNum aarAdhya PadhmabhU:, puna: thrailO kya dhAthruthvam prApthavAn ithi susruma:).  
 
-The powerful reference to the Lord as SenthAmarai KaNNan  (SarasijEkshaNan) comes straight out of ChAndhOgyam (KapyAsam  PuNDareekAksham). The allusion to “adhvitheeyan” is based on other Upani shadic and AchArya Sri Sookthis:  
+The powerful reference to the Lord as SenthAmarai KaNNan (SarasijEkshaNan) comes straight out of ChAndhOgyam (KapyAsam PuNDareekAksham). The allusion to “adhvitheeyan” is based on other Upani shadic and AchArya Sri Sookthis:  
 
 EkamEvAdhvitheeyam—Description of Brahman in Sadh Vidhyai  
 
 dhvitheeya soonyathO ukthyaa cha tath-samAna nishEdhanam—Swamy Desi kan in Satha DhUshaNi.  
 
-The usage of “VEdAntha VEdhyam” refers to the unassailable fact that Bhaga vAn can be comprehended by His own SaasthrAs. AchAryAs instruct us on  those Saasthrams to help us understand Bhagavath Svaroopam (Swamy DEsi kan stated later: “iRai nilayAm uNarnthOm yemm gurukkaL iyampiyathE”).  
+The usage of “VEdAntha VEdhyam” refers to the unassailable fact that Bhaga vAn can be comprehended by His own SaasthrAs. AchAryAs instruct us on those Saasthrams to help us understand Bhagavath Svaroopam (Swamy DEsi kan stated later: “iRai nilayAm uNarnthOm yemm gurukkaL iyampiyathE”).  
 
-Daily new "Gods" come into prevalence in this world. AzhwAr has already re ferred to this fashion: “maRROr puthu dhaivam koNDAdum ThoNDeer”. Sri man NaarAyaNan did not arise yesterday or the day before but has stayed as  the Aadhi Moolam (primordial root) all these times and will continue as the  Supreme Being forever. KurEsar refers to this tatthvam by the choice of the  word: “anidham PraTamam”. KurEsar used the word “Maha:” for BhagavAn to  refer to His Param (Svyam) JyOthi Tatthvam (Param JyOthir- upasampadhya,  NaarAyaNa ParO JyOthi:).  
+Daily new "Gods" come into prevalence in this world. AzhwAr has already re ferred to this fashion: “maRROr puthu dhaivam koNDAdum ThoNDeer”. Sri man NaarAyaNan did not arise yesterday or the day before but has stayed as the Aadhi Moolam (primordial root) all these times and will continue as the Supreme Being forever. KurEsar refers to this tatthvam by the choice of the word: “anidham PraTamam”. KurEsar used the word “Maha:” for BhagavAn to refer to His Param (Svyam) JyOthi Tatthvam (Param JyOthir- upasampadhya, NaarAyaNa ParO JyOthi:).  
 
 When one unites the three words used by KurEsar, “Mahas-thath SarasijEk shaNam”, SrivathsAngAcchAr Swamy points out that we arrive then at the meaning of the sacred Gayathri Manthram as derived by Swamy Desikan. 
 
-  
+    
 [[11]]    
 
 </details>
@@ -146,7 +146,7 @@ When one unites the three words used by KurEsar, “Mahas-thath SarasijEk shaNam
 <details><summary>मूलम्</summary>
 
 यन्मङ्गलाय महते जगतामुशन्ति त्रैविष्टपान्यपि पदानि यदाश्रयाणि ।  
-वन्दामहे सरसिजेक्षणमद्वितीयं वेदान्तवेद्यं अनिदम्प्रथमं महस्तत् ॥ ४ ॥
+वन्दामहे सरसिजेक्षणमद्वितीयं वेदान्तवेद्यम् अनिदम्प्रथमं महस्तत् ॥ ४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -161,13 +161,13 @@ When one unites the three words used by KurEsar, “Mahas-thath SarasijEk shaNam
 
 MEANING: 
 
-May the immeasurable, limitless Vasthu, the Veda prasiddha Supreme Being appear before me always  with His broad and lofty  chest adorned with MahA Lakshmi, with His long and auspicious ears, with His hands reaching all the way down to the knees, with His cool and benevolent eyes that grant whatever one seeks and adorned with the yellow silk garment.  
+May the immeasurable, limitless Vasthu, the Veda prasiddha Supreme Being appear before me always with His broad and lofty chest adorned with MahA Lakshmi, with His long and auspicious ears, with His hands reaching all the way down to the knees, with His cool and benevolent eyes that grant whatever one seeks and adorned with the yellow silk garment.  
 
 
 COMMENTS 
 
-KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peethambharadharan, auspicious body (Dhivya MangaLa Vigraham), Divine Consort as well as  Jewelery and PeethAmbharam.  
-  
+KurEsar reminds NirguNa Brahma Vaadhins that the Supreme Being is a divine Peethambharadharan, auspicious body (Dhivya MangaLa Vigraham), Divine Consort as well as Jewelery and PeethAmbharam.  
+    
 [[12]]    
 
 </details>
@@ -175,19 +175,19 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 <details><summary>मूलम्</summary>
 
-पीताम्बरं वरदशीतलदृष्टिपातं आजानुलम्बिभुजम् आयतकर्णपाशम् ।  
+पीताम्बरं वरदशीतलदृष्टिपातम् आजानुलम्बिभुजम् आयतकर्णपाशम् ।  
 तन्मेघमेचकम् उदग्रविशालवक्षः लक्ष्मीधरं किमपि वस्तु ममाविरस्तु ॥ ५ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् तत्त्वमक्षरमदृश्यमगोत्रवर्णं अग्राह्यमव्ययमनीदृशं अद्वितीयम् ।  
+यत् तत्त्वमक्षरमदृश्यमगोत्रवर्णम् अग्राह्यमव्ययमनीदृशम् अद्वितीयम् ।  
 ईशानमस्य जगतो यदणोरणीयः तद् वैष्णवं पदमुदारमुदाहरामः ॥ ६ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यत् तत्त्वमक्षरमदृश्यमगोत्रवर्णं अग्राह्यमव्ययमनीदृशं अद्वितीयम् ।  
+यत् तत्त्वमक्षरमदृश्यमगोत्रवर्णम् अग्राह्यमव्ययमनीदृशम् अद्वितीयम् ।  
 ईशानमस्य जगतो यदणोरणीयः तद् वैष्णवं पदमुदारमुदाहरामः ॥ ६ ॥
 </details>
 
@@ -218,13 +218,13 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवस्य दैत्यमथनस्य गुणेष्वियत्ता सङ्ख्या च वाङ्मनसगोचरमत्यभूताम् ।  
-अप्येवं अण्वपि च तत्र ममार्तिशान्त्यै कीटस्य तृष्यत उदन्वति विप्रुषाऽलम् ॥ ९ ॥
+अप्येवम् अण्वपि च तत्र ममार्तिशान्त्यै कीटस्य तृष्यत उदन्वति विप्रुषाऽलम् ॥ ९ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 देवस्य दैत्यमथनस्य गुणेष्वियत्ता सङ्ख्या च वाङ्मनसगोचरमत्यभूताम् ।  
-अप्येवं अण्वपि च तत्र ममार्तिशान्त्यै कीटस्य तृष्यत उदन्वति विप्रुषाऽलम् ॥ ९ ॥
+अप्येवम् अण्वपि च तत्र ममार्तिशान्त्यै कीटस्य तृष्यत उदन्वति विप्रुषाऽलम् ॥ ९ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,13 +397,13 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आनन्दमैश्वरं अवाङ्मनसावगाह्यं आम्नासिषुः शतगुणोत्तरितक्रमेण ।  
+आनन्दमैश्वरम् अवाङ्मनसावगाह्यम् आम्नासिषुः शतगुणोत्तरितक्रमेण ।  
 सोऽयं तवैव नृषु हि त्वमिहान्तरात्मा त्वं पुण्डरीकनयनः पुरुषश्च पौष्णः ॥ २४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-आनन्दमैश्वरं अवाङ्मनसावगाह्यं आम्नासिषुः शतगुणोत्तरितक्रमेण ।  
+आनन्दमैश्वरम् अवाङ्मनसावगाह्यम् आम्नासिषुः शतगुणोत्तरितक्रमेण ।  
 सोऽयं तवैव नृषु हि त्वमिहान्तरात्मा त्वं पुण्डरीकनयनः पुरुषश्च पौष्णः ॥ २४ ॥
 </details>
 
@@ -421,14 +421,14 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योतिः परं परमतत्त्वं अथो परात्मा ब्रह्मेति च श्रुतिषु यत् परवस्त्वधीतम् ।  
-नारायणस्तदिति तद् विशिनष्टि काचिद् विष्णोः पदं परमं इत्यपरा गृणाति ॥ २६ ॥
+ज्योतिः परं परमतत्त्वम् अथो परात्मा ब्रह्मेति च श्रुतिषु यत् परवस्त्वधीतम् ।  
+नारायणस्तदिति तद् विशिनष्टि काचिद् विष्णोः पदं परमम् इत्यपरा गृणाति ॥ २६ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ज्योतिः परं परमतत्त्वं अथो परात्मा ब्रह्मेति च श्रुतिषु यत् परवस्त्वधीतम् ।  
-नारायणस्तदिति तद् विशिनष्टि काचिद् विष्णोः पदं परमं इत्यपरा गृणाति ॥ २६ ॥
+ज्योतिः परं परमतत्त्वम् अथो परात्मा ब्रह्मेति च श्रुतिषु यत् परवस्त्वधीतम् ।  
+नारायणस्तदिति तद् विशिनष्टि काचिद् विष्णोः पदं परमम् इत्यपरा गृणाति ॥ २६ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,13 +457,13 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्याः कटाक्षणमनुक्षणमीश्वराणां ऐश्वर्यहेतुरिति सर्वजनीनमेतत् ।  
+यस्याः कटाक्षणमनुक्षणमीश्वराणाम् ऐश्वर्यहेतुरिति सर्वजनीनमेतत् ।  
 तां श्रीरिति त्वदुपसंश्रयणान्निराहुः त्वां हि श्रियः श्रियमुदाहुरुदारवाचः ॥ २९ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यस्याः कटाक्षणमनुक्षणमीश्वराणां ऐश्वर्यहेतुरिति सर्वजनीनमेतत् ।  
+यस्याः कटाक्षणमनुक्षणमीश्वराणाम् ऐश्वर्यहेतुरिति सर्वजनीनमेतत् ।  
 तां श्रीरिति त्वदुपसंश्रयणान्निराहुः त्वां हि श्रियः श्रियमुदाहुरुदारवाचः ॥ २९ ॥
 </details>
 
@@ -506,36 +506,36 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं भगो! इह भवत्परतन्त्र एव शब्दोऽपि रूपवदमुष्य चराचरस्य ।  
-ऐश्वर्यमीदृशमिदं श्रुतिषूदितं ते पापीयसां अयमहो! त्वयि मोहहेतुः ॥ ३३ ॥
+ऐश्वर्यमीदृशमिदं श्रुतिषूदितं ते पापीयसाम् अयमहो! त्वयि मोहहेतुः ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवं भगो! इह भवत्परतन्त्र एव शब्दोऽपि रूपवदमुष्य चराचरस्य ।  
-ऐश्वर्यमीदृशमिदं श्रुतिषूदितं ते पापीयसां अयमहो! त्वयि मोहहेतुः ॥ ३३ ॥
+ऐश्वर्यमीदृशमिदं श्रुतिषूदितं ते पापीयसाम् अयमहो! त्वयि मोहहेतुः ॥ ३३ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये त्वत्कटाक्षलवलक्ष्यमिव क्षणं तैः ऐश्वर्यमीदृशं अलभ्यमलम्भि पुम्भिः ।  
+ये त्वत्कटाक्षलवलक्ष्यमिव क्षणं तैः ऐश्वर्यमीदृशम् अलभ्यमलम्भि पुम्भिः ।  
 यत् केऽपि सञ्जगरिरे परमेशितृत्वं तेषामपि श्रुतिषु तन्महिमप्रसङ्गात् ॥ ३४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ये त्वत्कटाक्षलवलक्ष्यमिव क्षणं तैः ऐश्वर्यमीदृशं अलभ्यमलम्भि पुम्भिः ।  
+ये त्वत्कटाक्षलवलक्ष्यमिव क्षणं तैः ऐश्वर्यमीदृशम् अलभ्यमलम्भि पुम्भिः ।  
 यत् केऽपि सञ्जगरिरे परमेशितृत्वं तेषामपि श्रुतिषु तन्महिमप्रसङ्गात् ॥ ३४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नित्येषु वस्तुषु भवन्निरपेक्षमेव तत्तत्स्वरूपं इति केचिदिह भ्रमन्तः ।  
+नित्येषु वस्तुषु भवन्निरपेक्षमेव तत्तत्स्वरूपम् इति केचिदिह भ्रमन्तः ।  
 ऐश्वर्यमत्र तव सावधि सङ्गिरन्ते ब्रूते त्रयी तु निरुपाधिकमीशनं ते ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नित्येषु वस्तुषु भवन्निरपेक्षमेव तत्तत्स्वरूपं इति केचिदिह भ्रमन्तः ।  
+नित्येषु वस्तुषु भवन्निरपेक्षमेव तत्तत्स्वरूपम् इति केचिदिह भ्रमन्तः ।  
 ऐश्वर्यमत्र तव सावधि सङ्गिरन्ते ब्रूते त्रयी तु निरुपाधिकमीशनं ते ॥ ३५ ॥
 </details>
 
@@ -602,13 +602,13 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्वैष्णवं हि परमं पदमामनन्ति खं वा यदेव परमं तमसः परस्तात् ।  
-तेजोमयं परमसत्त्वमयं ध्रुवं यद् आनन्दकन्दं अतिसुन्दरं अद्भुतं यत् ॥ ४१ ॥
+तेजोमयं परमसत्त्वमयं ध्रुवं यद् आनन्दकन्दम् अतिसुन्दरम् अद्भुतं यत् ॥ ४१ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद्वैष्णवं हि परमं पदमामनन्ति खं वा यदेव परमं तमसः परस्तात् ।  
-तेजोमयं परमसत्त्वमयं ध्रुवं यद् आनन्दकन्दं अतिसुन्दरं अद्भुतं यत् ॥ ४१ ॥
+तेजोमयं परमसत्त्वमयं ध्रुवं यद् आनन्दकन्दम् अतिसुन्दरम् अद्भुतं यत् ॥ ४१ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -626,25 +626,25 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपेण सद्गुणगणैः परया समृद्ध्या भावैरुदारमधुरैरपि वा महिम्ना ।  
-तादृक् तद् ईदृगिदं इत्युपवर्णयन्त्यो वाचो यदीयविभवस्य तिरस्क्रियायै ॥ ४३ ॥
+तादृक् तद् ईदृगिदम् इत्युपवर्णयन्त्यो वाचो यदीयविभवस्य तिरस्क्रियायै ॥ ४३ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रूपेण सद्गुणगणैः परया समृद्ध्या भावैरुदारमधुरैरपि वा महिम्ना ।  
-तादृक् तद् ईदृगिदं इत्युपवर्णयन्त्यो वाचो यदीयविभवस्य तिरस्क्रियायै ॥ ४३ ॥
+तादृक् तद् ईदृगिदम् इत्युपवर्णयन्त्यो वाचो यदीयविभवस्य तिरस्क्रियायै ॥ ४३ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् वृद्ध्यपक्षयविनाशमुखैर्विकारैः एतैरसंस्तुतं अनस्तमितास्तिशब्दम् ।  
-यद्गौरवात् श्रुतिषु फल्गु फलं क्रियाणां आदिष्टमन्यदसुखोत्तरमध्रुवं च ॥ ४४ ॥
+यद् वृद्ध्यपक्षयविनाशमुखैर्विकारैः एतैरसंस्तुतम् अनस्तमितास्तिशब्दम् ।  
+यद्गौरवात् श्रुतिषु फल्गु फलं क्रियाणाम् आदिष्टमन्यदसुखोत्तरमध्रुवं च ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यद् वृद्ध्यपक्षयविनाशमुखैर्विकारैः एतैरसंस्तुतं अनस्तमितास्तिशब्दम् ।  
-यद्गौरवात् श्रुतिषु फल्गु फलं क्रियाणां आदिष्टमन्यदसुखोत्तरमध्रुवं च ॥ ४४ ॥
+यद् वृद्ध्यपक्षयविनाशमुखैर्विकारैः एतैरसंस्तुतम् अनस्तमितास्तिशब्दम् ।  
+यद्गौरवात् श्रुतिषु फल्गु फलं क्रियाणाम् आदिष्टमन्यदसुखोत्तरमध्रुवं च ॥ ४४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -685,13 +685,13 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वस्य चैव गुणतो हि विलक्षणत्वं ऐश्वर्यतश्च किल कश्चिदुदञ्चितः स्यात् ।  
+सर्वस्य चैव गुणतो हि विलक्षणत्वम् ऐश्वर्यतश्च किल कश्चिदुदञ्चितः स्यात् ।  
 तत् प्रत्युत त्वयि विभो! विभवो गुणाश्च सम्बन्धतस्तव भजन्ति हि मङ्गळत्वम् ॥ ४८ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सर्वस्य चैव गुणतो हि विलक्षणत्वं ऐश्वर्यतश्च किल कश्चिदुदञ्चितः स्यात् ।  
+सर्वस्य चैव गुणतो हि विलक्षणत्वम् ऐश्वर्यतश्च किल कश्चिदुदञ्चितः स्यात् ।  
 तत् प्रत्युत त्वयि विभो! विभवो गुणाश्च सम्बन्धतस्तव भजन्ति हि मङ्गळत्वम् ॥ ४८ ॥
 </details>
 
@@ -723,13 +723,13 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रय्युद्यता तव युवत्वमुखैर्गुणौघैः आनन्दमेधितं इयानिति सन्नियन्तुम् ।  
+त्रय्युद्यता तव युवत्वमुखैर्गुणौघैः आनन्दमेधितम् इयानिति सन्नियन्तुम् ।  
 ते ये शतं त्विति परम्परया प्रवृत्ता नैवैष वाङ्मनसगोचर इत्युदाह ॥ ५१ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्रय्युद्यता तव युवत्वमुखैर्गुणौघैः आनन्दमेधितं इयानिति सन्नियन्तुम् ।  
+त्रय्युद्यता तव युवत्वमुखैर्गुणौघैः आनन्दमेधितम् इयानिति सन्नियन्तुम् ।  
 ते ये शतं त्विति परम्परया प्रवृत्ता नैवैष वाङ्मनसगोचर इत्युदाह ॥ ५१ ॥
 </details>
 
@@ -748,61 +748,61 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संवर्तवर्ति निखिलं निरभिज्ञमज्ञं चित्रे च कर्मणि यथार्हमहो! नियच्छन् ।  
-सद्यः क्रिमिद्रुहिणभेदं अभेदमेतद् आविश्चकर्थ सकृदीक्षणदीक्षणेन ॥ ५३ ॥
+सद्यः क्रिमिद्रुहिणभेदम् अभेदमेतद् आविश्चकर्थ सकृदीक्षणदीक्षणेन ॥ ५३ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 संवर्तवर्ति निखिलं निरभिज्ञमज्ञं चित्रे च कर्मणि यथार्हमहो! नियच्छन् ।  
-सद्यः क्रिमिद्रुहिणभेदं अभेदमेतद् आविश्चकर्थ सकृदीक्षणदीक्षणेन ॥ ५३ ॥
+सद्यः क्रिमिद्रुहिणभेदम् अभेदमेतद् आविश्चकर्थ सकृदीक्षणदीक्षणेन ॥ ५३ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्तं यदुद्यत् उपचाय्यपचायि चैवं ईशं दरिद्रमथ जङ्गममप्यनिङ्गम् ।  
-विश्वं विचित्रं अविलक्षणवीक्षणेन विक्षोभयस्यनवधिर्बत! शक्तिरैशी ॥ ५४ ॥
+अस्तं यदुद्यत् उपचाय्यपचायि चैवम् ईशं दरिद्रमथ जङ्गममप्यनिङ्गम् ।  
+विश्वं विचित्रम् अविलक्षणवीक्षणेन विक्षोभयस्यनवधिर्बत! शक्तिरैशी ॥ ५४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अस्तं यदुद्यत् उपचाय्यपचायि चैवं ईशं दरिद्रमथ जङ्गममप्यनिङ्गम् ।  
-विश्वं विचित्रं अविलक्षणवीक्षणेन विक्षोभयस्यनवधिर्बत! शक्तिरैशी ॥ ५४ ॥
+अस्तं यदुद्यत् उपचाय्यपचायि चैवम् ईशं दरिद्रमथ जङ्गममप्यनिङ्गम् ।  
+विश्वं विचित्रम् अविलक्षणवीक्षणेन विक्षोभयस्यनवधिर्बत! शक्तिरैशी ॥ ५४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपप्रकारपरिणामकृतव्यवस्थं विश्वं विपर्यसितुमन्यदसच्च कर्तुम् ।  
-क्षाम्यन् स्वभावनियमं किमुदीक्षसे त्वं? स्वातन्त्र्यमैश्वरं अपर्यनुयोज्यमाहुः ॥ ५५ ॥
+क्षाम्यन् स्वभावनियमं किमुदीक्षसे त्वं? स्वातन्त्र्यमैश्वरम् अपर्यनुयोज्यमाहुः ॥ ५५ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रूपप्रकारपरिणामकृतव्यवस्थं विश्वं विपर्यसितुमन्यदसच्च कर्तुम् ।  
-क्षाम्यन् स्वभावनियमं किमुदीक्षसे त्वं? स्वातन्त्र्यमैश्वरं अपर्यनुयोज्यमाहुः ॥ ५५ ॥
+क्षाम्यन् स्वभावनियमं किमुदीक्षसे त्वं? स्वातन्त्र्यमैश्वरम् अपर्यनुयोज्यमाहुः ॥ ५५ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संवर्तसम्भृतकरस्य सहस्ररश्मेः उस्रं तमिस्रयदजस्रविहारि हारि ।  
-नित्यानुकूलमनुकूलनृणां परेषां उद्वेजनं च तव तेज उदाहरन्ति ॥ ५६ ॥
+नित्यानुकूलमनुकूलनृणां परेषाम् उद्वेजनं च तव तेज उदाहरन्ति ॥ ५६ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 संवर्तसम्भृतकरस्य सहस्ररश्मेः उस्रं तमिस्रयदजस्रविहारि हारि ।  
-नित्यानुकूलमनुकूलनृणां परेषां उद्वेजनं च तव तेज उदाहरन्ति ॥ ५६ ॥
+नित्यानुकूलमनुकूलनृणां परेषाम् उद्वेजनं च तव तेज उदाहरन्ति ॥ ५६ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव ह्यवाप्यमनवाप्तमिहास्ति यस्य सत्ताऽपि तस्य तव वीक्षणतः प्रजानाम् ।  
-सम्पत् तु किंपुनरितो न वदान्यमन्यं मन्ये त्वमेव खलु मन्दिरमिन्दिरायाः ॥ ५७ ॥
+सम्पत् तु किम्पुनरितो न वदान्यमन्यं मन्ये त्वमेव खलु मन्दिरमिन्दिरायाः ॥ ५७ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नैव ह्यवाप्यमनवाप्तमिहास्ति यस्य सत्ताऽपि तस्य तव वीक्षणतः प्रजानाम् ।  
-सम्पत् तु किंपुनरितो न वदान्यमन्यं मन्ये त्वमेव खलु मन्दिरमिन्दिरायाः ॥ ५७ ॥
+सम्पत् तु किम्पुनरितो न वदान्यमन्यं मन्ये त्वमेव खलु मन्दिरमिन्दिरायाः ॥ ५७ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -832,13 +832,13 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 है हन्त! जन्तुषु निरन्तरसन्ततात्मा पाप्मा हि नाम वद कोऽयमचिन्त्यशक्तिः ।  
-यस्त्वत्कृपाजलधिमप्यतिवेलखेलं उल्लङ्घयत्यकृतभासुर भागधेयान् ॥ ६० ॥
+यस्त्वत्कृपाजलधिमप्यतिवेलखेलम् उल्लङ्घयत्यकृतभासुर भागधेयान् ॥ ६० ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 है हन्त! जन्तुषु निरन्तरसन्ततात्मा पाप्मा हि नाम वद कोऽयमचिन्त्यशक्तिः ।  
-यस्त्वत्कृपाजलधिमप्यतिवेलखेलं उल्लङ्घयत्यकृतभासुर भागधेयान् ॥ ६० ॥
+यस्त्वत्कृपाजलधिमप्यतिवेलखेलम् उल्लङ्घयत्यकृतभासुर भागधेयान् ॥ ६० ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -855,13 +855,13 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षान्तिस्तवेयं इयती महती कथं नु मुह्येदहो! त्वयि कृताञ्जलिपञ्जरेषु ।  
+क्षान्तिस्तवेयम् इयती महती कथं नु मुह्येदहो! त्वयि कृताञ्जलिपञ्जरेषु ।  
 इत्थं स्वतो निखिलजन्तुषु निर्विशेषं वात्सल्यमुत्सुकजनेषु कथं गुणस्ते ॥ ६२ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-क्षान्तिस्तवेयं इयती महती कथं नु मुह्येदहो! त्वयि कृताञ्जलिपञ्जरेषु ।  
+क्षान्तिस्तवेयम् इयती महती कथं नु मुह्येदहो! त्वयि कृताञ्जलिपञ्जरेषु ।  
 इत्थं स्वतो निखिलजन्तुषु निर्विशेषं वात्सल्यमुत्सुकजनेषु कथं गुणस्ते ॥ ६२ ॥
 </details>
 
@@ -880,13 +880,13 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यः कश्चिदेव यदि किञ्चन हन्त! जन्तुः भव्यो भजेत भगवन्तमनन्यचेताः ।  
-तं सोऽयं ईदृश इयानिति वाऽप्यजानन् है! वैनतेयसममप्युररीकरोषि ॥ ६४ ॥
+तं सोऽयम् ईदृश इयानिति वाऽप्यजानन् है! वैनतेयसममप्युररीकरोषि ॥ ६४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यः कश्चिदेव यदि किञ्चन हन्त! जन्तुः भव्यो भजेत भगवन्तमनन्यचेताः ।  
-तं सोऽयं ईदृश इयानिति वाऽप्यजानन् है! वैनतेयसममप्युररीकरोषि ॥ ६४ ॥
+तं सोऽयम् ईदृश इयानिति वाऽप्यजानन् है! वैनतेयसममप्युररीकरोषि ॥ ६४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -915,25 +915,25 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नीलाञ्जनाद्रिनिभं उन्नसमायताक्षं आजानुजैत्रभुजं आयतकर्णपाशम् ।  
-श्रीवत्सलक्षणं उदारगभीरनाभिं पश्येम देव! शरदः शतमीदृशं त्वाम् ॥ ६७ ॥
+नीलाञ्जनाद्रिनिभम् उन्नसमायताक्षम् आजानुजैत्रभुजम् आयतकर्णपाशम् ।  
+श्रीवत्सलक्षणम् उदारगभीरनाभिं पश्येम देव! शरदः शतमीदृशं त्वाम् ॥ ६७ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नीलाञ्जनाद्रिनिभं उन्नसमायताक्षं आजानुजैत्रभुजं आयतकर्णपाशम् ।  
-श्रीवत्सलक्षणं उदारगभीरनाभिं पश्येम देव! शरदः शतमीदृशं त्वाम् ॥ ६७ ॥
+नीलाञ्जनाद्रिनिभम् उन्नसमायताक्षम् आजानुजैत्रभुजम् आयतकर्णपाशम् ।  
+श्रीवत्सलक्षणम् उदारगभीरनाभिं पश्येम देव! शरदः शतमीदृशं त्वाम् ॥ ६७ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम्भोरुहाक्षं अरविन्दनिभाङ्घ्रियुग्मं आताम्रतामरसरम्यकराग्रकान्तिम् ।  
+अम्भोरुहाक्षम् अरविन्दनिभाङ्घ्रियुग्मम् आताम्रतामरसरम्यकराग्रकान्तिम् ।  
 भृङ्गालकं भ्रमरविभ्रमकायकान्तिं पीताम्बरं वपुरदस्तु वयं स्तवाम ॥ ६८ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अम्भोरुहाक्षं अरविन्दनिभाङ्घ्रियुग्मं आताम्रतामरसरम्यकराग्रकान्तिम् ।  
+अम्भोरुहाक्षम् अरविन्दनिभाङ्घ्रियुग्मम् आताम्रतामरसरम्यकराग्रकान्तिम् ।  
 भृङ्गालकं भ्रमरविभ्रमकायकान्तिं पीताम्बरं वपुरदस्तु वयं स्तवाम ॥ ६८ ॥
 </details>
 
@@ -963,25 +963,25 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रैविक्रमक्रमकृताक्रमणत्रिलोकं उत्तंसमुत्तमं अनुत्तमभक्तिभाजाम् ।  
-नित्यं धनं मम कदा हि मदुत्तमाङ्गं अङ्गीकरिष्यति चिरं तव पादपद्मम् ॥ ७१ ॥
+त्रैविक्रमक्रमकृताक्रमणत्रिलोकम् उत्तंसमुत्तमम् अनुत्तमभक्तिभाजाम् ।  
+नित्यं धनं मम कदा हि मदुत्तमाङ्गम् अङ्गीकरिष्यति चिरं तव पादपद्मम् ॥ ७१ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्रैविक्रमक्रमकृताक्रमणत्रिलोकं उत्तंसमुत्तमं अनुत्तमभक्तिभाजाम् ।  
-नित्यं धनं मम कदा हि मदुत्तमाङ्गं अङ्गीकरिष्यति चिरं तव पादपद्मम् ॥ ७१ ॥
+त्रैविक्रमक्रमकृताक्रमणत्रिलोकम् उत्तंसमुत्तमम् अनुत्तमभक्तिभाजाम् ।  
+नित्यं धनं मम कदा हि मदुत्तमाङ्गम् अङ्गीकरिष्यति चिरं तव पादपद्मम् ॥ ७१ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उन्निद्रपत्रशतपत्रसगोत्रं अन्तर्लेखारविन्दं अभिनन्दनमिन्द्रियाणाम् ।  
+उन्निद्रपत्रशतपत्रसगोत्रम् अन्तर्लेखारविन्दम् अभिनन्दनमिन्द्रियाणाम् ।  
 मन्मूर्ध्नि हन्त! करपल्लवतल्लजं ते कुर्वन् कदा कृतमनोरथयिष्यसे माम् ॥ ७२ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उन्निद्रपत्रशतपत्रसगोत्रं अन्तर्लेखारविन्दं अभिनन्दनमिन्द्रियाणाम् ।  
+उन्निद्रपत्रशतपत्रसगोत्रम् अन्तर्लेखारविन्दम् अभिनन्दनमिन्द्रियाणाम् ।  
 मन्मूर्ध्नि हन्त! करपल्लवतल्लजं ते कुर्वन् कदा कृतमनोरथयिष्यसे माम् ॥ ७२ ॥
 </details>
 
@@ -997,7 +997,7 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 वैभूषणी भवति कान्तिरलन्तरां सा है पुष्कलैव निखिलाऽपि भवद्विभूतिः ॥ ७३ ॥
 </details>
 
-श्रीवत्सकौस्तुभकिरीटललाटिकाभिः केयूरहारकटकोत्तमकण्ठिकाभिः उद्दामदाममणिनूपुरनीविबन्धैः भान्तं भवन्तं अनिमेषं उदीक्षिषीय ॥ ७४ ॥
+श्रीवत्सकौस्तुभकिरीटललाटिकाभिः केयूरहारकटकोत्तमकण्ठिकाभिः उद्दामदाममणिनूपुरनीविबन्धैः भान्तं भवन्तम् अनिमेषम् उदीक्षिषीय ॥ ७४ ॥
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1027,7 +1027,7 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 कैङ्कर्य-नित्य-निरतैर् भवद्-एक-भोगैः, नित्यैर् अनुक्षण-नवीन-रसार्द्र-भावैः ।  
 नित्याभिवाञ्छित-परस्पर-नीच-भावैः +++(त्वद्-दासोऽस्मीति)+++  
-मद्-दैवतैः परिजनैस् तव **सङ्गसीय**+++(←गम् कर्मणि आशीर्लिङ्)+++ ॥ ७७ ॥+++(5)+++
+मद्-दैवतैः परिजनैस् तव **सङ्गसीय**+++(←गं कर्मणि आशीर्लिङ्)+++ ॥ ७७ ॥+++(5)+++
 </details>
 
 <details open><summary>विश्वास-टिप्पनी</summary>
@@ -1104,26 +1104,26 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भावैरनुक्षणं अपूर्वरसानुविद्धैः अत्यद्भुतैरभिनवैरभिनन्द्य देवीः ।  
+भावैरनुक्षणम् अपूर्वरसानुविद्धैः अत्यद्भुतैरभिनवैरभिनन्द्य देवीः ।  
 भृत्यान् यथोचितपरिच्छदिनो यथार्हं सम्भावयन्तमभितो भगवन्! भवेयम् ॥ ८३ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-भावैरनुक्षणं अपूर्वरसानुविद्धैः अत्यद्भुतैरभिनवैरभिनन्द्य देवीः ।  
+भावैरनुक्षणम् अपूर्वरसानुविद्धैः अत्यद्भुतैरभिनवैरभिनन्द्य देवीः ।  
 भृत्यान् यथोचितपरिच्छदिनो यथार्हं सम्भावयन्तमभितो भगवन्! भवेयम् ॥ ८३ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा हन्त हन्त! हतकोऽस्मि खलोऽस्मि धिङ्मां मुह्यन् अहो! अहमिदं किमुवाच वाचा ।  
-त्वामङ्ग! मङ्गलगुणास्पदमस्तहेयं आः! स्मर्तुमेव कथमर्हति मादृगंहः ॥ ८४ ॥
+त्वामङ्ग! मङ्गलगुणास्पदमस्तहेयम् आः! स्मर्तुमेव कथमर्हति मादृगंहः ॥ ८४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 हा हन्त हन्त! हतकोऽस्मि खलोऽस्मि धिङ्मां मुह्यन् अहो! अहमिदं किमुवाच वाचा ।  
-त्वामङ्ग! मङ्गलगुणास्पदमस्तहेयं आः! स्मर्तुमेव कथमर्हति मादृगंहः ॥ ८४ ॥
+त्वामङ्ग! मङ्गलगुणास्पदमस्तहेयम् आः! स्मर्तुमेव कथमर्हति मादृगंहः ॥ ८४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1152,13 +1152,13 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन्नाभवाम भवदीयकटाक्षलक्षं संसारगर्तपरिवर्तं अतोऽगमाम ।  
+यन्नाभवाम भवदीयकटाक्षलक्षं संसारगर्तपरिवर्तम् अतोऽगमाम ।  
 आगांसि ये खलु सहस्रमजस्रमेव जन्मस्वतन्महि कथं त इमेऽनुकम्प्याः ॥ ८७ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यन्नाभवाम भवदीयकटाक्षलक्षं संसारगर्तपरिवर्तं अतोऽगमाम ।  
+यन्नाभवाम भवदीयकटाक्षलक्षं संसारगर्तपरिवर्तम् अतोऽगमाम ।  
 आगांसि ये खलु सहस्रमजस्रमेव जन्मस्वतन्महि कथं त इमेऽनुकम्प्याः ॥ ८७ ॥
 </details>
 
@@ -1176,38 +1176,38 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किं भूयसा प्रलपितेन! यदेव किञ्चित् पापाह्वं अल्पमुरु वा तदशेषमेषः ।  
-जानन् न वा शतसहस्रपरार्धकृत्वो योऽकार्षं एनं अगतिं कृपया क्षमस्व ॥ ८९ ॥
+किं भूयसा प्रलपितेन! यदेव किञ्चित् पापाह्वम् अल्पमुरु वा तदशेषमेषः ।  
+जानन् न वा शतसहस्रपरार्धकृत्वो योऽकार्षम् एनम् अगतिं कृपया क्षमस्व ॥ ८९ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-किं भूयसा प्रलपितेन! यदेव किञ्चित् पापाह्वं अल्पमुरु वा तदशेषमेषः ।  
-जानन् न वा शतसहस्रपरार्धकृत्वो योऽकार्षं एनं अगतिं कृपया क्षमस्व ॥ ८९ ॥
+किं भूयसा प्रलपितेन! यदेव किञ्चित् पापाह्वम् अल्पमुरु वा तदशेषमेषः ।  
+जानन् न वा शतसहस्रपरार्धकृत्वो योऽकार्षम् एनम् अगतिं कृपया क्षमस्व ॥ ८९ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देव! त्वदीयचरणप्रणयप्रवीणरामानुजार्यविषयीकृतं अप्यहो! माम् ।  
+देव! त्वदीयचरणप्रणयप्रवीणरामानुजार्यविषयीकृतम् अप्यहो! माम् ।  
 भूयः प्रधर्षयति वैषयिको विमोहो मत्कर्मणः कतरदत्र समानसारम् ॥ ९० ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-देव! त्वदीयचरणप्रणयप्रवीणरामानुजार्यविषयीकृतं अप्यहो! माम् ।  
+देव! त्वदीयचरणप्रणयप्रवीणरामानुजार्यविषयीकृतम् अप्यहो! माम् ।  
 भूयः प्रधर्षयति वैषयिको विमोहो मत्कर्मणः कतरदत्र समानसारम् ॥ ९० ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गर्भेषु निर्भरनिपीडनखिन्नदेहः क्षोदीयसोऽतिमहतोऽप्यखिलस्य जन्तोः ।  
-जन्मान्तराण्यनुविचिन्त्य परस्सहस्राणि अत्राहं अप्रतिविधिर्निहतश्चरामि ॥ ९१ ॥
+जन्मान्तराण्यनुविचिन्त्य परस्सहस्राणि अत्राहम् अप्रतिविधिर्निहतश्चरामि ॥ ९१ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 गर्भेषु निर्भरनिपीडनखिन्नदेहः क्षोदीयसोऽतिमहतोऽप्यखिलस्य जन्तोः ।  
-जन्मान्तराण्यनुविचिन्त्य परस्सहस्राणि अत्राहं अप्रतिविधिर्निहतश्चरामि ॥ ९१ ॥
+जन्मान्तराण्यनुविचिन्त्य परस्सहस्राणि अत्राहम् अप्रतिविधिर्निहतश्चरामि ॥ ९१ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1272,26 +1272,26 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतेन वै सुविदितं बत मामकीनं दौरात्म्यं अप्रतिविधेयमपारं ईश! ।  
-संमूर्च्छतोऽप्यपदमस्मि यतस्त्वदीयनिस्सीमभूमकरुणामृतवीचिवायोः ॥ ९७ ॥
+एतेन वै सुविदितं बत मामकीनं दौरात्म्यम् अप्रतिविधेयमपारम् ईश! ।  
+सम्मूर्च्छतोऽप्यपदमस्मि यतस्त्वदीयनिस्सीमभूमकरुणामृतवीचिवायोः ॥ ९७ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एतेन वै सुविदितं बत मामकीनं दौरात्म्यं अप्रतिविधेयमपारं ईश! ।  
-संमूर्च्छतोऽप्यपदमस्मि यतस्त्वदीयनिस्सीमभूमकरुणामृतवीचिवायोः ॥ ९७ ॥
+एतेन वै सुविदितं बत मामकीनं दौरात्म्यम् अप्रतिविधेयमपारम् ईश! ।  
+सम्मूर्च्छतोऽप्यपदमस्मि यतस्त्वदीयनिस्सीमभूमकरुणामृतवीचिवायोः ॥ ९७ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐश्वर्यवीर्यकरुणागरिमक्षमाद्याः स्वामिन्! अकारणसुहृत्त्वं अथो विशेषात् ।  
-सर्वे गुणाः सविषयास्तव मां अपारघोराघपूर्णं अगतिं निहतं समेत्य ॥ ९८ ॥
+ऐश्वर्यवीर्यकरुणागरिमक्षमाद्याः स्वामिन्! अकारणसुहृत्त्वम् अथो विशेषात् ।  
+सर्वे गुणाः सविषयास्तव माम् अपारघोराघपूर्णम् अगतिं निहतं समेत्य ॥ ९८ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऐश्वर्यवीर्यकरुणागरिमक्षमाद्याः स्वामिन्! अकारणसुहृत्त्वं अथो विशेषात् ।  
-सर्वे गुणाः सविषयास्तव मां अपारघोराघपूर्णं अगतिं निहतं समेत्य ॥ ९८ ॥
+ऐश्वर्यवीर्यकरुणागरिमक्षमाद्याः स्वामिन्! अकारणसुहृत्त्वम् अथो विशेषात् ।  
+सर्वे गुणाः सविषयास्तव माम् अपारघोराघपूर्णम् अगतिं निहतं समेत्य ॥ ९८ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1309,13 +1309,13 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या कर्मणामधिकृतिर्य इहोद्यमस्तेषु अप्येष्वनुष्ठितिरशेषमिदं हि पुंसाम् ।  
-त्वामन्तरेण न कथञ्चन शक्यमाप्तुं एवं च तेषु मयि चास्ति न ते विशेषः ॥ १०० ॥
+त्वामन्तरेण न कथञ्चन शक्यमाप्तुम् एवं च तेषु मयि चास्ति न ते विशेषः ॥ १०० ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 या कर्मणामधिकृतिर्य इहोद्यमस्तेषु अप्येष्वनुष्ठितिरशेषमिदं हि पुंसाम् ।  
-त्वामन्तरेण न कथञ्चन शक्यमाप्तुं एवं च तेषु मयि चास्ति न ते विशेषः ॥ १०० ॥
+त्वामन्तरेण न कथञ्चन शक्यमाप्तुम् एवं च तेषु मयि चास्ति न ते विशेषः ॥ १०० ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1346,11 +1346,11 @@ KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peet
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्वाञ्चो यत्पदसरसिजद्वन्द्वमाश्रित्य पूर्वे मूर्ध्ना यस्यान्वयमुपगता देशिका मुक्तिमापुः ।  
-सोऽयं रामानुजमुनिरपि स्वीयमुक्तिं करस्थाम् यत्सम्बन्धादमनुत कथं वर्ण्यते कूरनाथः? ॥
+सोऽयं रामानुजमुनिरपि स्वीयमुक्तिं करस्थां यत्सम्बन्धादमनुत कथं वर्ण्यते कूरनाथः? ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अर्वाञ्चो यत्पदसरसिजद्वन्द्वमाश्रित्य पूर्वे मूर्ध्ना यस्यान्वयमुपगता देशिका मुक्तिमापुः ।  
-सोऽयं रामानुजमुनिरपि स्वीयमुक्तिं करस्थाम् यत्सम्बन्धादमनुत कथं वर्ण्यते कूरनाथः? ॥
+सोऽयं रामानुजमुनिरपि स्वीयमुक्तिं करस्थां यत्सम्बन्धादमनुत कथं वर्ण्यते कूरनाथः? ॥
 </details>

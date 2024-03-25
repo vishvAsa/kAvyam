@@ -6,9 +6,9 @@ title = "सुन्दरबाहुस्तवः"
 <details><summary>ThirumAlirum-chOlai (शठकोपः)</summary>
 
 
-SrI SundarabAhu Sthavam is a big sthavam with 132 slOkams .  KurEsar enjoyed the Vaibhavam of ThirumAlirum-chOlai SundararAja PerumAl intensively as the Six AzhwArs did through their 128 Paasurams . PeriyAzhwAr , ANDAL , Thirumangai , BhUthatthAzhwAr , pEy AzhwAr and NammAzhwAr have blessed us with 128 deeply moving Pasaurams about the divya Soundharyam of the Lord celebrated as Azhagar , MaalalankArar , Sundara ThOLudayAn , Sundara Baahu , KaLLazhagar. As archA Moorthy , Azhagar's aprAkrutha soundharyam shines through His aparanji tanga ThirumEni .
+SrI SundarabAhu Sthavam is a big sthavam with 132 slOkams . KurEsar enjoyed the Vaibhavam of ThirumAlirum-chOlai SundararAja PerumAl intensively as the Six AzhwArs did through their 128 Paasurams . PeriyAzhwAr , ANDAL , Thirumangai , BhUthatthAzhwAr , pEy AzhwAr and NammAzhwAr have blessed us with 128 deeply moving Pasaurams about the divya Soundharyam of the Lord celebrated as Azhagar , MaalalankArar , Sundara ThOLudayAn , Sundara Baahu , KaLLazhagar. As archA Moorthy , Azhagar's aprAkrutha soundharyam shines through His aparanji tanga ThirumEni .
 
-Here at ThirmAlirumchOlati known otherwise as Azhagar Koil  , Lord SundarabAhu enjoys the cool breezes from Vrushabha Giri and enjoys Thirumanjanam from the waters of SilambARu (Noopura Ganghai) . Here the Lord is accompanied by Sundaravalli ThAyAr and resides under Somasundara VimAnam . The fragrant breeze from the Vrushabha Giri embraces the natural perfume of the Sandal Wood Trees , which are the Sthala Vrukshams at this dhivya dEsam .
+Here at ThirmAlirumchOlati known otherwise as Azhagar Koil , Lord SundarabAhu enjoys the cool breezes from Vrushabha Giri and enjoys Thirumanjanam from the waters of SilambARu (Noopura Ganghai) . Here the Lord is accompanied by Sundaravalli ThAyAr and resides under Somasundara VimAnam . The fragrant breeze from the Vrushabha Giri embraces the natural perfume of the Sandal Wood Trees , which are the Sthala Vrukshams at this dhivya dEsam .
 </details>
 
 
@@ -20,11 +20,11 @@ KurEsar's ancestors were performing atthANi sEvakam to SundarabAhu and Sundarava
 
 Here , KurEsar states that his ancestors arrived at ThirumAlirumchOlai and gained Parama PurushArTam through their worship of Azhagar, who had settled earlier at the foothills of VrushabhAdhri .    
 
-This elaborate Sthavam was created by KurEsar at ThirumAlirumchOlai , when he was an exile from ChOLa Naadu due to the cruelty of the fanatic ChOLa king . He missed the Sriranga SrI. His AchAryan was away at Melkote.  He was approaching the ripe age of one hundred . 
+This elaborate Sthavam was created by KurEsar at ThirumAlirumchOlai , when he was an exile from ChOLa Naadu due to the cruelty of the fanatic ChOLa king . He missed the Sriranga SrI. His AchAryan was away at Melkote. He was approaching the ripe age of one hundred . 
 
 Here at " Thenn KooDarkkOn tennan koNDAdum tenn ThirumAlirumchOlai " , KurEsar reminds the Lord about his ancestor's atthANi sEvakam to Him following the foot steps of Malayadhwaja Paandyan , the ruling king of Tenn Mathurai, who gained Moksham at this dhivya dEsam . Lord SundarabAhu is pratyaksham to Malayadhwaja PaaNDyan even today at this dhivya dEsam . 
 
-Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who was away at Melkote  and prayed to Lord SundarabAhu to unite him with his AchAryan . This union happened and AchArya RaamAnuja took his dearest sishyan to Lord VaradarAjan's Sannidhi and commanded his sishyan to pray for the restoration of his eyesight . The matchless boon giver, Lord VaradarAjan responded positively . KurEsar did not want the eye sight for seeing any one except his AchAryan and Lord VardarAjan , His aarAdhana Moorthy . Lord VaradarAjan granted that special boon to his dear devotee.
+Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who was away at Melkote and prayed to Lord SundarabAhu to unite him with his AchAryan . This union happened and AchArya RaamAnuja took his dearest sishyan to Lord VaradarAjan's Sannidhi and commanded his sishyan to pray for the restoration of his eyesight . The matchless boon giver, Lord VaradarAjan responded positively . KurEsar did not want the eye sight for seeing any one except his AchAryan and Lord VardarAjan , His aarAdhana Moorthy . Lord VaradarAjan granted that special boon to his dear devotee.
 </details>
 
 <div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/kUresha-shrIvatsAnka-mishraH/shrIvatsAnkamishrebhyaH.md" newLevelForH1="5" includeTitle="false"> 
@@ -60,14 +60,14 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुन्दरायतभुजं भहामहे वृक्षषण्डमयमद्रिं आश्रितम् ।  
-यत्र सुप्रथितनूपुरापगातीर्थं अर्थितफलप्रदं विदुः ॥ २ ॥
+सुन्दरायतभुजं भहामहे वृक्षषण्डमयमद्रिम् आश्रितम् ।  
+यत्र सुप्रथितनूपुरापगातीर्थम् अर्थितफलप्रदं विदुः ॥ २ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सुन्दरायतभुजं भहामहे वृक्षषण्डमयमद्रिं आश्रितम् ।  
-यत्र सुप्रथितनूपुरापगातीर्थं अर्थितफलप्रदं विदुः ॥ २ ॥
+सुन्दरायतभुजं भहामहे वृक्षषण्डमयमद्रिम् आश्रितम् ।  
+यत्र सुप्रथितनूपुरापगातीर्थम् अर्थितफलप्रदं विदुः ॥ २ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -96,14 +96,14 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शशधररिङ्खणाढ्यशिखं उच्छिखरप्रकरं तिमिरनिभप्रभूततरुषण्डमयं भ्रमदम् ।  
-भिदुरितसप्तलोकसुविशृङ्खलशङ्खरवं वनगिरिं आवसन्तं उपयामि हरिं शरणम् ॥ ५ ॥
+शशधररिङ्खणाढ्यशिखम् उच्छिखरप्रकरं तिमिरनिभप्रभूततरुषण्डमयं भ्रमदम् ।  
+भिदुरितसप्तलोकसुविशृङ्खलशङ्खरवं वनगिरिम् आवसन्तम् उपयामि हरिं शरणम् ॥ ५ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-शशधररिङ्खणाढ्यशिखं उच्छिखरप्रकरं तिमिरनिभप्रभूततरुषण्डमयं भ्रमदम् ।  
-भिदुरितसप्तलोकसुविशृङ्खलशङ्खरवं वनगिरिं आवसन्तं उपयामि हरिं शरणम् ॥ ५ ॥
+शशधररिङ्खणाढ्यशिखम् उच्छिखरप्रकरं तिमिरनिभप्रभूततरुषण्डमयं भ्रमदम् ।  
+भिदुरितसप्तलोकसुविशृङ्खलशङ्खरवं वनगिरिम् आवसन्तम् उपयामि हरिं शरणम् ॥ ५ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,13 +120,13 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदीयशिखरागतां शशिकलां तु शाखामृगाः निरीक्ष्य हरशेखरीभवनं आमृशन्तस्ततः ।  
+यदीयशिखरागतां शशिकलां तु शाखामृगाः निरीक्ष्य हरशेखरीभवनम् आमृशन्तस्ततः ।  
 स्पृशन्ति न हि देवतान्तरसमाश्रितेति स्फुटं स एष सुमहातरुव्रजगिरिः गृहं श्रीपतेः ॥ ७ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदीयशिखरागतां शशिकलां तु शाखामृगाः निरीक्ष्य हरशेखरीभवनं आमृशन्तस्ततः ।  
+यदीयशिखरागतां शशिकलां तु शाखामृगाः निरीक्ष्य हरशेखरीभवनम् आमृशन्तस्ततः ।  
 स्पृशन्ति न हि देवतान्तरसमाश्रितेति स्फुटं स एष सुमहातरुव्रजगिरिः गृहं श्रीपतेः ॥ ७ ॥
 </details>
 
@@ -156,25 +156,25 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृषगिरिरयं अच्युतस्य यस्मिन् स्वमतमलङ्घयितुं परस्परेभ्यः ।  
+वृषगिरिरयम् अच्युतस्य यस्मिन् स्वमतमलङ्घयितुं परस्परेभ्यः ।  
 खगपतिचरणौ खगाः शपन्ते भुजगपतेर्भुजगाश्च सर्व एव ॥ १० ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वृषगिरिरयं अच्युतस्य यस्मिन् स्वमतमलङ्घयितुं परस्परेभ्यः ।  
+वृषगिरिरयम् अच्युतस्य यस्मिन् स्वमतमलङ्घयितुं परस्परेभ्यः ।  
 खगपतिचरणौ खगाः शपन्ते भुजगपतेर्भुजगाश्च सर्व एव ॥ १० ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हरिकुलं अखिलं हनूमदङ्घ्रिं स्वकुलपजाम्बवतस्तथैव भल्लाः ।  
+हरिकुलम् अखिलं हनूमदङ्घ्रिं स्वकुलपजाम्बवतस्तथैव भल्लाः ।  
 निजकुलपजटायुषश्च गृध्राः स्वकुलपतेश्च गजा गजेन्द्रनाम्नः ॥ ११ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-हरिकुलं अखिलं हनूमदङ्घ्रिं स्वकुलपजाम्बवतस्तथैव भल्लाः ।  
+हरिकुलम् अखिलं हनूमदङ्घ्रिं स्वकुलपजाम्बवतस्तथैव भल्लाः ।  
 निजकुलपजटायुषश्च गृध्राः स्वकुलपतेश्च गजा गजेन्द्रनाम्नः ॥ ११ ॥
 </details>
 
@@ -204,49 +204,49 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पीताम्बरं वरदशीतलदृष्टिपातं आजानुलम्बिभुजं आयतकर्णपाशम् ।  
+पीताम्बरं वरदशीतलदृष्टिपातम् आजानुलम्बिभुजम् आयतकर्णपाशम् ।  
 श्रीमन्महावनगिरीन्द्रनिवासदीक्षं लक्ष्मीधरं किमपि वस्तु ममाविरस्तु ॥ १४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-पीताम्बरं वरदशीतलदृष्टिपातं आजानुलम्बिभुजं आयतकर्णपाशम् ।  
+पीताम्बरं वरदशीतलदृष्टिपातम् आजानुलम्बिभुजम् आयतकर्णपाशम् ।  
 श्रीमन्महावनगिरीन्द्रनिवासदीक्षं लक्ष्मीधरं किमपि वस्तु ममाविरस्तु ॥ १४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनिजीवनाप्ययविमुक्तयो यतो जगतामिति श्रुतिशिरस्सु गीयते ।  
-तदिदं समस्तदुरितैकभेषजं वनशैलसम्भवं अहं भजे महः ॥ १५ ॥
+तदिदं समस्तदुरितैकभेषजं वनशैलसम्भवम् अहं भजे महः ॥ १५ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 जनिजीवनाप्ययविमुक्तयो यतो जगतामिति श्रुतिशिरस्सु गीयते ।  
-तदिदं समस्तदुरितैकभेषजं वनशैलसम्भवं अहं भजे महः ॥ १५ ॥
+तदिदं समस्तदुरितैकभेषजं वनशैलसम्भवम् अहं भजे महः ॥ १५ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सद्ब्रह्मात्मपदैस्त्रयीशिरसि यो नारायणोक्त्या तथा व्याख्यातो गतिसाम्यलब्धविषयानन्यत्वबोधोज्ज्वलैः ।  
-निस्तुल्याधिकं अद्वितीयममृतं तं पुण्डरीकेक्षणं प्रारूढश्रियं आश्रये वनगिरेः कुञ्जोदितं सुन्दरम् ॥ १६ ॥
+निस्तुल्याधिकम् अद्वितीयममृतं तं पुण्डरीकेक्षणं प्रारूढश्रियम् आश्रये वनगिरेः कुञ्जोदितं सुन्दरम् ॥ १६ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सद्ब्रह्मात्मपदैस्त्रयीशिरसि यो नारायणोक्त्या तथा व्याख्यातो गतिसाम्यलब्धविषयानन्यत्वबोधोज्ज्वलैः ।  
-निस्तुल्याधिकं अद्वितीयममृतं तं पुण्डरीकेक्षणं प्रारूढश्रियं आश्रये वनगिरेः कुञ्जोदितं सुन्दरम् ॥ १६ ॥
+निस्तुल्याधिकम् अद्वितीयममृतं तं पुण्डरीकेक्षणं प्रारूढश्रियम् आश्रये वनगिरेः कुञ्जोदितं सुन्दरम् ॥ १६ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पतिं विश्वस्यात्मेश्वरं इति परं ब्रह्म पुरुषः परं ज्योतिस्तत्त्वं परमपि च नारायण इति ।  
+पतिं विश्वस्यात्मेश्वरम् इति परं ब्रह्म पुरुषः परं ज्योतिस्तत्त्वं परमपि च नारायण इति ।  
 श्रुतिर्ब्रह्मेशादीन्स्तदुदितविभूतींस्तु गृणती यमाहारूढश्रीः स वनगिरिधामा विजयते ॥ १७ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-पतिं विश्वस्यात्मेश्वरं इति परं ब्रह्म पुरुषः परं ज्योतिस्तत्त्वं परमपि च नारायण इति ।  
+पतिं विश्वस्यात्मेश्वरम् इति परं ब्रह्म पुरुषः परं ज्योतिस्तत्त्वं परमपि च नारायण इति ।  
 श्रुतिर्ब्रह्मेशादीन्स्तदुदितविभूतींस्तु गृणती यमाहारूढश्रीः स वनगिरिधामा विजयते ॥ १७ ॥
 </details>
 
@@ -277,13 +277,13 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वन्देय सुन्दरभुजं भुजगेन्द्रभोगसक्तं महावनगिरिप्रणयप्रवीणम् ।  
-यं तं विदुर्दहरमष्टगुणोपजुष्टं आकाशं औपनिषदीषु सरस्वतीषु ॥ २० ॥
+यं तं विदुर्दहरमष्टगुणोपजुष्टम् आकाशम् औपनिषदीषु सरस्वतीषु ॥ २० ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 वन्देय सुन्दरभुजं भुजगेन्द्रभोगसक्तं महावनगिरिप्रणयप्रवीणम् ।  
-यं तं विदुर्दहरमष्टगुणोपजुष्टं आकाशं औपनिषदीषु सरस्वतीषु ॥ २० ॥
+यं तं विदुर्दहरमष्टगुणोपजुष्टम् आकाशम् औपनिषदीषु सरस्वतीषु ॥ २० ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -313,25 +313,25 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिपतितावधि स्वमहिमानुभवप्रभवत् सुखकृत निस्तरङ्ग जलधीयित नित्यदशम् ।  
-प्रतिभटमेव हेयनिकरस्य सदाऽप्रतिमं हरिमिह सुन्दराह्वं उपयामि वनाद्रितटे ॥ २३ ॥
+प्रतिभटमेव हेयनिकरस्य सदाऽप्रतिमं हरिमिह सुन्दराह्वम् उपयामि वनाद्रितटे ॥ २३ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अतिपतितावधि स्वमहिमानुभवप्रभवत् सुखकृत निस्तरङ्ग जलधीयित नित्यदशम् ।  
-प्रतिभटमेव हेयनिकरस्य सदाऽप्रतिमं हरिमिह सुन्दराह्वं उपयामि वनाद्रितटे ॥ २३ ॥
+प्रतिभटमेव हेयनिकरस्य सदाऽप्रतिमं हरिमिह सुन्दराह्वम् उपयामि वनाद्रितटे ॥ २३ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदा षाड्गुण्याख्यैः पृथुलबल विज्ञानशकनप्रभावीर्यैश्वर्यैरवधि विधुरैरेधितदशम् ।  
-द्रुमस्तोमक्ष्माभृत्परिसर महोद्यानमुदितं प्रपद्येऽध्यारूढश्रियं इममहं सुन्दरभुजम् ॥ २४ ॥
+द्रुमस्तोमक्ष्माभृत्परिसर महोद्यानमुदितं प्रपद्येऽध्यारूढश्रियम् इममहं सुन्दरभुजम् ॥ २४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सदा षाड्गुण्याख्यैः पृथुलबल विज्ञानशकनप्रभावीर्यैश्वर्यैरवधि विधुरैरेधितदशम् ।  
-द्रुमस्तोमक्ष्माभृत्परिसर महोद्यानमुदितं प्रपद्येऽध्यारूढश्रियं इममहं सुन्दरभुजम् ॥ २४ ॥
+द्रुमस्तोमक्ष्माभृत्परिसर महोद्यानमुदितं प्रपद्येऽध्यारूढश्रियम् इममहं सुन्दरभुजम् ॥ २४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -420,26 +420,26 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एकैकमङ्गलगुणानुभवाभिनन्दं ईदृक् त्वियानिति च सुन्दरदोष्णि कृष्णे ।  
+एकैकमङ्गलगुणानुभवाभिनन्दम् ईदृक् त्वियानिति च सुन्दरदोष्णि कृष्णे ।  
 ते ये शतं त्विति नियन्तुमनाः श्रुतिर्है नैवैष वाङ्मनसगोचर इत्युदाह ॥ ३२ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एकैकमङ्गलगुणानुभवाभिनन्दं ईदृक् त्वियानिति च सुन्दरदोष्णि कृष्णे ।  
+एकैकमङ्गलगुणानुभवाभिनन्दम् ईदृक् त्वियानिति च सुन्दरदोष्णि कृष्णे ।  
 ते ये शतं त्विति नियन्तुमनाः श्रुतिर्है नैवैष वाङ्मनसगोचर इत्युदाह ॥ ३२ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अब्जपादं अरविन्दलोचनं पद्मपाणितलं अञ्जनप्रभम् ।  
-सुन्दरोरुभुजं इन्दिरापतिं वन्दिषीय वरदं वनाद्रिगम् ॥ ३३ ॥
+अब्जपादम् अरविन्दलोचनं पद्मपाणितलम् अञ्जनप्रभम् ।  
+सुन्दरोरुभुजम् इन्दिरापतिं वन्दिषीय वरदं वनाद्रिगम् ॥ ३३ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अब्जपादं अरविन्दलोचनं पद्मपाणितलं अञ्जनप्रभम् ।  
-सुन्दरोरुभुजं इन्दिरापतिं वन्दिषीय वरदं वनाद्रिगम् ॥ ३३ ॥
+अब्जपादम् अरविन्दलोचनं पद्मपाणितलम् अञ्जनप्रभम् ।  
+सुन्दरोरुभुजम् इन्दिरापतिं वन्दिषीय वरदं वनाद्रिगम् ॥ ३३ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,13 +469,13 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखस्पर्शैर्नित्यैः कुसुमसुकुमाराङ्गसुखदैः सुसौगन्ध्यैर्दिव्याभरणगणदिव्यायुधगणैः ।  
-अलङ्कार्यैः सर्वैर्निगदितं अलङ्कार इति यः समाख्यानं धत्ते स वनगिरिनाथोऽस्तु शरणम् ॥ ३६ ॥
+अलङ्कार्यैः सर्वैर्निगदितम् अलङ्कार इति यः समाख्यानं धत्ते स वनगिरिनाथोऽस्तु शरणम् ॥ ३६ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सुखस्पर्शैर्नित्यैः कुसुमसुकुमाराङ्गसुखदैः सुसौगन्ध्यैर्दिव्याभरणगणदिव्यायुधगणैः ।  
-अलङ्कार्यैः सर्वैर्निगदितं अलङ्कार इति यः समाख्यानं धत्ते स वनगिरिनाथोऽस्तु शरणम् ॥ ३६ ॥
+अलङ्कार्यैः सर्वैर्निगदितम् अलङ्कार इति यः समाख्यानं धत्ते स वनगिरिनाथोऽस्तु शरणम् ॥ ३६ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -492,13 +492,13 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असिजलजरथाङ्गैः शार्ङ्गकौमोदकीभ्यां अगणितगुणजालैरायुधैरप्यथान्यैः ।  
+असिजलजरथाङ्गैः शार्ङ्गकौमोदकीभ्याम् अगणितगुणजालैरायुधैरप्यथान्यैः ।  
 सततविततशोभं पद्मनाभं वनाद्रेः उपवनसुखलीलं सुन्दरं वन्दिषीय ॥ ३८ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-असिजलजरथाङ्गैः शार्ङ्गकौमोदकीभ्यां अगणितगुणजालैरायुधैरप्यथान्यैः ।  
+असिजलजरथाङ्गैः शार्ङ्गकौमोदकीभ्याम् अगणितगुणजालैरायुधैरप्यथान्यैः ।  
 सततविततशोभं पद्मनाभं वनाद्रेः उपवनसुखलीलं सुन्दरं वन्दिषीय ॥ ३८ ॥
 </details>
 
@@ -612,13 +612,13 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्यालम्बिकुण्डलं उदग्रसुवर्णपुष्पनिष्पन्नकल्पलतिकायमलानुकारम् ।  
+व्यालम्बिकुण्डलम् उदग्रसुवर्णपुष्पनिष्पन्नकल्पलतिकायमलानुकारम् ।  
 यत्कर्णपाशयुगलं निगलं धियां नः सोऽयं सुसुन्दरभुजो वनशैलभूषा ॥ ४८ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-व्यालम्बिकुण्डलं उदग्रसुवर्णपुष्पनिष्पन्नकल्पलतिकायमलानुकारम् ।  
+व्यालम्बिकुण्डलम् उदग्रसुवर्णपुष्पनिष्पन्नकल्पलतिकायमलानुकारम् ।  
 यत्कर्णपाशयुगलं निगलं धियां नः सोऽयं सुसुन्दरभुजो वनशैलभूषा ॥ ४८ ॥
 </details>
 
@@ -636,13 +636,13 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्यूढगूढभुजजत्रुं उल्लसत् कम्बुकन्धरधरं धराधरम् ।  
+व्यूढगूढभुजजत्रुम् उल्लसत् कम्बुकन्धरधरं धराधरम् ।  
 वृक्षषण्डमयभूभृतस्तटे सुन्दरायतभुजं भजामहे ॥ ५० ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-व्यूढगूढभुजजत्रुं उल्लसत् कम्बुकन्धरधरं धराधरम् ।  
+व्यूढगूढभुजजत्रुम् उल्लसत् कम्बुकन्धरधरं धराधरम् ।  
 वृक्षषण्डमयभूभृतस्तटे सुन्दरायतभुजं भजामहे ॥ ५० ॥
 </details>
 
@@ -696,13 +696,13 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रीमद्वनाद्रिपतिपाणितलाब्जयुग्मं आरूढयोर्विमलशङ्खरथाङ्गयोस्तु ।  
+श्रीमद्वनाद्रिपतिपाणितलाब्जयुग्मम् आरूढयोर्विमलशङ्खरथाङ्गयोस्तु ।  
 एकोऽब्जमाश्रित इवोत्तमराजहंसः पद्मप्रियोऽर्क इव तत्समितो द्वितीयः ॥ ५५ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-श्रीमद्वनाद्रिपतिपाणितलाब्जयुग्मं आरूढयोर्विमलशङ्खरथाङ्गयोस्तु ।  
+श्रीमद्वनाद्रिपतिपाणितलाब्जयुग्मम् आरूढयोर्विमलशङ्खरथाङ्गयोस्तु ।  
 एकोऽब्जमाश्रित इवोत्तमराजहंसः पद्मप्रियोऽर्क इव तत्समितो द्वितीयः ॥ ५५ ॥
 </details>
 
@@ -795,13 +795,13 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते ते बत सुन्दराह्वयजुषः पादारविन्दे शुभे यन्निर्णेजसमुत्थितत्रिपथगास्रोतस्सु किञ्चित् किल ।  
-धत्तेऽसौ शिरसा ध्रुवः तदपरं स्रोतो भवानीपतिः यस्यास्यालकनन्दिकेति निजगुः नामैवं अन्वर्थकम् ॥ ६४ ॥
+धत्तेऽसौ शिरसा ध्रुवः तदपरं स्रोतो भवानीपतिः यस्यास्यालकनन्दिकेति निजगुः नामैवम् अन्वर्थकम् ॥ ६४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एते ते बत सुन्दराह्वयजुषः पादारविन्दे शुभे यन्निर्णेजसमुत्थितत्रिपथगास्रोतस्सु किञ्चित् किल ।  
-धत्तेऽसौ शिरसा ध्रुवः तदपरं स्रोतो भवानीपतिः यस्यास्यालकनन्दिकेति निजगुः नामैवं अन्वर्थकम् ॥ ६४ ॥
+धत्तेऽसौ शिरसा ध्रुवः तदपरं स्रोतो भवानीपतिः यस्यास्यालकनन्दिकेति निजगुः नामैवम् अन्वर्थकम् ॥ ६४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -854,13 +854,13 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्याः कटाक्षणं अनुक्षणं ईश्वराणां ऐश्वर्यहेतुरिति सर्वजनीनमेतत् ।  
+यस्याः कटाक्षणम् अनुक्षणम् ईश्वराणाम् ऐश्वर्यहेतुरिति सर्वजनीनमेतत् ।  
 श्रीः सेति सुन्दरनिषेवणतो निराहुः तं हि श्रियः श्रियमुदाहुरुदारवाचः ॥ ६९ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यस्याः कटाक्षणं अनुक्षणं ईश्वराणां ऐश्वर्यहेतुरिति सर्वजनीनमेतत् ।  
+यस्याः कटाक्षणम् अनुक्षणम् ईश्वराणाम् ऐश्वर्यहेतुरिति सर्वजनीनमेतत् ।  
 श्रीः सेति सुन्दरनिषेवणतो निराहुः तं हि श्रियः श्रियमुदाहुरुदारवाचः ॥ ६९ ॥
 </details>
 
@@ -1010,13 +1010,13 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुरनरतिर्यगादिबहुभेदकभिन्नमिदं जगदथ चाण्डं अण्डवरणानि च सप्त तथा ।  
+सुरनरतिर्यगादिबहुभेदकभिन्नमिदं जगदथ चाण्डम् अण्डवरणानि च सप्त तथा ।  
 गुणपुरुषौ च मुक्तपुरुषाश्च वनाद्रिपतेः उपकरणानि नर्मविधयेऽपि भवन्ति विभोः ॥ ८२ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सुरनरतिर्यगादिबहुभेदकभिन्नमिदं जगदथ चाण्डं अण्डवरणानि च सप्त तथा ।  
+सुरनरतिर्यगादिबहुभेदकभिन्नमिदं जगदथ चाण्डम् अण्डवरणानि च सप्त तथा ।  
 गुणपुरुषौ च मुक्तपुरुषाश्च वनाद्रिपतेः उपकरणानि नर्मविधयेऽपि भवन्ति विभोः ॥ ८२ ॥
 </details>
 
@@ -1034,13 +1034,13 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवस्य सुन्दरभुजस्य वनाद्रिभर्तुः है! शीलवत्त्वं अथवाऽऽश्रितवत्सलत्वम् ।  
+देवस्य सुन्दरभुजस्य वनाद्रिभर्तुः है! शीलवत्त्वम् अथवाऽऽश्रितवत्सलत्वम् ।  
 ऐशस्वभावमजहद्भिरिहावतारैः योऽलञ्चकार जगदाश्रिततुल्यधर्मा ॥ ८४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-देवस्य सुन्दरभुजस्य वनाद्रिभर्तुः है! शीलवत्त्वं अथवाऽऽश्रितवत्सलत्वम् ।  
+देवस्य सुन्दरभुजस्य वनाद्रिभर्तुः है! शीलवत्त्वम् अथवाऽऽश्रितवत्सलत्वम् ।  
 ऐशस्वभावमजहद्भिरिहावतारैः योऽलञ्चकार जगदाश्रिततुल्यधर्मा ॥ ८४ ॥
 </details>
 
@@ -1227,13 +1227,13 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आज्ञा तवात्रभवती विदिता त्रयी सा धर्मं तदुक्तमखिलेन वनाद्रिनाथ! ।  
-अन्यूनमाचरितुं आस्तिकशिक्षणार्थं अत्रावतीर्य किल सुन्दर! राघवोऽभूः ॥ १०० ॥
+अन्यूनमाचरितुम् आस्तिकशिक्षणार्थम् अत्रावतीर्य किल सुन्दर! राघवोऽभूः ॥ १०० ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 आज्ञा तवात्रभवती विदिता त्रयी सा धर्मं तदुक्तमखिलेन वनाद्रिनाथ! ।  
-अन्यूनमाचरितुं आस्तिकशिक्षणार्थं अत्रावतीर्य किल सुन्दर! राघवोऽभूः ॥ १०० ॥
+अन्यूनमाचरितुम् आस्तिकशिक्षणार्थम् अत्रावतीर्य किल सुन्दर! राघवोऽभूः ॥ १०० ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1480,13 +1480,13 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वामामनन्ति कवयः करुणामृताब्धिं त्वामेव संश्रितजनिघ्नं उपघ्नमेषाम् ।  
+त्वामामनन्ति कवयः करुणामृताब्धिं त्वामेव संश्रितजनिघ्नम् उपघ्नमेषाम् ।  
 एषां व्रजन्निह हि लोचनगोचरत्वं हे सुन्दराह्व! परिचस्करिषे वनाद्रिम् ॥ १२२ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्वामामनन्ति कवयः करुणामृताब्धिं त्वामेव संश्रितजनिघ्नं उपघ्नमेषाम् ।  
+त्वामामनन्ति कवयः करुणामृताब्धिं त्वामेव संश्रितजनिघ्नम् उपघ्नमेषाम् ।  
 एषां व्रजन्निह हि लोचनगोचरत्वं हे सुन्दराह्व! परिचस्करिषे वनाद्रिम् ॥ १२२ ॥
 </details>
 
@@ -1580,7 +1580,7 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 <details><summary>मूलम्</summary>
 
-विज्ञापनां वनगिरीश्वर! सत्यरूपां अङ्गीकुरुष्व करुणार्णव! मामकीनाम् ।  
+विज्ञापनां वनगिरीश्वर! सत्यरूपाम् अङ्गीकुरुष्व करुणार्णव! मामकीनाम् ।  
 श्रीरङ्गधामनि यथापुरमेष सोऽहं रामानुजार्यवशगः परिवर्तिषीय ॥ १२९ ॥
 </details>
 
