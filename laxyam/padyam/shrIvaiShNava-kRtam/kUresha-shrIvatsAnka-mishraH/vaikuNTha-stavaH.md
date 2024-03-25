@@ -153,22 +153,22 @@ When one unites the three words used by KurEsar, “Mahas-thath SarasijEk shaNam
 
 पीताम्बरं वरद-शीतल-दृष्टि-पातम्  
 आजानु-लम्बि-भुजम् आयत-कर्ण-पाशम् ।  
-तन्-मेघ-मेचकम् उदग्र-विशाल-वक्षो  
-लक्ष्मी-धरं किम् अपि वस्तु ममाविरस्तु ॥ ५ ॥
+तन्-मेघ-मेचकम्+++(=कृष्णम्)+++ उदग्र-विशाल-वक्षो  
+लक्ष्मी-धरं किम् अपि वस्तु **ममाविरस्तु** ॥ ५ ॥
 </details>
 
 <details><summary>English</summary>
 
 MEANING: 
 
-May the immeasurable, limitless Vasthu, the Veda prasiddha Supreme Being appear before me always with His broad and lofty chest adorned with MahA Lakshmi, with His long and auspicious ears, with His hands reaching all the way down to the knees, with His cool and benevolent eyes that grant whatever one seeks and adorned with the yellow silk garment.  
+May the immeasurable, limitless Vasthu, the Veda prasiddha Supreme Being appear before me always with His broad and lofty chest adorned with MahA Lakshmi, with His long and auspicious ears, with His hands reaching all the way down to the knees, with His cool and benevolent eyes that grant whatever one seeks and adorned with the yellow silk garment.
 
 
 COMMENTS 
 
 KurEsar reminds NirguNa Brahma Vaadhins that the Supreme Being is a divine Peethambharadharan, auspicious body (Dhivya MangaLa Vigraham), Divine Consort as well as Jewelery and PeethAmbharam.  
-    
-[[12]]    
+
+[[12]]
 
 </details>
 
@@ -181,9 +181,38 @@ KurEsar reminds NirguNa Brahma Vaadhins that the Supreme Being is a divine Peeth
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् तत्त्वमक्षरमदृश्यमगोत्रवर्णम् अग्राह्यमव्ययमनीदृशम् अद्वितीयम् ।  
-ईशानमस्य जगतो यदणोरणीयः तद् वैष्णवं पदमुदारमुदाहरामः ॥ ६ ॥
+यत् तत्त्वम् अ-क्षरम् अ-दृश्यम् अ-गोत्र+++(→नाम)+++-वर्णम्  
+अ-ग्राह्यम् अ-व्ययम् अन्-ईदृशम् अ-द्वितीयम् ।  
+ईशानम् अस्य जगतो यद् अणोर् अणीयस्  
+तद् वैष्णवं पदम् उदारम् **उदाहरामः** ॥ ६ ॥
 </details>
+
+<details><summary>English</summary>
+
+The previous slOkam focused on the Dhivya MangaLa Vigraham of the Lord. This one focuses on the DhivyAthma Svaroopam based on the many Pra mANams from Sruthis.  
+
+MEANING: 
+
+We attribute paramAthmA’s Svaroopam as belonging to that of VishNu (VaishNavam), when it is changeless, eternal, unseeable by the physical eyes, free from name and form, ungraspable by the mind, indefinable as this or that, undividable into two, subtler than subtle to preside as indweller in all sentient and insentient and gigantic in size to rule all the universe.  
+
+COMMENTS: 
+
+The usage of “VaishNavam Padham” by KurEsar permits us to conclude that Bhagavath (dhivyAthma) Svaroopam, Sri Vaikuntam and the Lord’s sacred feet are being referred to. All the adjectives used in this slOkam are applicable to all the three (Svaroopam, SthAnam and Thiruvadi). In VedArtha Sangraham, AchArya RaamAnuja has interpreted Sri VaikuNTam along these lines.  
+
+The PramANam for the adjectives associated with the dhivyAthma svaroopam comes from the following Sruthi Passage:  
+
+Yath Tath adhrEsayam agrAhyam agOthram avarNam achakshus-srOthram srOthram tadhapANipaadham, nithyam Vibhum sarvagatham susookshmam tad- tadhapANipaadham, nithyam Vibhum sarvagatham susookshmam tad havyayam yadh paripasyanthi dheerA: havyayam yadh paripasyanthi dheerA: ———-(MundakOpanishad) (MundakOpanishad) 
+    
+13    
+
+More PramAnams from sruthi passages:  
+1.“yEkamEva adhvitheeyam” 
+2.“aNOraNeeyAn MahathOr “aNOraNeeyAn MahathOr-maheeyAn 
+3.”Sadhrusam thrishu lingEshu sarvAsu cha vibhakthishu vachanEshu cha ”Sadhrusam thrishu lingEshu sarvAsu cha vibhakthishu vachanEshu cha SarvEshu yanna vyEthi tadhavyayam” 
+4.“Pathim Visvasya AathmEswaram, Saasvatham Sivam Achyutham” 
+  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -193,9 +222,30 @@ KurEsar reminds NirguNa Brahma Vaadhins that the Supreme Being is a divine Peeth
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आम्नायमूर्धनि च मूर्धनि चोर्ध्वपुंसां यद् धाम वैष्णवमभीक्ष्णतरं चकास्ति ।  
-तन्मादृशामपि च गोचरमेति वाचो मन्ये तदीयमिदमाश्रितवत्सलत्वम् ॥ ७ ॥
+आम्नाय-मूर्धनि च मूर्धनि चोर्ध्व-पुंसां  
+यद् धाम वैष्णवम् अभीक्ष्णतरं **चकास्ति** ।  
+तन् मादृशाम् अपि च गोचरम् **एति** वाचो  
+**मन्ये** तदीयम् इदम् आश्रित-वत्सलत्वम् ॥ ७ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+[[14]]  
+
+
+
+MEANING: 
+
+That Supreme lustre (jyOthi=dhAma: of ParamdhAman) of the Lord shines splendidly on the siras of VedAs  (Upanishads) and the heads of  highly evolved souls (Urdhva  pumsAm); that tejas (lustre) be comes the target for words even from people like me. This state of the Lord’s Dhivya tEjas being accessible to us is an indication of Hisgreat vaathsalyam for us as thosewho sought His protection.  
+
+COMMENTS: 
+
+The pramANams for words and word groups used in this slOkam come from Swamy AlavanthAr’s SthOthra Rathnam and Srutha PrakAsikai of Sri Sudarsana Soori: ParamdhAman 15 First line of this seventh slOkam: “yann-Moordhni mE sruthi-sirassu cha bhAthi” (SthOthra Rathnam), “Yasccha MoordhA SaThArE”; (Sri VaradarAja Sthavam of KurEsar). Aasritha Vaathsalyam: The visEsha Preethi of the Lord is attested by many pramANams: “dhOshAnAdhara snEha:”and “dhOshEshvapi guNathva Buddhi:” in Srutha PrakAsikai. 
+
+[[16]]  
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -205,9 +255,24 @@ KurEsar reminds NirguNa Brahma Vaadhins that the Supreme Being is a divine Peeth
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जानन्नपीह किल मामनपत्रपिष्णुः विष्णोः पदप्रणयिनीं गिरमाद्रियेऽहम् ।  
-न श्वावलीढमपि तीर्थमतीर्थमाहुः नोदन्यताऽपि च शुना किल लज्जितव्यम् ॥ ८ ॥
+जानन्न् अपीह किल माम्, अनपत्रपिष्णुर्  
+विष्णोः पद-प्रणयिनीं गिरम् **आद्रिये** ऽहम् ।  
+**न** श्वावलीढम् अपि तीर्थम् अ-तीर्थम् **आहुः**  
+**नोदन्यता**+++(=उदक-कामेन)+++ ऽपि च शुना किल **लज्जितव्यम्** ॥ ८ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+adiyEn knows fully well that I am unqualified to engage in eulogizing the Lord and even then, adiyEn engages in such an act shamelessly and utter words in deep affection for the sacred feet of the all pervasive VishNu NaarAyaNan. Even if the waters of Ganga are licked by a dog, no one declares that GangA theertham has been polluted by the tongue of the dog and therefore, it is not sacred. As for the lowly dog, its thirst has been quenched by the waters of the sacred Ganga River.  
+
+COMMENTS: 
+
+KurEsar (AzhwAn) has lowered himself before the Lord out of his enormous Bhakthi for Him. It is common for the AzhwArs to compare themselves to the lowly dogs while addressing their Lord: “NaayinEn”. The comparison of the dog quenching its thirst with the sacred waters of Ganga has been referred also in KurEsar’s Sri Sthavam: “dhushyEth saa thu na thAvathA nahi Sunaa leeDAapi BhagIraTee”. 17  
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -217,9 +282,13 @@ KurEsar reminds NirguNa Brahma Vaadhins that the Supreme Being is a divine Peeth
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवस्य दैत्यमथनस्य गुणेष्वियत्ता सङ्ख्या च वाङ्मनसगोचरमत्यभूताम् ।  
-अप्येवम् अण्वपि च तत्र ममार्तिशान्त्यै कीटस्य तृष्यत उदन्वति विप्रुषाऽलम् ॥ ९ ॥
+देवस्य दैत्य-मथनस्य गुणेष्व् इयत्ता  
+सङ्ख्या च वाङ्-मनस-गो-चरम् अत्यभूताम् ।  
+अप्य् एवम् अण्व् अपि च तत्र ममार्ति-शान्त्यै  
+कीटस्य तृष्यत उदन्वति विप्रुषाऽलम् ॥ ९ ॥
 </details>
+
+
 
 <details><summary>मूलम्</summary>
 
