@@ -283,10 +283,23 @@ KurEsar (AzhwAn) has lowered himself before the Lord out of his enormous Bhakthi
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवस्य दैत्य-मथनस्य गुणेष्व् इयत्ता  
-सङ्ख्या च वाङ्-मनस-गो-चरम् अत्यभूताम् ।  
+सङ्ख्या च वाङ्-मनस-गो-चरम् **अत्यभूताम्** ।  
 अप्य् एवम् अण्व् अपि च तत्र ममार्ति-शान्त्यै  
-कीटस्य तृष्यत उदन्वति विप्रुषाऽलम् ॥ ९ ॥
+कीटस्य **तृष्यत** उदन्वति विप्रुषाऽलम् ॥ ९ ॥+++(4)+++
 </details>
+
+<details><summary>English</summary>
+
+EANING: 
+
+The auspicious attributes of the Lord, who defeats the asurAs and engages in the sport of creating, protecting and destroying the worlds have gone beyond any one’s ability to count them by word or mind. Even then, the eulogizing of a small portion of them is sufficient to quench my desire for engaging in such an effort. For a thirsty worm, is it not sufficient to quench its thirst by taking a small drop of water from the vast water shed?  
+
+COMMENTS: 
+
+When describing one of the guNams of BhagavAn, the Upanishad declares: “yathO vaachO nivartanthE aprApya manasA saha” (The speech united with mind stepped back in failure, when they attempted to describe the Aanandha guNam of the Lord). KurEsar has this Upanishadic passage in mind, when he observes here: “guNEshu iyatthA sankhyA cha vaang- manasa gOcharam athy abhUthAm”. 18  
+
+</details>
+
 
 
 
@@ -298,9 +311,21 @@ KurEsar (AzhwAn) has lowered himself before the Lord out of his enormous Bhakthi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रेमार्द्रविह्वलगिरः पुरुषाः पुराणाः त्वां तुष्टुवुर्मधुरिपो! मधुरैर्वचोभिः ।  
-वाचो विडम्बितमिदं मम नीचवाचः क्षान्तिस्तु ते सविषया मम दुर्वचोभिः ॥ १० ॥
+प्रेमार्द्र-विह्वल-गिरः पुरुषाः पुराणाः त्वां **तुष्टुवुर्** मधु-रिपो! मधुरैर् वचोभिः ।  
+वाचो विडम्बितम् इदं मम नीच-वाचः **क्षान्तिस्** तु ते स-विषया मम दुर्-वचोभिः ॥ १० ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh Lord HayagrIva Bhagavann! With fal tering voices drenched by love, the an cient mahA purushAs like AzhwArs and AchAryAs eulogized You with sweet words. The salutation of adiyEn, who is least qualified to engage in such an eulogy, becomes a hollow and false one compared to those of the AzhwArs and AchAryAs. Indeed my feeble and insin cere efforts to praise You highlight Your noble guNam of forbearance.  
+
+COMMENTS: 
+
+Through their overflowing love for the Lord, ancient great ones such as BhIshma, Narada and PrahlAdha eulo gized the Lord with choked voices. AazhwArs like SaThakOpan and Thiru mangai assumed female roles to express their adoration of the Lord. KurEsar de scribes the sweet experiences of the Pu rANa PurushAs that flew as delectable yOga hayagrIvar eulogy as: “preEma aardra vihvala gira: 19 purANaa: Purushaa: madhurai: vachOpi: thvAm thushtuvu:” In a mood of stat ing his unfitness (NaichyAnusandhAnam) to follow the path of the noble Sages and AzhwArs, KurEsar points out that his efforts are deceptive and they are testaments to the efficacy of the Lord’s KshamA guNam (forbearance). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -310,9 +335,27 @@ KurEsar (AzhwAn) has lowered himself before the Lord out of his enormous Bhakthi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आज्ञा तवात्रभवती विदिता त्रयी सा तां हि प्रमाणमुपजग्मुरतीन्द्रियेऽर्थे ।  
-आभासभूयमभियान्त्यपराणि दोषैः एषा तु दोषरहिता महिता पुराणी ॥ ११ ॥
+आज्ञा तवात्रभवती **विदिता** त्रयी सा  
+तां हि प्रमाणम् **उपजग्मुर्** अतीन्द्रियेऽर्थे ।  
++++(प्रमाण-)+++आभास-भूयम् **अभियान्त्य्** अपराणि +++(नास्तिक-मतानि)+++ दोषैर्,  
+एषा तु दोष-रहिता महिता पुराणी ॥ ११ ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh Lord! The noble assemblies of the three vEdAs, which are revered at all yugAs, are known as Your commands. Is it not so that the aasthikAs have ac cepted them as the cardinal pramANams (valid knowledge) for comprehend ing the tatthvams, which are beyond the analysis by our senses? Due to the many blemishes that Para mathams like Jainam and Bhouddham, they take on false garbs and pretend to be based on pramANams. The VedAs and Vaidhika mathams however are rooted in PramANams and are therefore celebrated as ancient and totally devoid of any blemishes.  
+
+COMMENTS: 
+
+This slOkam was created by KurEsar to remind every one that the VedAs head all PramANams and that Vaidhika mathams based on Veda PramANams are the ones that are safe to follow for gaining the supreme goal of life, viz, MOk sham. Vedams are the commands of the Lord (Sruthi smruthi: MamaivAj~nA). Our Lord says further that one who transgresses them is an avaishNavan even if he was His devotee (Aaj~nAcchEdhee Mama dhrOhi MadhbhakthOapi na VaishNava:). The Vedams are counted as Triad (thrayee) here although they are four in number. The reason is that the fourth Vedam, AtharvaNam is in cluded in the three.  
+  
+    
+21    
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -322,9 +365,27 @@ KurEsar (AzhwAn) has lowered himself before the Lord out of his enormous Bhakthi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्तर्हितो निधिरसि त्वमशेषपुंसां लभ्योऽसि पुण्यपुरुषैः इतरैर्दुरापः ।  
-तत्र त्रयीं सुकृतिनः कृतिनोऽधिजग्मुः बाह्येषु बाह्यचरितैरितरैर्निपेते ॥ १२ ॥
+**अन्तर्हितो** निधिर् असि त्वम् अ-शेष-पुंसां  
+**लभ्यो** ऽसि पुण्य-पुरुषैः, इतरैर् **दुर्-आपः** ।  
+तत्र त्रयीं सु-कृतिनः कृतिनो **ऽधिजग्मुर्**,  
+बाह्येषु बाह्य-चरितैर् इतरैर् **निपेते** ॥ १२ ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh Lord! You are like a hidden treasure for all chEtanams. You are reached by a few fortunate. For others, You are unattainable even with strenuous efforts. In their successful efforts to attain you, the fortunate few follow the ancient Vedic path. The others fail to attain You as a result of following Veda BhAhya mathams (Para Mathams that do not accept Vedam as PramANam).  
+
+COMMENTS: 
+
+There are those who suffer in poverty, while having untold wealth of the Lord inside them as the indweller. Then there are those, who recognize the pres ence of the Lord in their heart lotuses and perform upAya anushtAnam and break the bonds of SamsAram. The second category of the fortunate ones is saluted by KurEsar as “kruthina: sukrithina:” ChaNdhOgya Upanishad (8.3.2) describes the unfortunate ones, who fail to realize the indwelling Lord and the consequences of such failure this way: “Just as people, who do not know the place where treasure or gold is hidden, do not get it, though they move on the very ground under which the gold is hidden. In the same way, all these Jeevans though they go to the Supreme Lord day in and day out (during Sushupthi/sleep without dream) do not get to know that indwelling Brah man.” KurEsar points out those, who perform upAya anushtAnam (Bhakthi or Prapatthi yOgam) along the lines instructed by the VedAs will gain this hidden treasure and enjoy BrahmAnandham. Those who reject VedAs (Bhouddhaas and JainAs) are also the property (VibhUthi) of the Lord. They have failed in their goal to attain the Lord by forsaking Vedic instructions.  
+    
+22    
+
+</details>
+ 
+
 
 <details><summary>मूलम्</summary>
 
@@ -334,79 +395,201 @@ KurEsar (AzhwAn) has lowered himself before the Lord out of his enormous Bhakthi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चित्रं विधेर्विलसितं त्विदमाविरस्ति दुष्टात्मनामयमहो! किल दुर्विपाकः ।  
-यत् केचिदत्रभवतीं श्रुतिमाश्रयन्तोऽपि अर्थे कुदृष्टिविनिविष्टधियो विनष्टाः ॥ १३ ॥
+चित्रं विधेर् विलसितं त्व् इदम् आविर् अस्ति  
+दुष्टात्मनाम् अयम् अहो! किल दुर्विपाकः ।  
+यत् केचिद् अत्रभवतीं श्रुतिम् **आश्रयन्तोऽप्य्**  
+अर्थे कुदृष्टि-विनिविष्ट-धियो **विनष्टाः** ॥ १३ ॥
 </details>
+
+
+<details><summary>English</summary>
+
+MEANING: 
+
+The Lord’s sport is mysterious indeed! Alas! Those with deplorable attitude at tain the status of misinterpretation of the true meanings of VedAs due to their sins. They destroy themselves in spite of the fact that they celebrate the VedAs and yet end up misinterpreting their meanings. They gain distorted vi sions and acquire the title of kudrushtis. Their mind gets polluted (kudhrushti vinivishta dhiya:) and they end up in narakam.  
+
+
+COMMENTS: 
+
+They are Vedic Scholars all right and yet they develop viparItha Jn~Anam and Kudhrushti and end up interpreting the Vedic passages such as KapyAsa Sruthi. One of the early AchAryAs of Sri RaamAnuja (Yaadhava PrakAsar) in terpreted KapyAsa Sruthi in an abominable way and hurt Sri RaamAnujA very much. Sri RaamAnuja corrected Yaadhava PrakAsa and parted with him.  
+  
+24  
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 चित्रं विधेर्विलसितं त्विदमाविरस्ति दुष्टात्मनामयमहो! किल दुर्विपाकः ।  
-यत् केचिदत्रभवतीं श्रुतिमाश्रयन्तोऽपि अर्थे कुदृष्टिविनिविष्टधियो विनष्टाः ॥ १३ ॥
+यत् केचिदत्रभवतीं श्रुतिमाश्रयन्तोऽप्यर्थे कुदृष्टिविनिविष्टधियो विनष्टाः ॥ १३ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बाह्याः कुदृष्टय इति द्वितये ऽप्य् अ-पारं  
+घोरं तमः **समुपयन्ति** नहीक्षसे तान् ।  
+जग्धस्य कानन-मृगैर् मृग-तृष्णिकेप्सोः,  
+कासार-सत्त्व+++(→नक्र)+++-निहतस्य च को विशेषः? ॥ १४ ॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+There are two kinds of people: One does not accept Vedam as PramANam (valid knowledge) and are known as Veda BhAhyars; the other accepts VedAs as PramANam but interprets their meanings in an erroneous manner. Both of them land in the bottomless SamsAram. Oh Lord! Your benevolent glances do not fall on them. There is no difference between these two (Veda BhAhyan and Kudhrushti). One is like the deluded person, who runs after mirage, enters the forest and is eaten up by the beasts of the forest; the other is like a fool, who enters the river at forbidden places (bathing ghats not recom mended by AchAryAs) and loses his life to crocodiles. There is no difference between the two in their stupidities. Sruthi vaakyam says in this context: “andham tama: pravisanthi yEavidhyAm upAsathE” 
+  
+25  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 बाह्याः कुदृष्टय इति द्वितयेऽप्यपारं घोरं तमः समुपयन्ति नहीक्षसे तान् ।  
 जग्धस्य काननमृगैर्मृगतृष्णिकेप्सोः कासारसत्त्वनिहतस्य च को विशेषः? ॥ १४ ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बाह्याः कुदृष्टय इति द्वितयेऽप्यपारं घोरं तमः समुपयन्ति नहीक्षसे तान् ।  
-जग्धस्य काननमृगैर्मृगतृष्णिकेप्सोः कासारसत्त्वनिहतस्य च को विशेषः? ॥ १४ ॥
+न्याय-स्मृति-प्रभृतिभिर् भवता निसृष्टैः  
+वेदोपबृंहण-विधाव् उचितैर् उपायैः ।  
+श्रुत्य्-अर्थम् अर्थम् इव भानुकरैर् **विभेजुस्**  
+त्वद्-भक्ति-भावित-विकल्मष-शेमुषीकाः+++(=बुद्धिकाः)+++ ॥ १५ ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+MEANING: 
+
+In the previous slOkams, KurEsar instructed us that BhagavAn can be compre hended only with Veda manthrams and not by false sources in opposition to the VedAs. In this slOkam, KurEsar instructs us that Smruthis, Sath Saasthrams, Saathvika PurANams and IthihAsams (UpabrahmaNams) act as instruments to interpret correctly the true meanings of the VedAs.  
+
+Swamy KurEsar says here: “With minds filled with profound Bhakthi for You, the scholars with pure mind have used MeemAsa Saasthram, Manu Smruthi passages to comprehend the inner meanings of the Veda mantrams just as the Sun’s light is used to recognize the various objects clearly”. These upAyams to understand the true meanings of the Veda Mantrams have been given to us by the Lord (BhavathA nisrutai: uchithai: upAyai:). 
+
+  
+26  
+
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 न्यायस्मृतिप्रभृतिभिर्भवता निसृष्टैः वेदोपबृंहणविधावुचितैरुपायैः ।  
 श्रुत्यर्थमर्थमिव भानुकरैर्विभेजुः त्वद्भक्तिभावितविकल्मषशेमुषीकाः ॥ १५ ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न्यायस्मृतिप्रभृतिभिर्भवता निसृष्टैः वेदोपबृंहणविधावुचितैरुपायैः ।  
-श्रुत्यर्थमर्थमिव भानुकरैर्विभेजुः त्वद्भक्तिभावितविकल्मषशेमुषीकाः ॥ १५ ॥
+ये तु त्वद्-अङ्घ्रि-सरसी-रुह-भक्ति-हीनाः  
+तेषाम् अमीभिर् अपि नैव यथार्थ-बोधः ।  
+पित्त-घ्नम् अञ्जनम् अनापुषि जातु नेत्रे  
+नैव प्रभाभिर् अपि शङ्ख-सितत्व-बुद्धिः ॥ १६ ॥+++(4)+++
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh Lord! For those, who are not blessed with Bhakthi at your lotus feet, they will not get clarity about the Sruthi, Smruthi passages. When the eyes are not treated with the lotion (collyrium) for destroying the bile-generated disease, even the Sun’s rays won’t be of help to know the true color of the white conch.  
+
+COMMENTS: 
+
+Here KurEsar is referring to the dhurbhAgyam (misfortune) of those, who are devoid of Bhakthi for the lotus feet of the Lord (yE thu thvadhangri saraseeruha bhakthiheenA:). They wont get clarity about the meanings of the Sruthis and Smruthis (tEshAm yEva ameebhi: api yaTArTa bOdhA: na). For a man with bile disease, every thing will look yellow and even the bright Sun’s rays will not help him recognize that the conch before him has the white color.  
+
+Swamy Desikan has referred to this analogy in SubhAshitha Neevi: “PitthEna Paanchajanyam peetham pasyan bhishajyathu kam”. It is thus clear that SaasthrArTams will become evident only to those for those with true Bhakthi for the Lord. 27  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 ये तु त्वदङ्घ्रिसरसीरुहभक्तिहीनाः तेषाममीभिरपि नैव यथार्थबोधः ।  
 पित्तघ्नमञ्जनमनापुषि जातु नेत्रे नैव प्रभाभिरपि शङ्खसितत्वबुद्धिः ॥ १६ ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-ये तु त्वदङ्घ्रिसरसीरुहभक्तिहीनाः तेषाममीभिरपि नैव यथार्थबोधः ।  
-पित्तघ्नमञ्जनमनापुषि जातु नेत्रे नैव प्रभाभिरपि शङ्खसितत्वबुद्धिः ॥ १६ ॥
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वेदार्थ-धीस् त्वयि तु भक्तित एव लभ्या  
+यावान् हि यश् च भगवन्न् असि तत्त्वतस् त्वम् ।  
+**ज्ञातुं** तथा भुवन-भावन वेद-वेद्यं  
+द्रष्टुं **प्रवेष्टुम्** अपि भक्तित एव **शक्यः** ॥
+</details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh Lord meditated upon by the residents of the three worlds! Only Bhakthi for You can bless one with the intellect to comprehend the VedArTams. Bhakthi for You alone permits one to know your Svaroopam and limitless glories. That Bhakthi alone helps one comprehend you as the One to be known by the Veda Manthrams and to have your vision during DhyAnam as well as being united with you. “VedArTa dhee: Bhakthita yEva labhyA”. EmperumAn's sankalpam, AchArya KatAksham and Nija Bhakthi and the help from the true Vedic schol ars can help us comprehend a little the limitless auspicious attributes of the Lord. 28  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वेदार्थधीस्त्वयि तु भक्तित एव लभ्या
+यावान् हि यश्च भगवन्नसि तत्त्वतस्त्वम् ।
+ज्ञातु तथा भुवनभावन वेदवेद्यं
+द्रष्टुं प्रवेष्टुमपि भक्तित एव शक्यः ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्त्वार्थ--तत्-पर--परश्-शत--वेद-वाक्यैः  
+सामर्थ्यतः स्मृतिभिर् अप्य् अथ तादृशीभिः ।  
+त्वाम् एव तत्त्व-पर--सात्त्विक--सत्-पुराणैर्  
+दैव-ज्ञ-धीभिर् अपि **निश्चिनुमः** परेशम् ॥ १७ ॥
+</details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh Lord! Through the hundreds of Veda Manthrams broadcasting Your Para Tatthvam and similar passages from Manu, Yajn~avalkya Smruthis and Saath vika PurANams engaged in saluting Your Supreme status among gods and from the Sri Sookthis of AchAryAs, who understand Your true nature, We have arrived at the unassailable conclusion that You alone are the Supreme Being (ParamAthmA). This slOkam of KurEsar is modeled after the SthOthra Rathna slOkam of Swamy AlavanthAr, “tvAm Seela roopa charithai:” (SlOkam 15). 
+  
+29  
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 तत्त्वार्थतत्परपरश्शतवेदवाक्यैः सामर्थ्यतः स्मृतिभिरप्यथ तादृशीभिः ।  
 त्वामेव तत्त्वपरसात्त्विकसत्पुराणैः दैवज्ञधीभिरपि निश्चिनुमः परेशम् ॥ १७ ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्त्वार्थतत्परपरश्शतवेदवाक्यैः सामर्थ्यतः स्मृतिभिरप्यथ तादृशीभिः ।  
-त्वामेव तत्त्वपरसात्त्विकसत्पुराणैः दैवज्ञधीभिरपि निश्चिनुमः परेशम् ॥ १७ ॥
+अन्यत्र तु क्वचन केचिद् इहेश-शब्दात्  
+लोक-प्रसिद्धिम् **उपगम्य**, तम् ईशम् **आहुः** ।  
+तैश् च प्रसिद्धि-विभवस्य समूलतायै  
+**ग्राह्या** त्रयी, त्वयि तु साऽच्युत! सम्मुखीना ॥ १८ ॥  
++++("पतिं विश्वस्य तमीश्वरं शाश्वतम् अच्युतम्" इति )+++
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh Achyutha! Some (SaivAs) state that Sivan is the Supreme God because some purANAs and AagamAs address Him as Isan, Iswaran and IsAnan. For strengthening that point of view, one has to look for valid Support from Rg, Yajus and Saama Vedams. Those three Vedams are focused on you. Those Ve dam specifically salute you as: “Pathim viswasyAthmEswaram sAsvatham Shivam Achyutham”. Other Smruthi passages recognize You as “tameeswarANAm Paramam MahEswaram”. Therefore, when Vedam says Iswaran, it refers to EmprumAn only. 
+
+30
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अन्यत्र तु क्वचन केचिदिहेशशब्दात् लोकप्रसिद्धिमुपगम्य तमीशमाहुः ।  
 तैश्च प्रसिद्धिविभवस्य समूलतायै ग्राह्या त्रयी त्वयि तु साऽच्युत! सम्मुखीना ॥ १८ ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-अन्यत्र तु क्वचन केचिदिहेशशब्दात् लोकप्रसिद्धिमुपगम्य तमीशमाहुः ।  
-तैश्च प्रसिद्धिविभवस्य समूलतायै ग्राह्या त्रयी त्वयि तु साऽच्युत! सम्मुखीना ॥ १८ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यः खल्वणोरणुतरो महतो महीयान् आत्मा जनस्य जनको जगतश्च योऽभूत् ।  
+यः खल्वणोरणुतरो महतो महीयान्  
+आत्मा जनस्य जनको जगतश्च योऽभूत् ।  
 वेदात्मकप्रणवकारणवर्णवाच्यं तं त्वां वयं तु परमेश्वरमामनामः ॥ १९ ॥
 </details>
 
