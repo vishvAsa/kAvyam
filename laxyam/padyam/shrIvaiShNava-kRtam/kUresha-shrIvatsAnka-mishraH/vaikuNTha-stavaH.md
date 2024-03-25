@@ -151,14 +151,32 @@ When one unites the three words used by KurEsar, “Mahas-thath SarasijEk shaNam
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पीताम्बरं वरदशीतलदृष्टिपातं आजानुलम्बिभुजं आयतकर्णपाशम् ।  
-तन्मेघमेचकं उदग्रविशालवक्षः लक्ष्मीधरं किमपि वस्तु ममाविरस्तु ॥ ५ ॥
+पीताम्बरं वरद-शीतल-दृष्टि-पातम्  
+आजानु-लम्बि-भुजम् आयत-कर्ण-पाशम् ।  
+तन्-मेघ-मेचकम् उदग्र-विशाल-वक्षो  
+लक्ष्मी-धरं किम् अपि वस्तु ममाविरस्तु ॥ ५ ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+May the immeasurable, limitless Vasthu, the Veda prasiddha Supreme Being appear before me always  with His broad and lofty  chest adorned with MahA Lakshmi, with His long and auspicious ears, with His hands reaching all the way down to the knees, with His cool and benevolent eyes that grant whatever one seeks and adorned with the yellow silk garment.  
+
+
+COMMENTS 
+
+KurEsar reminds NirguNa Brahma Vaadhins that the  Supreme Being is a divine Peethambharadharan, auspicious body (Dhivya MangaLa Vigraham), Divine Consort as well as  Jewelery and PeethAmbharam.  
+  
+[[12]]    
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-पीताम्बरं वरदशीतलदृष्टिपातं आजानुलम्बिभुजं आयतकर्णपाशम् ।  
-तन्मेघमेचकं उदग्रविशालवक्षः लक्ष्मीधरं किमपि वस्तु ममाविरस्तु ॥ ५ ॥
+पीताम्बरं वरदशीतलदृष्टिपातं आजानुलम्बिभुजम् आयतकर्णपाशम् ।  
+तन्मेघमेचकम् उदग्रविशालवक्षः लक्ष्मीधरं किमपि वस्तु ममाविरस्तु ॥ ५ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

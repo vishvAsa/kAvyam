@@ -10,49 +10,8 @@ Sri VaikuNTa Sthavam
   
 
 
-SLOKAM 5 
-
-pItaMbr< vrdzIt¦†iòpat< pItaMbr< vrdzIt¦†iòpat< pItaMbr< vrdzIt¦†iòpat< 
- AajanuliMbÉu AajanuliMbÉu AajanuliMbÉuj< Aaytk[Rpazm!, 
-tNme"meck< %d¢ivzalv]> tNme"meck< %d¢ivzalv]> 
- lúmIxr< ikmip vStu mmaivrStu. 5. 
-PeethAmbaram varadaseetaLa-dhrushtipAtham 
-aajAnulambi aajAnulambi-bhujam aayatha-karNapaasam | 
-tanmEghamEchakam udagra-visAla-vaksha: vaksha: 
-sadagopan.org    
-LakshmIdharam kimapi Vasthu mamAvirasthu || 
-
-MEANING: 
-
-May the immeasurable,  
-limitless Vasthu, the Veda 
-prasiddha Supreme Being  
-appear before me always  
-with His broad and lofty  
-chest adorned with MahA  
-Lakshmi, with His long and  
-auspicious ears, with His  
-hands reaching all the way  
-down to the knees, with  
-His cool and benevolent  
-eyes that grant whatever  
-one seeks and adorned  
-with the yellow silk gar 
-ment.  
 
 
-COMMENTS 
-
-
-KurEsar reminds NirguNa  
-Brahma Vaadhins that the  
-Supreme Being has a di 
-Peethambharadharan 
-vine, auspicious body (Dhivya MangaLa Vigraham), Divine Consort as well as  Jewelery and PeethAmbharam.  
-  
-12    
-  
-  
 
 
 SLOKAM 6 
