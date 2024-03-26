@@ -688,7 +688,7 @@ When KurEsar uses the term “nithya:” he has in mind the Sruthi passages: “
 सत्त्वप्रवर्तनकरो जगतोऽस्य मूलं नान्यस्त्वदस्ति धरणीधर! वेदवेद्यः ॥ २१ ॥
 </details>
 
-## पुरुषसूक्तम्
+### पुरुषसूक्तम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यं भूत-भव्य-भवद्-ईशम् अनीशम् आहुर्  
@@ -745,7 +745,7 @@ This slOkam is a joint celebration of the Lord and the Purusha Sooktham eulo giz
 सूक्तं तु पौरुषमशेषजगत्पवित्रं त्वामुत्तमं पुरुषमीशमुदाजहार ॥ २३ ॥
 </details>
 
-## आनन्द-वल्ली
+### आनन्द-वल्ली
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आनन्दम् ऐश्वरम्+++(→ब्राह्मं श्रुत्युक्तं)+++ अ-वाङ्-मनस+++(←अजन्त-निपातनम्)++++अवगाह्यम् **आम्नासिषुः** शत-गुणोत्तरित-क्रमेण +++(१००x आनन्द इति)+++ ।  
@@ -771,11 +771,27 @@ Aanandhavalli passage from Taittireeya Upanishad starts with Maanusha an andham 
 सोऽयं तवैव नृषु हि त्वमिहान्तरात्मा त्वं पुण्डरीकनयनः पुरुषश्च पौष्णः ॥ २४ ॥
 </details>
 
+### महोपनिषदादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन्मूलकारणमबुध्यत सृष्टिवाक्यैः ब्रह्मेति वा सदिति वाऽऽत्मगिराऽथवा तत् ।  
-नारायणस्त्विति महोपनिषद् ब्रवीति सौबालिकीप्रभृतयोऽप्यनुजग्मुरेनाम् ॥ २५ ॥
+यन् मूल-कारणम् **अबुध्यत** सृष्टिवाक्यैः  
+ब्रह्मेति वा सद् इति वा ऽऽत्मगिरा ऽथवा तत् ।  
+नारायणस् त्व् इति महोपनिषद् ब्रवीति  
+सौबालिकी-प्रभृतयो ऽप्य् अनुजग्मुर् एनाम् ॥ २५ ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+MahOpanishad dealing with the creation of the universe states that the an cient kaaraNam (reason) for Srushti is described by the Vedic word, Sath or Brahman or Aathmaa. That aadhi kaaraNam for the creation of this naama roopa prapancham has been identified further as none other than Sriman NaarAyaNan. SubhAlOpanishad and other Upanishads follow the path laid out by MahOpanishad.  
+
+COMMENTS: 
+
+In the previous slOkam, KurEsar stated that the Lord has the guNam of im measurable bliss and He is the One who grants MOkshAnandham to those who perform SaraNAgathy to Him. In this slOkam, KurEsar salutes the Lord as Ja gath KaaraNan. VedAs salute this Jagath-KaaraNa Vasthu as “Brahman, Sath, and AathmA”. That Sriman NaarAyaNan is the Jagath KaaraNan is pointed out by the passages of MahOpanishad ("yEkO havai NaarayaNa aaseeth, na Brah maa nEsAna:”) and SubhAlOpanishad (dhivyO dEva yEkO NaarAyaNa:). Thus all padhams speak about NaarAyaNan (Siva means auspicious) and therefore NaarAyaNan alone is the Jagath KaaraNan.  
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -785,9 +801,28 @@ Aanandhavalli passage from Taittireeya Upanishad starts with Maanusha an andham 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योतिः परं परमतत्त्वम् अथो परात्मा ब्रह्मेति च श्रुतिषु यत् परवस्त्वधीतम् ।  
-नारायणस्तदिति तद् विशिनष्टि काचिद् विष्णोः पदं परमम् इत्यपरा गृणाति ॥ २६ ॥
+ज्योतिः परं परम-तत्त्वम् अथो परात्मा  
+ब्रह्मेति च श्रुतिषु यत् पर-वस्त्व् **अधीतम्** +++(नारायणानुवाके)+++ ।  
+नारायणस् तद् इति तद् **विशिनष्टि** काचिद्  
+विष्णोः पदं परमम् इत्य् अपरा +++(=कठ-वल्ली)+++ **गृणाति** ॥ २६ ॥
 </details>
+
+<details><summary>English</summary>
+
+
+MEANING: 
+
+One Sruthi (NaarAayaNa anuvAkam) salutes Sriman NaarAyaNan, the object of our meditation as the Supreme Being in the form of Supreme JyOthi, Supreme Tatthvam (doctrine) and as Supreme Soul and Brahman. The other Sruthi (Kata valli) identifies that vasthu as the Supreme abode of all pervasive VishNu.  
+
+COMMENTS: 
+
+Here, KurEsar refers to two Upanishads (NaarAyaNa anuvAkam and Kata Valli) that salute VishNu as the Supreme Lord. In the previous slOkam, KurEsar re ferred to two other Upanishads (MahOpanishad and SubhAlOpanishad) in this context.  
+The salutation of NaarAyaNAnuvAkam is: NaarAyaNa Param Brahmma tatthvam NaarAyaNa: para: | NaarAyaNa parO JyOthi: aathmA NaarAyaNa para: || The Kata Valli Passage celebrating the glory of the Lord as ParamAthmA is: Vijn~Ana SaaraTir Vijn~Ana SaaraTir-yasthu mana: pragrahavAn nara: yasthu mana: pragrahavAn nara: sOadhvana: pAramApnOthi tadh VishNO: Paramam padam
+
+42    
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -797,33 +832,78 @@ Aanandhavalli passage from Taittireeya Upanishad starts with Maanusha an andham 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सन्तीदृशः श्रुतिशिरस्सु परस्सहस्राः वाचस्तव प्रथयितुं परमेशितृत्वम् ।  
-किञ्चेह न व्यजगणः क्रिमिधातृभेदं क्रामन् जगन्ति निगिरन् पुनरुद्गिरंश्च ॥ २७ ॥
+**सन्तीदृशः** श्रुति-शिरस्सु परस्+++(=अधिकाः)+++ सहस्राः  
+वाचस् तव **प्रथयितुं** परमेशितृत्वम् ।  
+किञ् चेह **न व्यजगणः** कृमि-धातृ-भेदं  
+**क्रामन्** जगन्ति **निगिरन्** पुनर् **उद्गिरंश्** च ॥ २७ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh Sri VaikuNTha NaaThaa! There are thousands of Upanishadic passages to salute your status as ParamAthmaa. Your KaaruNyam and Sarva Rakshathvam were well demonstrated in your avathArams. For instance, no differences were found between a lowly worm and the grand Brahma Devan at the times when You measured the worlds with three steps as Thrivikraman or when You swallowed the worlds as a small child floating innocently on the bed of a peepal leaf or when You released the world from Your stomach at the time of creation. Such is your greatness in blessing one and all with Your compassion!  
+
+COMMENTS: 
+
+BhagavAn is abhinna nimitthOpAdhana KaaraNan (Moola Vasthu as well as Sa hakAran) for the world. This is His ParamAthma Tatthvam. His greatness and dayA for all the created beings is revealed during ThrivikramAvathAram and Vada Pathra sayanAvathAram. During Thrivikrama avathAram, His sacred feet touched the heads of the mighty Brahma to the lowly worm and consecrated all of them. During His Vada Pathra sayanam, He protected His created beings from insect to mighty BrahmA by holding them in a small portion of His stom ach and then releasing them at the end of the deluge. His sacred feet during ThrivikramAvathAram have been loudly proclaimed by the VedAs like the sound emanating from a gigantic drum (“Thrivikramasya Vijaya DiNDimAy itham vEdhai:”). VishNu Sooktham celebrates them as “SamooDam asya paamsurE” 
+
+43    
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 सन्तीदृशः श्रुतिशिरस्सु परस्सहस्राः वाचस्तव प्रथयितुं परमेशितृत्वम् ।  
-किञ्चेह न व्यजगणः क्रिमिधातृभेदं क्रामन् जगन्ति निगिरन् पुनरुद्गिरंश्च ॥ २७ ॥
+किञ्चेह न व्यजगणः कृमिधातृभेदं क्रामन् जगन्ति निगिरन् पुनरुद्गिरंश्च ॥ २७ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रूप-श्रिया परमया, परमेण धाम्ना,  
+चित्रैश् च कैश्चिद् उचितैर् भवतश् चरित्रैः ।  
+चिह्नैर् अ-निह्नव-परैर् अपरैश् च कैश्चित्,  
+**निश्चिन्वते** त्वयि विपश्चित ईशितृत्वम् ॥ २८ ॥
+</details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Those with discriminating intellect establish Your Supremacy among gods through the supreme luster of your body. References that deal with unique incidents connected to your life has led to yourself being saluted as the One having many abodes: 1. KsheerAbdhi/Milky Ocean, 2. VaikuNTham (tadh VishNO: Param Padham sadhA pasyanthi Sooraya:), 3. the minds of Yogis, 4. Veda Siras/Upanishads and 5. dhivya desams  
+
+COMMENTS: 
+
+Here, KurEsar gives the reasons for the intelligent people to arrive at his con clusion that BhagavAn alone is the Supreme Being. His Soumya/SubhAsraya roopam (Roopa SrI) is unique among gods. The beauty and luster of His body/ dhivya MangaLa vigraham, His weapons, His aabharaNams, His hastha Mudhrais are not matched by any other gods. Other gods have karma samb handham (Karma yOnaya:) and BhagavAn is totally untouched by karmAs. All the others are “midikkilaa devar” (those without any Srimath Gaambheeryam) as described by Thirumazhisai AzhwAr, compared to our Lord. 45  
+
+</details>
+
+<details><summary>मूलम्</summary>
 
 रूपश्रिया परमया परमेण धाम्ना चित्रैश्च कैश्चिदुचितैर्भवतश्चरित्रैः ।  
 चिह्नैरनिह्नवपरैरपरैश्च कैश्चित् निश्चिन्वते त्वयि विपश्चित ईशितृत्वम् ॥ २८ ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-रूपश्रिया परमया परमेण धाम्ना चित्रैश्च कैश्चिदुचितैर्भवतश्चरित्रैः ।  
-चिह्नैरनिह्नवपरैरपरैश्च कैश्चित् निश्चिन्वते त्वयि विपश्चित ईशितृत्वम् ॥ २८ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्याः कटाक्षणमनुक्षणमीश्वराणाम् ऐश्वर्यहेतुरिति सर्वजनीनमेतत् ।  
-तां श्रीरिति त्वदुपसंश्रयणान्निराहुः त्वां हि श्रियः श्रियमुदाहुरुदारवाचः ॥ २९ ॥
+यस्याः कटाक्षणम् अनुक्षणम् ईश्वराणाम् ऐश्वर्य-हेतुर् इति सर्व-जनीनम् एतत् ।  
+तां श्रीर् इति त्वद्-उपसंश्रयणान् **निराहुः**  
+त्वां हि "श्रियः श्रियम्" **उदाहुर्** उदार-वाचः ॥ २९ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+It is well known that the side-glances of Sri Devi are the root (fundamental) cause for the ever-growing wealth of all gods. Because She (SrI Devi) has joined You, She is known as “SrI”. The AchArya PurushAs like Swamy ALavan thAr and Thirumangai AzhwAr describe You therefore as “Thiruvukkum Thiru”, the Lord of the Supremely auspicious SrI Devi.  
+
+COMMENTS: 
+
+The vaibhavam of Sri Devi and the impact of that Vaibhavam on BhagavAn is alluded to in this slOkam. The pramANams about the glories of MahA Lakshmi (Sri Devi) conferring Sriya: pathithvam to Her Lord as His lakshaNam (Chinham) are: “lOkEsa-savibhUtheenAm kAraNam yannirIkshaNam” (the  Iswaryam of dhik PaalakAs arise because of your auspicious glances falling on them). “BrahmAdhyasccha SurA: sarvE munayasccha tapOdhanaa: yEdhanthE tvath-padhascchAyAm aasrithya KamalEswari!” 47  
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
