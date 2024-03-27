@@ -6,24 +6,7 @@ title = "वैकुण्ठ-स्तवः"
 
 
 
-KAraNan----thanks: GlimpseofKrishna.com 58  
-
-
-SLOKAM 38 
-
-ik< saxn> ik< saxn> ? Kv invsn! Kv invsn! ? ikmupaddan> ikmupaddan> ? 
-kSmE )lay s&jtIz #d< smStm! kSmE )lay s&jtIz #d< smStm! ?, #Tya*iniótk…tkRmtkRyNt> #Tya*iniótk…tkRmtkRyNt> 
-Tvd! vEÉv< ïuitivdae ivÊràtKyRm!. 38. kim saadhana: ? kva nivasan? kim upAdadAna: ? kasmai phalAya srujathi Isa idam samastham ? | idhyAdhi anishtitha kutarkamatarkayantha: idhyAdhi anishtitha kutarkamatarkayantha:  tvadh vaibhavam sruthivi tvadh vaibhavam sruthividO vidu: apratarkyam || 
-
-MEANING: 
-
-KurEsar poses a rhetorical question here: Oh SarvEswaraa! What phalans you have in mind when you create all these chEtanams and achEtanams from Moola Prakruthi and what instruments do you use? And where do you stay, while you engage in Jagath Srushti? The answer is of course that you do not anticipate any phalans for your leelai of Srushti and yet people with distorted logic (Kutarkis) venture to attribute all kinds of reasoning for your engagement in the creation of the world. Those who are experts in the VedAs however understand that your glories and rea soning are beyond our ken.  
-
-COMMENTS: 
-
-BhagavAn is known as avAptha Samastha Kaamaan or one who has gained all desires and is not in want of anything. There is nothing He has to do in all the three worlds to gain phalans. Swamy ALavanthAr in Iswara Siddhi therfore asks: AathmakAmasya Kaa Spruhaa? Where is the urge for one who has every thing (Iswaryam) to seek more? He does not need any instruments to create all beings from Moola Prakruthi. He is Sarva Sakthan. He does not stay at one place or seek any aadhAram to stay put to create since He is again all-powerful. If He becomes upAdhAna KaaraNam (Moola prakruthi), then He will have to undergo VikArams (changes) and that is against the Vedic revelations. 59  
-
-The answer to the first question on what are the help/instruments that You use to create is: He creates with the help of His KaaruNya GuNam and Sri Devi. He does not need any limbs (accessories /saadhanams) to create the Universe and its be ings, since Upanishads state that He sees without eyes, He hears without ears and he moves without legs and grabs without hands (pasyath achakshu:, sa sruNOthy akarNa:, apaaNI-PaadhO javanO gruheethaa). This is Brahma Lak shaNam and He is established in His own vaibhavam (svE mahimna: pra thishtitha:) The answer to the next question on where He stays, while He creates is: He is SvAdhaaran or rooted in Himself and therefore, He does not need any aadhAram to stay still to create. He can create without staying put in one par ticular location.  The answer to the third question on what is UpAdhAna vasthu for creation is: He has adhbhutha /Vichithra sakthi and uses His power of volition (nija sankalpam) to create the universe out of Moola Prakruthi. The answer for the fourth question on what Phalan or PrayOjanam that he ex pects in Srushti vyApAram is: He creates the Universe and its beings, gives them senses, indhriyams, Saasthrams to follow and hopes that they (the jeevans) will attain sadhgathi. Brahma Soothram: “LOkavatthu leelA Kaivalyam” also answers this question. Brahman Possesses special inherent power by means of which it can evolve itself into the universe without affecting its svaroopam. Brahman enters into the created objects (anupravEsam) along with the Jeevan to give them names and forms (naama-roopa vyAkaraNa). 60SLOKAM 39: yt! s<v&t< dzgu[aeÄrsÝtÅvE> yt! s<v&t< dzgu[aeÄrsÝtÅvE> 
+60SLOKAM 39: yt! s<v&t< dzgu[aeÄrsÝtÅvE> yt! s<v&t< dzgu[aeÄrsÝtÅvE> 
 A{f< ctudRzjgd! Évxat&xam, A{fain tTsus†zain prZztain 
 ³IfaivxeStv pirCDdtamgCDn!. 39. yath samvrutam dasaguNOtthara sapta-tatthvai: tatthvai: aNDam chathurdasa-jagad bhavadhAthru-dhAma | aNDAni tath susadrusAni parassathAni aNDAni tath susadrusAni parassathAni aNDAni tath susadrusAni parassathAni  kreeDAvidhEs-tava paricchadathAm agacchan || 
 
