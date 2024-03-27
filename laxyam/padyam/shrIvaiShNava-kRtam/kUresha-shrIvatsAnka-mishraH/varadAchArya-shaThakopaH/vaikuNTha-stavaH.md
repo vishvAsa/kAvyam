@@ -6,62 +6,6 @@ title = "वैकुण्ठ-स्तवः"
 
 
 
-
-
-
-
-
-
-
-Lord with limitless aishwaryam---Thirupathi PerumAL 54    
-
-
-SLOKAM 35 
-
-inTye;u vStu;u ÉviÚrpe]mev inTye;u vStu;u ÉviÚrpe]mev 
-tÄTSvêp< #it keicidh æmNt>, @eñyRmÇ tv savix si¼rNte @eñyRmÇ tv savix si¼rNte @eñyRmÇ tv savix si¼rNte 
-äUte ÇyI tu inépaixkmIzn< te. 35. nithyEshu vasthushu BhavannirapEkshamEva tath-tath svaroopam ithi kEchidiha bramantha: | aiswaryamatra tava saavadhi sangirantE  brUtE thrayee thu nirupAdhikam Isanam tE || 
-
-MEANING: 
-
-In our VisishtAdhvaitha darsanam, we accept as eternal, Moola Prakruthi, Jeevans and Nithya Sooris (eternally liberated chEtanams) through Veda Pra mANams. There are others, who out of delusion contend that Your Lordship is limited in scope over these eternal entities (Iswaryams). Vedam on the other hand asserts that your control over them is total, limitless and reaches out everywhere.  
-
-COMMENTS: 
-
-Here, KurEsar criticizes the Yaadhava PrakAsa Matham, Saiva Matham and the Matham that holds that the good and bad happen to one due to the power of their karmAs and Bhagavan has no role in controlling them. KurEsar cites the Veda PramANam of “Pathim ViswasyAthmEswaram” and therefore nothing in His universe happens without His sankalpam and He is the Sattha of all pad hArTams/vasthus and they are all tied to Bhagavath Iccha. 55  
-
-
-SLOKAM 36 
-
-#CDat @v tv ivñpdawRsÄa #CDat @v tv ivñpdawRsÄa #CDat @v tv ivñpdawRsÄa 
-inTy< àyaStv tu kecn te ih inTya>, inTy< TvdekprtNÇinjSvêpa> inTy< TvdekprtNÇinjSvêpa> 
-ÉavTkm¼¦gu[a ih indzRn< n>. 36. icchAtha yEva tava visva padhArTa satthaa nithyam pryAstava thu kEchana thE hi nithyaa: | nithyam tvadEka paratantra nija svaroopaa: nithyam tvadEka paratantra nija svaroopaa:  bhAvatka-mangaLa-guNaa hi nidarsanam na: || 
-
-MEANING: 
-
-Oh Bhagavann! The existence (satthaa) of all vasthus (entities) is realized only through your sankalpam. Among them, you select a few to stay eternal such as ThriguNam, Kaalam, and Suddha Satthvam Nithya VibhUthi, Nithya Sooris and Dhivya MangaLa Vigraham. The Jeevans are eternal (nithyam) in Svaroopam but become non-eternal (changing/anithyam) by SvabhAvam. Even the latter, who are nithyam in Svaroopam but anithyam in SvabhAvam, are “Iswara SankalpAsritham” - take refuge in Iswaran’s sankalpam and gain their Satthaa.  
-
-COMMENTS: 
-
-Here, KurEsar criticizes the VaisEshikAs, who accept Jn~Ana, Balaadhi sakthis but refuse to accept His sankalpa sakthi and points out that all vasthus are under the Lord’s total control through His sankalpam. This way, KurEsar es tablished Nithya VibhUthi for BhagavAn. The key pramANam here is “IcchAtha yEva tava visva-padhArTa satthaa”. 56  
-
-
-SLOKAM 37 
-
-ivñSy ivñivxkar[mCyut ivñSy ivñivxkar[mCyut ! Tv< 
-kay¡ tdetdiol< icdicTSvêpm!, Tv< inivRkar #it Tv< inivRkar #it vedizrSsu "ae;ae vedizrSsu "ae;ae vedizrSsu "ae;ae 
-inSsImmev tv dzRytIizt&Tvm!. 37. visvasya visva-vidha-kaaraNam Achyutha ! tvam kaaryam tadh-yEtadh-akhilam chidhachith-svaroopam | tvam nirvikAra ithi vEda-sirassu ghOshO  nisseemamEva tava darsayathi Isithruthvam || 
-
-MEANING: 
-
-Oh Achyutha (One who does not let down those who sought protection slip away from Him)! You are indeed the various reasons (KaaraNams) for all (tvam visvasya visva-vidha kAraNam) All the sentient and insentient of this universe are under your control. (Chidhachith svaroopam tadh yEthath akhilam tava Kaaryam) You do not undergo any changes (tvam nirvikAra:). This nirvikAra svaroopam and celebration of it in loud voice by the Upanishads is a demonstration of Your Supreme Lordship over every thing in this universe (tvam nirvikAra ithi vEda-sirassu ghOsha: tava yEva nissemam darsayathi).  
-
-COMMENTS: 
-
-This slOkam was constructed to refute the views of strict logicians, Paasu patha Matha anusAris and the followers of Bhaaskara Matham. They hold the view that the Supreme Being undergoes VikArams (changes/Brahma svaroopa pariNAmams). Vedam and their siras bhAgam, the Upanishads instruct us that BhagavAn, the Sarva charAcharAthma is nirvikAran (changeless): “Nishkalam nishkriyam Saantham niravadhyam niranjanam” The Upanishads state that for the indwelling ParamAthmA, there are no changes. When a child becomes adult, the changes (Kaaryathvam) are in the body and not in the Aathmaa. NimithOpAdhana kaaraNams are distinct from each other. When a pot is cre ated by a potter, the clay, the stick to shape it and the wheel to rotate the pot in formation are needed to complete the construction of the pot. These are the three kinds of kaaraNams: 57  
-
-1. The clay is known as the UpAdhAna KaaraNam. 2. The stick and the wheeel (DhaNda-chakram) are known as the Sa hakAri KaaraNam. 3. The man who makes the pot (the Potter/ Kuyavan) is recognized as Nimittha KaaraNam. Moola Prakruthi out of which the world is made, the ChEthanAchEthanams and the Lord who creates the world are different from one another. It is impossi ble therefore for the Lord (Nimitthan) to transform into UpAdhAnam and un dergo the vikArams such as pot as per this view. Therefore, we conclude that NimitthOpadhAna KaaraNams are quite different from each other is the cor rect view as advocated by VisishtAdhvaitham.  
-
 KAraNan----thanks: GlimpseofKrishna.com 58  
 
 

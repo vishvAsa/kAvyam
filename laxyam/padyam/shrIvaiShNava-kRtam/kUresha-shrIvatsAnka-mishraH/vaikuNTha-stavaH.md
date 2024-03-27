@@ -9,7 +9,7 @@ Source: [te - 2](https://archive.org/details/SriSriVatsankamishraVirachitaPancha
 
 
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 This magnificent sthavam of Sri KurEsar has 100 slOkams and has the saarAr thams (essential meanings of SrI BhAshyam passage) and therefore it has been recommended as a must to study by us.  
 The structure of Sri VaikuNTha Sthavam  
@@ -72,7 +72,7 @@ The structure of Sri VaikuNTha Sthavam
 तत् **संश्रयेम** +++(विष्णु-पादोद्भव-जातीय-)+++वकुलाभरणाङ्घ्रि-युग्मम् ॥ २ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 May we, who have no other refuge, be blessed to attain the impeccably pure (sacred) feet of Swamy NammAzhwAr adorning the garland of VakuLa push pams! His sacred pair of feet is the lasting crown for the heads of poorvA chAryAs (AlavanthAr, RaamAnujA and NaaTa Muni); those pair of feet of Swamy NammAzhwAr is the wealth for those, who are the abodes for Satthva guNam.  
@@ -96,7 +96,7 @@ SrivathsAnkAcchAr Swamy points out that one can hear the echoes of the passages 
 **जीयात्** पराङ्कुश-पयो-धिर् अ-सीम-भूमा ॥ ३ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 Swamy NammAzhwAr (ParAnkusar) of limitless glories is compared here to the auspicious Milky Ocean and is hailed for eternal remembrance by all of us (aseema bhUmaa ParAnkusa PayOdhi: jeeyAth). PallANDU is sung for the milky ocean of Swamy NammAzhwAr, who is the abode of lustrous gems rep resenting the essence of VedAs (VedArTa rathna nidhi:). He is recognized as the living place for BhagavAn (achyutha divya dhAma) and as one, who is full of divine love for the Lord, which found its outlet as Paasurams renowned for their Para Bhakthi, Para Jn~Anam and Parama Bhakthi.  
 
@@ -117,7 +117,7 @@ The trinity of the waters from the river springs and rain join together to make 
 **वन्दामहे** सरसि-जेक्षणम् अ-द्वितीयं वेदान्त-वेद्यम् अन्-इदम्-प्रथमं महस् तत् ॥ ४ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -167,7 +167,7 @@ When one unites the three words used by KurEsar, “Mahas-thath SarasijEk shaNam
 लक्ष्मी-धरं किम् अपि वस्तु **ममाविरस्तु** ॥ ५ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -197,7 +197,7 @@ KurEsar reminds NirguNa Brahma Vaadhins that the Supreme Being is a divine Peeth
 तद् वैष्णवं पदम् उदारम् **उदाहरामः** ॥ ६ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 The previous slOkam focused on the Dhivya MangaLa Vigraham of the Lord. This one focuses on the DhivyAthma Svaroopam based on the many Pra mANams from Sruthis.  
 
@@ -238,7 +238,7 @@ More PramAnams from sruthi passages:
 **मन्ये** तदीयम् इदम् आश्रित-वत्सलत्वम् ॥ ७ ॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 [[14]]  
 
@@ -272,7 +272,7 @@ The pramANams for words and word groups used in this slOkam come from Swamy Alav
 **नोदन्यता**+++(=उदक-कामेन)+++ ऽपि च शुना किल **लज्जितव्यम्** ॥ ८ ॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -299,7 +299,7 @@ KurEsar (AzhwAn) has lowered himself before the Lord out of his enormous Bhakthi
 कीटस्य **तृष्यत** उदन्वति विप्रुषाऽलम् ॥ ९ ॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 EANING: 
 
@@ -326,7 +326,7 @@ When describing one of the guNams of BhagavAn, the Upanishad declares: “yathO 
 वाचो विडम्बितम् इदं मम नीच-वाचः **क्षान्तिस्** तु ते स-विषया मम दुर्-वचोभिः ॥ १० ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -353,7 +353,7 @@ Through their overflowing love for the Lord, ancient great ones such as BhIshma,
 एषा तु दोष-रहिता महिता पुराणी ॥ ११ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -383,7 +383,7 @@ This slOkam was created by KurEsar to remind every one that the VedAs head all P
 बाह्येषु बाह्य-चरितैर् इतरैर् **निपेते** ॥ १२ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -414,7 +414,7 @@ There are those who suffer in poverty, while having untold wealth of the Lord in
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -444,7 +444,7 @@ They are Vedic Scholars all right and yet they develop viparItha Jn~Anam and Kud
 कासार-सत्त्व+++(→नक्र)+++-निहतस्य च को विशेषः? ॥ १४ ॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -469,7 +469,7 @@ There are two kinds of people: One does not accept Vedam as PramANam (valid know
 त्वद्-भक्ति-भावित-विकल्मष-शेमुषीकाः+++(=बुद्धिकाः)+++ ॥ १५ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -500,7 +500,7 @@ Swamy KurEsar says here: “With minds filled with profound Bhakthi for You, the
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -530,7 +530,7 @@ Swamy Desikan has referred to this analogy in SubhAshitha Neevi: “PitthEna Paa
 द्रष्टुं **प्रवेष्टुम्** अपि भक्तित एव **शक्यः** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -556,7 +556,7 @@ Oh Lord meditated upon by the residents of the three worlds! Only Bhakthi for Yo
 दैव-ज्ञ-धीभिर् अपि **निश्चिनुमः** परेशम् ॥ १७ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -583,7 +583,7 @@ Oh Lord! Through the hundreds of Veda Manthrams broadcasting Your Para Tatthvam 
 +++("पतिं विश्वस्य तमीश्वरं शाश्वतम् अच्युतम्" इति )+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -606,7 +606,7 @@ Oh Achyutha! Some (SaivAs) state that Sivan is the Supreme God because some purA
 वेदात्मक-प्रणव--कारण-वर्ण+++(=अ)+++-वाच्यं तं त्वां वयं तु परमेश्वरम् **आमनामः** ॥ १९ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 [[31]]
 
@@ -638,7 +638,7 @@ Taittiriya Upanishad in the NaarAyaNAnuvAkam section described the Sva roopa-Roo
 ब्रह्मादयोऽपि भवद्-ईक्षण-लब्ध-सत्ताः ॥ २० ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -667,7 +667,7 @@ KurEsar uses the following Sruthi PramANams for the thoughts behind this slOkam:
 नान्यस् त्वद् अस्ति धरणी-धर! वेद-वेद्यः ॥ २१ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -697,7 +697,7 @@ When KurEsar uses the term “nithya:” he has in mind the Sruthi passages: “
 साक्षात् स एव पुरुषोऽसि सहस्र-मूर्धा ॥ २२ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -726,7 +726,7 @@ Jananee”. The pramANam here is from VishNu PurANam: “SnapayAm chakrirE Devee
 त्वाम् उत्तमं पुरुषम् ईशम् **उदाजहार** ॥ २३ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -753,7 +753,7 @@ This slOkam is a joint celebration of the Lord and the Purusha Sooktham eulo giz
 त्वं पुण्डरीक-नयनः पुरुषश् च पौष्णः+++(=सौरः)+++ ॥ २४ ॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -780,7 +780,7 @@ Aanandhavalli passage from Taittireeya Upanishad starts with Maanusha an andham 
 सौबालिकी-प्रभृतयो ऽप्य् अनुजग्मुर् एनाम् ॥ २५ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -807,7 +807,7 @@ In the previous slOkam, KurEsar stated that the Lord has the guNam of im measura
 विष्णोः पदं परमम् इत्य् अपरा +++(=कठ-वल्ली)+++ **गृणाति** ॥ २६ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 
 MEANING: 
@@ -838,7 +838,7 @@ The salutation of NaarAyaNAnuvAkam is: NaarAyaNa Param Brahmma tatthvam NaarAyaN
 **क्रामन्** जगन्ति **निगिरन्** पुनर् **उद्गिरंश्** च ॥ २७ ॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -867,7 +867,7 @@ BhagavAn is abhinna nimitthOpAdhana KaaraNan (Moola Vasthu as well as Sa hakAran
 **निश्चिन्वते** त्वयि विपश्चित ईशितृत्वम् ॥ २८ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -894,7 +894,7 @@ Here, KurEsar gives the reasons for the intelligent people to arrive at his con 
 त्वां हि "श्रियः श्रियम्" **उदाहुर्** उदार-वाचः ॥ २९ ॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -921,7 +921,7 @@ The vaibhavam of Sri Devi and the impact of that Vaibhavam on BhagavAn is allude
 सत्यां+++(→)+++ श्रुतौ च **बधिरास्** त्वयि तन्-महिम्ना ॥ ३० ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -948,7 +948,7 @@ Those who do not accept VedAs and ask distorted questions out of their ignorance
 कल्याण--सद्-गुण-निधे! स +++(कर्म-ग्रस्त)+++ **इतीरितस्** तैः ॥ ३१ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -977,7 +977,7 @@ VedAs salute BhagavAn as “ajAyamAnO BahudhA vijAyathE”. His birth is not lik
 तेन श्रुतौ **जगदिषे**+++(←गद्)+++ हि जगत् त्वम् एव ॥ ३२ ॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -1001,13 +1001,14 @@ Vedam says that the acts of creation, protection and dissolution are the acts of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं भगो!+++(=??)+++ इह भवत्-परतन्त्र एव  
+एवं भगो!+++(←भगोस्, पा.८.३.१९)+++ इह भवत्-परतन्त्र एव  
 +++(नाम→)+++शब्दोऽपि रूपवद् अमुष्य चराचरस्य ।  
 ऐश्वर्यम् ईदृशम् इदं +++(नाम-रूप-व्याकरण-)+++ श्रुतिषूदितं ते  
++++("नामरूपभाग् जगद् असत्", "ब्रह्म नोपादानकारणम्" इति वदतम्)+++  
 पापीयसाम् अयम् अहो! त्वयि मोह-हेतुः +++(→ईश्वरवचनम्)+++ ॥ ३३ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -1037,7 +1038,7 @@ There are many pramANams quoted by SrivathsAnkAcchAr Swamy about the Lord creati
 तेषाम् अपि श्रुतिषु तन्-महिम-प्रसङ्गात् ॥ ३४ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>वरदाचार्य-शठकोपः</summary>
 
 MEANING: 
 
@@ -1060,9 +1061,26 @@ Oh BhagavAnn! You alone have limitless aiswaryam. When your glances fall on one 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नित्येषु वस्तुषु भवन्-निरपेक्षम् एव तत्-तत्-स्वरूपम् इति केचिद् इह **भ्रमन्तः** ।  
-ऐश्वर्यम् अत्र तव सावधि **सङ्गिरन्ते** **ब्रूते** त्रयी तु निरुपाधिकम् ईशनं ते ॥ ३५ ॥
+नित्येषु वस्तुषु भवन्-निरपेक्षम् एव  
+तत्-तत्--स्व-रूपम् इति केचिद् इह **भ्रमन्तः** ।  
+ऐश्वर्यम् अत्र तव सावधि **सङ्गिरन्ते**,  
+**ब्रूते** त्रयी तु निरुपाधिकम् ईशनं ते ॥ ३५ ॥
 </details>
+
+<details><summary>वरदाचार्य-शठकोपः</summary>
+
+MEANING: 
+
+In our VisishtAdhvaitha darsanam, we accept as eternal, Moola Prakruthi, Jeevans and Nithya Sooris (eternally liberated chEtanams) through Veda Pra mANams. There are others, who out of delusion contend that Your Lordship is limited in scope over these eternal entities (Iswaryams). Vedam on the other hand asserts that your control over them is total, limitless and reaches out everywhere.  
+
+COMMENTS: 
+
+Here, KurEsar criticizes the Yaadhava PrakAsa Matham, Saiva Matham and the Matham that holds that the good and bad happen to one due to the power of their karmAs and Bhagavan has no role in controlling them. KurEsar cites the Veda PramANam of “Pathim ViswasyAthmEswaram” and therefore nothing in His universe happens without His sankalpam and He is the Sattha of all pad hArTams/vasthus and they are all tied to Bhagavath Iccha. 55  
+
+
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -1072,9 +1090,24 @@ Oh BhagavAnn! You alone have limitless aiswaryam. When your glances fall on one 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इच्छात एव तव विश्वपदार्थसत्ता नित्यं प्रियास्तव तु केचन ते हि नित्याः ।  
-नित्यं त्वदेकपरतन्त्रनिजस्वरूपाः भावत्कमङ्गलगुणा हि निदर्शनं नः ॥ ३६ ॥
+इच्छात एव तव विश्व-पदार्थ-सत्ता  
+नित्यं प्रियास् तव तु केचन ते हि नित्याः ।  
+नित्यं त्वद्-एक-परतन्त्र--निज-स्वरूपाः +++(न कर्मवशाः)+++  
+भावत्क-मङ्गल-गुणा हि निदर्शनं नः ॥ ३६ ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh Bhagavann! The existence (satthaa) of all vasthus (entities) is realized only through your sankalpam. Among them, you select a few to stay eternal such as ThriguNam, Kaalam, and Suddha Satthvam Nithya VibhUthi, Nithya Sooris and Dhivya MangaLa Vigraham. The Jeevans are eternal (nithyam) in Svaroopam but become non-eternal (changing/anithyam) by SvabhAvam. Even the latter, who are nithyam in Svaroopam but anithyam in SvabhAvam, are “Iswara SankalpAsritham” - take refuge in Iswaran’s sankalpam and gain their Satthaa.  
+
+COMMENTS: 
+
+Here, KurEsar criticizes the VaisEshikAs, who accept Jn~Ana, Balaadhi sakthis but refuse to accept His sankalpa sakthi and points out that all vasthus are under the Lord’s total control through His sankalpam. This way, KurEsar es tablished Nithya VibhUthi for BhagavAn. The key pramANam here is “IcchAtha yEva tava visva-padhArTa satthaa”. 56  
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1084,9 +1117,26 @@ Oh BhagavAnn! You alone have limitless aiswaryam. When your glances fall on one 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वस्य विश्वविधकारणमच्युत! त्वं कार्यं तदेतदखिलं चिदचित्स्वरूपम् ।  
-त्वं निर्विकार इति वेदशिरस्सु घोषो निस्सीममेव तव दर्शयतीशितृत्वम् ॥ ३७ ॥
+विश्वस्य विश्व-विध-कारणम् अच्युत! त्वं  
+कार्यं तद् एतद् अखिलं चिद्--अ-चित्--स्व-रूपम् ।  
+त्वं निर्विकार इति वेद-शिरस्सु घोषो  
+निस्सीमम् एव तव **दर्शयतीशितृत्वम्** ॥ ३७ ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh Achyutha (One who does not let down those who sought protection slip away from Him)! You are indeed the various reasons (KaaraNams) for all (tvam visvasya visva-vidha kAraNam) All the sentient and insentient of this universe are under your control. (Chidhachith svaroopam tadh yEthath akhilam tava Kaaryam) You do not undergo any changes (tvam nirvikAra:). This nirvikAra svaroopam and celebration of it in loud voice by the Upanishads is a demonstration of Your Supreme Lordship over every thing in this universe (tvam nirvikAra ithi vEda-sirassu ghOsha: tava yEva nissemam darsayathi).  
+
+COMMENTS: 
+
+This slOkam was constructed to refute the views of strict logicians, Paasu patha Matha anusAris and the followers of Bhaaskara Matham. They hold the view that the Supreme Being undergoes VikArams (changes/Brahma svaroopa pariNAmams). Vedam and their siras bhAgam, the Upanishads instruct us that BhagavAn, the Sarva charAcharAthma is nirvikAran (changeless): “Nishkalam nishkriyam Saantham niravadhyam niranjanam” The Upanishads state that for the indwelling ParamAthmA, there are no changes. When a child becomes adult, the changes (Kaaryathvam) are in the body and not in the Aathmaa. NimithOpAdhana kaaraNams are distinct from each other. When a pot is cre ated by a potter, the clay, the stick to shape it and the wheel to rotate the pot in formation are needed to complete the construction of the pot. These are the three kinds of kaaraNams: 57  
+
+1. The clay is known as the UpAdhAna KaaraNam. 2. The stick and the wheeel (DhaNda-chakram) are known as the Sa hakAri KaaraNam. 3. The man who makes the pot (the Potter/ Kuyavan) is recognized as Nimittha KaaraNam. Moola Prakruthi out of which the world is made, the ChEthanAchEthanams and the Lord who creates the world are different from one another. It is impossi ble therefore for the Lord (Nimitthan) to transform into UpAdhAnam and un dergo the vikArams such as pot as per this view. Therefore, we conclude that NimitthOpadhAna KaaraNams are quite different from each other is the cor rect view as advocated by VisishtAdhvaitham.  
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
