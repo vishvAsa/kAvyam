@@ -885,6 +885,8 @@ Here, KurEsar gives the reasons for the intelligent people to arrive at his con 
 चिह्नैरनिह्नवपरैरपरैश्च कैश्चित् निश्चिन्वते त्वयि विपश्चित ईशितृत्वम् ॥ २८ ॥
 </details>
 
+
+## लक्ष्मी, माया …
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्याः कटाक्षणम् अनुक्षणम् ईश्वराणाम् ऐश्वर्य-हेतुर् इति सर्व-जनीनम् एतत् ।  
@@ -913,9 +915,24 @@ The vaibhavam of Sri Devi and the impact of that Vaibhavam on BhagavAn is allude
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-माया त्वया गुणमयी किल या निसृष्टा सा ते विभो! किमिव नर्म न निर्मिमीते? ।  
-कौतस्कुताः स्थिरकुतर्कवशेन केचित् सत्यां श्रुतौ च बधिरास्त्वयि तन्महिम्ना ॥ ३० ॥
+माया त्वया गुणमयी किल या **निसृष्टा**  
+सा ते विभो! किम् इव नर्म न **निर्मिमीते**? ।  
+कौतस्-कुताः स्थिर-कुतर्क-वशेन केचित्  
+सत्यां+++(→)+++ श्रुतौ च **बधिरास्** त्वयि तन्-महिम्ना ॥ ३० ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh ParamAthmA! That Moola Prakruthi created by you is made up of the three guNams. It is banished only when the chEtanam practices SaraNAgathy at Your sacred feet. Great indeed is the power of this Moola Prakruthi (Maayaa), which needs to be chased away with your grace. You gain a great joy, when that happens through the rite of SaraNAgathy. 
+
+Those who do not accept VedAs and ask distorted questions out of their ignorance come under the influence of Your Moola Prakruthi and attain a state of deafness and acquire aasuri-bhAvam (demonic traits) and get immersed deeply in the swirling ocean of SamsAram (VishNu Maayaa mahAvartha mOhAndha tamasaa vruthA: according to Sage ParAsara).
+
+[[48]]  
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -925,56 +942,126 @@ The vaibhavam of Sri Devi and the impact of that Vaibhavam on BhagavAn is allude
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यः स्थावरक्रिमिपतङ्गमतङ्गजादिषु अन्येषु जन्तुषु सदैव विजायमानः ।  
-त्वं नित्यनिर्मल निरञ्जन निर्विकारकल्याणसद्गुणनिधे! स इतीरितस्तैः ॥ ३१ ॥
+यः +++(कर्म-ग्रस्तः)+++ स्थावर-कृमि-पतङ्ग-मतङ्गजादिषु  
+अन्येषु जन्तुषु सदैव **विजायमानः** ।  
+त्वं नित्य-निर्मल-निरञ्जन-निर्विकार-  
+कल्याण--सद्-गुण-निधे! स +++(कर्म-ग्रस्त)+++ **इतीरितस्** तैः ॥ ३१ ॥
 </details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh Lord, who is blemishless, firmly established, untouched by the dhOshams arising from Karmaas, auspicious, unchanging unlike JaDa vasthus and stay ing as the undepletable mine of auspicious attributes! There are those with distorted views declaring that you are the Jeevan that is born again and again due to its Karmaas as tree, plant, creeper, worm, insect, birds, animals and other janthus. Your avathArams are out of your own sankalpam (volition) and are without any blemish and beyond the influence of any karmaas. Those deaf kudhrushtis do not understand your true nature and state that You are indeed the same as the Jeevan, which is distinctly karma vasyan. You are untouched by Karmaas and their influence.  
+
+COMMENTS: 
+
+VedAs salute BhagavAn as “ajAyamAnO BahudhA vijAyathE”. His birth is not like ours, which is controlled by our Karmaas. BhagavAn enters into all cre ated vasthus and makes them function. He does not undergo changes (vikAram) in Svaroopam like achEtanams or changes in SvabhAvam like Jeevan or influenced by the Karmaas (na Maam karmaNi limpanthi). There is none, who is equal or Superior to Him. BhagavAn is nithyan, nirmalan, Niran janan and nirvikAran (eternal, blemishless and changeless). He is defined by the Ubhaya Lingams (Blemishless and KalyANa guNa PoorNan). This slOkam is to answer the claims of Adhvaithis that the Supreme Being (Brahman) is Nir guNa Brahman without any attributes. BhagavAn’s incarnations are SuddhA-
+49 vathArams (free from thriguNams) and SvEcchAvatharams (happening out of His own Sankalpam).  
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-यः स्थावरक्रिमिपतङ्गमतङ्गजादिषु अन्येषु जन्तुषु सदैव विजायमानः ।  
+यः स्थावरकृमिपतङ्गमतङ्गजादिषु अन्येषु जन्तुषु सदैव विजायमानः ।  
 त्वं नित्यनिर्मल निरञ्जन निर्विकारकल्याणसद्गुणनिधे! स इतीरितस्तैः ॥ ३१ ॥
 </details>
 
+## जगद्-धारकत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्वद्-दृष्टि-जुष्टम् इदम् **आविर् अभूद्** अशेषं,  
+नो चेत् कटाक्षयसि नैव भवेत् प्रवृत्तिः ।  
++++(किं बहुना!)+++ स्थातुं+++(→सत्तायै)+++ च **वाञ्छति** जगत् तव दृष्टिपातं  
+तेन श्रुतौ **जगदिषे**+++(←गद्)+++ हि जगत् त्वम् एव ॥ ३२ ॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+MEANING: 
+
+All the chEtana - achEtana vasthus of the world await the glances from your auspicious eyes to fall on them. If your glances do not fall on them, they can not even make a movement. For staying in existence, the objects of the world depend on your rejuvenating glances. Therefore the VedAs declare you as the World itself (sruthou tvam yEva Jagath jagadishE). 
+
+COMMENTS: 
+
+Vedam says that the acts of creation, protection and dissolution are the acts of the Supreme Being: “Tadhikshitha bahu syAm prajAyEyRthi”. From this pramAnam, it becomes clear that the Lord’s KatAksham is the root cause for the creation of the world and its beings. Swamy ALavanthAr elabo rated this Veda PramANam this way: “nAvEkshasE yadhi, tathO bhuvanAnya mUni nAlam PrabhO! bhavithumEva kutha: pravrutthi:” Oh Lord, if your glances had not fallen on the world, how could they have originated and stayed into existence?  
+
+
+51    
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 त्वद्दृष्टिजुष्टमिदमाविरभूदशेषं नो चेत् कटाक्षयसि नैव भवेत् प्रवृत्तिः ।  
 स्थातुं च वाञ्छति जगत् तव दृष्टिपातं तेन श्रुतौ जगदिषे हि जगत् त्वमेव ॥ ३२ ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वद्दृष्टिजुष्टमिदमाविरभूदशेषं नो चेत् कटाक्षयसि नैव भवेत् प्रवृत्तिः ।  
-स्थातुं च वाञ्छति जगत् तव दृष्टिपातं तेन श्रुतौ जगदिषे हि जगत् त्वमेव ॥ ३२ ॥
+एवं भगो!+++(=??)+++ इह भवत्-परतन्त्र एव  
++++(नाम→)+++शब्दोऽपि रूपवद् अमुष्य चराचरस्य ।  
+ऐश्वर्यम् ईदृशम् इदं +++(नाम-रूप-व्याकरण-)+++ श्रुतिषूदितं ते  
+पापीयसाम् अयम् अहो! त्वयि मोह-हेतुः +++(→ईश्वरवचनम्)+++ ॥ ३३ ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+MEANING: 
+
+Oh Bhagavan with the six attributes of Jn~Anam, Sakthi, Balam, Iswaryam, Veeryam and Tejas! The VedAs point out that all the sentient and insentient ones have been given names and forms by you. You are indeed behind them shining as Naama Roopa Prapancham. They are totally under your control. This unique greatness of your glories makes the great sinners become filled with jealousy and get deluded in the process (anAdhi pApavAsanAmushithaas Esha - sEmusheekANAm according to AchArya RaamAnuja).  
+
+COMMENTS: 
+
+There are many pramANams quoted by SrivathsAnkAcchAr Swamy about the Lord creating the Naama-Roopa Prapancham (naamAni RoopANi vichithya dheera:, nAmaroopE vyAkarOth, nAmaroopE VyAkaravANi). None of the others are responsible for Jagath KaaraNam (na BrahmA nEsAna:). Vedam states: “yEkO ha vai NaarAyaNa aaseeth”  
+
+
+52    
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 एवं भगो! इह भवत्परतन्त्र एव शब्दोऽपि रूपवदमुष्य चराचरस्य ।  
 ऐश्वर्यमीदृशमिदं श्रुतिषूदितं ते पापीयसाम् अयमहो! त्वयि मोहहेतुः ॥ ३३ ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं भगो! इह भवत्परतन्त्र एव शब्दोऽपि रूपवदमुष्य चराचरस्य ।  
-ऐश्वर्यमीदृशमिदं श्रुतिषूदितं ते पापीयसाम् अयमहो! त्वयि मोहहेतुः ॥ ३३ ॥
+ये त्वत्-कटाक्ष-लव-लक्ष्यम् इव क्षणं तैः  
+ऐश्वर्यम् ईदृशम् अलभ्यम् **अलम्भि** पुम्भिः ।  
+यत् केऽपि **सञ्जगरिरे** परमेशितृत्वं  
+तेषाम् अपि श्रुतिषु तन्-महिम-प्रसङ्गात् ॥ ३४ ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+MEANING: 
+
+Those occupying high positions as Brahma and Siva attained their lofty offices only though the small portion of your auspicious glances falling on them for a fraction of a second. They climbed to a state not attained ever by chEtanams. They are called even Iswarans as a result of the BhagavAn’s anupravEsam that makes them an amsam of the Lord and they follow the path laid out by BhagavAn to do their duties as the Creator (Brahma) and destroyer of the Uni verse (MahEswaran).  
+
+COMMENTS: 
+
+Oh BhagavAnn! You alone have limitless aiswaryam. When your glances fall on one due to his Poorva Janma sukrutham, that soul is blessed to attain high status as per Bhagavath GitA: Yadh yadh vibhUthimath satthvam SrimathUrjithamEva vaa tatthadhEvAvagaccha thvam Mama tEjOmsa-sambhavaath sambhavaath (Githai X: 41) About Brahma and Sivan attaining the status as Creator of the Universe and destroyer of the same, BhagavAn Himself says: “MadhAdarsitha PanTAnou srushti-samhAra kaarako”. They follow the path laid out by Him (Bhagavan) and due to His anupravEsam (entry inside them) go about performing the du ties of creation and destruction of the universe.
+
+53    
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 ये त्वत्कटाक्षलवलक्ष्यमिव क्षणं तैः ऐश्वर्यमीदृशम् अलभ्यमलम्भि पुम्भिः ।  
 यत् केऽपि सञ्जगरिरे परमेशितृत्वं तेषामपि श्रुतिषु तन्महिमप्रसङ्गात् ॥ ३४ ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-ये त्वत्कटाक्षलवलक्ष्यमिव क्षणं तैः ऐश्वर्यमीदृशम् अलभ्यमलम्भि पुम्भिः ।  
-यत् केऽपि सञ्जगरिरे परमेशितृत्वं तेषामपि श्रुतिषु तन्महिमप्रसङ्गात् ॥ ३४ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नित्येषु वस्तुषु भवन्निरपेक्षमेव तत्तत्स्वरूपम् इति केचिदिह भ्रमन्तः ।  
-ऐश्वर्यमत्र तव सावधि सङ्गिरन्ते ब्रूते त्रयी तु निरुपाधिकमीशनं ते ॥ ३५ ॥
+नित्येषु वस्तुषु भवन्-निरपेक्षम् एव तत्-तत्-स्वरूपम् इति केचिद् इह **भ्रमन्तः** ।  
+ऐश्वर्यम् अत्र तव सावधि **सङ्गिरन्ते** **ब्रूते** त्रयी तु निरुपाधिकम् ईशनं ते ॥ ३५ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1192,13 +1279,13 @@ The vaibhavam of Sri Devi and the impact of that Vaibhavam on BhagavAn is allude
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संवर्तवर्ति निखिलं निरभिज्ञमज्ञं चित्रे च कर्मणि यथार्हमहो! नियच्छन् ।  
-सद्यः क्रिमिद्रुहिणभेदम् अभेदमेतद् आविश्चकर्थ सकृदीक्षणदीक्षणेन ॥ ५३ ॥
+सद्यः कृमिद्रुहिणभेदम् अभेदमेतद् आविश्चकर्थ सकृदीक्षणदीक्षणेन ॥ ५३ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 संवर्तवर्ति निखिलं निरभिज्ञमज्ञं चित्रे च कर्मणि यथार्हमहो! नियच्छन् ।  
-सद्यः क्रिमिद्रुहिणभेदम् अभेदमेतद् आविश्चकर्थ सकृदीक्षणदीक्षणेन ॥ ५३ ॥
+सद्यः कृमिद्रुहिणभेदम् अभेदमेतद् आविश्चकर्थ सकृदीक्षणदीक्षणेन ॥ ५३ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

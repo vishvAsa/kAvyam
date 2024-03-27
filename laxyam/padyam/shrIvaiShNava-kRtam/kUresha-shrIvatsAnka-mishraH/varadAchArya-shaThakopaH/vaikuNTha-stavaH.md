@@ -8,86 +8,9 @@ title = "वैकुण्ठ-स्तवः"
 
 
 
-SLOKAM 30: 
-
-maya Tvya gu[myI ikl ya ins&òa maya Tvya gu[myI ikl ya ins&òa maya Tvya gu[myI ikl ya ins&òa 
-sa te ivÉae sa te ivÉae ! ikimv nmR n inimRmIte, kaEtSk…ta> iSwrk…tkRvzen keict! kaEtSk…ta> iSwrk…tkRvzen keict! kaEtSk…ta> iSwrk…tkRvzen keict! 
-sTya< ïutaE c bi sTya< ïutaE c bi sTya< ïutaE c bixraSTviy tNmihça. 30. MaayA tvayA guNamayee kila yaa nisrushtA MaayA tvayA guNamayee kila yaa nisrushtA Saa tE VibhO! kimiva narma na nirmimeetE |  kouthaskuthaa : sTirakutharka vasEna kEchith sathyAm sruthou cha badhiraa: tvayi tannmahimnA || 
-
-MEANING: 
-
-Oh ParamAthmA! That Moola Prakruthi created by you is made up of the three guNams. It is banished only when the chEtanam practices SaraNAgathy at Your sacred feet. Great indeed is the power of this Moola Prakruthi (Maayaa), which needs to be chased away with your grace. You gain a great joy, when that happens through the rite of SaraNAgathy. Those who do not accept VedAs and ask distorted questions out of their ignorance come under the influence of Your Moola Prakruthi and attain a state of deafness and acquire aasuri bhA vam (demonic traits) and get immersed deeply in the swirling ocean of Sam sAram (VishNu Maayaa mahAvartha mOhAndha tamasaa vruthA: according to Sage ParAsara).
-48  
-
-
-SLOKAM 31 
-
-y> Swavri³impt¼mt¼jaid;u y> Swavri³impt¼mt¼jaid;u y> Swavri³impt¼mt¼jaid;u 
-ANye;u jNtu;u sdEv ivjayman>, Tv< inTyinmRl inrÃn inivRkar Tv< inTyinmRl inrÃn inivRkar- 
-kLya[sd!gu[inxe kLya[sd!gu[inxe ! s #tIirtStE>. 31. ya: sTAvara krimi ya: sTAvara krimi-pathanga-mathanga jaadishu anyEshu janthushu sadaiva vijAyamAna: | tvam nithya-nirmala niranjana nirvikAra  kalyANa-sadguNanidhE ! sa ithIritasthai: || sadguNanidhE ! sa ithIritasthai: || 
-
-MEANING: 
-
-Oh Lord, who is blemishless, firmly established, untouched by the dhOshams arising from Karmaas, auspicious, unchanging unlike JaDa vasthus and stay ing as the undepletable mine of auspicious attributes! There are those with distorted views declaring that you are the Jeevan that is born again and again due to its Karmaas as tree, plant, creeper, worm, insect, birds, animals and other janthus. Your avathArams are out of your own sankalpam (volition) and are without any blemish and beyond the influence of any karmaas. Those deaf kudhrushtis do not understand your true nature and state that You are indeed the same as the Jeevan, which is distinctly karma vasyan. You are untouched by Karmaas and their influence.  
-
-COMMENTS: 
-
-VedAs salute BhagavAn as “ajAyamAnO BahudhA vijAyathE”. His birth is not like ours, which is controlled by our Karmaas. BhagavAn enters into all cre ated vasthus and makes them function. He does not undergo changes (vikAram) in Svaroopam like achEtanams or changes in SvabhAvam like Jeevan or influenced by the Karmaas (na Maam karmaNi limpanthi). There is none, who is equal or Superior to Him. BhagavAn is nithyan, nirmalan, Niran janan and nirvikAran (eternal, blemishless and changeless). He is defined by the Ubhaya Lingams (Blemishless and KalyANa guNa PoorNan). This slOkam is to answer the claims of Adhvaithis that the Supreme Being (Brahman) is Nir guNa Brahman without any attributes. BhagavAn’s incarnations are SuddhA-
-49 vathArams (free from thriguNams) and SvEcchAvatharams (happening out of His own Sankalpam).  
-
-50SLOKAM 32 Tvd!†iòjuòimdmaivrÉUdze;< Tvd!†iòjuòimdmaivrÉUdze;< Tvd!†iòjuòimdmaivrÉUdze;< 
-nae cet! kqa]yis nEv Évet! àv&iÄ>, Swatu< c vaÁDit jgt! tv †iòpat< Swatu< c vaÁDit jgt! tv †iòpat< Swatu< c vaÁDit jgt! tv †iòpat< 
-ten ïutaE jgid;e ih jgt! Tvmev. 32. tvadh-dhrushti dhrushti-jushtamidam aavirabhUd asEsham jushtamidam aavirabhUd asEsham nO chEth katAkshayasi naiva bhavEth pravrutthi: | sTAthum cha vAnchathi jagath tava drushtipAtham  tEna sruthou jagadishE hi jagath tvamEva || 
-
-MEANING: 
-
-All the chEtana - achEtana vasthus of the world await the glances from your auspicious eyes to fall on them. If your glances do not fall on them, they can not even make a movement. For staying in existence, the objects of the world depend on your rejuvenating glances. Therefore the VedAs declare you as the World itself (sruthou tvam yEva Jagath jagadishE). 
-
-COMMENTS: 
-
-Vedam says that the acts of creation, protection and dissolution are the acts of the Supreme Being: “Tadhikshitha bahu syAm prajAyEyRthi”. From this pramAnam, it becomes clear that the Lord’s KatAksham is the root cause for the creation of the world and its beings. Swamy ALavanthAr elabo rated this Veda PramANam this way: “nAvEkshasE yadhi, tathO bhuvanAnya mUni nAlam PrabhO! bhavithumEva kutha: pravrutthi:” Oh Lord, if your glances had not fallen on the world, how could they have originated and stayed into existence?  
-
-
-51    
 
 
 
-
-SLOKAM 33 
-
-@v< Égae @v< Égae ! #h ÉvTprtNÇ @v #h ÉvTprtNÇ @v 
-zBdae=ip êpvdmu:y cracrSy, @eñyRmI†zimd< ïuit;Uidt< te @eñyRmI†zimd< ïuit;Uidt< te @eñyRmI†zimd< ïuit;Uidt< te 
-papIysa< Aymhae papIysa< Aymhae ! Tviy maehhetu>. 33. yEvam BhagO ! iha bhavath-paratantra yEva sabdOapi roopavath amushya charAcharasya | aiswaryam Idhrusam idham sruthishUditam tE  paapeeyasAm ayam ahO ! tvayee mOhahEthu: || 
-
-MEANING: 
-
-Oh Bhagavan with the six attributes of Jn~Anam, Sakthi, Balam, Iswaryam, Veeryam and Tejas! The VedAs point out that all the sentient and insentient ones have been given names and forms by you. You are indeed behind them shining as Naama Roopa Prapancham. They are totally under your control. This unique greatness of your glories makes the great sinners become filled with jealousy and get deluded in the process (anAdhi pApavAsanAmushithaas Esha - sEmusheekANAm according to AchArya RaamAnuja).  
-
-COMMENTS: 
-
-There are many pramANams quoted by SrivathsAnkAcchAr Swamy about the Lord creating the Naama-Roopa Prapancham (naamAni RoopANi vichithya dheera:, nAmaroopE vyAkarOth, nAmaroopE VyAkaravANi). None of the others are responsible for Jagath KaaraNam (na BrahmA nEsAna:). Vedam states: “yEkO ha vai NaarAyaNa aaseeth”  
-
-
-52    
-
-
-
-
-SLOKAM 34 
-
-ye TvTkqa]lvlúyimv ][< tE> ye TvTkqa]lvlúyimv ][< tE> 
-@eñyRmI†z< Al_ymliMÉ puiMÉ>, yt! ke=ip sÃgirre prmeizt&Tv< yt! ke=ip sÃgirre prmeizt&Tv< yt! ke=ip sÃgirre prmeizt&Tv< 
-te;amip ïuit;u te;amip ïuit;u te;amip ïuit;u tNmihmàs¼at!. 34. yE tvath katAksha lavalakshyam iva kshaNam thai: kshyam iva kshaNam thai: aiswaryam Idhrusam alabhyam alambhi pumbhi: | yath kEapi sanjagarirE paramEsithruthvam  tEshAmapi Sruthishu tan-mahima-prasangAth || 
-
-MEANING: 
-
-Those occupying high positions as Brahma and Siva attained their lofty offices only though the small portion of your auspicious glances falling on them for a fraction of a second. They climbed to a state not attained ever by chEtanams. They are called even Iswarans as a result of the BhagavAn’s anupravEsam that makes them an amsam of the Lord and they follow the path laid out by BhagavAn to do their duties as the Creator (Brahma) and destroyer of the Uni verse (MahEswaran).  
-
-COMMENTS: 
-
-Oh BhagavAnn! You alone have limitless aiswaryam. When your glances fall on one due to his Poorva Janma sukrutham, that soul is blessed to attain high status as per Bhagavath GitA: Yadh yadh vibhUthimath satthvam SrimathUrjithamEva vaa tatthadhEvAvagaccha thvam Mama tEjOmsa-sambhavaath sambhavaath (Githai X: 41) About Brahma and Sivan attaining the status as Creator of the Universe and destroyer of the same, BhagavAn Himself says: “MadhAdarsitha PanTAnou srushti-samhAra kaarako”. They follow the path laid out by Him (Bhagavan) and due to His anupravEsam (entry inside them) go about performing the du ties of creation and destruction of the universe.
-
-53    
 
 
 Lord with limitless aishwaryam---Thirupathi PerumAL 54    
