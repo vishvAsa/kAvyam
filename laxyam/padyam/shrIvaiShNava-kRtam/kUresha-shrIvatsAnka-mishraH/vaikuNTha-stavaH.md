@@ -468,7 +468,8 @@ Through their overflowing love for the Lord, ancient great ones such as BhIshma,
 वाचो विडम्बितमिदं मम नीचवाचः क्षान्तिस्तु ते सविषया मम दुर्वचोभिः ॥ १० ॥
 </details>
 
-## श्रुति-प्रमाणम्
+## ज्ञान-साधनम्
+### श्रुति-प्रमाणम्
 
 <details><summary>श्रीनिवासः - प्रस्तावः</summary>
 
@@ -696,7 +697,7 @@ Swamy KurEsar says here: “With minds filled with profound Bhakthi for You, the
 श्रुत्यर्थमर्थमिव भानुकरैर्विभेजुः त्वद्भक्तिभावितविकल्मषशेमुषीकाः ॥ १५ ॥
 </details>
 
-## भक्तिः
+### भक्तिः
 <details><summary>श्रीनिवासः - प्रस्तावः</summary>
 
 भक्तेः प्रधान-साधनतां व्यतिरेक-मुखेन द्रढयन् सदृष्टान्तमाह 
