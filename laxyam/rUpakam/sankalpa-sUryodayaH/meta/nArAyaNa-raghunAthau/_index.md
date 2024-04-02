@@ -3,6 +3,7 @@ title = "+नारायण-रघुनाथौ"
 
 +++
 Source: [En](https://archive.org/details/in.ernet.dli.2015.92341/page/n53/mode/2up)
+Source: [TW1](https://archive.org/details/gss.srivedantadesika0000knar/page/140/mode/2up)
 
 
 SANKALPA-SURYODAYA  
