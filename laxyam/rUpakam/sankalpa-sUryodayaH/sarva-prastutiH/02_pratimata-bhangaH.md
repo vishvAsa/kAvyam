@@ -5201,7 +5201,7 @@ X२९३
 
 <details><summary>English</summary>
 
-King.--Arya! This disputatious Paudit-churl, the scholastic of 'total illusion' and advocate of negation,' should himself be relegated to negation.  
+King.-Arya! This disputatious Pandit-churl, the scholastic of 'total illusion' and 'advocate of negation,' should himself be relegated to negation. 
 Guru.-Lad! Ponder over this matter deliberately.  
 Pupil.--Why such deep deliberation? He argueth for himself eternal silence, by reckless arguments, akin to those, a son would employ for the barrenness of his mother.  
 
@@ -5214,7 +5214,7 @@ Further:-
 This wrangler (Madhyamika, Who form only a sub-sect of Yogāchāra and who hold : -विज्ञानमेव सत् ।) standeth self-condemned,  
 inasmuchas his Own wit is unwitted by the arrows of his own self-contradicting arguments, opposing each other, and breaking down.  
 There seemeth no occasion therefore to advance any more (on our part), for as much as that would be to club-beat one already beaten.  
-
+[[141]]
 </details>
 
 
@@ -5298,14 +5298,36 @@ X२९५
 प्रतारयन्ति पामरान् ।  
 
 शिथिलोदय-सप्त-भङ्गि-शिक्षा-  
-विषमोपन्यसन-व्यथा विलक्षाः ।  
-मलिनास् त इमे मयूरपिच्छभ्रमणैरेव  
-विलोभयन्ति मन्दान् ॥ ७६ ॥
+विषमोपन्यसन-व्यथा-**विलक्षाः** ।  
+मलिनास् त इमे मयूर-पिच्छ-  
+**भ्रमणैर् एव विलोभयन्ति** मन्दान् ॥ ७६ ॥
 
 [^187]:
      भ्रमणेनैष-----?
 
 </details>
+
+<details><summary>English</summary>
+
+(Behind the curtain), (A cry):- 
+Devils! Devils!! 
+Senapati.-Not so, not so. These are Digambaras (a sect of the Jainas) with the mingled (feelings of) joy and sorrow at the overthrow of the Saugata creed, and vetoers of the evidences of Perception and Inference. So do they dupe others. 
+
+(सता क्षणिकत्वनिरासेन सन्तोषः  
+परमाणु-कारणत्वनिरासेन विषादः)
+
+[[142]] 
+
+2.  Dirt-smearing folk2 these, and pea-cock-feather-flourishers to beguile the unwary. Ashamed are they at their own odd doctrine of Sapta-bhangi', long ago exploded. 
+
+[Dirty because they are afraid of taking a clean bath, lest they may hurt the vermin in the dirt of the body.] 
+
+(१. स्यादस्ति, (२.) स्यान्नास्ति, (३.) स्यादस्ति च नास्ति च, (४.) स्यादवक्तव्यं (५.) स्यादस्ति चावक्तव्यं च (६.) स्यान्नास्ति चावक्तव्यं च, (७.) स्यादस्ति च नास्ति चावक्तव्यं च ॥  
+(१) (a) If so it is. (b) If so it is not. (c) If so it is and it is not. (d) If so it cannot be described. (2) If it is so it cannot be described. (f) If it is not so it cannot be described. (g) If so and if it is not so it cannot be described. 
+)
+
+</details>
+
 
 <details><summary>मूलम् - ७६</summary>
 
@@ -5366,14 +5388,24 @@ X२९६
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७७</summary>
 
-तत्प्रतिक्षेपार्थमयमनुज्ञायतामार्यः । 
+तत्-**प्रतिक्षेपार्थम्** अयम् **अनुज्ञायताम्** आर्यः । 
 
 राजा- 
 
-प्रतिक्षिप्तं विदधतां विहितं प्रतिषेधताम् । 
-
-क इवान्यः प्रतिक्षेपः कार्यः स्ववचनादृते ॥ ७७ ॥
++++(स्याद्-वादेन)+++ प्रतिक्षिप्तं **विदधतां**,  
+विहितं **प्रतिषेधताम्** ।  
+क इवान्यः प्रतिक्षेपः  
+कार्यः स्ववचनादृते ॥ ७७ ॥+++(4)+++
 </details>
+
+<details><summary>English</summary>
+
+Let this Arya be set to controvert these. 
+
+King.-77. Where is controverting needed when by their own admission they affirm negation and negate affirmation? 
+
+</details>
+
 
 <details><summary>मूलम् - ७७</summary>
 
@@ -5400,30 +5432,39 @@ X२९६
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७८</summary>
 
-( गुरुमवलोक्य) भगवन्, अमीषामादित्यस्तम्भनपाषाणस्फोटनप्रतिमाजल्पनादि विप्रलम्भोपायानां[^188] भवत्प्रसाद एव प्रति- 
+( गुरुम् अवलोक्य)  
+भगवन्, अमीषाम् आदित्य-स्तम्भन--पाषाण-स्फोटन--   
+प्रतिमा-जल्पनादि--विप्रलम्भोपायानां
+भवत्-प्रसाद एव प्रति-कर्ता ।  
 
-[^188]:
-     Add नानाविध--क
-
-
-कर्ता । 
 
 X२९७ 
 
-गुरुः --- महाराज, तथाविधकुहकवृत्तीनां राजभिरेव दण्डो 
-
-दातव्यः । 
+गुरुः --- महा-राज, तथा-विध-कुहक-वृत्तीनां राजभिर् एव **दण्डो दातव्यः** । 
 
 शिष्यः - ( सापहासम् ) 
 
-भक्ष्याभक्ष्यस्वपरसमय' स्थापनादूषणादि- 
-
-ष्वैकान्त्यं ये जहति विहतिं क्वापि नैते विदन्ति । 
-
-देवैरेषां निगमपदवीदूषणोदीर्णरोषै- 
-
-र्दत्तो नूनं स्थिरशिरसिजोल्लुञ्छनेनैव दण्डः ॥ ७८ ॥
+भक्ष्याभक्ष्य--स्व-पर-समय--स्थापना-दूषणादिष्व्  
++++(स्याद्-वादेन)+++ ऐकान्त्यं ये **जहति**, विहतिं क्वापि **नैते विदन्ति** ।  
+देवैर् एषां निगम-पदवी-दूषणोदीर्ण-रोषैर्  
+दत्तो नूनं स्थिर-शिरसि-जोल्लुञ्छनेनैव दण्डः ॥ ७८ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+(Turning to the Guru.) Holy sire! These Philosophers who indulge in several tricks such as Sun-stopping, Rock-splitting, Doll-speaking, etc, shall be vanquished through thy grace alone. 
+
+[[143]] 
+
+Guru. -Great king! To such mischief-makers the king alone must assign punishment. 
+
+Pupil.--(Smiling.) 
+1.  Rules of eating proper and improper (food) and canons of logic for defence of own, and accusation of other's, doctrines, they have abjured; and they know not their own defeat. As for punishment, the gods themselves,-angered by their denunciation of the Vedas-have inflicted punishment in the shape of (their resorting to the habit of painfully) pulling the hairs of the head. 
+
+
+(The reference is to the prevalent custom of Jains refraining from shaving lest they should hurt the lice Hence they pluck the hair repeating, Jina, Jina! )
+</details>
+
 
 <details><summary>मूलम् - ७८</summary>
 
@@ -5470,42 +5511,11 @@ X२९७
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७९</summary>
 
-शेषं तु भगवति महाराजे चायतते ।  
-राजा -- सेनापते, आः कष्टममीषामालोकनम् । उत्सार्यन्ता- 
++++(दण्ड-)+++शेषं तु भगवति, महाराजे **चायतते** ।  
 
-मेते दृष्टिगोचरात् । 
+राजा -- सेनापते, आः कष्टम् अमीषाम् **आलोकनम्** । **उत्सार्यन्ताम्** एते दृष्टि-गोचरात् । 
 
-सेनापतिः देव, भवत्प्रतापतपनप्रतिहतदृष्टयो दिवाभीता[^189] इवानार्याधिष्ठितेषु गिरिगह्वरेषु[^190] निभृतं निलीयन्ते । 
-
-[^189]:
-     इवार्यानधिष्ठितेषु----क
-
-
-[^190]:
-     गहनगह्वरेषु----क--ङ
-
-
-[^191] राजा - के पुनरेते क्षपणकादिवदनैगमिकलिङ्गधारिणः किमप्युग्रं व्रतमास्थाय तापसविडम्बिनस्त्रय्यन्तमुपरुन्धते ? 
-
-[^191]:
-     राजा omitted---क
-
-
-गुरुः - प्रमथगणानुकारिणः केचन दुराचाराः । एते च नैगमकर्म कलमोपमर्दिनः कडङ्गरीया इव दूरपरिहरणीयाः[^192] । 
-
-[^192]:
-     दूरीकरणीयाः----क
-
-
-शिष्यः - स्वयमेवैते दूरीभवन्ति । 
-
-यथा- कपिलकणादबुद्धकचलुञ्छनतन्त्रकथा- 
-
-कलकलकोविदेषु कथकेषु गलन्मतिषु । 
-
-मुनिवरसापराधजनमोहन कौतुकिना 
-
-पशुपतिना यदुक्तमपयान्त्यथ तत्प्रवणाः ॥ ७९ ॥
+सेनापतिः - देव, भवत्-प्रताप-तपन-प्रतिहत-दृष्टयो दिवा-भीता[^189] इवानार्याधिष्ठितेषु गिरि-गह्वरेषु[^190] **निभृतं निलीयन्ते** । 
 </details>
 
 <details><summary>मूलम् - ७९</summary>
@@ -5523,7 +5533,49 @@ X२९७
 
 [^190]:
      गहनगह्वरेषु----क--ङ
+</details>
 
+
+<details><summary>प्रभावली - ७९</summary>
+
+X२९८  
+शेषम् ; दण्डनशेषं तु । भगवति ; गुरौ । महाराजे ; त्वयि च । आयतते ; अधीनं भवति । अवशिष्टो दण्डो युष्माभिरेव कर्तव्य इत्यर्थः । कष्टम् ; पापजनकम् । गिरिगह्वरेषु पर्वतप्रान्तदेशेषु । निभृतं निः सम्भ्रमं गूढा वर्तन्ते । 
+
+</details>
+
+
+### पाशुपत-निरासः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[^191] राजा - के पुनरेते क्षपणकादिवद् अ-नैगमिक-**लिङ्ग-धारिणः**  
+किम् अप्य् उग्रं **व्रतम् आस्थाय**  
+तापस-विडम्बिनस् त्रय्य्-अन्तम् **उपरुन्धते** ? 
+
+[^191]:
+     राजा omitted---क
+
+
+गुरुः - प्रमथ-गणानुकारिणः केचन दुराचाराः ।  
+एते च नैगम-कर्म-कलमो+++(=तण्डुलक्षेत्र)++++उपमर्दिनः कडङ्+++(=धान्य-कवचादि)+++-गरीया+++(=गलीयाः → वृषादयः)+++ इव दूर-परिहरणीयाः[^192] । 
+
+[^192]:
+     दूरीकरणीयाः----क
+
+
+शिष्यः - स्वयमेवैते दूरीभवन्ति । 
+
+यथा- कपिलकणादबुद्धकचलुञ्छनतन्त्रकथा- 
+
+कलकलकोविदेषु कथकेषु गलन्मतिषु । 
+
+मुनिवरसापराधजनमोहन कौतुकिना 
+
+पशुपतिना यदुक्तमपयान्त्यथ तत्प्रवणाः ॥ ७९ ॥
+
+</details>
+
+<details><summary>मूलम्</summary>
 
 [^191] राजा - के पुनरेते क्षपणकादिवदनैगमिकलिङ्गधारिणः किमप्युग्रं व्रतमास्थाय तापसविडम्बिनस्त्रय्यन्तमुपरुन्धते ? 
 
@@ -5546,13 +5598,12 @@ X२९७
 मुनिवरसापराधजनमोहन कौतुकिना 
 
 पशुपतिना यदुक्तमपयान्त्यथ तत्प्रवणाः ॥ ७९ ॥
+
 </details>
 
+<details><summary>प्रभावली</summary>
 
-<details><summary>प्रभावली - ७९</summary>
-
-X२९८  
-शेषम् ; दण्डनशेषं तु । भगवति ; गुरौ । महाराजे ; त्वयि च । आयतते ; अधीनं भवति । अवशिष्टो दण्डो युष्माभिरेव कर्तव्य इत्यर्थः । कष्टम् ; पापजनकम् । गिरिगह्वरेषु पर्वतप्रान्तदेशेषु । निभृतं निः सम्भ्रमं गूढा वर्तन्ते । अथ पाशुपतमतनिरासायोपक्रमः के पुनरित्यादि । क्षपणकाः ; 
+अथ पाशुपतमतनिरासायोपक्रमः के पुनरित्यादि । क्षपणकाः ; 
 
   
 
@@ -5564,8 +5615,8 @@ X२९९
 भविष्यथ त्रयीबाह्या मिथ्याज्ञानप्रवर्तकाः ॥” 
 
 इत्यादि । जनानां मोहने कुतूहलिना पशुपतिना यदुक्तं पाशुपतं शास्त्रं, तत्प्रवणाः तच्छास्त्रनिष्ठाः पाशुपताः । अथ ; त्वद्दर्शनानन्तरम् । अपयान्ति; स्वयमेवापसरन्ति ॥ ७९ ॥
-</details>
 
+</details>
 
 <details><summary>प्रभाविलासः - ७९</summary>
 
@@ -5578,6 +5629,7 @@ X२९९
 
 इति । तानधिकृत्य प्रवृत्तं पाशुपतं शास्त्रम् ॥ ७९ ॥
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८०</summary>
 
