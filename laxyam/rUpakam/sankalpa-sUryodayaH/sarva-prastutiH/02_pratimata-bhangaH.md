@@ -5563,17 +5563,60 @@ X२९८
      दूरीकरणीयाः----क
 
 
-शिष्यः - स्वयमेवैते दूरीभवन्ति । 
+शिष्यः - स्वयम् एवैते दूरी-भवन्ति । 
 
-यथा- कपिलकणादबुद्धकचलुञ्छनतन्त्रकथा- 
+यथा- 
 
-कलकलकोविदेषु कथकेषु गलन्मतिषु । 
+कपिल-कणाद-बुद्ध--कच-लुञ्छन--तन्त्र-कथा-  
+कल-कल-कोविदेषु **कथकेषु गलन्-मतिषु** ।  
++++(गौतम-)+++मुनि-वर-सापराध-जन-मोहन-कौतुकिना  
+पशुपतिना यद्-उक्तम्, **अपयान्त्य्** अथ+++(→त्वद्-दर्शनानन्तरम्, गौतम-शापात्)+++ तत्-प्रवणाः ॥ ७९ ॥
+</details>
 
-मुनिवरसापराधजनमोहन कौतुकिना 
+<details><summary>English</summary>
 
-पशुपतिना यदुक्तमपयान्त्यथ तत्प्रवणाः ॥ ७९ ॥
+
+[[144]] 
+
+
+Further punishment dependeth on 
+thy majesty and the Guru. 
+King.-Ah generall To sight them paineth.  
+May they pass beyond my vision!  
+
+Senapati. Lord! Blinded by thy  glory-sum, they, like owls, hide  themselves in hill and sea-side  caverns,  
+the abodes of the aborigines. 
+
+King. Who are these men again,  
+-bearing un-vedic marks (on their persons)  
+resembling the Kshapanakas (=Jains),  
+engaged in severe austerities passing for eremites,  
+and imitating the practices of the Pramatha-hosts (2. Goblins attending on Rudra. )-  
+who oppose the Vedas ? 
+
+Guru.--Like stray-cattle stealing into the ricefields of Vedic-Dharma,  
+these must be driven to a distance. 
+
+Pupil. They, themselves, will stay far off.  
+For:-  
+1.  Now that the turbulent professors of the doctrines of Kapila, Kānāda, Buddha, and the Hair-puller (Jina), have been befooled, these followers of the doctrines of Pasupati 3, designed by him to delude the offenders of Gautama, shall follow suite. 
+
+3\. Rudra. On an occasion of great famine which lasted for 12 years, sage Gautama's hermitage was the only rain-fed area. All other sages 
+found resort here to shelter themselves from famine. For a long time, the refugees enjoyed the hospitality of Gautama and he would not permit them to depart. Thereupon one set of these guests who wanted to return to their own hermitages, contrived a plan to get out of the place by creating a false cow which devastated Gautama's crops. Gautama enraged, burnt the cow by his mere look and the guests left Gautama's hermitage on the pretext that they could not stay with a cowkiller. Gantama came to know the true state of affairs through his ज्ञानचक्षुस् (eye of wisdom) 
+and cursed them to be ज्ञानशून्याः thus: 
+
+त्रिपुण्डधारिणो यूयं  
+भस्मोद्धूलनतत्पराः ।  
+भविष्यथ त्रयीबाह्या  
+मिथ्याज्ञानप्रलापिनः ॥ 
+
+Thas cursed, they invented a new faith called Pasupata-Tanten whose teachings are antagonistic  to the Vedas. 
+
+[[145]] 
 
 </details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -5610,11 +5653,14 @@ X२९८
 X२९९  
 जैनाः । अवैदिकचिह्नधारिणः । उग्रं व्रतं पाशुपतम् । तापसानुकारिणः उपरुन्धते पीडयन्ति । प्रमथगणाः ; तदनुचराः । वैदिकधर्माख्यसस्यस्य भक्षकाः । कर्डकरीयाः ; चौर्यतः सस्यमक्षका गवादय । स्वयमेव दूरभवनं दर्शयति — कपिलेति । कचलुञ्छनाः ; जैनाः । तच्छास्त्रमधिकृत्य वादकोलाहलेषु कोविदाः समर्था ये कथकवादिनः, तेषु गलन्मतिषु भ्रष्टमतिषु पराजितेष्वित्यर्थः । तद् दृष्ट्वा, मुनिवरः ; गौतमः । केनचित्कारणेन तस्मिन् शिष्या अपाराध्यन्निति कथा पुराणेष्वनुसन्धेया- 
 
-“त्रिपुण्ड्रधारिणो यूयं भस्मोद्धूलनतत्पराः । 
+“त्रिपुण्ड्रधारिणो यूयं  भस्मोद्धूलनतत्पराः ।  
+भविष्यथ त्रयीबाह्या  
+मिथ्याज्ञानप्रवर्तकाः ॥” 
 
-भविष्यथ त्रयीबाह्या मिथ्याज्ञानप्रवर्तकाः ॥” 
-
-इत्यादि । जनानां मोहने कुतूहलिना पशुपतिना यदुक्तं पाशुपतं शास्त्रं, तत्प्रवणाः तच्छास्त्रनिष्ठाः पाशुपताः । अथ ; त्वद्दर्शनानन्तरम् । अपयान्ति; स्वयमेवापसरन्ति ॥ ७९ ॥
+इत्यादि । जनानां मोहने  
+कुतूहलिना पशुपतिना यदुक्तं पाशुपतं शास्त्रं,  
+तत्प्रवणाः तच्छास्त्रनिष्ठाः पाशुपताः ।  
+अथ ; त्वद्-दर्शनानन्तरम् । अपयान्ति; स्वयमेवापसरन्ति ॥ ७९ ॥
 
 </details>
 
@@ -5633,43 +5679,49 @@ X२९९
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८०</summary>
 
-सेनापतिः - देव, अमी पुनरार्यवचनमसहमाना दिगम्ब 
+सेनापतिः - देव, अमी पुनर् आर्य-वचनम् **असहमाना**  
+दिगम्बरादिवत् केनापि विप्रलम्भोपायेन  स्व-सिद्धान्त-श्रद्धासंवर्धनाय प्रयतन्ते ।  
+तत्र तावद् इमां प्रत्यायनाम् आरचयन्ति --  
 
-रादिवत् केनापि विप्रलम्भोपायेन[^193] 
+यद् अकाण्ड एव वर्षा-समयम् आदिशन्ति । 
 
-[^193]:
-      आत्ममायावष्टम्भेन-------क
-
-
-स्वसिद्धान्तश्रद्धासंवर्धनाय 
-
-यदकाण्ड एव 
-
-प्रयतन्ते । तत्र तावदिमां प्रत्यायनामारचयन्ति --यदकाण्ड एव
-
-वर्पासमयमादर्शयन्ति[^194] । 
-
-[^194]:
-      आनयन्ति -------क
-
-
-(नेपथ्ये) 
-
+(नेपथ्ये)  
 पलायध्वम् पलायध्वम् ।  
-राजा - किम्, किम् ? 
 
-(इत्यवलोकयति) 
+राजा - किम्, किम् ?  
+(इत्य् अवलोकयति) 
 
-सेनापतिः - नान्यत्किचित् । 
+सेनापतिः - नान्यत् किचित् । 
 
-अक्ष्णोरञ्जनवर्तिका यवनिका विद्युन्नटीनामियं 
-
-स्वर्गङ्गायमुना वियज्जलनिधेर्वेलातमालाटवी । 
-
-वर्षाणां कबरी पुरन्दरदिशालङ्कारकस्तूरिका 
-
-कन्दर्पद्विपदर्पदानलहरी कादम्बिनी जृम्भते ॥ ८० ॥
+अक्ष्णोर् अञ्जन-वर्तिका, यवनिका  
+विद्युन्-नटीनाम् इयं  
+स्वर्-गङ्गा-यमुना,  
+वियज्-जल-निधेर् वेला-तमालाटवी ।  
+वर्षाणां कबरी, पुरन्-दर--दिशालङ्कार-कस्तूरिका,   
+कन्दर्प-द्विप-दर्प-दान-लहरी कादम्बिनी जृम्भते ॥ ८० +++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+Senapati.-Lord! These (Pasupatas) like the Digambaras (Jains) resent our Arya's words, and in order to encourage belief in their creed, resort to such strategems, as the producing of rain out of season (&c) 
+
+
+
+s. s. 10 
+[[146]] 
+
+(Behind the curtain) (A coice):- 
+"Run, run ".  
+King.--Looks round, exclaiming What? what?  
+General. Unnatural this! for, (surely) :-  
+1.  There loom the serried clouds. Can they be the brush for eye-collyriuming? Can they be the (stage-) curtain before the Lightning-actresses? Can they be the Yamuna to the celestial Gangā', or are they the Tamala grove fringing the shore of Ocean-sky, or are they the (dark) tresses of the Rain-damsels, or again may they not be the (dark) muskmark (on the forehead) of the East-maid? Nay, are they not again like the flowing floods proud-bubbling from the ichor of the Cupid-Elephant?? 
+
+2. Ganga is white, and Yamuna is dark. Clouds being dark are said to be like Yamuna.  
+1. Thus did the spectators of the magic clouds invented by the Pasupatas figure to themselves those clouds in various similies. 
+
+</details>
+
+
 
 <details><summary>मूलम् - ८०</summary>
 
@@ -5682,12 +5734,9 @@ X२९९
 
 
 स्वसिद्धान्तश्रद्धासंवर्धनाय 
-
-यदकाण्ड एव 
-
 प्रयतन्ते । तत्र तावदिमां प्रत्यायनामारचयन्ति --यदकाण्ड एव
 
-वर्पासमयमादर्शयन्ति[^194] । 
+वर्षासमयमादिशन्ति[^194] । 
 
 [^194]:
       आनयन्ति -------क
@@ -5752,16 +5801,24 @@ X३०१
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१</summary>
 
-किञ्च
+किञ् च -
 
-प्रत्यग्रप्रतिबुध्यमानकलिकानीरन्ध्रनीपाटवी 
-
-निःसाधारणनिःसरन्मधुसुधासौरभ्यसारस्पृशः । 
-
-क्रोडादम्बुमुचां क्षरन्ति कतिचित्क्रोडीकृता दन्तिभि- 
-
-र्धारासिक्तवसुन्धरासुरभयो झञ्झासमीराङ्कुराः ॥ ८१ ॥
+प्रत्यग्र-प्रतिबुध्यमान-कलिका+++(=कोरक)+++--नीरन्ध्र-नीपाटवी-   
+निःसाधारण-निःसरन्--मधु-सुधा--सौरभ्य-सार-स्पृशः ।  
+क्रोडाद् अम्बु-मुचां **क्षरन्ति** कतिचित्, **क्रोडी-कृता** +++(सानन्दैर्)+++ दन्तिभिर्  
+धारा-सिक्त-वसुन्धरा-सुरभयो झञ्झा-समीराङ्कुराः ॥ ८१ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+[[147]]  
+
+Further:- 
+1.  There issue from the bosom of these clouds zephyrs-the offspring of winds, bearing the aroma of ambrosial honey freely flowing from the wildly-blossoming buds of Nipa-woods (1. Kadamba or a species of Asoka),-zephyrs so much relished by elephant-herds and wafting fragrance, fuming from rain-soaked earth. 
+(All look flurried and wondering.) 
+
+</details>
+
 
 <details><summary>मूलम् - ८१</summary>
 
@@ -5790,32 +5847,49 @@ X३०१
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२</summary>
 
-(सर्वे ससम्भ्रमाद्भुतमवलोकयन्ति) 
+(सर्वे ससम्भ्रमाद्भुतम् अवलोकयन्ति) 
 
-राजा - भगवन्, किमस्त्यमीषां प्रतीकारः ? 
+राजा - भगवन्, किम् अस्त्य् अमीषां प्रतीकारः ? 
 
-गुरुः-- राजन्, किमस्माभिरत्र यतितव्यम् ? 
+गुरुः-- राजन्, किम् अस्माभिर त्र यतितव्यम् ? 
 
-स[^195] कैटभतमोरविर्मधुपरागजञ्झामरु-[^196] 
-
-[^195]:
-     यतः added before------------क
-
-
-[^196]:
-     निलो--क
-
-
-द्धिरण्यगिरिदारणस्त्रुटितकालनेमिद्रुमः ।
-
-किमत्र बहुना भजद्भवपयोधिमुष्टिन्धयः 
-
-कथं[^197] न भवति स्वयं कपटकर्मनिर्मूलनः ॥ ८२ ॥
+स कैटभ-तमो-रविर् मधु-पराग-जञ्झा-मरुद्  
++हिरण्य+++(कशिपु-)+++-गिरि-दारणस् त्रुटित--काल-नेमि--द्रुमः ।  
+किम् अत्र बहुना भजद्-भव--पयो-धि--मुष्टिन्-धयः  
+कथं न **भवति** स्वयं कपट-कर्म-**निर्मूलनः** ॥ ८२ ॥
 
 [^197]:
      प्रभुः प्रतिभटैः कृतां विघटयेत मायामिमाम्---- क
 
 </details>
+
+<details><summary>English</summary>
+
+King. Holy sire! How (then) to counteract 
+this (illusion)? 
+Guru. - No effort on our part is needed! 
+For:- 
+
+[[148]] 
+
+Here is He, the Sun to Kaitabha- 
+darkness,  
+(He) the Gust driving the Madhu-dust,  
+(He) the Cleaver' of the Hiranya-hill,    
+(He) the Feller of the Kalanemi- 
+tree,-in short  
+(He) the Gulper of the Samsara-Sea,  
+How then can feats of illusion not eradicated be? 
+
+(Vishnu is compared to the Sun and his uprooting Kaitabha (the Demon) is compared to the sun's dispelling darkness. 
+1. Vishnu is compared to the gust and his slaying demon Madhu is compared to a gust of wind driving away dust. 
+1. Demon Hiranya is spoken of as a hill and Vishnu's killing him is spoken of as cleaving it. (The incarnation of Nrisimba, Man-lion, is 
+referred to here.) 
+1. Demon Kālanemi is compared to a tree and Vishnu's destroying him is referred to as felling. 
+)
+
+</details>
+
 
 <details><summary>मूलम् - ८२</summary>
 
@@ -5862,34 +5936,12 @@ X३०२
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३</summary>
 
-सर्वे[^198] -----(सहर्षविस्मयम् ) प्रसन्नाः खल्वेता दिशो विदिशश्च
+सर्वे[^198] -----(सहर्ष-विस्मयम् ) 
 
-[^198]:
-     राजा-----(सविस्मयं विलोक्य)
+प्रसन्नाः खल्व् एता दिशो विदिशश्च!
 
-
-गुरुः[^199] -- भक्तजनवत्सले भगवति प्रसेदुषि किं नाम न प्रसीदति ? 
-
-[^199]:
-     शिष्यः------क
-
-
-राजा - भगवन्, अमी पुनः सात्त्वतं शास्त्रमधीयानास्त्रय्यन्तवादिभिरैक्यमिवापन्ना बल्बजप्रायबहुविधविद्याजल्पविमुखीकृतमानसा बहिरन्तश्च शुद्धाः श्वेतद्वीपवासिन इव शुभंयवः पुरुषास्तामिमामौपनिषदीं परिषदमुपजिगमिषन्ति । अपि च, 
-
-परमपुरुषप्रत्यासत्त्या विमुक्तपृथग्जना- 
-
--स्तदभिगमनोपादानाद्यैरवन्ध्यमनोरथाः ।  
-नमति[^200] दिविषद्वर्गे नाथप्रभाव समीक्षया 
-
-[^200]:
-     अत्र " यस्त्वैवं ब्राह्मणो विद्यात् । तस्य देवा असन् वशे " इति श्रुत्यर्थोऽनुसन्धेयः । 
-
-
-[^201] जहति त इमे मानाटोपं परस्परजीविताः ॥ ८३ ॥
-
-[^201]:
-      प्रतिजहदहकारास्तेऽमी परस्पर----- क
-
+गुरुः[^199] -- भक्त-जन-वत्सले भगवति **प्रसेदुषि**  
+किं नाम न **प्रसीदति** ? 
 </details>
 
 <details><summary>मूलम् - ८३</summary>
@@ -5905,6 +5957,59 @@ X३०२
 [^199]:
      शिष्यः------क
 
+</details>
+
+
+<details><summary>English</summary>
+
+(Joying and Wondering). Anon all the quarters and sub-quarters of space clear up! 
+Guru. What all not shall clear up, when the Holy, the Lover of votaries, deigneth? 
+
+</details>
+
+
+<details><summary>प्रभावली - ८३</summary>
+
+X३०३  
+तदानीमेवापगमात् विस्मयः । प्रसेदुषि प्रसन्ने सति । दिशां प्रसदनं नाश्चर्यमिति भावः । अथ पाञ्चरात्रिकाणामवैदिकत्वमाशङ्क्य परिहर्तुमुपक्रमते - अमी पुनरित्यादि । 
+
+</details>
+
+### पाञ्चरात्र-रक्षा
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+राजा - भगवन्, अमी पुनः सात्त्वतं शास्त्रम् **अधीयानास्**  
+त्रय्य्-अन्त-वादिभिर् **ऐक्यम् इवापन्ना**  
+बल्ब-ज+++(=गोमयोत्पन्न-तृण)+++--प्राय--बहु-विध-विद्या-जल्प--**विमुखी-कृत**-मानसा  
+बहिर्-अन्तश् च **शुद्धाः**  
+श्वेत-द्वीप--वासिन इव शुभं-**यवः**  पुरुषास्  
+ताम् इमाम् औपनिषदीं परिषदम् **उपजिगमिषन्ति** । 
+
+अपि च, 
+
+परम-पुरुष-**प्रत्यासत्त्या**+++(=सामीप्यतः)+++ **विमुक्त**-पृथग्-जनास्  
+तद्-अभिगमनोपादानाद्यैर् अ-वन्ध्य-मनो-रथाः ।  
++++(" यस्त्वैवं ब्राह्मणो विद्यात् । तस्य देवा असन् वशे ")+++  
+**नमति** दिवि-षद्-वर्गे नाथ-प्रभाव-**समीक्षया**  
+**जहति** त इमे मानाटोपं परस्-पर-जीविताः ॥  ८३ ॥
+</details>
+
+<details><summary>English</summary>
+
+King.-Venerable sire! These are versed in the Sātvata-sastra (Pancharatra Tantra, containing the direct oracles of God. (Vide Pancharatras by Govindacharya in J. R. A. S. 1911.)) and seem to be at [[149]] one with the followers of Vēdānta-siddhānta;  
+they have turned their minds away from the study of diverse trifling Vidyās and pure both within and without, like Svētadvipa-residents (White Island, chronicled to be in the centre of the Milky Sea. ), are blest, walking the way of the Upanishad-wise. 
+
+Further:-  
+83\.  Deeply devoted to the Lord Supreme, these (versed in the Satvata-Tantra) have severed (their connection) from others,   
+with hearts content with worship of the Lord. (of the description) Abhigamana (Morning worship.), Upādānā (Collection of materials for worship ), etc.  
+Though the Deva-hosts prostrate to them, (1. ef. Taittiriya Upanishad - तस्य देवा असन्वशे, सर्वस्मै देवाबलिमावहन्ति । )  
+they, esteeming each other, owing to their clear perception of the Lord's glory, put down the puff of pride (which may on that account obsess them.) 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 राजा - भगवन्, अमी पुनः सात्त्वतं शास्त्रमधीयानास्त्रय्यन्तवादिभिरैक्यमिवापन्ना बल्बजप्रायबहुविधविद्याजल्पविमुखीकृतमानसा बहिरन्तश्च शुद्धाः श्वेतद्वीपवासिन इव शुभंयवः पुरुषास्तामिमामौपनिषदीं परिषदमुपजिगमिषन्ति । अपि च, 
 
@@ -5922,22 +6027,21 @@ X३०२
 [^201]:
       प्रतिजहदहकारास्तेऽमी परस्पर----- क
 
+
 </details>
 
+<details><summary>प्रभावली</summary>
 
-<details><summary>प्रभावली - ८३</summary>
-
-X३०३  
-तदानीमेवापगमात् विस्मयः । प्रसेदुषि प्रसन्ने सति । दिशां प्रसदनं नाश्चर्यमिति भावः । अथ पाञ्चरात्रिकाणामवैदिकत्वमाशङ्क्य परिहर्तुमुपक्रमते - अमी पुनरित्यादि । सात्त्वतम् ; पाश्चरात्रं शास्त्रम् । वेदान्तिभिरैकराश्यमापन्ना इव स्थिताः । बल्बजा ; गोमयादुत्पन्नास्तृणविशेषाः, तत्सदृश्यः । बाहुल्यात्तुच्छत्वाच्च तत्सादृश्यम् ; बहुविधा विद्यास्त्रैवर्गिक्यः ; तासां पाठे विमुखीकृत- चित्ताः । यद्वा विद्या एव जल्पः । बहिः शरीरतः, अन्तः मानसतश्च परिशुद्धाः । शुभंयवः; शुभान्विताः । औपनिषदीम् ; औपनिषदानां वेदान्तिनां गोष्ठीमुपगन्तुमिच्छन्ति । पुनरपि तान् श्लाघते - अपिचेति । परमपुरुषे भगवति प्रत्यासत्त्या । 
+सात्त्वतम् ; पाश्चरात्रं शास्त्रम् । वेदान्तिभिरैकराश्यमापन्ना इव स्थिताः । बल्बजा ; गोमयादुत्पन्नास्तृणविशेषाः, तत्सदृश्यः । बाहुल्यात्तुच्छत्वाच्च तत्सादृश्यम् ; बहुविधा विद्यास्त्रैवर्गिक्यः ; तासां पाठे विमुखीकृत- चित्ताः । यद्वा विद्या एव जल्पः । बहिः शरीरतः, अन्तः मानसतश्च परिशुद्धाः । शुभंयवः; शुभान्विताः । औपनिषदीम् ; औपनिषदानां वेदान्तिनां गोष्ठीमुपगन्तुमिच्छन्ति । पुनरपि तान् श्लाघते - अपिचेति । परमपुरुषे भगवति प्रत्यासत्त्या । 
 
 X३०४  
 यद्वा परमपुरुषाः भागवताः । पृथग्जनाः; नीचाः । तस्य परमपुरुषस्य यान्य भिगमनीदीनि तैः सफलाभिलाषाः ; अभिगमनादीनां भगवत्कैकर्यरूपत्वादवन्ध्यमनोरथत्वम् ; तेषाम् । नाथस्य भगवतः प्रभावं समीक्ष्य देववर्गे नमस्कुर्वति सति अमी गर्वेण जातं सम्भ्रमं त्यजन्ति । परस्परं जीवितं येषाम् । परस्परं जीवितं जीवनवृत्तिर्येषामिति वा ॥ ८३ ॥
-</details>
 
+</details>
 
 <details><summary>प्रभाविलासः - ८३</summary>
 
-साच्चतं शास्त्रम् ; पाञ्चरात्रम् । बल्बजम् ; तृणविशेषः । शुभं- यवः । शुभान्विताः । परमपुरुषेति । विमुक्तपृथग्जना इति । अनेन 
+सात्वतं शास्त्रम् ; पाञ्चरात्रम् । बल्बजम् ; तृणविशेषः । शुभं- यवः । शुभान्विताः । परमपुरुषेति । विमुक्तपृथग्जना इति । अनेन 
 
 " वरं हुतवहज्वालापञ्जरान्तर्व्यवस्थितिः । 
 
@@ -5951,20 +6055,31 @@ X३०४
 इति भरद्वाजस्मरणात् । आदिपदेनेज्यास्वाध्याययोगा उक्ताः, " अभि- गमनोपादानेज्यास्वाध्यायमन्वहं योगः " इत्युक्तत्वात् । नमतीति ; " सर्वेऽस्मै देवा बलिमावहन्ति " इत्युक्तत्वात् ॥ ८३ ॥
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः - ८४</summary>
 
-किमेतन्मते प्रतिवक्तव्यमार्यस्य ? 
+किम् एतन्-मते प्रतिवक्तव्यम् आर्यस्य ? 
 
 गुरुः - (कर्णौ पिधाय) न खलु ; न खलु । 
 
-न बाधः प्रतिरोधो वा वेदसात्त्वतयोर्मिथः । 
+न बाधः प्रतिरोधो वा   वेद-सात्त्वतयोर् मिथः ।  
+कु-दृशां तद्-भ्रमो **वार्यः**  
++++(परस्परं)+++ श्रुत्योर् इव परीक्षकैः ॥ ८४ ॥+++(5)+++
+</details>
 
-कुदृशां तद्भ्रमो वार्यः श्रुत्योरिव परीक्षकैः[^202] ॥ ८४ ॥
+<details><summary>English</summary>
 
-[^202]:
-     परस्परम्-------घ
+[[150]] 
+So then, is there anything in their system to rebut?  
+
+Guru.-(Shaking his head and shutting his ears.) Nothing, nothing: (for):- 
+
+(2. Shutting ears is a Hindu habit, meaning something untoward heard, or to be heard, or something inauspicious to ward off. )
+
+1.  Neither conflict nor objection riseth, when the Vedās and the Sātvata are compared. But for judges it is meet to dispel doubts that Skeptics may entertain,--such (doubts) occurring between (parts of) Vedās themselves. 
 
 </details>
+
 
 <details><summary>मूलम् - ८४</summary>
 
@@ -6001,21 +6116,10 @@ X३०५
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८५</summary>
 
-शिष्यः -- तदहं वारयामि । शृण्वन्तु च[^203] परमपुरुषप्रणीते पञ्चरात्रतन्त्रे[^204] तन्त्रान्तरवत् प्रादेशिकदोषोत्प्रेक्षकाः[^205] पण्डितम्मन्याः- 
+शिष्यः -- तद् अहं **वारयामि** ।  
+शृण्वन्तु च परम-पुरुष-प्रणीते पञ्च-रात्रतन्त्रे तन्त्रान्तरवत् प्रादेशिक+++(=एकदेशस्थ)+++-दोषोत्प्रेक्षकाः पण्डितम्मन्याः - 
 
-[^203]:
-     च omitted-------क ख
-
-
-[^204]:
-     तन्त्रेऽपि----क, ख
-
-
-[^205]:
-     दोषोद्भावका इति प्रभाविलासपाठः
-
-
-आरोहन्त्वनवद्यतर्कपदवीसीमादृशां मादृशां 
+आरोहन्त्व् अनवद्य-तर्क-पदवी-सीमादृशां मादृशां 
 
 पक्षे कार्तयुगे निवेशितपदाः पक्षे पतद्भ्यः परान् ।  
 सर्वानुश्रवसारदर्शिसशिरःकम्पद्विजिह्वाशन- 
