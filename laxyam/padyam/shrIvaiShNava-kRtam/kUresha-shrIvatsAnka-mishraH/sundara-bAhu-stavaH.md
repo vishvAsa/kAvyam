@@ -3,7 +3,7 @@ title = "सुन्दरबाहुस्तवः"
 
 +++
 
-<details><summary>ThirumAlirum-chOlai (शठकोपः)</summary>
+<details><summary>ThirumAl-irum-chOlai (शठकोपः)</summary>
 
 
 SrI SundarabAhu Sthavam is a big sthavam with 132 slOkams . KurEsar enjoyed the Vaibhavam of ThirumAlirum-chOlai SundararAja PerumAl intensively as the Six AzhwArs did through their 128 Paasurams . PeriyAzhwAr , ANDAL , Thirumangai , BhUthatthAzhwAr , pEy AzhwAr and NammAzhwAr have blessed us with 128 deeply moving Pasaurams about the divya Soundharyam of the Lord celebrated as Azhagar , MaalalankArar , Sundara ThOLudayAn , Sundara Baahu , KaLLazhagar. As archA Moorthy , Azhagar's aprAkrutha soundharyam shines through His aparanji tanga ThirumEni .
@@ -1616,8 +1616,8 @@ Here KurEsar missed antharanga Kaimkaryam for his AchAryan (BhAshyakArar) , who 
 
 **इदं** +++(→वक्ष्यमाणं वाक्यं)+++ भूयो भूयः, पुनर् अपि च भूयः, पुनर् अपि  
 स्फुटं **विज्ञीप्सामीत्य्** अगतिर् अबुधोऽनन्य-शरणः।  
-"कृतागा+++(←आगस्)+++ दुष्टात्मा **कलुषमतिर् अस्मी**"त्य् अनवधेः  
-दयायास् ते पात्रं वन-गिरि-पते! सुन्दरभुज! ॥ १३२ ॥
+"कृतागा+++(←आगस्)+++ दुष्टात्मा **कलुष-मतिर् अस्मी**"त्य् अनवधेः  
+दयायास् ते पात्रं वन-गिरि-पते! सुन्दर-भुज! ॥ १३२ ॥
 </details>
 
 <details><summary>मूलम्</summary>
