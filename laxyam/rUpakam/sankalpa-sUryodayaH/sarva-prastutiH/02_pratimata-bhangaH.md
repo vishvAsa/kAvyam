@@ -7221,13 +7221,21 @@ X३२६
 शिष्यः- महाराज, सर्वम् एतद् भगवतः +++(आचार्यस्य)+++ प्रसादेन ।  
 अद्य हि- 
 
-कणाद-परिपाटिभिः कपिल-कल्पना-नाटकैः 
-
-कुमारिलकुभाषितैर्गुरुनिबन्धनग्रन्थिभिः ।  
-तथागत कथाशतैस्तद्नुसारिजल्पैरपि  
-
-प्रतारितमिदं जगत्प्रगुणितं यतीन्द्रोक्तिभिः ॥ ९६ ॥
+कणाद-परिपाटिभिः कपिल-कल्पना-नाटकैः  
+कुमारिल-कु-भाषितैर् गुरु-निबन्धन-ग्रन्थिभिः ।  
+तथागत-कथा-शतैस् तद्-अनुसारि-जल्पैर् अपि  
+**प्रतारितम्** इदं जगत् **प्रगुणितं** यतीन्द्रोक्तिभिः ॥ ९६ ॥
 </details>
+
+<details><summary>English</summary>
+
+Pupil. Great king! All that, by the grace of this Acharya. 
+and 
+
+1.  What by Kānāda-methods, Kapila-designed drama, what by Kumārila's jargons and Guru-tied knots, what (again) by Tathagata-rigmaroles and others' ravings, was the world imposed upon, hath all now, by Yatindra's deliverances, been restored to sense. 
+
+</details>
+
 
 <details><summary>मूलम् - ९६</summary>
 
