@@ -3,7 +3,7 @@ title = "०३ मुक्त्युपायारम्भः"
 
 +++
 
-
+## राग-द्वेषौ
 
 
 <details open><summary>विश्वास-प्रस्तुतिः - १</summary>
@@ -12,35 +12,37 @@ title = "०३ मुक्त्युपायारम्भः"
 
 (ततः **प्रविशतो** राग-द्वेषौ ) 
 
-रागः -- सखे, त्वत्सहायस्य मे स्वामिकार्यनिर्वर्तनं सिद्धप्रायमिति निश्चिनोमि । 
+रागः -- सखे, त्वत्-सहायस्य मे स्वामि-कार्य-**निर्वर्तनं**  
+**सिद्ध-प्रायम्** इति निश्चिनोमि । 
 
-द्वेषः -- वयस्य, त्वद्विरुद्धविषयविवेकसंरम्भनिरोधेन[^1] त्वदेककार्य एव ह्यहमादिष्टोऽस्मि[^2] महाराजेन । 
+द्वेषः -- वयस्य, त्वद्-विरुद्ध-विषय-विवेक--**संरम्भ-निरोधेन**  
+त्वद्-**एक-कार्य** एव ह्य्  अहम् **आदिष्टोऽस्मि** महा-राजेन । 
 
-[^1]:
-     तत्त्वविरुद्ध क 
+रागः - सखे, अन्यद् अपि तावद् अवसरोचितम् **आज्ञप्ति-गोचरम् आवेदयामि** -  
 
-
-[^2]:
-     अस्मि omitted घ. ड. च.
-
-
-रागः सखे, अन्यदपि[^3] तावदवसरोचितमाज्ञप्तिगोचरमावेदयामि - 
-
-[^3]:
-     अद्य तावत्-क. ग. घ. 
-
-
-विवेककुहनाबलाद्[^4] व्यतिहतेषु बाह्येष्वसौ 
-
-[^4]:
-     मुखात्-क. छ
-
-
-त्रिवर्गपदवी परं शरणमद्य मोहश्रियः ।  
-विरक्तिमिह तापसीं व्यपनयामि दूरादहं 
-
-विमथ्य विनिवर्त्यतां सपदि विष्णुभक्तिस्त्वया ॥ १ ॥
+विवेक-कुहना-बलाद् **व्यतिहतेषु** बाह्येष्व् असौ  
+त्रि-वर्ग-पदवी परं **शरणम्** अद्य मोह-श्रियः ।  
+**विरक्तिम्** इह तापसीं **व्यपनयामि** दूराद् अहं  
+**विमथ्य विनिवर्त्यतां** सपदि विष्णु-**भक्तिस्** त्वया ॥ १ ॥
 </details>
+
+<details><summary>English</summary>
+
+THEN ENTER RAGA (Lust-Attachment to wordliness) AND DVESHA (Hate-for Godliness).  
+
+Raga.--Friend! With thee for my help. the achievement of my master's I fancy, as (already) accomplished. 
+mission, 
+
+Dvesha. Companion! I am in the same boat with thee, as I am ordered by his Majesty to create obstacles against the efforts of Viveka, who worketh against thee. 
+
+Raga.Friend! Other mandates (too) there are to carry out as occasion may demand. I shall just disclose them. 
+
+[[169]] 
+
+1. Now that the heretics1 (Buddhists and others. ) have been of overthrown through the manœuvre Vivēka, the way to Trivarga (1. See n. 1. p. 115. )  is the only outlet for Mahāmōha's energies. Beggarly Virakti (2. Dispassion or Renunciation. ), I shall just decoy to a distance, and thou shalt entice Vishnu-bhakti (1. Love or Devotion to Vishnu) all at once. 
+
+</details>
+
 
 <details><summary>मूलम् - १</summary>
 
@@ -101,44 +103,61 @@ X३३५
 
 <details open><summary>विश्वास-प्रस्तुतिः - २</summary>
 
-सम्भवति च सर्वथा सर्वतः प्रसारिताभ्यां स्वर्गापवर्गगुणदोषजालाभ्यां तयोरुपरोधः । अहं पुनर्मायासहस्रवेदी मारीचमैथिली-  
-न्यायेन विरक्तिं तावत्तपस्विनीं विप्रलभे । भवतस्तु विष्णुभक्ति- 
-
-विमथने पौलस्त्य एव प्रमाणम् । 
+**सम्भवति** च सर्वथा  
+सर्वतः प्रसारिताभ्यां स्वर्गापवर्ग-गुण-दोष-जालाभ्यां  
+तयोर् **उपरोधः** ।  
+अहं पुनर् माया-सहस्र-**वेदी**  
+मारीच-मैथिली-न्यायेन  
+**विरक्तिं** तावत् तपस्विनीं **विप्रलभे** ।  
+भवतस् तु विष्णु-भक्ति-विमथने  
+पौलस्त्य एव प्रमाणम् । 
 
 द्वेषः - अथ किम् । 
 
-रागः --- यद्यपि[^5] त्रय्यन्तवादिना महामोहसौवस्तिकानामग्रण्यो[^6] हिरण्यासुरपुरोहिता इव धरण्यामवतीर्णाः कबन्धमीमांसकाः[^7] प्रतिक्षिप्ताः, तथापि तन्मतमेव सोपपत्तिकमुत्तम्भयन् स्वामिकार्यं निर्वर्तयामि । 
-
-[^5]:
-    यद्यपि त्रय्यन्तवादिना त्रयीपूर्वभागमात्रवर्तिनोऽपि निरस्ता एव । तथापि - क. 
-
-
-[^6]:
-     अग्रगण्याः - क. ख. ग. 
+रागः --- यद्य् अपि[^5] त्रय्य्-अन्त-वादिना  
+महा-मोह-सौवस्तिकानाम् अग्रण्यो[^6] हिरण्यासुर-पुरोहिता इव धरण्याम् अवतीर्णाः कबन्ध-मीमांसकाः[^7] **प्रतिक्षिप्ताः**,  
+तथापि तन्-मतम् एव **सोपपत्तिकम् उत्तम्भयन्**  
+स्वामि-**कार्यं निर्वर्तयामि** । 
 
 
-[^7]:
-     कलिमीमांसकाः -ड.
-
-
-द्वेषः -- स्थाने खलु[^8] भवतः समारम्भः[^9] । यदिह नास्ति  
--क्यसंवर्धकानां महामोहसैनिकधुरन्धारणां नासीरविजयपताका निरीश्वरमीमांसा समालम्ब्यते । 
-
-[^8]:
-     'खलु omitted, ख. ग.
-
-
-[^9]:
-     संरम्भः- क,
-
+द्वेषः -- स्थाने खलु भवतः **समारम्भः** ।  
+यद् इह  
+नास्तिक्य-संवर्धकानां महा-मोह-सैनिक-धुरन्-धारणां  
+नासीर+++(=अग्रभट)+++-विजय-पताका निरीश्वर-मीमांसा समालम्ब्यते । 
 
 रागः- 
 
-अल्पमस्थिरमानन्दमिच्छतो यदि रागिता । 
-
-अनन्तस्थिरकामस्य विरक्तिः कस्य कीदृशी ॥ २ ॥
+अल्पम् अस्थिरम् आनन्दम्  
+**इच्छतो** यदि **रागिता** ।  
+अनन्त-स्थिर-कामस्य  
+**विरक्तिः** कस्य **की-दृशी** ॥ २ ॥
 </details>
+
+<details><summary>English</summary>
+
+Their disjunction with Jiva can be, by all means, effected, by casting the nets of making Svarga appear worthy and Moksha unworthy,-in all places. Expert as I am in a thousand and one deceits, I shall just beguile the beggarly Virakti, as Mārīcha did Mithili (1. Another name of Sitā. ) 
+
+
+(2. The allusion is to the well known incident of Maricha being asked by Ravana to decoy Sri Rama into the Dandaka forest. Maricha assumed the form of a golden deer and appeared in the vicinity of Sitā, who, enchanted by its charming appearance, persisted in Rama catching the same Rama was decoyed to a distance by Maricha, when Ravana enticed away Sita(Aranya-Kanda-Sri Ramayana.) )
+
+[[170]] 
+
+and thou shalt entice VishnuBhakti as Pōulastya (2. Rāvana. ) did. 
+
+Dvesha. Then what? 
+
+Raga. True, the Teacher of Vedanta Siddhānta (3. The pupil referred to in the previous Act. (Vāda.)) hath routed the head-less Pūrvamimāmsakas, the foremost of the wishers of Mahāmōha's success-  
+the very Purohits (Officiating Priests. ) of demon Hiranya (The demon killed by Vishnu in is avatara of man-lion. ) as it were re-incarnate on earth,  
+yet I shall propound their very creed ingeniously and thus accomplish my 
+master's mission. 
+
+Dvesha. Rightly opportune is thy resolve to stand by the victorious banner of the arch-chiefs of Mahamōha promoting Atheism, viz., the creed of Nirisvara Mīmāmsa. (1. Materialism denying the God-head.)
+
+Raga. 2. If it becometh a passion to long [[171]] after the paltry and ephemeral pleasures (1. Enjoyment of Svarga, etc, ) how can dispassion possess one who longeth for endless and eternal joy ? (Moksha. ) 
+
+</details>
+
+
 
 <details><summary>मूलम् - २</summary>
 
@@ -209,17 +228,17 @@ X३३७
 
 अपि च, 
 
-स्वस्यावाप्तिः[^10] सुखमिति मृषा स्वेतरस्यानुभूतौ 
-
-[^10]:
-     स्वस्यैवाप्तिः--ङ, च, 
-
-
-कामादन्यः क इव घटते मोक्षनामा पुमर्थः ।  
-तस्मादस्मद्बहुमतनिरध्यक्ष मीमांसकोक्त्या 
-
-स्वेच्छानृत्यद्बहुगुणनिधिः स्वर्ग एवापवर्गः ॥ ३ ॥
+स्वस्यावाप्तिः सुखम् इति मृषा, स्वेतरस्यानुभूतौ  
+कामाद् अन्यः **क** इव **घटते** मोक्ष-नामा पुमर्थः ।  
+तस्माद् अस्मद्--बहु-मत--निरध्यक्ष-मीमांसकोक्त्या  
+स्वेच्छा-नृत्यद्--बहु-गुण--निधिः स्वर्ग एवापवर्गः ॥ ३ ॥+++(4)+++
 </details>
+
+<details><summary>English</summary>
+
+1. It is mistaken to aver that beatitude is Self-realisation (स्वस्वरूपस्य नित्यप्राप्तत्वेन उपायोपदेश-वैयर्थ्यात् सुखरूपत्वादर्शनाच्च.); but if beatitude be one intercoursing with another, then what else but Kāma (Atheism and Hedonism. ) can best constitute what is called beatitude (Moksha), coveted by one and all? Beatitude therefore can be no other than Svarga, the seat of all (carnal) enjoyments at will, and this view is supported by the authority of our betters, the Nirisvara Mimamsakas (Godless philosophers). 
+</details>
+
 
 <details><summary>मूलम् - ३</summary>
 
@@ -255,17 +274,13 @@ X३३८
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४</summary>
 
-द्वेषः - किमुच्यते ? अयं पुनर्महामोहतन्त्रपारदृश्वभिः परमार्थोपदेशदेशिकैः[^11] सावधान[^12] निपुणनिरूपितः सम्प्रदाय परम्परासमधिगतोऽर्थः-  
-प्रपञ्चकृतकञ्चुकं यदि परं महः प्राप्यते 
+द्वेषः - किम् उच्यते ?  
+अयं पुनर्  
+महा-मोह-तन्त्र--पार-दृश्वभिः परमार्थोपदेश-देशिकैः  
+सावधान-निपुण-निरूपितः  
+सम्प्रदाय-परम्परा-समधिगतोऽर्थः-  
 
-[^11]:
-      परमार्थोपदेशिभिः ग. घ
-
-
-[^12]:
-     सावधान मतिभिः च ; सावधाननिरूपित. क.
-
-
+प्रपञ्च-कृत-कञ्चुकं यदि परं महः प्राप्यते  
 न दुःखमपहस्तितं भवति नैकधोपप्लवात् । 
 
 अथैकमखिलोज्झितं न खलु भोग्यतामेति तत् 
@@ -2324,7 +2339,6 @@ X३७३
 जुत्तम् एदं युक्तमेतत् । तह वि- तथापि । पञ्चक्खिअ परमत्थं - प्रत्यक्षित- परमार्थम् । तुमम् एव्व त्वामेव । पडिपुच्छम्मि परिपृच्छामि । णिम्मलगुरुस- आस -- निर्मलगुरुसकाश । णिद्धारिअणिअमन्त - निर्धारितनिगमान्त । हिअ - आणं. हृदयानाम् । णिठ्ठाविअणिहिलपडिपक्खाणं-- निष्ठापितनिखिलप्रतिपक्षा- णाम् । निष्ठापितो नाशं प्रापितः । " निष्ठानिष्पत्तिनाशान्ताः " इति निघण्टुः । णिस्सेसपसमिअणिज्जरघरवासरसवासणाणं - निःशेषप्रशमितनिर्जरगृहवासरस- वासनानाम् । रसो रागः । अणालक्खिअदोसगन्ध - अनालक्षितदोषगन्ध । 
 
 X३७४  
---- 
 
 मङ्गलेक्कताण - मङ्गलैकतान । महुमहणचलण-मधुमथनचरण । सेवामहाणन्दलाहलं- बडाणं-सेवामहानन्दलाभलम्पटानाम् । अप्पमाद परिगहिअ अप्रमादपरिगृहीत । णिवृत्तिधम्माणं निवृत्तिधर्माणाम् । असम्भाविअपच्चूहाणम् असम्भावितप्रत्यूहानाम् । वि-अपि । महापुरिसाणं महापुरुषाणाम् । केण उण - केन पुनः । विणिवाएण- विनिपातेन । विनिपातो विघ्नः । मोक्खोवाओ मोक्षोपायः । सिग्धं शीघ्रम् । ण सम्पज्जइ-न सम्पद्यते । अवधारणीयम्; निश्चेतव्यम् । गहनम् ; रहस्यम् । सनकस- नन्दनसनत्कुमारनारदाः ब्रह्मपुत्राः केवलं ब्रह्मनिष्ठाः । शाण्डिल्यः श्रीपाञ्चरात्र- प्रवर्तकत्वेन प्रसिद्धः । प्रभृतिशब्देन शुकशौनकादिग्रहणम् । परमैकान्तिनः 
 
