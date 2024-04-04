@@ -6135,7 +6135,7 @@ May the Pāncharātra-word, incorporated with the Krita [4] (age)-famed Vedas,-
 the creed espoused by men like ourselves, past-masters in spotless logic,  
 -(the word) irradiated by rays streaming from the crestgems of Garutmān's pendants, (Serpents nained Padma and Mahapadma, worn by Garuda as pendants.)[5]  
 (when) as adept in Vedic essence, nodding his head, --(may this word)  
-made authoritative by impartial souls (like Vyasa,) glory forth. (1. This is with reference to Vedanta-Sutras by Vyasa, such [II. 2. 8.])
+made authoritative by impartial souls (like Vyasa,) glory forth. (1. This is with reference to Vedanta-Sutras by Vyasa, such as Utpattyasambhavat etc. [II. 2. 8.] )
 
 (4\. This age is noted for the Supreme authority of the Vedas. Witness the verse quoted by [[151]] Sri Purnapragna in his Atharva opanishad Bhashya: -  
 
@@ -6219,25 +6219,40 @@ X३०७
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८६</summary>
 
-निरूपितं हि सात्त्वतप्रामाण्यं निखिलनिगमव्यसनव्यसनिना मतिमन्थान निर्मथितनिगमसिन्धुसमुदितमहाभारतचन्द्रचन्द्रिकानिरवशेषमुषितभुवनभवनोदरतिमिरेण बादरायणेन भगवता नारायणेन । 
+**निरूपितं** हि सात्त्वत-प्रामाण्यं निखिल-निगम-व्यसन-व्यसनिना मति-मन्थान-निर्मथित--निगम-सिन्धु--  
+समुदित-महाभारत-चन्द्र-चन्द्रिका--  
+निरवशेष-मुषित-भुवन-भवनोदर-तिमिरेण  
+बादरायणेन भगवता नारायणेन । +++(5)+++ 
 
 तत्र च,  
-स्वतः सर्वावेक्षी श्रुतिशत[^207] शिरस्त्राणचरणः 
 
-[^207]:
-     श्रुतिगण------क
+स्वतः सर्वावेक्षी श्रुति-शत--शिरस्-त्राण--चरणः  
+स्व-भृत्यान् नस् त्रातुं यद् इदम् अनघं तन्त्रम् **अकृत** ।  
+"इदं श्रेयः पुण्यं हिततमम्" इतीव **व्यपदिशन्**  
+मुनिः पाराशर्यः **प्रकटयति मानं** तद् अखिलम् ॥ ८६ ॥
 
+सेनापतिः- देव, अपर इवायं पाराशर्यः  
+पञ्च-रात्र-तन्त्रं प्रतिष्ठापितवान् । 
 
-स्वभृत्यान्नस्त्रातुं यदिदमनघं तन्त्रमकृत । 
-
-इदं श्रेयः पुण्यं[^208] हिततममितीव व्यपदिशन् 
-
-[^208]:
-     पथ्यं-------घ
-
-
-मुनिः पाराशर्यः प्रकटयति मानं तदखिलम् ॥ ८६ ॥
 </details>
+
+<details><summary>English</summary>
+
+As authoritative is the Sātvata (Pāncharātra) established by the Holy VyasaNarayana (Incarnate),--(Vyasa) deeply learnt in all the Vedas,-(Vyasa) who dispelled all the inner darkness of the worlds [[152]] by the moon-light of the MahābhārataMoon, born out of the Vedic sea, churned' by his wisdom. 
+
+(1. Churning of the sea in the Fish-Avatara, when the Moon was born, is here the allusion from which the metaphor is taken.)
+
+1\.  The Omniscient Himself (Nārayana) created this spotless Tantra, as salvation for us, slaves,-  
+Nārayana of the (Holy) feet guarding the hundreds of the Vēda.  
+And Pārāsarya (2. The son of Parāsara-Vyasa.), the sage, promulgated it by asserting that it is blessed, holy, and salutary.3 
+
+(3. Refering to इदं श्रेयं इदं पुण्यमिदं हितमनुत्तमम् । and other verses in the Narayaniya of the Moksha- Dharma in Santi Parva of the Mahabharata. 
+)
+
+Senapati.--Lord! Like another Vyāsa, hath he (the Pupil) established the PāncharātraTantra. 
+</details>
+
+
 
 <details><summary>मूलम् - ८६</summary>
 
@@ -6259,6 +6274,10 @@ X३०७
 
 
 मुनिः पाराशर्यः प्रकटयति मानं तदखिलम् ॥ ८६ ॥
+
+सेनापतिः - देव, अपर इवायं पाराशर्यः  
+पञ्चरात्रतन्त्रं प्रतिष्ठापितवान्। 
+
 </details>
 
 
@@ -6307,31 +6326,40 @@ X३०८
 इति ॥ ८६ ॥
 </details>
 
+### कर्म-मात्र-मीमांसकाः
 <details open><summary>विश्वास-प्रस्तुतिः - ८७</summary>
 
-सेनापतिः- देव, अपर इवायं पाराशर्यः पञ्चरात्रतन्त्रं 
+राजा - भगवन्, गुरु-कुमारिल-मतानुसारिणः किम् एते निरसनीया भवच्-छिष्येण ? 
 
-प्रतिष्ठापितवान् । 
+गुरुः - महाराज, अमी पुनर् आगमाभिरक्षणे प्रवृत्ता  
+वेदान्त-परित्यागिनस् तोषयितव्या भीषयितव्याश् च[^209] ।  
 
-राजा - भगवन्, गुरुकुमारिलमतानुसारिणः किमेते निरसनीया भवच्छिष्येण ? 
-
-गुरुः - महाराज, अमी पुनरागमाभिरक्षणे प्रवृत्ता वेदान्तपरित्यागिनस्तोषयितव्या भीषयितव्याश्च[^209] ।  
 शिष्यः -- (सापहासम् ) 
 
-[^209]:
-      जिगीषितव्याश्च----- घ.
 
-
-निरस्ताखिलदोषेषु निगमान्तेषु सत्स्वमी । 
-
-कथं सदसि मीमांसाकबन्धमनुरुन्धते ॥ ८७ ॥
+निरस्ताखिल-दोषेषु  
+निगमान्तेषु सत्स्व् अमी । 
+कथं सदसि मीमांसा-  
+कबन्धम् **अनुरुन्धते** ॥ ८७ ॥
 </details>
 
+<details><summary>English</summary>
+
+King.--Holy sire! Are these followers of Prabhakara and Kumārila also to be defeated by thine disciple? 
+ 
+ 
+[[153]]  
+
+Guru. -Great king! As defenders of the Vedas but deserters of the Vedanta, they deserve to be extolled as well as condemned. 
+Pupil.--(Jeeringly). 
+1. 
+2.  
+Devoid of all defects as the Vedantas are, how in this assembly, can these follow the headless trunk, the Purvamimāmsa'? 
+
+</details>
+
+
 <details><summary>मूलम् - ८७</summary>
-
-सेनापतिः- देव, अपर इवायं पाराशर्यः पञ्चरात्रतन्त्रं 
-
-प्रतिष्ठापितवान् । 
 
 राजा - भगवन्, गुरुकुमारिलमतानुसारिणः किमेते निरसनीया भवच्छिष्येण ? 
 
@@ -6374,8 +6402,22 @@ X३०९
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८८</summary>
 
-अयं खल्वखिलवैदिकसदः[^210] शिखामणीनामध्यात्मविदां निर्णयः -- पापवत् परित्यक्तकाम्यधर्मैर्नित्यनैमित्तिकानुष्ठान निष्णातैर्विष्णुभक्तैर्भवितव्यमिति । अत एव कर्मब्रह्ममीमांसयोरैकशास्त्यमामनन्ति सन्तः ।  
-राजा - ( सपरितोषम् ) भगवन्, यथाश्रुतं सर्वम्[^212] यथाहृदयमुपपाद्य स्वपक्षं रक्षता परपक्षांश्च प्रतिक्षिपता प्रशमितनिगमान्तखेदेन भवदन्तेवासिना स्थूणानिखननन्यायेन स्थिरीकृतमिदं सम्यग्ज्ञानम् । तथाप्यामुक्तनिगमकञ्चुकानाममुक्तवाह्यवर्त्मनां कथं प्रतीकारः ? 
+अयं खल्व् अ-खिल--वैदिक-सदः--शिखा-मणीनाम् अध्यात्म-विदां निर्णयः --  
+पापवत् परित्यक्त-काम्य-धर्मैर्  
+नित्य-नैमित्तिकानुष्ठान-निष्णातैर्  
+विष्णु-भक्तैर् भवितव्यम् इति ।  
+
+अत एव कर्म-ब्रह्म-मीमांसयोर् ऐकशास्त्त्र्यम् **आमनन्ति** सन्तः ।  
+
+राजा - ( सपरितोषम् ) भगवन्,  
+यथाश्रुतं सर्वम्[^212] यथा-हृदयम् **उपपाद्य**  
+स्वपक्षं **रक्षता**  
+परपक्षांश् च **प्रतिक्षिपता**  
+प्रशमित-निगमान्त-खेदेन भवद्-अन्तेवासिना  
+स्थूणा-निखन-नन्यायेन  
+**स्थिरी-कृतम्** इदं सम्यग्ज्ञानम् । 
+
+तथाप्य् आमुक्त-निगम-कञ्चुकानाम् अमुक्त-वाह्य-वर्त्मनां कथं प्रतीकारः ? 
 
 [^210]:
      खलु निखिल-------घ छ
@@ -6398,7 +6440,7 @@ X३०९
 
 <details><summary>मूलम् - ८८</summary>
 
-अयं खल्वखिलवैदिकसदः[^210] शिखामणीनामध्यात्मविदां निर्णयः -- पापवत् परित्यक्तकाम्यधर्मैर्नित्यनैमित्तिकानुष्ठान निष्णातैर्विष्णुभक्तैर्भवितव्यमिति । अत एव कर्मब्रह्ममीमांसयोरैकशास्त्यमामनन्ति सन्तः ।  
+अयं खल्वखिलवैदिकसदः[^210] शिखामणीनामध्यात्मविदां निर्णयः -- पापवत् परित्यक्तकाम्यधर्मैर्नित्यनैमित्तिकानुष्ठान निष्णातैर्विष्णुभक्तैर्भवितव्यमिति । अत एव कर्मब्रह्ममीमांसयोरैकशास्त्र्यमामनन्ति सन्तः ।  
 राजा - ( सपरितोषम् ) भगवन्, यथाश्रुतं सर्वम्[^212] यथाहृदयमुपपाद्य स्वपक्षं रक्षता परपक्षांश्च प्रतिक्षिपता प्रशमितनिगमान्तखेदेन भवदन्तेवासिना स्थूणानिखननन्यायेन स्थिरीकृतमिदं सम्यग्ज्ञानम् । तथाप्यामुक्तनिगमकञ्चुकानाममुक्तवाह्यवर्त्मनां कथं प्रतीकारः ? 
 
 [^210]:
