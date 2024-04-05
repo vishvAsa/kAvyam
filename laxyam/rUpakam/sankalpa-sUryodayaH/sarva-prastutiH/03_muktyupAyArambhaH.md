@@ -395,23 +395,21 @@ X३४०
 
 यासाम्, 
 
-""  
-स्मेरेण स्तनकुड्मलेन[^18] भुजयोर्मध्यं तिरोधित्सितं 
+स्मेरेण स्तन-कुड्मलेन भुजयोर् मध्यं **तिरोधित्सितं**  
+नेत्रेण श्रवणं **लिलङ्घयिषितं** नीलोत्पल-श्री-मुषा ।  
+अङ्गं सर्वम् **अलञ्चिकीर्षितम्** अहो भावैः स्मराचार्यकैस्  
+तन्वीनां **विजिगीषितं** च वयसा धन्येन मन्ये जगत् ॥ ५ ॥
+</details>
 
-[^18]:
-     युग्मलेन - क. मण्डलेन ख.
+<details><summary>English</summary>
 
+Raga. Well spoken, friend! Like the exodus 
+of the swarm of birds from their nests in the hollow of a branch of a tree, burning with wild fire, surely this utterance of thine will drive Vishnu bhakti to a distance. How now is this stupid Vivēka going to create for Jiva a diversion from Samsara,-Jiva whose mind is blinded by his eagerness for enjoyment eternal? The [[173]] more that Viveka becometh anxious to condemn the graces par excellence of damsels, celestial and mundane, the more shall he be bound firm by those ropes', (damsels). Just view the nectar-born, lotus-eyed, damsels,the ornaments of Svarga. 
 
-नेत्रेण श्रवणं लिलङ्घयिषितं नीलोत्पलश्रीमुषा । 
-
-अङ्गं सर्वमलञ्चिकीर्षितमहो भावैः स्मराचार्यकै- 
-
-स्तन्वीनां विजिगीषितं च वयसा धन्येन मन्ये जगत्[^19] ॥ ५ ॥
-
-[^19]:
-     ततः- ग, ड, छ
+1. Their bosom is beseiged by their everexpanding bud-like breasts; their eyes, stealing the loveliness of blue lotuses, long to tresspass on their ears; Hallo! possessed is their entire frame by emotions whose preceptor is Cupid (himself)! Methinks the whole universe is designed vanquished by the lovely seductive youth of slenderwaisted damsels ! 
 
 </details>
+
 
 <details><summary>मूलम् - ५</summary>
 
@@ -480,13 +478,11 @@ X३४२
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६</summary>
 
-तिष्ठतु तावदभिनवयौवनविजृम्भणम्[^20] । परामृश्यतां पुनर्विभ्रमावेशः । 
+**तिष्ठतु** तावद् अभिनव-यौवन-विजृम्भणम्[^20] ।  
 
-[^20]:
-     तावदिदमनङ्गविजयपताकानामङ्गनानामभिनवयौवनविजृम्भणम् – क. 
+**परामृश्यतां** पुनर् **विभ्रमावेशः** ।  
 
-
-अभिनयति यथार्थान्[^21] भ्रूपताका पुमर्थान् 
+अभिनयति यथार्थान् भ्रू-पताका पुम्-अर्थान् 
 
 [^21]:
      पुमर्थान् भ्रूपताका यथार्थान् क
