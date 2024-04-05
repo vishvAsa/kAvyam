@@ -8,7 +8,7 @@ title = "सुन्दरबाहुस्तवः"
 
 SrI SundarabAhu Sthavam is a big sthavam with 132 slOkams . KurEsar enjoyed the Vaibhavam of ThirumAlirum-chOlai SundararAja PerumAl intensively as the Six AzhwArs did through their 128 Paasurams . PeriyAzhwAr , ANDAL , Thirumangai , BhUthatthAzhwAr , pEy AzhwAr and NammAzhwAr have blessed us with 128 deeply moving Pasaurams about the divya Soundharyam of the Lord celebrated as Azhagar , MaalalankArar , Sundara ThOLudayAn , Sundara Baahu , KaLLazhagar. As archA Moorthy , Azhagar's aprAkrutha soundharyam shines through His aparanji tanga ThirumEni .
 
-Here at ThirmAlirumchOlati known otherwise as Azhagar Koil , Lord SundarabAhu enjoys the cool breezes from Vrushabha Giri and enjoys Thirumanjanam from the waters of SilambARu (Noopura Ganghai) . Here the Lord is accompanied by Sundaravalli ThAyAr and resides under Somasundara VimAnam . The fragrant breeze from the Vrushabha Giri embraces the natural perfume of the Sandal Wood Trees , which are the Sthala Vrukshams at this dhivya dEsam .
+Here at ThirmAlirumchOlati known otherwise as Azhagar Koil , Lord SundarabAhu enjoys the cool breezes from Vrushabha Giri and enjoys Thirumanjanam from the waters of SilambARu (Noopura Gangai) . Here the Lord is accompanied by Sundaravalli ThAyAr and resides under Somasundara VimAnam . The fragrant breeze from the Vrushabha Giri embraces the natural perfume of the Sandal Wood Trees , which are the Sthala Vrukshams at this dhivya dEsam .
 </details>
 
 
@@ -296,9 +296,34 @@ L L L L G L G L L L G — L L G L L G
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृषगिरिरयम् अच्युतस्य यस्मिन् स्वमतमलङ्घयितुं परस्परेभ्यः ।  
-खगपतिचरणौ खगाः शपन्ते भुजगपतेर्भुजगाश्च सर्व एव ॥ १० ॥
+वृष-गिरिर् अयम् अच्युतस्य यस्मिन्  
+स्व-मतम् **अ-लङ्घयितुं** परस्-परेभ्यः ।  
+ख-ग-पति-चरणौ ख-गाः **शपन्ते**  
+भुज-ग-पतेर् भुजगाश् च सर्व एव …॥ १० ॥  
++++(तेन तत्-स्वामी सत्य-सङ्कल्पः। )+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+वृषगिरिरिति । यस्मिन् **वृषगिरौ स्वमतं** स्वस्वाभिमतं प्रतिज्ञातं **अलङ्घयितुं** अनतिक्रमितुं,  
+सर्वे **खगाः** पक्षिणः **खगपतिचरणाव्** एव पक्षिराजपादाव् एव **परस्परेभ्यः** मिथः **शपन्ते** शापविषयौ कुर्वन्ति । चरणा वुद्दिश्यशपथं कुर्वन्तीत्यर्थः ।  
+सर्वे भुजङ्गाः **भुजगपतेश्** शेषस्य **चरणौ शपन्ते** । 
+
+“श्लाघहुड्स्थाशपां ज्ञीप्स्यमानः” इत्यनुशासनात् परस्परेभ्य इतिचतुर्थी । 
+
+अयं वृषगिरिः वृषभाद्रिः अच्युतस्यधाम, 
+
+> “अत्यहं जीवितं जह्यां  
+> त्वां वा सीते सलक्ष्मणाम् ।  
+> नहि प्रतिज्ञां संश्रुत्य  
+> ब्राह्मणेभ्यो विशेषतः” 
+
+इति प्रतिज्ञाच्यवनहीनस्य भगवतो वासस्थानम् इत्यर्थः ।  
+अत्र तिरश्चामपि स्तोमेन स्वस्वप्रतिज्ञातानुल्लङ्घनाय स्वस्वस्वामिचरणावुद्दिश्य शपथस्य क्रियमाणत्वात्  
+सर्वस्वामिनः सुन्दरबाहोस् सत्यप्रतिज्ञत्वम् एव अच्युतपदेन विवक्षितम् इति सम्प्रदायः ॥ १० ॥ 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -308,9 +333,20 @@ L L L L G L G L L L G — L L G L L G
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हरिकुलम् अखिलं हनूमदङ्घ्रिं स्वकुलपजाम्बवतस्तथैव भल्लाः ।  
-निजकुलपजटायुषश्च गृध्राः स्वकुलपतेश्च गजा गजेन्द्रनाम्नः ॥ ११ ॥
+हरि-कुलम् अखिलं हनूमद्-अङ्घ्रिं,  
+स्व-कुल-प--जाम्बवतस् तथैव भल्लाः ।  
+निज-कुल-प-जटायुषश् च गृध्राः स्व-कुल-पतेश् च गजा गजेन्द्र-नाम्नः ॥ ११ ॥  
++++(स्वमतमलङ्घयितुं परस्परेभ्यः शपन्ते)+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[109]] 
+हरिकुलमिति । " स्वमतमलङ्घयितुं परस्परेभ्यः” इति पूर्वश्लोका दनुषङ्गः कर्तव्यः । अत्र अखिलं हरिकुलं कपियूथं हनूमदङ्घ्रि शपते । तथैव हरिकुलवदेव भल्लाः ऋक्षाः स्वकुलपजाम्बवतः निजयूथपस्य जाम्बवतः अङ्घ्रिं शपन्ते । गृध्राः निजकुलपजटायुषः अङ्घ्रिं शपन्ते । गजाश्च गजेन्द्रनाम्नः स्वकुलपतेः अ िशपन्ते । अयं वृषगिरिः, "अच्युतस्य धाम इति पुर्वश्लोकेनाऽन्वयः । 
+
+श्लोकद्वयेनाऽपि दिव्य-स्थानस्य भागवत-भक्ति-समृद्धि-प्रदत्व मुक्तं भवति ॥ ११ ॥ 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -320,19 +356,27 @@ L L L L G L G L L L G — L L G L L G
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वकुलधरसरस्वतीविषक्तस्वररसभावयुतासु किन्नरीषु ।  
-द्रवति दृषदपि प्रसक्तगानासु इह वनशैलतटीषु सुन्दरस्य ॥ १२ ॥
+वकुल-धर--सरस्-वती--विषक्त-  
+स्वर-रस-भाव-युतासु किन्नरीषु ।  
+**द्रवति** दृषद् अपि **प्रसक्त-गानास्व्**  
+इह वन-शैल-तटीषु सुन्दरस्य ॥ १२ ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+वकुलधरेति । वकुलधरसरस्वत्यः शठकोपमुनिप्रणीताः द्रमिडोपनिषदः तासु विषक्ताः आसक्ताः ये स्वररसभावाः - स्वराः निषादादयः, रसाः शृङ्गारादयः, भावाः स्थायिभावादयः, तैर्युतासु किन्नरीषु प्रसक्तगानासु प्रारब्धगीतिषु सतीषु किन्नरीषु स्वरसभावोन्मेष- पूर्वकं द्रामिडोपनिषद्गानप्रसक्तासु सतीष्विति पर्यवसितार्थः । सुन्दरस्य इह वनशैल तटीषु सुन्दरबाहु सम्बन्धिष्वेतेषु वनाद्रितटेषु दृष दपि शिलाऽपि द्रवति द्रवीभवति । तत्रत्यकिन्नराङ्गनाना मपि द्रमिडोपनिषदनुभव स्तादृश इति दिव्यस्थानस्य ज्ञानप्रदत्व मुक्तमिति मन्तव्यम् ॥ १२ ॥ 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 वकुलधरसरस्वतीविषक्तस्वररसभावयुतासु किन्नरीषु ।  
-द्रवति दृषदपि प्रसक्तगानासु इह वनशैलतटीषु सुन्दरस्य ॥ १२ ॥
+द्रवति दृषदपि प्रसक्तगानास्विह वनशैलतटीषु सुन्दरस्य ॥ १२ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भृङ्गी गायति हंसतालनिभृतं तत् पुष्णती कोकिलाऽपि उद्गायत्यथ वल्लितल्लजमुखादास्रं मधु स्यन्दते ।  
+भृङ्गी गायति हंस-ताल-निभृतं तत् पुष्णती कोकिलाऽपि उद्गायत्यथ वल्लितल्लजमुखादास्रं मधु स्यन्दते ।  
 निस्स्पन्दस्तिमिताः कुरङ्गततयः शीतं शिलासैकतं सायाह्ने किल यत्र सुन्दरभुजस्तस्मिन् वनक्ष्माधरे ॥ १३ ॥
 </details>
 
