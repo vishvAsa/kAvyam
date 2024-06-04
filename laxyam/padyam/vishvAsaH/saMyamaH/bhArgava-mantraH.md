@@ -44,7 +44,6 @@ unicode_script: devanagari
 बुद्ध्या कायेन **दर्शयन्**॥  
 उच्छृङ्खलोऽपि न व्यालो  
 रूक्षो ऽपि न च राक्षसः।  
-+++("Wild but not savage" इत्युक्तिर् अत्र प्रेरणम्। पङ्क्तिकर्तारौ शशिसुहासौ।)+++  
 सभ्यता-वाससा **छन्नो**  
 जाङ्गलो जामदग्न्य-वत्।  
 **यथा स्यात्**, तीव्रतां देव  
@@ -54,7 +53,12 @@ unicode_script: devanagari
 
 Wild, but not savage.
 
-"The closest to a wild environment is being in a Street Gang, with its periods of inaction and intense action, adrenaline, and psychological danger. This is because young people are still wild. Yet people say that is wrong. Society doesn't like wildness. It's scared by it. It will stop you from being wild. It wants you to conform, but as soon as you conform, your life-force and spirit is dead."
+> "The closest to a wild environment is being in a Street Gang, with its periods of inaction and intense action, adrenaline, and psychological danger. This is because young people are still wild. Yet people say that is wrong. Society doesn't like wildness. It's scared by it. It will stop you from being wild. It wants you to conform, but as soon as you conform, your life-force and spirit is dead."
+
+> उच्छृङ्खलोऽपि न व्यालो  
+रूक्षो ऽपि न च राक्षसः। 
+
+इत्यत्र शब्दचितौ शशिसुहासौ साहाय्यम् अकुरुताम्।
 </details>
 
 वातुलालय-मध्य-स्थः  
@@ -67,12 +71,6 @@ Wild, but not savage.
 One must live in the world seeking delight and health, as if one were a doctor in a mental hospital - neither too hopeful, nor hopeless.
 </details>
 
-**स्यात्** स्वावस्थासु संतृप्तिर्  
-व्याधिभिश् चापराजितिः।  
-जीवनोद्देश एवं सन्न्  
-असाध्यश् चेद् वरा मृतिः॥  
-इति निश्चित्य **जीवेयम्**  
-**म्रियेयोत** पुनर् यम।
 
 अ-नित्यं देह-लोकादि  
 नित्य-ब्रह्म-कलेवरम्।  
@@ -82,6 +80,18 @@ One must live in the world seeking delight and health, as if one were a doctor i
 नित्य-भोगी, न हीतरः॥
 इति स्व-भाव--शस्त्राभ्यां  
 शेषत्वं शेष **शिक्षय**॥
+
+जरा-मृत्यू **न वार्यौ** स्तः  
+भुवि सूर्ये ऽण्डके ऽप्य् उत।  
+व्यक्ति-सन्तति-राष्ट्रेषु  
+स्यातां किञ्च **न कुत्सितौ**।  
+
+**स्यात्** स्वावस्थासु संतृप्तिर्  
+व्याधिभिश् चापराजितिः।  
+जीवनोद्देश एवं सन्न्  
+असाध्यश् चेद् वरा मृतिः॥  
+इति निश्चित्य **जीवेयम्**  
+**म्रियेयोत** पुनर् यम।
 
 **भक्तिस्** स्व-रूप-सिद्धा या  
 देवादि-स्मृति-सन्ततिः।  
