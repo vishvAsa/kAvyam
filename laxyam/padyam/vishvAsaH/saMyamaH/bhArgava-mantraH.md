@@ -16,6 +16,34 @@ unicode_script: devanagari
 प्रीतिर् **लभ्या** तनौ बद्धैश्,  
 **चेयं** योग्यं बुधैस् ततः॥
 
+पराङ् निस्सरतीं बुद्धिं  
+प्रत्यग् वर्तयताधुना।  
+येन जीवं च तज्-जीवान्  
+विजानीयां दिवौकसः॥
+
+व्याधो व्याघ्रादि-सङ्काशो  
+ऽव्यक्ताद् व्यक्तः पुरा महान्।  
+क्वचिद् वेगं क्वचिन् मान्द्यं  
+बुद्ध्या कायेन **दर्शयन्**॥  
+उच्छृङ्खलोऽपि न व्यालो  
+रूक्षो ऽपि न च राक्षसः।  
+सभ्यता-वाससा **छन्नो**  
+जाङ्गलो जामदग्न्य-वत्।  
+इत्थं व्यक्त-स्वभावः स्यां,  
+**स्फोरयाशीविषाशन**॥
+
+<details><summary>GuruAnaerobic-ब्राह्मणम्</summary>
+
+Wild, but not savage.
+
+> "The closest to a wild environment is being in a Street Gang, with its periods of inaction and intense action, adrenaline, and psychological danger. This is because young people are still wild. Yet people say that is wrong. Society doesn't like wildness. It's scared by it. It will stop you from being wild. It wants you to conform, but as soon as you conform, your life-force and spirit is dead."
+
+> उच्छृङ्खलोऽपि न व्यालो  
+रूक्षो ऽपि न च राक्षसः। 
+
+इत्यत्र शब्दचितौ शशिसुहासौ साहाय्यम् अकुरुताम्।
+</details>
+
 भार्गवाग्नेस् स्फुलिङ्गोऽयं  
 पर्वतादौ दरे स्मये।  
 ऋषेर् दृष्टौ कवेरुक्तौ  
@@ -31,35 +59,12 @@ unicode_script: devanagari
 अ-मानित्वे ऽप्य् अ-दम्भित्वे  
 श्लाघा-त्यागे सु-दूषणे।  
 नृत्ये गीते तथा शिल्पे  
-गन्धे पुष्पे मृदुस्पृशे॥    
+गन्धे पुष्पे मृदु-स्पृशे॥    
 एतेषु तुष्टिर् अद्धाऽस्य  
 रतौ पुत्राभिवर्धने। 
 
 **आत्मज्ञानं** स्थिरं ह्येवं  
 **दद्याद् देवी** सरस्वती॥
-
-व्याधो व्याघ्रादि-सङ्काशो  
-ऽव्यक्ताद् व्यक्तः पुरा महान्।  
-क्वचिद् वेगं क्वचिन् मान्द्यं  
-बुद्ध्या कायेन **दर्शयन्**॥  
-उच्छृङ्खलोऽपि न व्यालो  
-रूक्षो ऽपि न च राक्षसः।  
-सभ्यता-वाससा **छन्नो**  
-जाङ्गलो जामदग्न्य-वत्।  
-व्यक्त-प्रिय-स्वभावः स्यां,  
-**स्फोरयाशीविषाशन**॥
-
-<details><summary>GuruAnaerobic-ब्राह्मणम्</summary>
-
-Wild, but not savage.
-
-> "The closest to a wild environment is being in a Street Gang, with its periods of inaction and intense action, adrenaline, and psychological danger. This is because young people are still wild. Yet people say that is wrong. Society doesn't like wildness. It's scared by it. It will stop you from being wild. It wants you to conform, but as soon as you conform, your life-force and spirit is dead."
-
-> उच्छृङ्खलोऽपि न व्यालो  
-रूक्षो ऽपि न च राक्षसः। 
-
-इत्यत्र शब्दचितौ शशिसुहासौ साहाय्यम् अकुरुताम्।
-</details>
 
 वातुलालय-मध्य-स्थः  
 स्वास्थ्योल्लास-रसोन्मुखः।  
