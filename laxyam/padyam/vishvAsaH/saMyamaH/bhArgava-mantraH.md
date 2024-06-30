@@ -75,7 +75,9 @@ Wild, but not savage.
 
 <details><summary>English</summary>
 
-One must live in the world seeking delight and health, as if one were a doctor in a mental hospital - neither too hopeful, nor hopeless.
+One must live in the world seeking delight and health,  
+as if one were a doctor in a mental hospital -  
+neither too hopeful, nor hopeless.
 </details>
 
 
