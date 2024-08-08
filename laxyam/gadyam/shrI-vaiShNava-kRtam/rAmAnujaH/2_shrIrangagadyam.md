@@ -72,7 +72,7 @@ Source: [TW](https://archive.org/details/gadyatrayamramanujacharyasrutaprakasika
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाधीन-त्रिविध-चेतनाचेतन-स्वरूप-स्थिति-प्रवृत्ति-भेदम्,
+**स्वाधीन**--त्रि-विध+++(←चेतने बद्ध-मुक्त-नित्याः, अचेतने काल-प्रकृति-शुद्धसत्त्वानि च)+++--चेतनाचेतन--स्व-रूप--स्थिति+++(→अनुवर्तन)+++-प्रवृत्ति-**भेदम्**,
 </details>
 
 <details><summary>मूलम्</summary>
