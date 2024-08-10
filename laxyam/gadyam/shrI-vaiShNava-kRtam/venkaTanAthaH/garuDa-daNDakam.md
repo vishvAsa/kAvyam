@@ -3,6 +3,15 @@ title = "गरुडदण्डकम्"
 unicode_script = "devanagari"
 +++
 
+<details><summary>गानानि</summary>
+
+<div class="videoEmbed"  caption="भार्गवी, श्रीमती" src="https://youtu.be/fxseucTKDaU?si=NHvTDwaEWlOFZNto"></div>
+
+
+
+</details>
+
+
 <details><summary>शठकोपः (En)</summary>
 
 Source: [TW](https://www.sadagopan.org/ebook/pdf/Garuda%20Dhandakam.pdf)
@@ -78,7 +87,7 @@ sadagopan.org 10 Lord’s mission is successfully concluded, Garuda returns to h
 **दर्वी-कराहार**+++(5)+++  
 देवाधिपाहार+++(→अमृत)+++-हारिन्  
 दिवौकस्-पति--क्षिप्त-दम्भोलि-धारा--  
-किणा-ऽऽकल्प+++(=अलङ्कार)+++  
+**किणा-ऽऽकल्प**+++(=अलङ्कार)+++  
 (कल्पान्त-वातूल+++(=चण्ड-मारुत)+++-कल्पोदय)+**अनल्प-वीरायित**  
 +**उद्यच्-चमत्कार**  
 दैत्यारि-जैत्र-ध्वजारोह-**निर्धारितोत्कर्ष**
@@ -170,7 +179,7 @@ O Garuda Bhagavan! Learned scholars offer their uninterrupted worships to you. Y
 जगन्-मूल-कन्दे मुकुन्दे  
 महानन्द-दोग्ध्रीं **दधीथा**,  
 मुधा-**काम-हीनाम्**,  
-अहीनाम्+++(श्लेषः!)+++ अहीनान्तक ॥ ५॥
+अहीनाम्+++(श्लेषः!)+++ अहीनान्तक ॥ ५॥+++(5)+++
 </details>
 
 <details><summary>शठकोपः (En)</summary>
