@@ -514,6 +514,21 @@ title = "०२ उत्तरशतकम्"
 **बिभ्राणः पासि** तत्त्वं, **गमयसि** च तथा **व्यूह्य** रङ्गाधिराज! ॥ ३९ ॥
 </details>
 
+<details><summary>rAjagopAlaH</summary>
+
+> "O, Sovereign of [^f160] Śrīraṅga!  
+> As the Supreme Vāsudeva (Para) endowed with all the six qualities,  
+> you are the object of blissful enjoyment for those that have attained mokṣa ;  
+> as Saṅkarṣaṇa being endowed with strength and knowledge,  
+> you destroy the Universe and also promulgate the śāstras;  
+> as Pradyumna being endowed with lordship and virility,  
+> you create the Universe and make Dharma prevail;  
+> as Aniruddha being endowed with splendour and the power to overcome others,  
+> you protect the world and teach the Truth.  
+> In this way you divide yourself."
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 षाङ्गुण्याद्वासुदेवः पर इति स भवान् मुक्तभोग्यो बलाढ्यात् बोधात् सङ्कर्षणस्त्वं हरति वितनुषे शास्त्रमैश्वर्यवीर्यात् ।  
