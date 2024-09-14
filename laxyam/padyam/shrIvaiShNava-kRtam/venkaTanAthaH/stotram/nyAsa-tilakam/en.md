@@ -3,335 +3,27 @@ title = "En"
 +++
 
 
-
-
-**avatArikA**: 
-
-The glories of the SuddhAntha SiddhAnthis \(Sri RanganAtha pathivrathais\) are celebrated here as persons of emulation by the PrapannAs. 
-
-**Meaning**
-
-Oh RanganAthaa\! May those great souls, whose souls are entrusted by AchAryAs for protection by You, who identify themselves with You in thought, word and deed \(SuddhAntha SiddhAnthis\), whose mind are always gravitating 45 
-
-
-
-
-
-towards kaimkaryam to You, who delve deep in to Your anantha kalyANa guNAnubhavam, who like muktha jeevans have abandoned the idea of Yourself being upAyam anymore, who have developed an exquisite, innate ruchi, rasaa about being Thy devoted servants \(SEshans\) to You as the Sarva SEshi --May the thought of such muktha jeevans and nithya sooris be forever sweet to adiyEn’s mind\! 
-
-
-
-
-
-
-
-**Prapannas constantly enjoy your ArAvamudha guNams** **Commentary**
-
-AR : 
-
-In the previous slOkam, Sva nishtai performed by an eminently qualified adhikAri was covered. In this slOkam, AchArya nishtai is the subject matter. In this mode of performance of one’s Prapatthi, AchAryan performs the Bhara SamarpaNam on behalf of the Mumukshu \(One who desires Moksham\). After Prapatthi, they 46 
-
-
-
-
-
-become VisEsha abhimAna vishaya BhUthar \(special objects of abhimAnam\) for You and develop intense ruchi for Kaimkaryam to You and Your Devi and constantly enjoy reflections on Your anantha kalyANa guNams. All the other PrapannAs have You as their upAyam; AchArya nishtAs on the other hand consider their AchAryan as their upAyam and upEyam. Swamy ParAsara Bhattar says in this context \(AchArya nishtai\): “my burden was made Yours by the AchAryAs; and I too uttered the words spelling out SaraNaagathy”. The result is that adiyEn enjoys the fruits of Prapatthi and engage in AchArya and BhAgavatha Kaimkaryams. It is a blessed state to be\! Swamy Desikan states that he too wishes to enjoy that blessed state. 
-
-
-
-
-
-47 
-
-
-
-
-
-SLOKAM
-
-KA 12 
-
-kLp Staeme=PypaSt Tvidtr gtyae=zi´ xI Éi´ ÉUça r¼ez àaitkULy \]r\[ pir\[miÚivR"atanukULya>, Çatar< TvamÉe\*aCDr\[ vr\[tae naw inivR¹yNt> TviÚi\]ÝaTm r\]a< àit rÉs ju;> Sv àv&iÄ< TyjiNt. 12. 
-
-kalpa stOmE api apAsta tvat itara gatayO 
-
-
-
-asakti dhee bhakti bhoomnA 
-
-rangEsa prAtikoolya ksharNa pariNaman- 
-
-nirvighAta AanukoolyA: | 
-
-trAtAram tvAm abhEdyAt SaraNa varaNatO 
-
-
-
-nAtha nirvighnayanta: 
-
-tvat nikshipta Aatma rakshAm prati rabhasa jusha: sva pravruttim tyajanti || 
-
-**avatArikA**: 
-
-The mind set of PrapannAs in the post-Prapatthi period is the subject matter of this slOkam. The five angAs of Prapatthi are also referred to in this slOkam. 
-
-**Meaning**
-
-: 
-
-Oh RanganAthaa\! The prapannAs are of the firm conviction that they have no one else but You to protect them \(ananya gathi:\). They are “apAsta tvat itara gataya:”. They also are convinced that they do not have the power/sakthi to 48 
-
-
-
-
-
-seek any other upAyam other than Yourself to protect themselves \(Aakinchanyam\). Therefore, they will not seek any one except You as their refuge even after the passage of many kalpams. They have unshakable faith in You as their protector \(Mahaa ViswAsam\). They have immeasurable bhakthi for You \(bhakti bhoomnA\). They will not engage in any act that will displease You \(praathikoolya varjanam\). They will actively engage in kaimkaryams that will meet with Your MukhOllAsam \(aanukoolya sankalpam\). They will have utter faith in You as their unfailing Protector to display their gOpthruthva VaraNam \(trAtAram tvAm abhEdyAt SaraNa varaNata:\). Through the expression of their Aakinchanyathvam, they have displayed the angam of KaarpaNyam. They have abandoned any effort at their Aathma RakshaNam after placing the burden of protection at Your sacred feet even when they are eager to enjoy the fruits of 
-
-their Prapatthi 
-
-
-
-
-
-**vaithamanidhi is awaiting prapannAs **
-
-49 
-
-
-
-
-
-\(rabhasa jusha: api, tvat nikshipta Aatma rakshAm prati sva-pravruttim tyajanti\). They are PuNyasaalis. They place their Aathma rakshaa Bharam at the sacred feet of Yours. You have been waiting for them. All the karmas that stood as VirOdhis for Prapatthi are gone now. They have reached a state of eagerness to enjoy You at Parama padham. In spite of that heightened sense of anticipation, they do not engage in any effort to hasten this process after their Prapatthi anushtAnam and wait patiently for the Phalan with full faith in You. 
-
-**Commentary**
-
-AR : 
-
-This is a slOkam to celebrate the mind set of SvanishtAs who believe firmly that Aathma Yaathrai is Bhagavadh adheenam and stay from any attempts at Sva-rakshaNam. For them, “sva-pravrutti nivrutti is Prapatthi” \(i.e.\), cessation from personal efforts at Sva-rakshaNam after Prapatthi lest their Prapatthi performed earlier would become null and void. The upadEsam of MokshArtha Prapatthi is done only once. 
-
-
-
-
-
-50 
-
-
-
-
-
-SLOKAM
-
-KA 13 
-
-Tyáepay Vypaya<StÊÉy kr\[e sÇpan\! sanutapan\! 
-
-ÉUyae=ip TvTàpÅya àzimt klu;an\! hNt sv¡shSTvm\!, ri¼n\! NyasaNtr¼aiol jn ihtta gaecr TviÚdez-àIit àaÝ Svv\[aRïm zuÉ cirtan\! pais xNyan\! AnNyan\!. 13. 
-
-tyaktOpAya vyapAyan tadubhaya karaNE 
-
-
-
-satrapAn sAnutApAn 
-
-bhUyOapi tvat prapattyA praSamita kalushAn hanta sarvam saha: tvam | 
-
-rangin nyAsa antaranga akhila jana hitatA gOcara tvat nidESa-preeti prApta sva varNAsrama subha caritAn paasi dhanyAn ananyAn || 
-
-**avatArikA**: 
-
-This slOkam focuses on the behaviour of PrapannAs, whose vow it is not trespass on Bhagavath Saasthrams. Our Lord’s commands are for the well being of all mankind \(akhila jana hitatA gOcarA\). PrapannAs, who have this code of conduct, are saluted as **“**Subha charithAn” \(people of blemishless and auspicious lives\). These PrapannAs turn a blind eye towards other gods. Such PrapannAs displaying Mahaa Viswaasam in Sriman NarayaNaa come under His exclusive Protection. 
-
-51 
-
-
-
-
-
-**Meaning**
-
-: 
-
-“Oh RanganAthaa\! Thou who puts up with \(pardon\) every thing, doth protect those blessed and fortunate persons who have discarded all other means \(but Prapatthi\) and stayed away from all sinful deeds; if perchance they take to these sinful deeds, they get remorseful, and get cleansed by performing PrAyascchittha Prapatthi; they observe all dharmAs suited to their varNa and Aasrama out of sheer love for Thy commands, which aim at the welfare of one and all. You treat such people of blemishless conduct as exclusively Thine. How wonderful it is to reflect on this\!” 
-
-**Commentary**
-
-AR : 
-
-This slOkam focuses on additional aspects of the conduct of an ideal Prapannan in the Post-Prapatthi period. They abandon sinful deeds and also Kaamya KarmAs \(thyaktha upAya vyapAyan\); if they end up engaging in such acts, they become remorseful and ashamed \(tath ubhaya karaNE sathrapAn saanuthApAn\). The acquiring of sins and the engagement in Kaamya karmas trouble them and drive them to perform PrAyascchittha Prapatthi at Your sacred feet and get cleansed of those sins \(bhUya: api tvat prapattyA praSamita kalushAn bhavati\). They follow scrupulously all of Your commands intended for the well being of all and become distinguished for the strict observance of VarNAsrama dharmams. They are blessed because they do not look at any one other than You and do not seek any phala except MOksham \(tvat nidESa preeti prApta sva-VarNAsrama subha caritAn\). These dhanyAs are so special to You that You take exclusive care of them. You rush to the rescue of these dhanyAs, who know of no refuge except You. These dhanyAs live an exemplary, single minded devoted life performing AarAdhanam to You and You alone as Your SEsha bhUthAs. They have not even a remote connection to the anya dEvathAs and consider any such involvement as a stain in their post-Prapatthi life. It is no wonder that You are moved and take such good care of them. 
-
-52 
-
-
-
-
-
-SLOKAM
-
-KA 14 
-
-zaekaSpda<z mwn> ïyta< ÉvaBxaE 
-
-ragaSpda<z shj< n é\[iTs Ê>om\!, 
-
-nae cedmI jgit r¼xurI\[ ÉUy> 
-
-\]aeidó Éaeg riskaStv n Smreyu>. 14. 
-
-sOka Aaspada amsa mathana: SrayatAm bhava abdhou 
-
-rAgAspadAmsa sahajam na ruNatsi dukkham | 
-
-nO cEt ami jagati rangadhureeNa bhUya: 
-
-kshOdishTha bhOga rasikA: tava na smarEyu: || 
-
-**Meaning**
-
-: 
-
-
-
-Oh Lord of Thiruvarangam\! You bless the PrapannAs with freedom from rebirth in this samsAra maNDalam \(SrayatAm bhava abhdhou Soka Aaspada amsa mathana:\). As a result of this anugraham of Yours, those who sought refuge in You gain Moksham at the end of their life. You do however give a mixed blessing during their life on earth during the Post-Prapatthi period: You present them some sorrows while they enjoy some sukham with their bodies. 
-
-This is commonly seen. If You had willed, You could have wiped out those sorrows and let them enjoy unalloyed sukham. There seems to be a reason for not removing those sorrows. You have perhaps concluded that the enjoyment of these alpa sukhams will create ruchi for them in the minds of the PrapannAs, which in turn will lead to their forgetting You. If the sukhams are mixed with dukkhams, then the prapannAs would gradually lose interest in the worldly sukhams and think more about You during the post-Prapatthi stage of 53 
-
-
-
-
-
-their lives. This might be the reason why PrapannAs also experience sorrows here before their ascent to Parama Padham. 
-
-
-
-
-
-
-
-**dhaNdana Gathi of the Lord **
-
-
-
-54 
-
-
-
-
-
-SLOKAM
-
-KA 15 
-
-hetuvRExe ivmzeR Éjnvidtrt\! ik< Tvnuòan kale ve\* TvÔUp Éedae ivivx \#h s tUpaytaNynpe\]a, ri¼n\! àarBx É¼at\! \)lmixkmnav&iÄééiòvt\! Syat\! 
-
-nana zBdaid Éedat\! àpdn Éjne sUicte sUÇ karE>. 15. 
-
-hEthur vaidhE vimarsE bhajanavaditarat 
-
-
-
-kim tvanushTaana kaalE 
-
-vEdya tvadroopa bhEdO vividha iha sa 
-
-tu upAyatA anya anapEkshA | 
-
-rangin prArabdha bhangAt phalam adhikamanA-vrutti: uktEshTivat syAt 
-
-nAnA SabdAdi bhEdAt prapadana bhajanE 
-
-soocitE sootrakArai: || 
-
 **avatArikA**: 
 
 This slOkam points out that Prapatthi and Bhakthi are distinctly different upAyams for Moksham. Swamy Desikan points out here their differences. 
 
-Prapatthi needs to be observed only once; Bhakthi yOgam has to be practiced however with undiminishing intensity all thru the saadhakan’s life. There is yet another difference between Prapatthi and Bhakthi, when it comes to the destruction of one’s karmAs. There are three kinds of sins: 1. Sanchitham 
+Prapatthi needs to be observed only once; Bhakthi yOgam has to be practiced however with undiminishing intensity all thru the saadhakan’s life. There is yet another difference between Prapatthi and Bhakthi, when it comes to the destruction of one’s karmAs. There are three kinds of sins: 
 
-55 
-
-
-
-
-
+1. Sanchitham [[55]] 
 2. PrArabdham with its two divisions \(abhyugatha PrArabdham and anabyugatha PrArabdham\). Sanchithams are those accumulated and unspent from previous births. PrArabhdhams are those, which have begun to yield fruit. PrArabdha Karmas have two subdivisions. The anabhyagatha PrArabhdham is experienced over many janmAs. The abhyugatha PrArabdham is experienced in this life and it ends there. 
-
 3. Aagami: Those accumulated afresh after Prapatthi. Aagami sins can be classed as resulting from unconsciously acquired ones and those which are acquired consciously. Regarding the unconsciously acquired Aagami, BhagavAn does not punish the Prapannan; for the deliberately acquired one, BhagavAn gives light punishment or destroys them when the Prapannan performs the right kind of PrAyascchitthm \(expiatory act\). 
-
-
 
 This benefit does not exist for one practising Bhakthi yOgam. Lapses would yield one or more births for the Bhakthi yogi before he gains moksham. 
 
 Therefore Prapatthi is superior to Bhakthi yOgam for Moksham. 
 
-M
+**MEANING**
 
+Oh RanganAthA\! SaasthrAs have elaborated on the upAyams/Saadhanams for Moksham. A careful study of these Saasthrams reveals that Bhakthi yOgam like Prapatthi yOgam is also a direct upAyam for Moksham.  
+Bhakthi yOgam can be practised thru many routes such as Sadh Vidhyai, Dahara Vidhyai, VaiswAnara Vidhyai etc.  
+When you choose one of these Vidhyais as upAyam for Moksham, they have to choose that guNam of Yours, which is pertinent to that Vidhyai. The specific guNam \(aspect of Brahman\) for use in the different upAsanA routes for gaining Moksham have been spelled out in the various Upanishad sections and Brahma Soothrams \(III.3\). These VidhyAs are “alternatives as well as equivalents”. The Saadhaka has to pick and choose among Your many guNams in Bhakthi yOgam. 
 
-
-EANING
-
-EANI
-
-: 
-
-Oh RanganAthA\! SaasthrAs have elaborated on the upAyams/Saadhanams for Moksham. A careful study of these Saasthrams reveals that Bhakthi yOgam like Prapatthi yOgam is also a direct upAyam for Moksham. Bhakthi yOgam can be practised thru many routes such as Sadh Vidhyai, Dahara Vidhyai, VaiswAnara Vidhyai etc. When you choose one of these Vidhyais as upAyam for Moksham, they have to choose that guNam of Yours, which is pertinent to that Vidhyai. The specific guNam \(aspect of Brahman\) for use in the different upAsanA routes for gaining Moksham have been spelled out in the various Upanishad sections and Brahma Soothrams \(III.3\). These VidhyAs are 
-
-“alternatives as well as equivalents”. The Saadhaka has to pick and choose among Your many guNams in Bhakthi yOgam. In Prapatthi yOgam however skips the need for such a choice among the various guNams. Your intrinsic nature \(SvbhAvam/tanmai\) alone needs to be reflected upon. 
-
-56 
-
-
-
-
-
-Prapatthi does not need as 
-
-prerequisite Karma Yogam. 
-
-Oh Lord\! You stand in place 
-
-of Karma and Bhakthi yOgam 
-
-and help the Prapannan. 
-
-Positioning of the Lord in 
-
-place of the difficult to 
-
-practice Bhakthi yOgam or 
-
-other upAyams is Bhara 
-
-SamarpaNam or Prapatthi. 
-
-Our Lord thus becomes 
-
-nirapEksha hEthu or upAyam. 
-
-
-
-The Prapannan does not seek 
-
-other upAyams \(displays 
-
-nirapEksham\). The Lord 
-
-stands in place \(Sarva 
-
-dharmAn parithyajya\) and He 
-
-becomes the veritable 
-
-
-
-nirapEksha upAyam for the 
-
-**NirapEksha upAyam **
-
-one performing Prapatthi. 
-
-Prapatthi is an equivalent 
-
-path for Moksham like Bhakthi yOgam, where Vedam \(Sruthi\) mandates and enjoins to engage in upAsanA: “Bhajasva, upAseetha”. Prapatthi also has a similar command in Smruthi: “SaraNam vraja”. Based on such commands, Bhakthi and Prapatthi yOgams are equivalent routes to Moksham. Prapatthi Yogam is superior in that it is done only once and it destroys the two kinds of Paapams and assures Moksham at the end of the current life. In these aspects, Prapatthi Yogam is different than Bhakthi yOgam although the end phala is the same. 
+In Prapatthi yOgam however skips the need for such a choice among the various guNams. Your intrinsic nature \(SvbhAvam/tanmai\) alone needs to be reflected upon. [[56]] Prapatthi does not need as  prerequisite Karma Yogam.  Oh Lord\! You stand in place  of Karma and Bhakthi yOgam  and help the Prapannan.  Positioning of the Lord in  place of the difficult to  practice Bhakthi yOgam or  other upAyams is Bhara  SamarpaNam or Prapatthi.  Our Lord thus becomes  nirapEksha hEthu or upAyam.  The Prapannan does not seek  other upAyams \(displays  nirapEksham\). The Lord  stands in place \(Sarva  dharmAn parithyajya\) and He  becomes the veritable  nirapEksha upAyam for the  **NirapEksha upAyam ** one performing Prapatthi.  Prapatthi is an equivalent  path for Moksham like Bhakthi yOgam, where Vedam \(Sruthi\) mandates and enjoins to engage in upAsanA: “Bhajasva, upAseetha”. Prapatthi also has a similar command in Smruthi: “SaraNam vraja”. Based on such commands, Bhakthi and Prapatthi yOgams are equivalent routes to Moksham. Prapatthi Yogam is superior in that it is done only once and it destroys the two kinds of Paapams and assures Moksham at the end of the current life. In these aspects, Prapatthi Yogam is different than Bhakthi yOgam although the end phala is the same. 
 
 
 
@@ -379,7 +71,7 @@ Here, Swamy Desikan establishes that the different words used for Prapatthi are 
 
 **Meaning**
 
-: 
+
 
 Oh RanganAtha\! Among the terms used for explaining Veda KarmAs, the word 
 
@@ -529,7 +221,7 @@ feeble mindedness of the deluded people that propels them to choose the other up
 
 **Meaning**
 
-: 
+
 
 Oh Rangasaayee\! When one performs yajn~ams and yaagams, people seek some karma phalas like worldly wealth, progeny etc. Similarly, they perform upAsaNaa \(Bhakthi yOgam\) and gain the phala of their choice. The Prapatthi performed by chEtanams at Your sacred feet has the power to yield all the four PurushArthams including Moksham. While this is so, it is hard to understand why people who are incapable of going through the rigors of practising Bhakthi Yogam for Moksham select this route instead of easy to practise Prapatthi. One can only understand it as the expression of their stubborn foolishness. Therefore, it is wise for one who is unfit to engage in Bhakthi yOgam should seek Prapatthi for realizing Moksham. 
 
@@ -607,7 +299,7 @@ These five doubts that assail even the scholars are known as SankhA Panchagam an
 
 **Meaning**
 
-: 
+
 
 Those who perform saraNaagathi are assailed by five doubts that interfere with the important angam of Mahaa ViswAsam in their Prapatthi. The first doubt is: How can Prapatthi done only once can be effective? \(kartavyam sakrudhEva, hanta\!\). They say that all our mighty bundles of sins are destroyed by this one time observance \(tata sarvam kalusham naSyati\). How is this possible? The Lord grants the Prapannan a sthAnam in His Supreme abode, which is hard to gain even by the likes of great ones like Brahma and Sivan \(brahma Isaadi sudurlabham padam api mayaa draag prApyam\). How can I believe that myself of limited spiritual attainments hope to get such a lofty sthAnam? These are the doubts that assail one and interfere with the development of Mahaa ViswAsam in the Lord as the SaraNaagatha Rakshakan \(iti nyastAm idam viswAsa pratibandhi cintanam\). All these doubts are removed by Your very nature of being Sriman Narayana, the divine consort of Mahaa Lakshmi **\(**ramApatitva subhagam tava nArAyaNatvam viswAsa pratibhandhi cintanam nasyati\). 
 
@@ -679,7 +371,7 @@ This slOkam celebrates the importance of AchArya KaTaaksham. Swamy Desikan point
 
 **Meaning**
 
-: 
+
 
 Oh Lord of Thiruvarangam\! adiyEn is a major sinner. adiyEn is incapable of pursuing Karma, Jn~Ana or Bhakthi yOgams. Therefore, adiyEn has come forward to perform Prapatthi and utter the dhvaya mantram associated with 69 
 
@@ -727,7 +419,7 @@ This slOkam emphasizes the importance of AchArya nishtai. This slOkam praises th
 
 **Meaning**
 
-: 
+
 
 Oh RanganAtha\! It is customary for a blind man to seek the help of a man with good eye sight to take him to his desired destination. A lame man with limited mobility is lifted and placed in the center of the boat by a boatman to ferry the lame man across the river. The child of a servant of the King enjoys the benefits of its father’s position \(presents from the royal household\), even if it 71 
 
@@ -835,7 +527,7 @@ Swamy Kumara VaradAcchAr sums up the essence of this slOkam this way: “na kEva
 
 **Meaning**
 
-: 
+
 
 Oh Ranganatha\! Oh My Lord\! You assured RaamAnujA about the fulfilment of his appeal for SaraNaagathy by quoting Your earlier assurances to Arjuna at KurukshEthram \(Sarva dharmAn Parithyajya--\) and VibhIshaNa at the ocean side \(SakrudhEva prapannAya---Vratham Mama**\)**. Using the incarnations as KrishNa and Raama, You uttered these words and grew their Mahaa ViswAsam in You as the SaraNaagatha Rakshakan. You grew RaamAnujA’s Mahaa ViswAsam by quoting Your SaraNaagathy Vaakyams to Arjuna and VibhishaNa and reminded RaamAnujA that those earlier assurances of Yours will not become false. adiyEn has heard about Your assurances to my ParamAchAryan and am proud of my sambhandham to RaamAnuja. Oh Bhagavann\! Please bless this servant of Yours always, who is proud of his sambhandham to Udayavar. 
 
@@ -869,7 +561,7 @@ vishama vishaya cintA mEdurA mE duraaSaa ||
 
 **Meaning**
 
-: 
+
 
 
 
@@ -937,7 +629,7 @@ Moksham as a Prapannan automatically through the power of the SadAchAryan and he
 
 **Meaning**
 
-: 
+
 
 My dear Mind\! Why do you suffer so much about dEha yaathra? As long as we are here, that will continue. It will follow the route of the KarmAs \(karmAnuguNam\). 
 
@@ -1007,7 +699,7 @@ At ThirumAlirumchOlai, PeriyAzhwAr expressed a similar sentiment in his Thirumoz
 
 **Meaning**
 
-: 
+
 
 The great Mukundhan, the Moksha Daayakan, has taken up the duties as promised of my Yoga KshEmam \(Yoga kshEmam vahAmyaham\). His incomparable dayaa lets Him excuse even if one commits apachArams frequently. He forgives us once we repent over them and perform the right kind of PrAyascchittham. His Dayaa does not experience any change and as a result, He becomes easily approachable. He is the most generous one \(Mukunda Rangan\). He blesses us with all kinds of soubhAgyams both here and in the hereafter. While we have Him caring for us across the broad spectrum of soubhAgyams, why would I seek the generosity of the haughty insignificant 
 
@@ -1067,7 +759,7 @@ Kavi VenkatEsA’s burden for rakshaNam of the Aathmaa has been placed already a
 
 **Meaning**
 
-: 
+
 
 
 
@@ -1147,7 +839,7 @@ Oh RanganAthA\! Please spare me any such humiliations. I am Your unconditional s
 
 **Meaning**
 
-: 
+
 
 Oh Ranga\! adiyEn’s mind leaps with joy to perform kaimkaryam for You in a state of mind as Your nithya, nirupAdhika Seshan \(rangEswara\! laasyavatA manasA dAsyam anumatya tvat padE nityam aham kimkaravANi**\)**. adiyEn will not even look at the faces of those fierce rich, who take pride in humiliating those who have assembled at their doors seeking favours \(kasyacit AaDhyakasya vadanE bhikshA vilakshaam drusam puna: na tu kuryAm\). \(This slOkam is the third in the series rejecting the haughty rich for favours. Here, Swamy Desikan affirms his determination to the Lord directly. This slOkam is used by Swamy Desikan in Sankalpa SooryOdhayam: Act VI. slOkam 69\). 
 
@@ -1195,7 +887,7 @@ abode of all frailties as “Swamin” and other honorific titles?
 
 **Meaning**
 
-: 
+
 
 Oh RanganAtha\! You are nirvyAja sahishNu \(one who forgives all aparAdhams without seeking a cause\). You have in Your ThirumEni, the Periya PirAtti as Your lakshaNam \(tava kalyANa Aathmani kamalaam dharathy\). Oh Moksha dAyaka MukundhA\! You stand as YathOktha Kaari for those, who fold their hands in anjali mudhrA in front of You\! You become totally under their control. While You display all these anantha KalyANa guNams, how can adiyEn approach some insignificant human being and declare: “Oh Master\! Please protect adiyEn. Please shower me with riches\! May Thou live long\! Oh Master\! Please consider me as one of your own\!” That is impossible for me to say and my tongue becomes ashamed even over this thought. Such statements extolling the indulgent rich would be “pacchai pasum poykaL” in AzhwAr’s words. 
 
@@ -1253,7 +945,7 @@ and therfore are “thvadhEkAnthis” \(we will not worship anyone but You\).
 
 **Meaning**
 
-: 
+
 
 Oh Lord of Srirangam\! You are filled with Your limitless dayaa pravAham \(niravadhika phravAha karuNaa pariNaahavati\). You are the boon giver of all what the SaraNaagathAs desire \(SaraNaagata kaamadhugE tvayi\). When You stand tall in this magnificent manner, how can one justify seeking gods like Brahma, Sivan and other Karma Vasyars, who have been granted small powers by You because of their fierce tapas. We as PrapannAs will not approach them for any thing \(parimita dEsa kAla phaladAn, phaladha AakrutikAn amukAn vidhi Siva pramukhAn katham adhikurmahE?\). These pramukhaas have been empowered by You \(Sriman naarAyaNan resting on Your serpent bed at Srirangam\) and appear like that they 90 
 
@@ -1341,7 +1033,7 @@ KumAra VaradAchAr Swamy’s exact words are: “atha: param, Moola mantrasya pad
 
 **Meaning**
 
-: 
+
 
 Oh Lord of Srirangam \(ranga nrupatE\), Oh Lord of Periya PirAtti \(indirEsa\)\! 
 
@@ -1423,7 +1115,7 @@ Seshan of the dhivya dampathis. When the Prapatthi is completed, all the sins ac
 
 **Meaning**
 
-: 
+
 
 Ranga dhurya \(Oh Lord of Sri Rangam\)\! The moment adiyEn receives dhvaya mantrOpadEsam from adiyEn’s AchAryan, adiyEn gains knowledge about my true nature \(Svaroopa Satthu\) as unconditional Seshan for You and Your Devi \(AchAryAth dvaya samadhigamE labdha sattam\). At that moment \(tadAtvE\), the accumulated sins of adiyEn also get destroyed; Poorva bharam is gone now and the sins that adiyEn will acquire unconsciously in the future \(utthara bharam\) are not going to stick to me \(tadAtve vislishTa aslishTa poorva uttara durita bharam**\)**. VislishTa Karmaas are sins from previous births and are PrArabhdhams. AaslishTa karmAs are of two kinds. Those which are acquired after Prapatthi unconsciously will not stick to one because one has performed Prapatthi. 
 

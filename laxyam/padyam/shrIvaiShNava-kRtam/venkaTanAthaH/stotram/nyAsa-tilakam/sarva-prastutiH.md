@@ -499,7 +499,7 @@ Swamy Desikan now asks Lord RanganthA a question: Having done so much for me alr
 आचार्यानिति रङ्गधुर्य मयि ते स्वल्पावशिष्टो भरः ॥ ९॥
 </details>
 
-## प्रपत्ति-भाग्यम्
+## प्रपत्ति-भाग्यं स्वनिष्ठया
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्तेष्व् **आशु-फला**, तद्-अन्य+++(=दृप्त-प्रपन्न)+++-विषये ऽप्य् उच्छिन्न-देहान्तरा,  
@@ -539,24 +539,75 @@ This Prapatthi yOgam will yield immediate phala for the Aarthan / Aartha Prapann
 </details>
 
 
+## प्रपत्ति-भाग्यं आचार्य-निष्ठया
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वय्याचार्यैविनिहितभरास्तावका रङ्गनाथ  
-त्वत्कैङ्गर्यप्रवणमनसस्त्वद्गुणास्वादमत्ताः ।  
-त्वय्येकस्मिन्नपि विजहतो मुक्तवत्साधनत्वं  
-त्वच्छेषत्वस्वरसरसिकाः सूरयो मे स्वदन्ताम् ॥ ११॥
+त्वय्य् आचार्यैर् **विनिहित**-भरास्, तावका रङ्ग-नाथ  
+त्वत्-**कैङ्गर्य-प्रवण**-मनसस् त्वद्-**गुणास्वाद-मत्ताः** ।  
+त्वय्य् एकस्मिन्न् अपि **विजहतो** मुक्तवत् साधनत्वं  
+त्वच्-छेषत्व--स्व-रस--रसिकाः सूरयो +++(आचार्य-निष्ठ-भर-समर्पकाः)+++ मे **स्वदन्ताम्** +++(रुच्याम्)+++ ॥ ११॥
 </details>
+
+<details><summary>English</summary>
+
+**avatArikA**: 
+
+The glories of the SuddhAntha SiddhAnthis \(Sri RanganAtha pathivrathais\) are celebrated here as persons of emulation by the PrapannAs. 
+
+**Meaning**
+
+Oh RanganAthaa\! May those great souls, whose souls are entrusted by AchAryAs for protection by You, who identify themselves with You in thought, word and deed \(SuddhAntha SiddhAnthis\), whose mind are always gravitating 45 towards kaimkaryam to You, who delve deep in to Your anantha kalyANa guNAnubhavam, who like muktha jeevans have abandoned the idea of Yourself being upAyam anymore, who have developed an exquisite, innate ruchi, rasaa about being Thy devoted servants \(SEshans\) to You as the Sarva SEshi --May the thought of such muktha jeevans and nithya sooris be forever sweet to adiyEn’s mind\! 
+
+
+
+
+**Commentary**
+
+AR : 
+
+In the previous slOkam, Sva nishtai performed by an eminently qualified adhikAri was covered. In this slOkam, AchArya nishtai is the subject matter. In this mode of performance of one’s Prapatthi, AchAryan performs the Bhara SamarpaNam on behalf of the Mumukshu \(One who desires Moksham\). After Prapatthi, they 46 become VisEsha abhimAna vishaya BhUthar \(special objects of abhimAnam\) for You and develop intense ruchi for Kaimkaryam to You and Your Devi and constantly enjoy reflections on Your anantha kalyANa guNams. All the other PrapannAs have You as their upAyam; AchArya nishtAs on the other hand consider their AchAryan as their upAyam and upEyam. Swamy ParAsara Bhattar says in this context \(AchArya nishtai\): “my burden was made Yours by the AchAryAs; and I too uttered the words spelling out SaraNaagathy”. The result is that adiyEn enjoys the fruits of Prapatthi and engage in AchArya and BhAgavatha Kaimkaryams. It is a blessed state to be\! Swamy Desikan states that he too wishes to enjoy that blessed state. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-त्वय्याचार्यैविनिहितभरास्तावका रङ्गनाथ  
+त्वय्याचार्यैर्विनिहितभरास्तावका रङ्गनाथ  
 त्वत्कैङ्गर्यप्रवणमनसस्त्वद्गुणास्वादमत्ताः ।  
 त्वय्येकस्मिन्नपि विजहतो मुक्तवत्साधनत्वं  
 त्वच्छेषत्वस्वरसरसिकाः सूरयो मे स्वदन्ताम् ॥ ११॥
 </details>
 
-
+## कृत-कृत्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(प्रपन्नाः)+++ कल्प-स्तोमे ऽप्य् **अपास्त-त्वद्-इतर-गतयो** ऽशक्ति-धी-भक्ती-भूम्ना  
+रङ्गेश +++(त्वाम् प्रति)+++ प्रातिकूल्य-क्षरण--परिणमन्-निर्विघातानुकूल्याः ।  
+त्रातारं त्वाम् अभेद्याच् **छरण-वरणतो** नाथ **निर्विघ्नयन्तः**+++(5)+++  
+त्वन्-निक्षिप्तात्म-रक्षां प्रति रभस-जुषः +++(मोक्षम् प्रति)+++ स्व-प्रवृत्तिं **त्यजन्ति** ॥ १२॥
+</details>
+
+<details><summary>English</summary>
+
+**avatArikA**: 
+
+The mind set of PrapannAs in the post-Prapatthi period is the subject matter of this slOkam. The five angAs of Prapatthi are also referred to in this slOkam. 
+
+**Meaning**
+
+Oh RanganAthaa\! The prapannAs are of the firm conviction that they have no one else but You to protect them \(ananya gathi:\). They are “apAsta tvat itara gataya:”. They also are convinced that they do not have the power/sakthi to 48 seek any other upAyam other than Yourself to protect themselves \(Aakinchanyam\). Therefore, they will not seek any one except You as their refuge even after the passage of many kalpams. They have unshakable faith in You as their protector \(Mahaa ViswAsam\). They have immeasurable bhakthi for You \(bhakti bhoomnA\). They will not engage in any act that will displease You \(praathikoolya varjanam\). They will actively engage in kaimkaryams that will meet with Your MukhOllAsam \(aanukoolya sankalpam\).  
+They will have utter faith in You as their unfailing Protector to display their gOpthruthva VaraNam \(trAtAram tvAm abhEdyAt SaraNa varaNata:\). Through the expression of their Aakinchanyathvam, they have displayed the angam of KaarpaNyam. They have abandoned any effort at their Aathma RakshaNam after placing the burden of protection at Your sacred feet even when they are eager to enjoy the fruits of their Prapatthi 49 
+\(rabhasa jusha: api, tvat nikshipta Aatma rakshAm prati sva-pravruttim tyajanti\). They are PuNyasaalis. They place their Aathma rakshaa Bharam at the sacred feet of Yours. You have been waiting for them. All the karmas that stood as VirOdhis for Prapatthi are gone now. They have reached a state of eagerness to enjoy You at Parama padham. In spite of that heightened sense of anticipation, they do not engage in any effort to hasten this process after their Prapatthi anushtAnam and wait patiently for the Phalan with full faith in You. 
+
+**Commentary**
+
+AR : 
+
+This is a slOkam to celebrate the mind set of SvanishtAs who believe firmly that Aathma Yaathrai is Bhagavadh adheenam and stay from any attempts at Sva-rakshaNam. For them, “sva-pravrutti nivrutti is Prapatthi” \(i.e.\), cessation from personal efforts at Sva-rakshaNam after Prapatthi lest their Prapatthi performed earlier would become null and void. The upadEsam of MokshArtha Prapatthi is done only once. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 कल्पस्तोमेऽप्यपास्तत्वदितरगतयोऽशक्तिधीभक्तीभूम्ना  
 रङ्गेश प्रातिकूल्यक्षरणपरिणमन्निर्विघातानुकूल्याः ।  
@@ -564,16 +615,37 @@ This Prapatthi yOgam will yield immediate phala for the Aarthan / Aartha Prapann
 त्वन्निक्षिप्तात्मरक्षां प्रति रभसजुषः स्वप्रवृत्तिं त्यजन्ति ॥ १२॥
 </details>
 
-<details><summary>मूलम्</summary>
 
-कल्पस्तोमेऽप्यपास्तत्वदितरगतयोऽशक्तिधीभक्तीभूम्ना  
-रङ्गेश प्रातिकूल्यक्षरणपरिणमन्निर्विघातानुकूल्याः ।  
-त्रातारं त्वामभेद्याच्छरणवरणतो नाथ निर्विघ्नयन्तः  
-त्वन्निक्षिप्तात्मरक्षां प्रति रभसजुषः स्वप्रवृत्तिं त्यजन्ति ॥ १२॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**त्यक्तोपाय**-व्यपायांस्, तद्-उभय-करणे **स-त्रपान्** सानुतापान्  
+भूयोऽपि त्वत्-प्रपत्त्या **प्रशमित**-कलुषान् - हन्त सर्वं-सहस् त्वम् ।  
+रङ्गिन् न्यासान्तरङ्गाखिल-जन-हितता-गोचर--त्वन्-निदेश-  
+प्रीति-प्राप्त--स्व-वर्णाश्रम-शुभ-चरितान् **पासि** धन्यान् अनन्यान् ॥ १३॥
+</details>
+
+<details><summary>English</summary>
+
+**avatArikA**: 
+
+This slOkam focuses on the behaviour of PrapannAs, whose vow it is not trespass on Bhagavath Saasthrams. Our Lord’s commands are for the well being of all mankind \(akhila jana hitatA gOcarA\). PrapannAs, who have this code of conduct, are saluted as **“**Subha charithAn” \(people of blemishless and auspicious lives\). These PrapannAs turn a blind eye towards other gods. Such PrapannAs displaying Mahaa Viswaasam in Sriman NarayaNaa come under His exclusive Protection. 
+
+51 
+
+**Meaning**
+
+“Oh RanganAthaa\! Thou who puts up with \(pardon\) every thing, doth protect those blessed and fortunate persons who have discarded all other means \(but Prapatthi\) and stayed away from all sinful deeds; if perchance they take to these sinful deeds, they get remorseful, and get cleansed by performing PrAyascchittha Prapatthi; they observe all dharmAs suited to their varNa and Aasrama out of sheer love for Thy commands, which aim at the welfare of one and all. You treat such people of blemishless conduct as exclusively Thine. How wonderful it is to reflect on this\!” 
+
+**Commentary**
+
+AR : 
+
+This slOkam focuses on additional aspects of the conduct of an ideal Prapannan in the Post-Prapatthi period. They abandon sinful deeds and also Kaamya KarmAs \(thyaktha upAya vyapAyan\); if they end up engaging in such acts, they become remorseful and ashamed \(tath ubhaya karaNE sathrapAn saanuthApAn\). The acquiring of sins and the engagement in Kaamya karmas trouble them and drive them to perform PrAyascchittha Prapatthi at Your sacred feet and get cleansed of those sins \(bhUya: api tvat prapattyA praSamita kalushAn bhavati\). They follow scrupulously all of Your commands intended for the well being of all and become distinguished for the strict observance of VarNAsrama dharmams. They are blessed because they do not look at any one other than You and do not seek any phala except MOksham \(tvat nidESa preeti prApta sva-VarNAsrama subha caritAn\). These dhanyAs are so special to You that You take exclusive care of them. You rush to the rescue of these dhanyAs, who know of no refuge except You. These dhanyAs live an exemplary, single minded devoted life performing AarAdhanam to You and You alone as Your SEsha bhUthAs. They have not even a remote connection to the anya dEvathAs and consider any such involvement as a stain in their post-Prapatthi life. It is no wonder that You are moved and take such good care of them. 
+
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>मूलम्</summary>
 
 त्यक्तोपायव्यपायांस्तदुभयकरणे सत्रपान्सानुतापान्  
 भूयोऽपि त्वत्प्रपत्त्या प्रशमितकलुषान्हन्त सर्वंसहस्त्वम् ।  
@@ -581,16 +653,28 @@ This Prapatthi yOgam will yield immediate phala for the Aarthan / Aartha Prapann
 प्रीतिप्राप्तस्ववर्णाश्रमशुभचरितान्पासि धन्याननन्यान् ॥ १३॥
 </details>
 
-<details><summary>मूलम्</summary>
+## दुःखम् अप्य् अनुग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्यक्तोपायव्यपायांस्तदुभयकरणे सत्रपान्सानुतापान्  
-भूयोऽपि त्वत्प्रपत्त्या प्रशमितकलुषान्हन्त सर्वंसहस्त्वम् ।  
-रङ्गिन् न्यासान्तरङ्गाखिलजनहिततागोचरत्वन्निदेश-  
-प्रीतिप्राप्तस्ववर्णाश्रमशुभचरितान्पासि धन्याननन्यान् ॥ १३॥
+शोकास्पदांश-मथनः **श्रयतां** भवाब्धौ  
+रागास्पदांश-सहजं **न रुणत्सि** दुःखम् ।  
+**नो चेद्** अमी जगति रङ्ग-धुरीण भूयः  
+क्षोदिष्ठ+++(←क्षुद्र)+++-भोग-रसिकास् तव **न स्मरेयुः** ॥ १४॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+**Meaning**
+
+Oh Lord of Thiruvarangam\! You bless the PrapannAs with freedom from rebirth in this samsAra maNDalam \(SrayatAm bhava abhdhou Soka Aaspada amsa mathana:\). As a result of this anugraham of Yours, those who sought refuge in You gain Moksham at the end of their life. You do however give a mixed blessing during their life on earth during the Post-Prapatthi period: You present them some sorrows while they enjoy some sukham with their bodies. 
+
+This is commonly seen. If You had willed, You could have wiped out those sorrows and let them enjoy unalloyed sukham. There seems to be a reason for not removing those sorrows. You have perhaps concluded that the enjoyment of these alpa sukhams will create ruchi for them in the minds of the PrapannAs, which in turn will lead to their forgetting You. If the sukhams are mixed with dukkhams, then the prapannAs would gradually lose interest in the worldly sukhams and think more about You during the post-Prapatthi stage of 53 their lives. This might be the reason why PrapannAs also experience sorrows here before their ascent to Parama Padham. 
+
+
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>मूलम्</summary>
 
 शोकास्पदांशमथनः श्रयतां भवाब्धौ  
 रागास्पदांशसहजं न रुणत्सि दुःखम् ।  
@@ -598,28 +682,20 @@ This Prapatthi yOgam will yield immediate phala for the Aarthan / Aartha Prapann
 क्षोदिष्ठभोगरसिकास्तव न स्मरेयुः ॥ १४॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-शोकास्पदांशमथनः श्रयतां भवाब्धौ  
-रागास्पदांशसहजं न रुणत्सि दुःखम् ।  
-नो चेदमी जगति रङ्गधुरीण भूयः  
-क्षोदिष्ठभोगरसिकास्तव न स्मरेयुः ॥ १४॥
-</details>
-
-
+## प्रपत्ति-भक्ति-व्यत्यासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हेतुवैधे विमर्शे भजनवदितरत् किं त्वनुष्टानकाले  
-वेद्यत्वद्रूपभेदो विविध इह स तूपायान्यनपेक्षा ।  
-रङ्गिन्प्रारब्धभङ्गात्फलमधिकमनावृत्तिरुक्तेष्टिवन्स्यात्  
-नाना शब्दादिभेदात्प्रपदनभजने सूचिते सूत्रकारैः ॥ १५॥
+हेतुर् वैधे विमर्शे भजनवद् इतरत् किं त्व् अनुष्ठान-काले  
+वेद्य-त्वद्-रूप-भेदो विविध, इह स +++(हेतुः)+++ तूपायतान्यानपेक्षा ।  
+रङ्गिन् प्रारब्ध-भङ्गात् फलम् अधिकम्, अनावृत्तिर् उक्ता,+इष्टिवत् स्यात्  
+"नाना शब्दादि-भेदात्" प्रपदन-भजने सूचिते सूत्रकारैः ॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-हेतुवैधे विमर्शे भजनवदितरत् किं त्वनुष्टानकाले  
-वेद्यत्वद्रूपभेदो विविध इह स तूपायान्यनपेक्षा ।  
-रङ्गिन्प्रारब्धभङ्गात्फलमधिकमनावृत्तिरुक्तेष्टिवन्स्यात्  
+हेतुर्वैधे विमर्शे भजनवदितरत् किं त्वनुष्ठानकाले  
+वेद्यत्वद्रूपभेदो विविध इह स तूपायतान्यानपेक्षा ।  
+रङ्गिन्प्रारब्धभङ्गात्फलमधिकमनावृत्तिरुक्तेष्टिवत्स्यात्  
 नाना शब्दादिभेदात्प्रपदनभजने सूचिते सूत्रकारैः ॥ १५॥
 </details>
 
