@@ -28,8 +28,27 @@ title = "स्तुति-मुक्तक-सङ्ग्रहः"
 "एतच् चानादि-सिद्धाद् अनुभव-विभवात्", "+++(वेदादिग्रन्थः)+++ सोऽपि साक्रोश एव" ।  
 "क्वाक्रोशः, कस्य", "गीतादिषु, मम", "विदितः कोऽत्र साक्षी", "सुधीः स्यात्"  
 "हन्त! त्वत्-पक्ष-पाती स" इति नृ-कलहे मृग्य-मध्य-स्थवत् त्वम् +++(जीव!)+++ ॥ ५॥  
-+++(इति पराशरभट्टाभिषेक-श्लोकः)+++
++++(इति पराशर-भट्टाभिषेक-श्लोकः)+++
 </details>
+
+<details><summary>राजगोपालः</summary>
+
+"Bhagavān: You are mine.  
+The Jīva   : I exist (only) for myself.  
+Bhagavān: Where is it stated ?  
+The Jīva: Where is the opposite stated ?  
+Bhagavān: In the original pramāṇa : the Veda.  
+The Jīva  : The opposite view is based on the strength of my own enjoyment of myself from beginning less time.  
+Bhagavān: But protests have been recorded then and there.  
+The Jīva   : Where is it objected to ? and by whom?'  
+Bhagavān: The protest or objection was made in such works as the Gita and it was made by me.  
+The Jīva  : Is there any witness ?  
+Bhagavān: The wise man.  
+The Jīva   : But he is an interested witness.  
+Thus in this dispute between Bhagavān and the Jīva  , the need arises for an arbitrator."
+</details>
+
+
 
 <details><summary>English</summary>
 

@@ -1348,9 +1348,32 @@ title = "०२ उत्तरशतकम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तव भरोऽहमकारिषि धार्मिकैश्शरणमित्यपि वाचमुदैरिरम् ।  
-इति ससाक्षिकयन्निदमद्य मां कुरु भरं तव रङ्गधुरन्धर ! ॥ १०२ ॥
+तव भरोऽहम् **अकारिषि** धार्मिकैश्,  
+"शरणम्" इत्य् अपि वाचम् **उदैरिरम्** ।  
+इति स **साक्षिकयन्न्** इदम् अद्य मां  
+**कुरु** भरं तव रङ्ग-धुरन्-धर! ॥ १०२ ॥
 </details>
+
+<details><summary>English</summary>
+
+102 
+I was made Your burden 
+by the people of the dharma. 
+I uttered the word 
+"refuge" (saraṇam). 
+Regarding this as my witness, make me Your burden right now, O Bearer of the burden [of the Universe] 
+[Who dwells] in [Śri]rangam! 
+</details>
+
+
+<details><summary>राजगोपालः - English</summary>
+
+"I have been made Thy responsibility by my ācārya-s who follow the way of dharma.  
+I have also (myself) uttered the word seeking refuge.  
+Taking this into consideration, O, Lord of Śrīraṅgam,  
+make me Thy burden or responsibility" 
+</details>
+
 
 <details><summary>मूलम्</summary>
 

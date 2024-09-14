@@ -2285,13 +2285,8 @@ have surrendered to You, imploring
 "I am Yours", 
 I become egoistic due to the absence 
 of trust and discrimination. 
-102 
-I was made Your burden 
-by the people of the dharma. 
-I uttered the word 
-"refuge" (saraṇam). 
-Regarding this as my witness, make me Your burden right now, O Bearer of the burden [of the Universe] 
-[Who dwells] in [Śri]rangam! 
+
+…
 
 266 
 103 
