@@ -11,7 +11,7 @@ title = "सर्व-प्रस्तुतिः"
 दम्पती जगतां पती ॥ १॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 The salutation in the form of the utterance of “nama:” sabdham is made first to our immediate AchAryAs and then to the AchAryAs of their AchAryAs in an ascending order all the way up to our PrathamAcharyan, Sriman nArAyaNan. 
 
@@ -57,7 +57,7 @@ Swamy Desikan emphasizes the need for “Guru ParamparA prakAsanam” \(the glor
 माम् **अव्याद्** अभय-मुद्रितः ॥ २॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 This second slOkam explains the significance and symbolism of the right hand of Sri Ranganatha displaying the abhaya Mudra, a gesture that assures freedom form fear for the chetanas, who have sought refuge at his holy feet. 
 
@@ -124,7 +124,7 @@ This then is the message of the abhaya Hastham of the SaraNaagatha Rakshaka Kaar
 **प्रपद्ये** ताम् एकां श्रियम् अ-खिल-नाथस्य महिषीम् ॥ ३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 
 Our Samsaric Ocean is without beginning and end. Same is the situation with our ocean of sins that we have accumulated. How can we hope to dry them up?
@@ -199,7 +199,7 @@ PirAtti are both the means \(uddhEsyathvam\) and Goal \(PrApyam\).
 श्रियं शीतापाङ्गाम् अहम् अशरणो **यामि शरणम्** ॥  ४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 I who has no other protection, seek refuge in Lakshmi with the cool glances \(rejuvenating katAkshams\). She removes the inaccessibility of Her Lord to the Jeevans and facilitates His accessibility to them at the time of seeking Him as upAyam. She has not only Her role as a PurushakAra bhuthai but She has anvayam \(union\) with Her Lord during the upAya dasai as well. She has SaakshAth upAyathvam \(direct means\) and has anvayam with her Lord during the upAya dasai. She is inseparably present with Her Lord during the time of Prapatthi of the Jeevan \(PrapattavyE tattvE pariNamita vaisishTya vibhavAm\). 
 
@@ -277,7 +277,7 @@ Srutha PrakAsa AchAryan in his SaraNaagathy vyAkhyAnam states: It is the PoorvAc
 मुमुक्षुर् देवेशं तम् अहम् **अधिगच्छामि शरणम्** ॥ ५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 
 Unlike the other Jeevans, ParamAthmA is self-manifested. He has no births. 
@@ -344,7 +344,7 @@ Moksham. For, the only other means, Bhakti Yoga has to depend on Prapatthi to ge
 रङ्गे भुजङ्-ग-शयने स महा-भुजङ्गः+++(=आकर्षक-जारः)+++ ॥ ६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 This slOkam provides an answer to the question relating to the five roopams of the Lord: Param, VyUham, Vibhavam, antharyAmi and archai. Which of these five roopams is the best for observing Prapatthi is the question. Swamy Desikan points out that archaa roopam is the preferred one because of its Parathvam and Soulabhyam. In this context, Swamy Desikan blesses us with a slOkam to share the flood of his Aanandha anubhavam about the archaa Moorthy Sri RanganAthan. 
 
@@ -378,7 +378,7 @@ When the Lord took the VibhavAvathAram of KrishNa, He enchanted the assembly of 
 डिम्भस्याम्बुज-सम्भवस्य वचनैर् ओन्-तत्-सद्-इत्य्-आदिभिः ॥ ७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 Oh Divine Couple who are seated on the grand bed \(couch\) of the expansively spread body of AadhisEsahn at Srirangam\! From there, both of You perform and enjoy the sport of creation, sustenance and destruction of the universe and its beings. Oh RanganAthA\! from Your navel arises a lotus in which Your son Brahma dEvan rests prattling powerful words since the time of his birth such as “Om tat sat”. Those lisps of Your child please You both very much. You are enchanted by those prattling of Your child and smile approvingly at him. 
 
@@ -422,7 +422,7 @@ The divine parents hear this first attempt at speech by Their child and as proud
 मलिनित--विश्व-सौध--दुरपह्नव-वर्ण-+++(श्वेत-)+++सुधाम् ॥ ८॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 Oh RanganAtha\! Dayaa nidhi\! Your katAksham is filled with the radiant bundles of the flood of deep compassion for us. They banish our sufferings. They are like the inerasable white paint that covers the blemish of the dense blackish soot that resulted from the fire of our sins. May those sorrow-removing, dayaa laden glances of Yours fall on us and quench our samsAric afflictions\! 
 
@@ -460,7 +460,7 @@ Swamy KumAra VaradAcchAr points out that the paramount guNam of the SaraNyan is 
 आचार्यान् इति - रङ्गधुर्य मयि ते स्वल्पावशिष्टो +++(रक्षा-)+++भरः ॥ ९॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 Oh Lord of Thiruvarangam\! The MahOpakArams done by You to me are limitless. My dhushkarmaas are beyond count. They are fierce and not easy to get rid off. In spite of their negative impact, You have blessed me with human birth in a vaidheeka kulam. In spite of this birth in this srEshta kulam, adiyEn could have been deluded by avaidhika, Veda Baahya mathams. You saved adiyEn from falling as a prey to these Naasthika \(Vedam denying\) and Kudhrushti mathams that distort the true meanings of the VedAs for their own sake. You blessed adiyEn to become the sishyan of the great grandson AppuLLAr \(the 39 koLLu pEran\) of the MahAn, MadaipaLLI AacchAn, who imbibed all SaasthrArthams from Bhagavath RaamAnujaa Himself, while he served as the head of the kitchen serving Udayavar. Oh RanganAthA\! Up to this stage preceding adiyEn’s Prapatthi, You have blessed me with so many rare soubhAgyams. The residual responsibilities towards me are very little. That remaining upakAram that You have to bless me with is to accept adiyEn’s SaraNaagathi and lift me up to Your sacred feet at Your Supreme abode at Sri Vaikuntam and bless me to perform blemishless nithya kaimkaryam for You and Your Devi there. 
 
@@ -508,7 +508,7 @@ Swamy Desikan now asks Lord RanganthA a question: Having done so much for me alr
 त्वय्य् एव त्वद्-उपाय-धीर्, +++(व्याज-मात्रत्वात्)+++ अपिहित-स्वोपाय-भावा ऽस्तु मे ॥ १०॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 The glories of Prapatthi are hailed in this slOkam. Bhakthi yOgam yields fruit after a long time. In between, one might have to take a few births. Vaidhika KarmAs are angams for Bhakthi yOgam and hence one might have to perform agni kaaryams like AgnihOthram. People of all varNAs are not eligible for practicing Bhakthi yOgam. It is a difficult task and the awareness of this approach creates a mingling of thoughts about the independence of the practitioner and the importance of Bhakthi yOgam. The practice of the Prapatthi yOgam to gain Moksham on the other hand is quite different: 42 
 
@@ -548,7 +548,7 @@ This Prapatthi yOgam will yield immediate phala for the Aarthan / Aartha Prapann
 त्वच्-छेषत्व--स्व-रस--रसिकाः सूरयो +++(आचार्य-निष्ठ-भर-समर्पकाः)+++ मे **स्वदन्ताम्** +++(रुच्याम्)+++ ॥ ११॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -586,7 +586,7 @@ In the previous slOkam, Sva nishtai performed by an eminently qualified adhikAri
 त्वन्-निक्षिप्तात्म-रक्षां प्रति रभस-जुषः +++(मोक्षम् प्रति)+++ स्व-प्रवृत्तिं **त्यजन्ति** ॥ १२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -624,7 +624,7 @@ This is a slOkam to celebrate the mind set of SvanishtAs who believe firmly that
 प्रीति-प्राप्त--स्व-वर्णाश्रम-शुभ-चरितान् **पासि** धन्यान् अनन्यान् ॥ १३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -662,7 +662,7 @@ This slOkam focuses on additional aspects of the conduct of an ideal Prapannan i
 क्षोदिष्ठ+++(←क्षुद्र)+++-भोग-रसिकास् तव **न स्मरेयुः** ॥ १४॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **Meaning**
 
@@ -691,7 +691,7 @@ This is commonly seen. If You had willed, You could have wiped out those sorrows
 "नाना शब्दादि-भेदात्" प्रपदन-भजने सूचिते सूत्रकारैः ॥ १५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 
 **avatArikA**: 
@@ -736,7 +736,7 @@ In Prapatthi yOgam however skips the need for such a choice among the various gu
 न्यासाद्येषु तथैव तन्त्र-निपुणैः पर्यायता **स्मर्यते** ॥ १६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -748,11 +748,7 @@ Here, Swamy Desikan establishes that the different words used for Prapatthi are 
 
 Oh RanganAtha\! Among the terms used for explaining Veda KarmAs, the word 
 
-“Pasu” is used generally to denote the four legged animals. It is suggested that 58 
-
-
-
-
+“Pasu” is used generally to denote the four legged animals. It is suggested that 58
 
 “Pasu” is to be used for performance of the Yaagam. Later, Karma KaaNDam specifies that “ChAkam” \(goat\) is to be used. “Pasu” is the general term and the specific four legged animal is “saakam”. MeemAmsakAs have used the ChAka-Pasu nyAyam to establish that it is the goat that has to be used, when the reference is to the four legged animal \(Pasu\). Similarly, Upanishads use multiple words for in the context of Bhakthi yOgam: 1. Vedanam \(knowing God\), 
 
@@ -796,7 +792,7 @@ Again, all these different words refer to only one meaning. One SamAnya sabdham 
 सद्-विद्यादौ विकल्पस् त्व् अभिमति-भिदया तेन +++("भक्तिर्" इति)+++ तत्रैक-राश्यम् ॥ १७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -841,7 +837,7 @@ The answer is: a saadhakan can choose one of the Upanishadic vidhyAs to engage i
 कृपण-भजन-निष्ठा बुद्धि-दौर्बल्य-काष्ठा ॥ १८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -877,7 +873,7 @@ The Prapatthi performed by chEtanams at Your sacred feet has the power to yield 
 रङ्गाधीश रमा-पतित्व-सु-भगं नारायणत्वं तव ॥ १९॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -956,7 +952,7 @@ Thus His naarAyaNathvam and Swamithvam that are answers for the five doubts that
 त्वन्-मूल-देशिक-**कटाक्ष-निपातम्** आद्यम् ॥ २०॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 
 **avatArikA**:
@@ -997,7 +993,7 @@ Your benevolence \(Isvarasya souhArtham\) is the prime factor for AchArya Prapat
 त्वत्-सम्प्राप्तौ **प्रभवति** तथा देशिको मे दयालुः ॥ २१॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -1032,7 +1028,7 @@ Oh RanganAtha\! It is customary for a blind man to seek the help of a man with g
 नित्यं **प्रसीद** भगवन् मयि रङ्गनाथ ॥ २२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -1074,7 +1070,7 @@ Oh Ranganatha\! Oh My Lord\! You assured RaamAnujA about the fulfilment of his a
 विषम-विषय-चिन्ता-मेदुरा मे दुराशा ॥ २३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **Meaning**
 
@@ -1113,7 +1109,7 @@ One can not let down the guard against any temptations that will tempt us toward
 किं ते चिन्ते परम् अभिमतं **खिद्यसे** यत् पुनस् त्वम् ॥ २४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -1154,7 +1150,7 @@ Lord RanganAthan welcomes and obeys the wishes of the SadAchAryans. He is theref
 **अणुगुणयितुम् ईहे न** प्रभून् अ-प्रभूतान् ॥ २५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -1191,7 +1187,7 @@ The great Mukundhan, the Moksha Daayakan, has taken up the duties as promised of
 स्वामिन्य् आत्मनि वेङ्गटेश्वर-कवेः **स्वेनार्पितो** ऽयं भरः ॥ २६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -1233,7 +1229,7 @@ Therefore my thri KaraNams, worship Him with unwavering focus\!
 भीमे कस्यचिद् आढ्यकस्य वदने भिक्षा-विलक्षां दृशम् +++(→कदर्याश्रयाम्)+++ ॥ २७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -1275,7 +1271,7 @@ Oh Ranga\! adiyEn’s mind leaps with joy to perform kaimkaryam for You in a sta
 आलापान् अवलेपिषु **प्रलपितुं जिह्रेति** जिह्वा मम ॥ २८॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -1308,7 +1304,7 @@ Oh RanganAtha\! You are nirvyAja sahishNu \(one who forgives all aparAdhams with
 **कथम् अधिकुर्महे** विधि-शिव-प्रमुखान् अमुकान् ॥ २९॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 
 **avatArikA**: 
@@ -1364,7 +1360,7 @@ are the ones, who grant their boons limited by place and time. How can we get ne
 सेवा-सम्पदम् इन्दिरेश युवयोर् ऐकान्तिकात्यन्तिकीम् ॥ ३०॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -1453,7 +1449,7 @@ Swamy admits exultingly that there is no more hindrance to the dhivya dampathis 
 +++(5)+++त्वद्-भोगैक--स्व-भोगं दयितम् अनुचरं त्वत्-कृते **मां कुरुष्व** ॥ ३१॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 **avatArikA**: 
 
@@ -1519,7 +1515,7 @@ adiyEn has approached a SadAchAryan and have performed now MokshArtha SaraNaagat
 स्व-पर्यङ्के सेवां **दिशति** फणि-पर्यङ्क-रसिकः ॥ ३२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>शठकोपः En</summary>
 
 Swamy Desikan states that this Sri Sookthi arose from his mouth as a direct result of the command of Lord RanganAtha. It is His divine command \(dhivya Ajn~aa\) that arose from His own lotus face \(sva-mukhAmbhOja udhitham\). The Lord of Srirangam is resting happily on His huge bed of Aadhi Seshan like a mountain made up of chinthAmaNi gems and grants all the boons that the devotees desire. For those, who recite this Sri Sookthi of nyAsa tilakam, He blesses them with Kaimkarya PrApatthi to Him in this world as He stays in His reclining posture. In the other world, He grants Kaimkarya saamrAjyam from His seated position on the throne of AadhisEshan. 
 
