@@ -2,6 +2,8 @@
 title = "पद्मनाभकटाक्षनक्षत्रमाला"
 +++
 
+Source: [TW](https://archive.org/details/venkaTasheSha-pbl)
+
 [[TODO: परिष्कार्यम्]]
 
 XX   
