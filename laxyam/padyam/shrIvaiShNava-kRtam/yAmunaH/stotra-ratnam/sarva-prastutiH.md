@@ -98,6 +98,18 @@ title = "सर्व-प्रस्तुतिः"
 भगवद्-भक्ति-सिन्धवे ॥ १॥
 </details>
 
+<details><summary>English</summary>
+
+"Obeisance to Saint Nathamuni, whose devotion is like an ocean, whose depth cannot be measured (who is an unfathomable ocean of divine love) who is the embodiment of knowledge and renunciation, which are marvellous, and have been so easily acquired but are beyond our comprehension." 
+
+Sri Yamunacharya is offering obeisance to his grandfather Sri Nathamuni. In the introduction, we have seen who is Nathamuni. He is the person who weaned away Sri Yamuna to the spiritual path. What sort of a person is Nathamuni? This sloka explains his knowledge is not like that of others; his 'vairagya' (renunciation) is not like that of others; his devotion is not like that of others. they are all "achintya"-beyond one's comprehension. They are marvellous ('adbhuta'). They are "aklishta" easily acquired i.e., innate. Sages like Vyasa, Parasara and others also had knowledge and renunciation. But, they were acquired through severe penance. In the case of Nathamuni, (as in the case of Alwars), they were conferred by the Lord himself and therefore acquired with ease.
+
+Sri Nathamuni is like a deep ocean of divine love ("agadha bhagavad bhakti sindhave"). It is not possible to so easily assess the depth of the ocean. It is not possible to disturb or agitate the ocean. The devotion of Sri Nathamuni is of the same nature. It is possible to glean two meanings from this sloka. One may say that he was an ocean as far as devotion to the Lord is concerned or one can say that he had within him, the ocean called divine love. It 6 Sri Yamunacharya's may be mentioned that devotion (divine love) has been separately referred to, so as to emphasise that devotion is the product of jnana and vairagya.
+
+This is precisely what the Lord had said in the Srimad Bhagavad Gita (Chapter 12). The Lord had explained the path of knowledge and the path of devotion to the manifest and to the unmanifest. Arjuna has a doubt. He asks the Lord "Those devotees, whoever integrated, those who meditate on you and those again, who meditate on the Imperishable and Unmanifest - which of these have, greater knowledge of Yoga? The Lord replies "Those, who, ever integrated with Me and possessed of supreme faith, worship Me, focussing their minds on Me - these are considered by Me the highest among the Yogins".
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 नमोऽचिन्त्याद्भूताक्लिष्टज्ञानवैराग्यराशये ।  
@@ -108,7 +120,7 @@ title = "सर्व-प्रस्तुतिः"
 
 नमोऽचिन्त्येति ॥ यद्यप्यत्र गुरुपङ्क्तिः स्वयमभिवन्द्यते, तथाऽपि परप्रतिबोधनार्थं प्रबन्धमुखेनोपकर्तॄणामेवात्र ग्रन्थे निवेशः । अत्र नमश्शब्दः प्रह्वीभावपरः आत्मनिवेदनपरो वा, स तु प्रणिपतनपूर्वकम् इत्युक्तम्, “दण्डवत्प्रणमेद्भूमौ निर्लज्जो गुरुसन्निधौ । शरीरमर्थं प्राणं च सद्गुरुभ्यो निवेदयेत् ॥ (विहगेश्वरसंहिता)” इति विधानात् । नमसश्चात्मनिवेदनपरत्वमीश्वरसंहितायां मन्त्रराजपदस्तोत्रे (११) प्रोक्तम् “नमस्कारात्मकं यस्मै विधायात्मनिवेदनम् । मुक्तदुःखोऽखिलान्कामानश्नुते तं नमाम्यहम् ॥” इति । “गुणैर्दास्यमुपागतः (रामा. कि. ४.१२)” इति चाभिप्रायेणात्र गुरोर्ज्ञानादिगुणगणोक्तिः । ज्ञानमिह “सा विद्या या विमुक्तये (वि. पु. १.१९.४१)”, “संज्ञायते येन तदस्तदोषम् (वि. पु. ६.५.८७)” इत्यादिषूक्तमपवर्गोपयुक्तं परस्वरूपरूपादिज्ञानम् । ईदृशज्ञानवानेव गुरुराश्रयणीयः “भिन्ननावाश्रितस्तब्धो य(त)था पारं न गच्छति । ज्ञानहीनं गुरुं प्राप्य कुतो मोक्षमवाप्नुयात् ॥ (सात्त्वतसंहितायाम्)” इति व्यतिरेकनिन्दनात् । वैराग्यम् – अल्पास्थिरत्वादिदोषविदूषितेषु स्वर्गस्वाराज्यादिषु स्वात्मानुभवमात्रे च निस्स्पृहत्वम् । अचिन्त्यत्वादित्रिकं च द्वन्द्वात् पूर्वत्वात् प्रत्येकमन्वेति । अस्मदादिभिः स्वरूपतः कारणतो विशेषतो विषयतश्च परिच्छेत्तुमशक्यत्वमिहाचिन्त्यत्वम्; कुतर्कैरपह्नोतुमशक्यत्वं वा । अद्भुतत्वमवगतांशस्यापि लोकोत्तरतया आश्चर्ययुक्तत्वम् । अक्लिष्टत्वं “स्वयमागतविज्ञाना निवृत्तिं धर्ममास्थिताः (भार. शान्ति. ३४९.७१)” इतिवत् प्राचीनसुकृतविशेषजनितेन परावरगुरुप्रसादेनायत्नलब्धत्वम्; विरुद्धधर्मसंमर्दरहितत्वं वा । ज्ञानादेरक्षयत्वव्यञ्जनार्थमिह तदाश्रये राशिशब्दः । अचिन्त्यत्वादिविशिष्टौ ज्ञानवैराग्यराशी यस्येति बहुव्रीहिर्वा । तदा तु ज्ञानवैराग्ययोः प्रत्येकं विषयानन्त्येन भेदमनुसन्धाय राशित्वकॢप्तिः । नाथशब्देन – “नामोक्तावर्धोक्तिरपि पूर्णोक्तिकार्यकरी”ति न्यायेन श्रीरङ्गनाथ इति नामधेयं स्वापेक्षितसिद्ध्यै याचनीयत्वं स्वामित्वं च विवक्षितम् । स्वाभाविकं भगवदनन्यार्हशेषत्वं तदिष्टविनियोगसिद्धस्याऽऽचार्यशेषत्वस्य न विरुद्धम् । पापकृतमेवान्यशेषत्वं परिहार्यम् । “नाथाय नाथमुनये (स्तो. २)” इति वक्ष्यमाणेऽप्येवं विवक्षा ग्राह्या । मुनये भक्तिप्रेरिततया प्रकृष्टमननशीलाय । उभयलिङ्गत्ववाचिना भगवच्छब्देन सर्वशेषिणः परभक्तियोग्यत्वं व्यज्यते । महनीयविषये प्रीतिर्भक्तिः । एतद्भक्तिस्सनकादिभिरप्यनुष्ठिता । अशक्यतलस्पर्शत्वमगाधत्वं क्षोभणार्थिभिरक्षोभ्यत्वं च । भक्तेरपारत्वाशोष्यत्वादिख्यापनाय तदाश्रये सिन्धुत्वोक्तिः । भक्तिं वा सिन्धुत्वेन रूपयित्वा बहुव्रीहिः । अत्र मुमुक्षूणां चित्तपरिष्कारभूतेषु बहुषु गुणेषु प्राधान्यतस्त्रय उपात्तः, तत्रापि प्रधानतमत्वव्यक्त्यै भक्तेः पृथगुक्तिः ॥१॥
 
-एवं भगवत्परत्वानुभवजनितभक्तिपरिपूर्णं प्रणम्य तमेवावतारहेतुभूतसौलभ्यगुणविशेषानुभवजनित स्नेहपूर्णं “नमस्तस्मै नमस्तस्मै (वि. पु. १.१९.७९)”, “नमो नमस्तेऽस्तु सहस्रकृत्वः (गीता. ११.३९)” इतिवदादरातिशयात्पुनर्नमस्यति –
+एवं भगवत्परत्वानुभवजनितभक्तिपरिपूर्णं प्रणम्य तमेवावतारहेतुभूतसौलभ्यगुणविशेषानुभवजनित-स्नेहपूर्णं “नमस्तस्मै नमस्तस्मै (वि. पु. १.१९.७९)”, “नमो नमस्तेऽस्तु सहस्रकृत्वः (गीता. ११.३९)” इतिवदादरातिशयात्पुनर्नमस्यति –
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +130,16 @@ title = "सर्व-प्रस्तुतिः"
 नाथाय **नाथमुनये** ऽत्र परत्र चापि  
 नित्यं यदीय-चरणौ शरणं मदीयम् ॥ २॥
 </details>
+
+<details><summary>English</summary>
+
+Obeisance to that master, Nathamuni, whose feet are my eternal refuge in this and the next world and who represents the farthest landmark of that surpassing greatness which consists of the true knowledge of the lotus feet of the vanquisher of Madhu and intense love for them.
+
+In the previous sloka, Sri Alavandar had paid obeisance to Sri Nathamuni. Since in Vaishnava Sampradaya, the principal acharya after Nammalwar is Sri Nathamuni, Yamuna continues to offer salutations to him. The lotus feet of Nathamuni are the refuge in this world and the next world. Sri Nathamuni has a perfect spiritual knowledge about the Lord and hence is himself a "complete" person. He had personally experienced the love and 7 affection of the Lord. The Lord had come to reside in him. Hence, Sri Alavandar is paying obeisance, both before and after obtaining liberation.
+
+A doubt may arise as to the appropriateness of paying obeisance to the feet of the Acharya, both before and after obtaining liberation ("atra paratra chapi"). Should not the refuge, after obtaining the liberation, be with the Lord? The answer is two fold. Firstly, it is common to refer to those who have obtained liberation from this world as persons who have attained the feet of the Acharya. Secondly, the Bhagavathas are to be worshipped in preference to the Bhagavan.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -140,6 +162,16 @@ title = "सर्व-प्रस्तुतिः"
 योगाय **नाथ-मुनये** यमिनां वराय ॥ ३॥
 </details>
 
+<details><summary>English</summary>
+
+Obeisance again to Nathamuni, the best among those who know and who practise divine love, by whose holy precepts, which are the overflow of the boundless nectarine divine love, the world has benefited.
+
+Sri Alavandar is paying obeisance once again to the crown jewel among the sages ("yaminaam varaaya"). Why? Because, Sri Nathamuni, by his precepts ("Srisuktis) made Bhakti Yoga to shine in this world. These precepts are like the torrential flow of the ocean of divine love, a love which has no limits. A tank, which is full, has the sluice opened so that the bunds may not be breached by the rushing waters. This is called "parivaha". Thus, by calling the holy precepts as "bhakti parivaha", we are being reminded that if we do not imbibe this divine love and if we do not practise it, 2 8 Sri Yamunacharya's then this body which is compared to a tank will be breached (that is, destroyed).
+
+It is believed that the precepts of Nathamuni referred to here are (perhaps) what were recorded by Nathamuni in his great work "Nyaya Tattva" or the Yogarahasya which have become extinct today. (Please see the Introduction, wherein a reference has been made to the works of Sri Yamunacharya). In those days, the works must have been current and Yamuna has made a reference to them.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 भूयो नमोऽपरिमिताच्युतभक्तित्त्वज्ञानामृताब्धिपरिवाहशुभैर्वचोभिः ।  
@@ -150,7 +182,7 @@ title = "सर्व-प्रस्तुतिः"
 
 भूय इति ॥ स्तवप्रियस्य भगवतः स्वविषयस्तुतौ योजयितुमिच्छतः स्तोत्रं तावदास्ताम्, ततोऽप्यसाधारण्येनोपकारकतमो नाथमुनिरेव मे नन्तव्य इति भावः । आश्रितसंरक्षणव्रतान्न च्युत इत्यच्युतः; तदभिप्रायेण हि स्वयमुक्तं भगवता “सत्त्वान्न च्युतपूर्वोऽहं सत्त्वं वै विद्धि मत्कृतम्” इति । सत्त्वमिह व्यवसायः “द्रव्यासुव्यवसायेषु सत्त्वमस्त्री तु जन्तुषु” इति नानार्थपाठात् । “न कर्मणा वर्धते नो कनीयान् (तै. आर.)”, “स न साधुना कर्मणा भूयान्नो एवासाधुना कनीयान् (बृ. उप. ६.४.२२)” इत्यादिषूक्तं ज्ञानबलैश्वर्यादेरप्रच्युतत्वं वा विवक्षितम् । “यस्मात्प्राप्ता न च्यवन्ते सोऽच्युतः” इत्यपि निरुच्यते । अत्र च्युतो यस्मान्नास्ति सोऽच्युत इति बहुव्रीहिः । भक्तिश्च तत्त्वज्ञानं चेति द्वन्द्वः । तत्त्वज्ञानमनारोपिताकारेण बुद्धिः । भक्त्यादियोगादस्य वचसां विस्रम्भणीयत्वं सूचितम् । अपरिमितत्वमिह भक्तिज्ञानयोर्विशेषणम् । तयोरमृताब्धित्वरूपणं सञ्जीवनत्वस्वयंप्रयोजनत्वाक्षयत्वादिव्यञ्जनार्थम् । परिवाहः तटाकादिरक्षणार्थमधिकजलापगमनप्रवाहः, तद्वच्छुभैः; प्रसन्नमधुरशी(त)लत्वादिस्वभावैरित्यर्थः । अत्रानुक्त्वा स्थातुमशक्यत्वं प्रेरकान्तरप्रयोजनान्तरनैरपेक्ष्यं च दृष्टान्तेन व्यज्यते । वचोभिः परतत्त्वपरमहितपरमपुरुषार्थविषयैः न्यायतत्त्वादिप्रबन्धनिवेशितैरन्यैश्च वाक्यैः । “संस्मराम्यस्य वाक्यानि प्रियाणि मधुराणि च (रामा. आ. १६-३९)”, “संस्कारक्रमसंपन्नाम् (रामा. कि. ३.३३)” इत्यादिप्रकारोऽत्रानुमन्धेयः । लोके – सात्त्विके जने; यद्वा, भगवद्विमुखाधिष्ठिते भुवने; अत्यद्भुतं ह्येतदिति भावः । यथा परमपदनिलयो भगवानत्रावतरति, तथा नाथमुनौ स्थितो भक्तियोगस्तदाश्रितेषु मत्पर्यन्तेष्वित्यभिप्रायेणावतीर्णत्वोक्तिः । पूर्वं दुरारोहसीमावस्थितत्वं च सूचितम् । परमार्थशब्दः स्वयंप्रयोजनत्वमकैतवत्वं वा वक्ति । फलं प्रत्यव्यवहितसाधनत्वज्ञापनाय समग्रत्वोक्तिः । भक्तिश्चासौ योगश्चेति भक्तियोगः, प्रीतिरूपापन्नध्यानमुपायो वा “योगस्सन्नहनोपायध्यानसङ्गतियुक्तिषु (अमर. ३.३.२२)” इति नैघण्टुकाः । भक्तिशब्द इह वचःपरिवाहमूलतया सहोक्तं तत्त्वज्ञानमुपलक्षयति; भक्तियोगस्यापि तत्त्वज्ञानात्मकत्वसूचनार्थं वा पृथगत्रानुक्तिः । नाथमुनिशब्दस्य प्रतिश्लोकं निबन्धनात् “गुरुपादाम्बुजं ध्यायेद्गुरुनाम जपेत्सदा । गुरोर्वार्तां कथां चैव गुरोरन्यं न भावयेत् ॥” इत्यादिकमनुसन्धेयम् । यमिनां – भगवदेकनियतकरणत्रयवृत्तीनां, वराय – वरणीयाय, श्रेष्ठाय वा । एतत्तु भगवद्विषययोगारूढतया प्राप्तम्, यद्गीयते “योगिनामपि सर्वेषां मद्गतेनान्तरात्मना । श्रद्धावान् भजते यो मां स मे युक्ततमो मतः ॥ (गीता. ६.४७)” इति ॥ ३ ॥
 
-तुष्टूषन्नपि लक्ष्मीशमाचार्यगुणयन्त्रितः । क्रमात्स्वस्य स्तुतौ योक्तुं प्रभुणाऽन्यत्र कृष्यते ॥ १८ ॥ अत्र हि प्रबन्धनिर्माणद्वारा परम्परयोपकारकान् नमश्चिकीर्षुस्तेष्वपि धर्मशास्त्रकृतां प्राचुर्येण धर्ममार्गोपबृंहणप्रधानत्वाद्भारतादिकृतां मनुष्यत्वकञ्चुकितमहापुरुषानुगुणकाव्यत्वकवचितातिगहनगभार-विततग्रन्थनिर्मातृतया तत्त्वत्रयादिविवेकस्य तत्प्रबन्धेषु कृच्छ्रसाध्यत्वाच्चानन्यपराव्यामिश्रव्यक्ततात्पर्यसंक्षिप्तसात्त्विकोपबृंहणप्रधानतम पुराणनिर्माणेनात्यन्तोपकारकं पराशरं प्रणमति –
+तुष्टूषन्नपि लक्ष्मीशमाचार्यगुणयन्त्रितः । क्रमात्स्वस्य स्तुतौ योक्तुं प्रभुणाऽन्यत्र कृष्यते ॥ १८ ॥ अत्र हि प्रबन्धनिर्माणद्वारा परम्परयोपकारकान् नमश्चिकीर्षुस्तेष्वपि धर्मशास्त्रकृतां प्राचुर्येण धर्ममार्गोपबृंहणप्रधानत्वाद्भारतादिकृतां मनुष्यत्वकञ्चुकितमहापुरुषानुगुणकाव्यत्वकवचितातिगहनगभार-विततग्रन्थनिर्मातृतया तत्त्वत्रयादिविवेकस्य तत्प्रबन्धेषु कृच्छ्रसाध्यत्वाच्चानन्यपराव्यामिश्रव्यक्ततात्पर्यसंक्षिप्तसात्त्विकोपबृंहणप्रधानतम-पुराणनिर्माणेनात्यन्तोपकारकं पराशरं प्रणमति –
 </details>
 
 ### पराशरः
@@ -162,6 +194,16 @@ title = "सर्व-प्रस्तुतिः"
 सन्दर्शयन् **निरममीत** पुराणरत्नं  
 तस्मै नमो मुनिवराय **पराशराय** ॥ ४॥
 </details>
+
+<details><summary>English</summary>
+
+Obeisance to Sri Parasara, who wrote the gem among the Puranas, the Vishnu Purana, and who in his large-heartedness explained chit, achit, Isvara (the tattva traya), the Jiva's worldly enjoyment, liberation, the method of achieving it and the path taken by the Jivas.
+
+In the earlier slokas, Alavandar had paid obeisance to Sri Nathamuni. Here he pays obeisance to Parasara who retold the Vishnu Purana. Among the 18 Maha puranas, it is a gem ("Purana Ratnam"). It states things with clarity and with lustre. The Tattvatraya-chit, achit and Isvara are explained in the Purana.
+
+Why does Sri Yamuna pay obeisance to Parasara? Parasara was the grandson of Vasishta. Due to the enmity between Vasishta and Vishvamitra, Vishvamitra arranged to see that all the one hundred sons of Vasishta were devoured by rakshasas. When Parasara came to know that his father had been killed by a rakshasa, he went about exterminating all the rakshasas. Vasishta interceded 9 and told his grandson that the rakshasas, in general, had not killed his father, that he was showing excessive wrath and that it was only the foolish who displayed their passions in this manner. He advised Parasara that anger eats into one's asceticism and that pious people should show asceticism. Parasara accepted the advice and Vasishta was gratified. At that time, Pulastya, father of the rakshasas arrived there and blessed Parasara that he would master all the branches of knowledge. Since Parasara had not killed all of his (Pulastya's) sons he conferred a boon. He said that he would be the author of the Purana and Samhitas. Thus, when Maitreya asked Parasara to tell him about the creation of the Universe, Parasara replied that he would completely retell the Purana, that the Universe had sprung from Vishnu, that the creation, maintenance, and destruction of the Universe is done by Vishnu, as Vishnu is the Universe. This is the reason why, Yamuna pays obeisance to Parasara.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -203,6 +245,18 @@ title = "सर्व-प्रस्तुतिः"
 श्रीमत्-तद्-अङ्घ्रि-युगलं +++(शठकोपरूपं)+++ **प्रणमामि** मूर्ध्ना ॥ ५॥
 </details>
 
+<details><summary>English</summary>
+
+I lay my head, in reverence, at the effulgent feet of Nammalvar, the pristine chief of the line of Prapannas, bedecked with the beautiful "vakula" flowers, whose feet are the all in all, the father, the mother, the wife, the son for all my community, those who came before me and for those who will come after me.
+
+As great as the Vishnu Puranam is the Tiruvaymozhi of Nammalvar-the adherents of Dravida Vedas would even rate it higher than Parasara's work. It contains the essence of the Vedas. While offering salutations to Nammalvar, Yamuna calls him 10 Sri Yamunacharya's "adyasya nah kulapateh"-he is the primordial head of our family. Yamuna elevates him to the stage of the gotra sages, who head the various families. For all the "prapannas" (who pin their faith solely on God's spontaneous grace and look upon him as the highest goal as also as the means for attaining that goal), Sri Nammalvar is the shining effulgent head. Who are all the "prapannas"? They are all the Vaishnavas who happened to be born earlier and who are to be born later.
+
+There is also an interpretation, whereunder, the words "adyasya nah kulapateh" are interpreted as referring to the Lord. Since, the feet of the Lord rest on the sathari (Sri Sathagopa), the concluding words "anghri yugalam" refer to Sri Nammalvar. This may also be correct, as there is a reference to "vakula" flowers. Nammalvar is also called as "vakulabharanar".
+
+Sri Yamuna shows his great humility. It is not just obeisance he is offering. He uses the words "moordhna pranamami".--I offer my salutations by bowing my head. Any one who surrenders, with all his limbs, will undoubtedly reach God earlier.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 माता पिता युवतयस्तनया विभूतिः सर्वं यदेव नियमेन मदन्वयानाम् ।  
@@ -229,6 +283,20 @@ title = "सर्व-प्रस्तुतिः"
 पादारविन्दम् अरविन्द-विलोचनस्य ॥ ६॥
 </details>
 
+<details><summary>English</summary>
+
+I shall now sing the glory of the lotus feet of the Lord, whose eyes possess the glow of the red lotus. The feet of the Lord will adorn my head and will be the crest of the Vedas, the feet whereunto my surging love converges in its entirety and which constitutes my treasure inherited through successive generations, the feet which are the tutelary deity and ultimate destination of our whole clan.
+
+11 Having paid obeisance to the great ones, Nathamuni, Parasara and Nammalvar in the previous slokas, Sri Yamuna pledges himself to sing the glory of the feet of the Lord. These feet are described as the perennial bliss of the author and his entire clan.
+
+What does Sri Yamuna mean by referring to the feet, which are adorning one's head? When one prays to the Lord, one looks at the feet of the Lord and prays. The feet of the Lord would then rest on the head of the supplicant and would continue to shine. In the same manner, the feet of the Lord adorn the crest of the Vedas, referring to the glory of the Upanishads. Sri Yamuna calls the feet both the 'kuladhanam' and 'kuladaivatam' the treasure which has been inherited through successive generations and the tutelary for families of forefathers.
+
+In this context, we may refer to two stanzas, in two other great works. Sri Vedanta Desika writes in Sloka (2) of Sri Bhagavad Dhyana Sopanam:......the lotus like feet of Sri Ranganatha, which bear the unbounded fragrance of the Vedas, which are saluted by the Brahmas, with their heads bent down, which manifested on the golden banks of the Cauvery, filled with swans and which are lovingly fondled by the lotus like hands of Lakshmi and Bhudevi, are reflected in the well of my thoughts..." While Sri Yamuna says that the feet are the crest of the Vedas, Sri Desika says that they bear the unbounded fragrance of the Vedas.
+
+Sri Narayana Bhattathiri in his 'Narayaneeyam' says in Dasaka 100: "O Lord, Thou ocean of mercy, O Krishna, O Lord of Guruvayur! May Thy feet which are the most charming of your limbs to the lordly sages, and to Thy devotees, the feet which are the tender sprouts of the celestial tree which showers on them their desired objects grant me, seated as they always are in my heart, the prosperity of complete bliss supreme, dispelling all my distress". Sri Yamuna calls the Lord "aravinda vilochana". He says that the eyes have the glow of the red lotus. In the 'Narayaneeyam', Bhattathiri describes the eyes as follows: 12 Sri Yamunacharya's "May Thy pair of eyes, O Lord, be cast on me, who am helpless - those eyes charming with great lustre and of the shape of the wide petals of a red lotus, of very lovely pupils and cooling the world with their charming glances of mercy....." In the Sundara Kanda, Sita is bemoaning her fate. She suffers pangs of agony that she is not able to see Lord Ramachandra while others are able to see Him and have the good fortune to feast their eyes on His eyes, which are like "blossoming petals".
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 यन्मूर्ध्नि मे श्रुतिशिरस्सु च भाति यस्मिन्नस्मन्मनोरथपथस्सकलस्समेति ।  
@@ -252,6 +320,18 @@ title = "सर्व-प्रस्तुतिः"
 मह्यं नमोऽस्तु कवये निरपत्रपाय ॥ ७॥+++(5)+++
 </details>
 
+<details><summary>English</summary>
+
+The greatness of the Lord is like an ocean. Even the greatness of a shower particle of a shower of such an ocean cannot be described by Siva, Brahma and sages like Sanandana. Shamelessly, I am venturing to describe in a stotra, the greatness of Sriman Narayana.
+
+In the previous sloka, Sri Yamuna had stated that he is going to hymn the feet of the lotus eyed Lord. He now has a serious doubt. When people like Siva and Brahma as also renowned sages are not able to adequately extol the Lord, would it not be foolhardiness on his part that he is attempting to describe the greatness of the Lord? He says that he is aware of his lack of capability, but that he would still like to do it, because he wants to get a name as a poet. He, therefore, sarcastically states, that he has to salute himself ("nirapatrapaya kavaye mahyama namaha astu").
+
+What does Yamuna mean by saying that even Brahma and Siva cannot adequaely describe even a shower-particle of the greatness of the Lord which is like an ocean? One may refer to the13 Srimad Bhagavad Gita. Arjuna asks Lord Krishna as to who he is? The Lord, after replying that He is the Universe, says (Chapter 7) "veiled by my Maya, I am not manifest to all. This deluded world does not recognise Me as the unborn and immutable". Lord Krishna explains that His powers are greater than those of Vayu and Indra, that His lustre is more brilliant than that of Aditya and Agni and that He is the cause of all and the Lord of all. A doubt may still linger - He may be greater than Agni, Vayu, Aditya and Indra, but how is it that even Siva and Brahma cannot even describe His greatness? A reference to the Gita is again necessary. Arjuna tells the Lord that he agrees that Krishna is great, but will he show him the Universal Form? The Lord shows the Vishvaroopa. Arjuna says (Chapter XI)".......I behold, O Lord, in Your body, all the gods, and all the diverse hosts of beings, Brahma, Siva, who is in the seers, the lustrous snakes. With manifold arms, stomachs, mouths and eyes, I behold Your infinite Form on all sides. I see no end, no middle or the beginning too of You, O Lord of the Universe, O You of Universal Form...." The Supreme Lord therefore encompassed both Brahma, Siva and the learned sages. Obviously, they are in no position to describe even a shower particle of the greatness of the Lord.
+
+In Skandha II, Chapter 1 of the Srimad Bhagavatham Sri Suka gives a sermon in reply to a question by Parikshit. He advises Parikshit, who is facing imminent death, to meditate on the cosmic Form of the Lord and goes on to describe the Form. In the description, he explains how the Lord encompasses all gods, Brahma, Siva, Vayu, Indra and others. He concludes, ".....He, is the one and only Lord. He enjoys all objects of the world, through the mental modification of all beings. Worship that Lord, who is Truth and Bliss. Do not cultivate attachment for any other...." Hence, no one can really describe the greatness of this ocean that is the Lord. In Sloka 19 of the Mukunda Mala, Kulasekhara Alwar, expresses much the same view. Says he, ".... Once the Lord has been seen, this planet becomes a speck of dust, all the waters of the oceans become mere droplets, fire a petty spark of little consequence, the winds become just a faint sigh, all space but a minute hole, gods like Brahma and Rudra insignificant manifestaitons and 14 Sri Yamunacharya's the denizens of the heavens become small insects. Indeed, the magnificence of the Lord transcends all limitations....." These are the reasons why Sri Yamuna says that when Brahma and Siva cannot adequately describe the glory of the Lord, it is foolhardy on his part to venture to do so.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 तत्त्वेन यस्य महिमार्णवशीकराणुश्शक्यो न मातुमपि शर्वपितामहाद्यैः ।  
@@ -272,6 +352,16 @@ title = "सर्व-प्रस्तुतिः"
 वेदाश् चतुर्-मुख-मुखाश् च, महार्णवान्तः  
 को मज्जतोर् अणु-कुलाचलयोर् विशेषः ॥ ८॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+Yet, in spite of my incapability, I am justified in praising Him to the limit of my capacity and to the best of my knowledge. For, even the Vedas and the fourfaced Brahma who are always engaged in singing His glory, all praise Him in the same manner. What difference is there between an atom and a huge mountain, when both are submerged in a great ocean? 
+
+In the previous sloka, Sri Yamuna had deprecatingly referred to his limitations in describing the glory of the Lord. In this sloka, he justifies his attempt to do so, inspite of his limitation. He says that he is aware of his incapability to adequately and fully describe the greatness and glory, but would still do so, to the limit of his capability and to the best of his knowledge ('srama avadhi' and "yatha mati"). Why does he do so? Because, even Brahma and the Vedas do not fully know the greatness of the Lord and are yet extolling Him. Their capability may be much greater, but it does not make a great difference, because Maha arnava antah - in a big ocean majjatah - while sinking Anukulachalayoh - between an atom and a big mountain Ko viseshah - what is the difference.
+
+15 In the Gita, the Lord explains to Arjuna how He is present in every thing in the Universe. When Arjuna requests that he would like to see the Form, the Lord says (Chapter 11) "...Behold My forms, O Arjuna, hundreds upon thousands, manifold, divine, varied in hue and shape. Behold the Adityas, the Vasus, the Rudras, the two Asvins and the Maruts. Behold Arjuna, many marvels not seen before. Behold here, O Arjuna, the whole Universe with its mobile and immobile things centered in My body and whatever else you desire to see...." What does Arjuna see? He saw the Lord ".........with innumerable mouths and eyes, many marvellous aspects, many divine ornaments and many divine weapons. Wearing celestial garlands and raiments, anointed with divine perfumes, full of all wonders, resplendent, boundless and facing all directions. If a thousand suns were to rise at once in the sky, the resplendent splendour may perhaps be like that one". "Arjuna behold the whole Universe with its manifold divisions gathered together in one spot, within the body of the God of gods....." It is no wonder that Alavandar feels that he cannot adequately describe that glory. But would even Brahma not be able to do so? In Skanda VIII chapter 6 of the Srimad Bhagavatham, at the combined instance of the devas who had been worsted by the asuras, Brahma hymns the Supreme Lord. Says he "....May Thou be pleased to fulfil the object with which we, with all the protective deities of the quarters have sought shelter at Thy lotus feet. Where is the need to represent that object further to Thee, who dwellest both within and without all beings and therefore knows the innermost thoughts of all? We, including Siva, the devas and myself are maintaining a separate existence from Thee, as sparks from fire. What power of understanding have we, limited beings before the Lord". How can he adequately describe the glory of the Lord? Obviously, if Brahma cannot adequately describe, the Vedas cannot do so either. There is a verse in the Mukundamala (Sloka 25) wherein Kulasekhara Alwar, refers contemptuously to the inability of the Vedas to help a devotee, in contradistinction to the devotion to the feet of the Lord. Says the Alwar, "All glories to Lord Narayana. Without remembrance of His Lotus feet, recita3 16 Sri Yamunacharya's tion of scriptures is a cry in wilderness, regular observance of the vows in the Vedas is only a way to lose weight, the discharge of prescribed pious duties amounts to mere pouring of oblations onto the ashes and bathing at holy places is no better than an elephant's bath...." Such is the power of the devotion to the feet of the Lord. Alavandar speaks about the futility of describing such greatness.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -365,7 +455,7 @@ It is due to the Grace of the Lord that creation takes place. He shows His Grace
 </details>
 
 ## स्तुतिः
-
+### महत्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाभाविकानवधिकातिशयेशितृत्वं  
@@ -395,7 +485,7 @@ The Vedas proclaim that first was the Parama Purusha (Narayana). He created Brah
 
 स्वाभाविकेति ॥ स्वाभाविकत्वमिहानन्याधीनत्वम्,तेन कर्मोपाधिकदुःखमिश्रानित्यचतुर्मुखाद्यैश्वर्यव्यावृत्तिः । अनवधिकातिशयत्वमुत्कृष्टावधिरहितोत्कर्षवत्त्वम्, “पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च” (श्वे. उ. ६.८) इत्यत्र परत्वस्वाभाविकत्वे शक्त्यादिषु सर्वेष्वन्विते, इति भावः । एताभ्यामेव परिमितं पराधीनं च मुक्तनित्यैश्वर्यमपि व्यवच्छिद्यते । ईदृशमीशितृत्वं हि तवैव । विश्वपतित्वात्मेश्वरत्वादिश्रुतेः, “प्रशासितारं सर्वेषाम्” (मनु. १२.१२२) “शास्ता विष्णुरशेषस्य” (वि. पु. १.१७.२०) इत्यादिस्मृतिशतैश्च । स्वयं च गीतं (७.७) “मत्तः परतरं नान्यत्” इति । “एष धाता विधाता च सर्वेषां प्राणिनां प्रभुः । परं हि पुण्डरीकाक्षान्न भूतं न भविष्यति ॥” (भार. भीष्म. ६७.१७) इत्यादि च द्रष्टव्यम् ।
 
-अत्र नारायणेत्यनेन कारणवाक्येष्वन्यार्थशङ्कागोचराणां सदसदव्याकृतब्रह्मात्महिरण्यगर्भशिवाकाश प्राणादिशव्दानां कयाचिद्वृत्या अनन्यपराबाधितार्थसात्त्विकोपबृंहणानुगुणमहोपनिषन्मैत्रायणीय सुबालोपनिषदादिपठितनारायण शब्दोदितमहापुरुषविषयत्वं केवलतत्त्वनिर्णयप्रवृत्तनारायणानुवाकतात्पर्येण भगवत एव सर्वपरविद्यावेद्यत्वं तत्रत्यतत्तच्छब्दवाच्यत्वं च प्रकाश्यते । अस्य च नाम्नो निरुक्तिभेदैः शारीरकाध्यायचतुष्टयविवक्षित कारणत्वनिर्बाधत्वोपायत्वप्राप्यत्वानि भाव्यानि । एवमाप्ततमानेकस्मृतिवचनानि चानेन प्रत्यभिज्ञाप्यन्ते । तत्र तावन्मनुः (१.५) “आसीदिदं तमोभूतम्” इत्यारभ्य, “आपो नारा इति प्रोक्ता आपो वै नरसूनवः । ता यदस्यायनं पूर्वं तेन नारायणः स्मृतः ॥ यत्तत्कारणमव्यक्तं नित्यं सदसदात्मकम् । तद्विसृष्टस्स पुरुषो लोके ब्रह्मेति कीर्त्यते ॥” (मनु. १.१०) इति । बृहस्पतिः – “नारायणः परोऽव्यक्तादण्डमव्यक्तसंभवम् । अण्डाद्ब्रह्मा समभवत्तेन सृष्टमिदं जगत्” इति । दक्षः – “ध्यायेन्नारायणं देवं स्नानादिषु च कर्मसु । ब्रह्मलोकमवाप्नोति न चेहाऽजायते पुनः ॥” इति । व्यासः – (भार. आनु. १८.११) “आलोड्य सर्वशास्त्राणि विचार्य च पुनःपुनः । इदमेकं सुनिष्पन्नं ध्येयो नारायणस्सदा ॥” इति । “नमो भगवते तस्मै व्यासायामिततेजसे । यस्य प्रसादाद्वक्ष्यामि नारायणकथामिमाम् ॥” (भार. आदि. १.२७) इति च वैशम्पायनवाक्यम् । ईदृशानि वचनशतानि विस्तरभयान्न लिख्यन्ते ।
+अत्र नारायणेत्यनेन कारणवाक्येष्वन्यार्थशङ्कागोचराणां सदसदव्याकृतब्रह्मात्महिरण्यगर्भशिवाकाश-प्राणादिशव्दानां कयाचिद्वृत्या अनन्यपराबाधितार्थसात्त्विकोपबृंहणानुगुणमहोपनिषन्मैत्रायणीय-सुबालोपनिषदादिपठितनारायण शब्दोदितमहापुरुषविषयत्वं केवलतत्त्वनिर्णयप्रवृत्तनारायणानुवाकतात्पर्येण भगवत एव सर्वपरविद्यावेद्यत्वं तत्रत्यतत्तच्छब्दवाच्यत्वं च प्रकाश्यते । अस्य च नाम्नो निरुक्तिभेदैः शारीरकाध्यायचतुष्टयविवक्षित-कारणत्वनिर्बाधत्वोपायत्वप्राप्यत्वानि भाव्यानि । एवमाप्ततमानेकस्मृतिवचनानि चानेन प्रत्यभिज्ञाप्यन्ते । तत्र तावन्मनुः (१.५) “आसीदिदं तमोभूतम्” इत्यारभ्य, “आपो नारा इति प्रोक्ता आपो वै नरसूनवः । ता यदस्यायनं पूर्वं तेन नारायणः स्मृतः ॥ यत्तत्कारणमव्यक्तं नित्यं सदसदात्मकम् । तद्विसृष्टस्स पुरुषो लोके ब्रह्मेति कीर्त्यते ॥” (मनु. १.१०) इति । बृहस्पतिः – “नारायणः परोऽव्यक्तादण्डमव्यक्तसंभवम् । अण्डाद्ब्रह्मा समभवत्तेन सृष्टमिदं जगत्” इति । दक्षः – “ध्यायेन्नारायणं देवं स्नानादिषु च कर्मसु । ब्रह्मलोकमवाप्नोति न चेहाऽजायते पुनः ॥” इति । व्यासः – (भार. आनु. १८.११) “आलोड्य सर्वशास्त्राणि विचार्य च पुनःपुनः । इदमेकं सुनिष्पन्नं ध्येयो नारायणस्सदा ॥” इति । “नमो भगवते तस्मै व्यासायामिततेजसे । यस्य प्रसादाद्वक्ष्यामि नारायणकथामिमाम् ॥” (भार. आदि. १.२७) इति च वैशम्पायनवाक्यम् । ईदृशानि वचनशतानि विस्तरभयान्न लिख्यन्ते ।
 
 त्वयि – “सर्वे वेदा यत्पदमामनन्ति” (कठोपनिषत् १.२.१५), “सर्वे वेदा यत्रैकं भवन्ति” (तै. आ. ३.११.२०), “नताः स्म सर्ववचसां प्रतिष्ठा यत्र शाश्वती” (अहि. सं), “वेदैश्च सर्वैरहमेव वेद्यः” (गीता १५.१५), “वेदे रामायणे चैव भारते भरतर्षभ! । आदौ मध्ये तथा चान्ते विष्णुस्सर्वत्र गीयते ॥” (हरिवंशान्ते), “नारायणपरा वेदाः” (भार. मोक्ष. ३५७.७९) इत्यादिभिः सर्ववेदवेद्यतया प्रसिद्धे पूर्वोक्तसर्वकारणत्वसर्वस्वामित्वादिलक्षणे । न मृष्यति – न सहते । वैदिकः – वेदप्रमाणक इत्यर्थः । “वेदैः पश्यन्ति ब्राह्मणाः”, “पितृदेवमनुष्याणां वेदश्चक्षुः सनातनम्”, “श्रुतिस्मृती तु विप्राणां चक्षुषी द्वे विनिर्मिते” इति हि स्मर्यते । वैदिकशब्देन – “सर्वे वेदाः सपितरो ब्रह्माद्याश्चाण्डमध्यगाः । विष्णोः सकाशादुत्पन्ना इतीयं वैदिकी श्रुतिः ॥” इति वाराहवचनम्, “वेदवेद्यो हि भगवान् वासुदेवः सनातनः । गीयते स परो वेदैर्यो वेदैनं स वेदवित् ॥” (कू. पु.) इति कौर्मवचनं च सूच्यते ।
 
@@ -443,13 +533,13 @@ While commenting on Sloka 7, we had referred to the Srimad Bhagavad Gita. The Lo
 
 कश्श्रीः श्रिय इति ॥ अत्र “त्वदन्यः” (श्लो. १४) इति वक्ष्यमाणमनुसन्धेयम् । “श्रियः श्रीश्च भवेदग्र्या कीर्त्याः कीर्तिः क्षमाक्षमा” इत्युक्तमिहाभिप्रेतम् । श्रीरेव ह्यन्येषामतिशयं विधत्ते, तस्या अपि “भर्ता नाम परं नार्या भूषणं भूषणादपि” इति न्यायेनातिशयहेतुरयमिति भावः । नारायणमुनिभिस्त्वेवमिह व्याख्यातम् – “स्वेतरसमस्तैः स्वरूपस्थितिप्रवृत्त्यर्थं या श्रीयते सा श्रीः, तस्या अपि तथा श्रयणीयः, इति । श्रीशब्दनिरुक्तयश्च – (अहि. सं. ५१.६२) “शृणाति निखिलान् दोषान् श्रीणाति च गुणैर्जगत् । श्रीयते चाखिलैर्नित्यं श्रयते च परं पदम् ॥ श्रयन्तीं श्रीयमाणां च शृण्वतीं शृणतीमपि ।” (अहि. सं. २१.८) इत्यादिषु द्रष्टव्याः ।
 
-श्रिय इत्यनेन “हीश्च ते लक्ष्मीश्च पत्न्यौ” (तै. आ. ३.१३.२) इत्याम्नातलक्ष्मीशब्दपर्यायोपादानम् । अत्र ह्रीरिति भूमिर्विवक्षिता; “श्रीभूमिसहितं हरिम्” इत्यादिप्रसिद्धेः । वाजसनेयके ह्रीशब्दस्थाने श्रीशब्दपठनेऽपि यथोचितमर्थो ग्राह्यः । तदिह पुरुषसूक्तप्रकरणोदितश्रियःपतित्वलिङ्गसहकृत महापुरुषप्रत्यभिज्ञानबाधितरूढिः प्रजापतिशब्दः “पतिं विश्वस्य” इत्युक्तपुष्कलावयवार्थं नारायणमेवाभिधत्त इति भावः । प्रयुक्तश्चासौ तद्विषयतया महाभारते (आश्व. ४३.१३) “राजाधिराजस्सर्वेषां विष्णुर्ब्रह्ममयो महान् । ईश्वरं तं विजानीमः स पिता स प्रजापतिः” इति । “सप्तदश प्राजापत्यान् पशून्” (तै. ब्रा. १.३.४.३) इत्यादौ च । “श्यामा एकरूपा भवन्ति एवमिव हि प्रजापतिः”, इति प्रजापतेः श्यामत्वैकरूपत्वोक्त्या प्रजापतिशब्दस्य विष्णुविषयत्वं गम्यते । “आश्रावयेति चतुरक्षरम्” इत्यारभ्य “एष वै सप्तदशः प्रजापतिः” इत्येतस्य च विष्णुविषयत्वं, “चतुर्भिश्च चतुर्भिश्च द्वाभ्यां पञ्चभिरेव च । हूयते च पुनर्द्वाभ्यां स नो विष्णुः प्रसीदतु” इति महाभारतवचनेन व्यञ्जितम् ।
+श्रिय इत्यनेन “हीश्च ते लक्ष्मीश्च पत्न्यौ” (तै. आ. ३.१३.२) इत्याम्नातलक्ष्मीशब्दपर्यायोपादानम् । अत्र ह्रीरिति भूमिर्विवक्षिता; “श्रीभूमिसहितं हरिम्” इत्यादिप्रसिद्धेः । वाजसनेयके ह्रीशब्दस्थाने श्रीशब्दपठनेऽपि यथोचितमर्थो ग्राह्यः । तदिह पुरुषसूक्तप्रकरणोदितश्रियःपतित्वलिङ्गसहकृत- महापुरुषप्रत्यभिज्ञानबाधितरूढिः प्रजापतिशब्दः “पतिं विश्वस्य” इत्युक्तपुष्कलावयवार्थं नारायणमेवाभिधत्त इति भावः । प्रयुक्तश्चासौ तद्विषयतया महाभारते (आश्व. ४३.१३) “राजाधिराजस्सर्वेषां विष्णुर्ब्रह्ममयो महान् । ईश्वरं तं विजानीमः स पिता स प्रजापतिः” इति । “सप्तदश प्राजापत्यान् पशून्” (तै. ब्रा. १.३.४.३) इत्यादौ च । “श्यामा एकरूपा भवन्ति एवमिव हि प्रजापतिः”, इति प्रजापतेः श्यामत्वैकरूपत्वोक्त्या प्रजापतिशब्दस्य विष्णुविषयत्वं गम्यते । “आश्रावयेति चतुरक्षरम्” इत्यारभ्य “एष वै सप्तदशः प्रजापतिः” इत्येतस्य च विष्णुविषयत्वं, “चतुर्भिश्च चतुर्भिश्च द्वाभ्यां पञ्चभिरेव च । हूयते च पुनर्द्वाभ्यां स नो विष्णुः प्रसीदतु” इति महाभारतवचनेन व्यञ्जितम् ।
 
 ननु पुरुषसूक्तस्य कथं भगवत्परत्वम्? पुरुषशब्दो हि “स वा एष पुरुषोऽन्नरसमयः” (तै. उ), “प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि” (गीता. १३.१९) इत्यादिषु तदतिरिक्तेऽपि प्रयुज्यते । सत्यम्, निखिलजगत्कारणविषयस्त्वयं पुरुषशब्दः परमपुरुषमेवाह । “पुरुषस्य हरेः सूक्तं स्वर्ग्यं धन्यं यशस्करम्” (ऋग्विधाने) इति च स्मर्यते । मोक्षधर्मे (३६०.५) च परमपुरुषविषयतयैव पुरुषसूक्तं योजितम् – “इदं पुरुषसूक्तं हि सर्ववेदेषु पठ्यते । ऋतं सत्यं च विख्यातमृषिसिंहेन चिन्तितम्” इत्यादिना । व्यासस्मृतौ चेदं भगवदर्चने विनियुक्तम् – “न विष्ण्वाराधनात्पुण्यं विद्यते कर्म वैदिकम् । तस्मादनादिमध्यान्तं नित्यमाराधयेद्धरिम् ॥ तद्विष्णोरिति मन्त्रेण सूक्तेन पुरुषेण तु । नैवाभ्यां सदृशो मन्त्रो वेदेषूक्तश्चतुर्ष्वपि ॥ निवेदयीत स्वात्मानं विष्णावमलतेजसि । तदात्मा तन्मनाः शान्तः तद्विष्णोरिति मन्त्रतः ॥” (कूर्मपुराणे) इति । शौनकीये कल्पे च “शौनकोऽहं प्रवक्ष्यामि नित्यं विष्वर्चनं परम् । प्र वः पातन्तमन्धसो (ऋ. १.१५१.१)
 
 धीत्यर्धर्चस्य विधानतः ॥” (ऋग्विधाने) इति प्रक्रम्य “आद्ययाऽऽवाहयेद्देवमृचा तु पुरुषोत्तमम्” इत्यादिना प्रत्यृचमुपचारभेदेषु विनियोगः कृतः । एवं भगवच्छास्त्रादिष्वपि द्रष्टव्यम् । किंच, आथर्वणे अष्टादशमहाशान्ति(प्रकरणे तत्तद्देवताविषयमहाशान्ति)षु “वैष्णव्यां पुरुषसूक्तम्” इति विनियोगो दृष्टः । एवं – “सहस्रशीर्षा पुरुषः इत्युपहितां पुरुषेण नारायणेन यजमान उपतिष्ठते” (आप. श्रौत), “सहस्रशीर्षा पुरुषः इति पुरुषेण नारायणेन पराञ्चोऽनुशंसन्ति” इति कल्पसूत्रकारवाक्याच्च नारायणविषयत्वमस्य सिद्धम् । तत्रतत्र परमपुरुषसन्निधानबुद्ध्या तेन तत्तदुपस्थानं युज्यते । अत्र नारायणस्य ऋषित्वेन पुरुषस्य च देवतात्वेन संबन्धस्तावत्सर्वसंमतः । तत्र नारायणपुरुषशब्दयोरेकविषयत्वं “सहस्रशीर्षं देवम्” इत्यारभ्य “विश्वमेवेदं पुरुषः” इति नारायणानुवाकोक्त्या सिद्धम् । तथा सुबालोपनिषदि (६ खण्डे) – “चक्षुश्च द्रष्टव्यं च नारायणः” इत्यादिभिर्नारायणस्य सर्वात्मकत्वं प्रतिपाद्य “पुरुष एवेदं सर्वम्” (सुबा. ६. ख.) इति पुरुषसूक्तवाक्येन निगमनान्नारायण एव पुरुषसूक्तप्रतिपाद्य इति निश्चीयते । तदिह पुरुषशब्दः पुरुषोत्तमविषयः । तथा च पौराणिकं वचः – “भगवानिति शब्दोऽयं तथा पुरुष इत्यपि । निरुपाधी च वर्तेते वासुदेवे सनातने ॥” (पाद्मोत्तरखण्डे ६.२५४.६६) इति । एवं “ब्रह्मा कमलगर्भाभो रुद्रः कालाग्निसन्निभः । पुरुषः पुण्डरीकाभो रूपं तत्परमात्मनः ॥” इति त्रयाणां रूपभेदवचनेन प्रत्येकनामोक्तौ ब्रह्मरुद्रव्यावृत्ते परमात्मशब्दोदिते भगवति पुरुषशब्दः समाख्यारूपेण प्रयुक्तः । “पुरुषः पुण्डरीकाक्षः”, इति पाठेऽपि न प्रस्तुतविरोधः । अधीयते च तैत्तिरीयाः प्रजापतिजनककूर्मविषये (तै. आरुणकेतुके) “पूर्वमेवाहमिहाऽसमिति तत्पुरुषस्य पुरुषत्वम्” इति । अनन्तरं “सहस्रशीर्षा पुरुषः सहस्राक्षस्सहस्रपाद् भूत्वोदतिष्ठत्” इति पुरुषसूक्तारम्भस्तत्र प्रत्यभिज्ञायते ।
 
-अस्त्वेवम्; तथाऽपि महेश्वरशिवादिशब्दलिङ्गशालिन्यां श्वेताश्वतरोपनिषदि (३.८) “वेदाहमेतम्” इत्यादिवाक्यदर्शनाद्रुद्रेऽपि पुरुषशब्दाम्नानाच्च पुरुषसूक्तस्यापि तद्विषयत्वं स्यादित्यत्राऽऽह – परमसत्त्वसमाश्रयः क इति ॥ परमस्य – मोक्षोपयुक्तप्रकर्षवतः सत्त्वस्य – प्रकाशसुखहेतुभूतगुणविशेषस्य समाश्रयः – सम्यक् प्रवर्तकः त्वदन्यः क इत्यर्थः । एतेन सांसारिकज्ञानसुखहेतुभूत परिमितसत्त्वव्यवच्छेदः । अयं भावः – पुरुषसूक्तं तावत् परमपुरुषविषयतया स्थापितम् । तत्रत्यवाक्यप्रत्यभिज्ञानादेव श्वेताश्वतरोपनिषदि शिवमहेश्वरादिशब्दानामपि महापुरुषपरत्वमेव युक्तम् । अनन्यथासिद्धं च लिङ्गं तत्र दृश्यते । “महान्प्रभुर्वै पुरुषस्सत्त्वस्यैष प्रवर्तकः” (श्वे. उ. ३.३.१२) इति नारायणस्यैव सत्त्वप्रवर्तकत्वं, ब्रह्मरुद्रयोश्च रजस्तमःप्रवर्तकत्वं श्रुत्यादिप्रसिद्धम् । यथा मैत्रायणीयोपनिषदि (५.२) “अथ यो ह खलु वा अस्य राजसोंऽशस्सोऽसौ ब्रह्मचारिणो योऽयं ब्रह्मा, अथ यो ह खलु वा अस्य सात्त्विकोंऽशस्सोऽसौ ब्रह्मचारिणो योऽयं विष्णुः, अथ यो ह खलु वा अस्य तामसोंऽशस्सोऽसौ ब्रह्मचारिणो योऽयं रुद्रः” इति ।
+अस्त्वेवम्; तथाऽपि महेश्वरशिवादिशब्दलिङ्गशालिन्यां श्वेताश्वतरोपनिषदि (३.८) “वेदाहमेतम्” इत्यादिवाक्यदर्शनाद्रुद्रेऽपि पुरुषशब्दाम्नानाच्च पुरुषसूक्तस्यापि तद्विषयत्वं स्यादित्यत्राऽऽह – परमसत्त्वसमाश्रयः क इति ॥ परमस्य – मोक्षोपयुक्तप्रकर्षवतः सत्त्वस्य – प्रकाशसुखहेतुभूतगुणविशेषस्य समाश्रयः – सम्यक् प्रवर्तकः त्वदन्यः क इत्यर्थः । एतेन सांसारिकज्ञानसुखहेतुभूत-परिमितसत्त्वव्यवच्छेदः । अयं भावः – पुरुषसूक्तं तावत् परमपुरुषविषयतया स्थापितम् । तत्रत्यवाक्यप्रत्यभिज्ञानादेव श्वेताश्वतरोपनिषदि शिवमहेश्वरादिशब्दानामपि महापुरुषपरत्वमेव युक्तम् । अनन्यथासिद्धं च लिङ्गं तत्र दृश्यते । “महान्प्रभुर्वै पुरुषस्सत्त्वस्यैष प्रवर्तकः” (श्वे. उ. ३.३.१२) इति नारायणस्यैव सत्त्वप्रवर्तकत्वं, ब्रह्मरुद्रयोश्च रजस्तमःप्रवर्तकत्वं श्रुत्यादिप्रसिद्धम् । यथा मैत्रायणीयोपनिषदि (५.२) “अथ यो ह खलु वा अस्य राजसोंऽशस्सोऽसौ ब्रह्मचारिणो योऽयं ब्रह्मा, अथ यो ह खलु वा अस्य सात्त्विकोंऽशस्सोऽसौ ब्रह्मचारिणो योऽयं विष्णुः, अथ यो ह खलु वा अस्य तामसोंऽशस्सोऽसौ ब्रह्मचारिणो योऽयं रुद्रः” इति ।
 
 पुराणे च वाराहे (७०.१९) अगस्त्यरुद्रसंवादे रुद्रः – “यत्सत्त्वं स हरिर्देवो यो हरिस्तत्परं पदम् । सत्त्वं रजस्तमश्चेति त्रितयं चैतदुच्यते ॥ सत्त्वेन मुच्यते जन्तुस्सत्त्वं नारायणात्मकम् । रजसा सत्त्वयुक्तेन भवेच्छ्रीमान् यशोधिकः ॥ तच्च पैतामहं वृत्तं सर्वशास्त्रेषु पठ्यते । यद्वेदबाह्यं कर्म स्यात् मामुद्दिश्योपसेव्यते ॥ तद्रौद्रमिति विख्यातं कनिष्ठगतिदं नृणाम् । यद्धीनतपसा युक्तं केवलं तामसं तु यत् ॥ तद्दुर्गतिप्रदं नॄणामिह लोके परत्र च ॥” इति । लैङ्गे चतुर्दशाध्याये – “हिरण्यगर्भो रजसा तमसा शङ्करः स्वयम् । सत्त्वेन सर्वगो विष्णुस्सर्वात्मा सदसन्मयः ॥” इति । तत्रैव चतुर्विंशे क्षुपास्यतपसि – “त्वत्कोपसंभवो रुद्रस्तमसा च समावृतः । त्वत्प्रसादाज्जगद्धाता रजसा च पितामहः ॥ त्वत्स्वरूपात्स्वयं विष्णुस्सत्त्वेन पुरुषोत्तमः ॥” इति । तदनन्तरे चाध्याये नन्दिकेश्वरवचनम् – “परमात्मानमीशानं तमसा रुद्ररूपिणम् । रजसा सर्वलोकानां सर्गलीलाप्रवर्तकम् ॥ सत्त्वेन सर्वभूतानां स्थापकं परमेश्वरम् । सर्वात्मानं महात्मानं परमात्मानमीश्वरम् ॥ ते दृष्ट्वा प्राह वै ब्रह्मा भगवन्तं जनार्दनम्” इति । एवं पुराणान्तरेषु ।
 
@@ -611,7 +701,7 @@ One can know the greatness of the Lord by reading the scriptures, which are auth
 
 <details><summary>वेङ्कटनाथार्यः</summary>
 
-त्वां शीलेति ॥ एतेन मूढान् प्रति शोचति, तन्मध्ये स्वस्य भगवदनुभवलाभात् प्रीयते च । त्वां – महद्भ्योऽपि महीयस्त्वेन पूर्वोक्तम् । शीलमिह महत्तरस्यापि मन्दतरैः सह नीरन्ध्रसंश्लेषः, रामकृष्णाद्यवतारेषु शबरीगोपालादिवृत्तान्तैस्तत्प्रसिद्धिः । तैरेव तत्रतत्र महत्त्वमपि सूच्यते । रूपम् “आदित्यवर्णं तमसः परस्तात्” (पुरुषसूक्ते), “तस्य ह्येतस्य पुरुषस्य रूपं यथा माहारजनं वासः” (बृ. उ. ४.३.६) इत्यादिषु, अस्त्रभूषणाध्यायादिषु (वि. पु. १.२१ अ.) चाप्राकृतत्वेनाकर्महेतुत्वेन विश्वाधारतया शुभाश्रयत्वेन च प्रसिद्धम् । अत्र केषांचिद्भगवत्स्वरूपमेव वा तद्गुणभूतज्ञानबलादि वा परव्यूहादिरूपतया प्रकाशत इति पक्षस्तु तत्रतत्र पृथड्निर्देशस्य बाधकाभावात् निर्विकारत्वनिरवयवत्वादिश्रुतिविरोधात् “पञ्चोपनिषन्मन्त्रविग्रहम्” (रहस्याम्नायब्राह्मणे) “षाड्गुण्यविग्रहं देवम्” (सात्त्वतसंहिता) इत्यादेरन्वयानर्हपदसमभिव्याहारस्य परस्परविरुद्धस्यान्यथैवोपपत्तेश्च निरस्तः । चरितानि – “क्रान्त्वेत्यादिना पूर्वोक्तान्यनुक्तानि च महार्णवनिमग्नवसुन्धरोद्धरणामृतमथन प्रमुखान्यतिमानुषदैवतानि चेष्टितशतानि । परमप्रकृष्टसत्त्वेन – अधिकोत्कृष्टसत्त्वगुणेनेत्यर्थः ।
+त्वां शीलेति ॥ एतेन मूढान् प्रति शोचति, तन्मध्ये स्वस्य भगवदनुभवलाभात् प्रीयते च । त्वां – महद्भ्योऽपि महीयस्त्वेन पूर्वोक्तम् । शीलमिह महत्तरस्यापि मन्दतरैः सह नीरन्ध्रसंश्लेषः, रामकृष्णाद्यवतारेषु शबरीगोपालादिवृत्तान्तैस्तत्प्रसिद्धिः । तैरेव तत्रतत्र महत्त्वमपि सूच्यते । रूपम् “आदित्यवर्णं तमसः परस्तात्” (पुरुषसूक्ते), “तस्य ह्येतस्य पुरुषस्य रूपं यथा माहारजनं वासः” (बृ. उ. ४.३.६) इत्यादिषु, अस्त्रभूषणाध्यायादिषु (वि. पु. १.२१ अ.) चाप्राकृतत्वेनाकर्महेतुत्वेन विश्वाधारतया शुभाश्रयत्वेन च प्रसिद्धम् । अत्र केषांचिद्भगवत्स्वरूपमेव वा तद्गुणभूतज्ञानबलादि वा परव्यूहादिरूपतया प्रकाशत इति पक्षस्तु तत्रतत्र पृथड्निर्देशस्य बाधकाभावात् निर्विकारत्वनिरवयवत्वादिश्रुतिविरोधात् “पञ्चोपनिषन्मन्त्रविग्रहम्” (रहस्याम्नायब्राह्मणे) “षाड्गुण्यविग्रहं देवम्” (सात्त्वतसंहिता) इत्यादेरन्वयानर्हपदसमभिव्याहारस्य परस्परविरुद्धस्यान्यथैवोपपत्तेश्च निरस्तः । चरितानि – “क्रान्त्वेत्यादिना पूर्वोक्तान्यनुक्तानि च महार्णवनिमग्नवसुन्धरोद्धरणामृतमथन-प्रमुखान्यतिमानुषदैवतानि चेष्टितशतानि । परमप्रकृष्टसत्त्वेन – अधिकोत्कृष्टसत्त्वगुणेनेत्यर्थः ।
 
 ननु ब्रह्मादिष्वेव सत्त्वरजस्तमसा प्रत्येकमुत्तममध्यमाधमभेदेन नवधा गतिर्मनुनोक्ता । भगवतस्तु – “सत्त्वादयो न सन्तीशे यत्र हि प्राकृता गुणाः” (विष्णुधर्मे) इति सत्त्वगुणोऽपि प्रतिषिद्ध्यते । तत्कथमिह तदुक्तिः? इत्थम्; क्षेत्रज्ञानां हि प्रकृष्टसत्त्वगुणसम्पत्तिः भगवत्कटाक्षाधीनेति प्रागेव प्रतिपादितम् । तदिह स्वप्रवर्त्येन मोक्षोपयुक्तसत्त्वेनेत्यर्थः । अप्राकृतशुद्धसत्त्वसमाश्रयत्वं वा विवक्षितम् । तामसपुराणादीनां तत्त्ववोधकत्वं नास्तीत्यभिप्रायेणाह – सात्त्विकतयेति । पौरुषेयशास्त्राणां स्वमूलभूतपुरुषगुणभेदेन सात्त्विकत्वादिव्यपदेशः ।
 
@@ -704,20 +794,41 @@ The process of creation has to be understood, for one to get a clear understandi
 
 परं पदं – पद्यत इति पदं प्राप्यं स्थानान्तरेभ्यः परं पुनरावृत्तिरहितमप्राकृतं मुक्तिस्थानमित्यर्थः । श्रूयते हि – “यो अस्याध्यक्षः परमे व्योमन्” (तै. ब्रा. २८.२.६), “हिरण्मये परे लोके विरजं ब्रह्म निष्कलम्” (मुण्डके २.२.१०), “पादोऽस्य विश्वा भूतानि । त्रिपादस्यामृतं दिवि” (पुरुषसूक्ते), “ते ह नाकं महिमानस्सचन्ते । यत्र पूर्वे साध्यास्सन्ति देवाः” (पुरुषसूक्ते), “यथा पादोदरस्त्वचा विनिर्मुच्यते एवमिहैव स पाप्मना विनिर्मुक्तः स सामभिरुन्नीयते ब्रह्मलोकम्”, “विज्ञानसारथिर्यस्तु मनःप्रग्रहवान्नरः । सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम् ॥” (कठोपनिषत् १.३.९), “स खल्वेवं वर्तयन् यावदायुषं ब्रह्मलोकमभिसंपद्यते न च पुनरावर्तते” (छान्दोग्यान्ते) इत्यादि । महाभारते (शान्ति. १९६.६) च – “रम्याणि कामचारी(रा)णि विमानानि सभास्तथा । आक्रीडा विविधा राजन् पद्मिन्यश्चामलोदकाः ॥ एते वै निरयास्तात स्थानस्य परमात्मनः ।” इति । अपुनरावृत्तिस्थानत्वं चोक्तं – “ज्ञानविज्ञानिनः केचित् परं पारं तितीर्षवः । अतीव तत्सदः पुण्यं पुण्याभिजनसेवितम् ॥ तत्र गत्वा न शोचन्ति न च्यवन्ति व्यथन्ति च ॥” इति । ते तु तद्ब्रह्मणः स्थानं प्राप्नुवन्तीह सात्त्विकाः । नैव ते स्वर्गमिच्छन्ति न यजन्ति यशोधनाः ॥ सतां वर्त्मानुवर्तन्ते यथाबलमहिंसया ॥” इति च । भगवन्तं प्रति च देवा ऊचुः – “दिव्यं स्थानमजरं चाप्रमेयं दुर्विज्ञेयं चागमैर्गम्यमाद्यम् । गच्छ प्रभो रक्ष चास्मान् प्रपन्नान् कल्पेकल्पे जायमानः स्वमूर्त्या ॥” इति । आरण्यपर्वणि (१३६.७८.२३) च धर्मसुतं प्रति आर्ष्टिषेण आह – “यमाहुस्सर्वभूतानां प्रकृतेः प्रकृतिं ध्रुवाम् । अनादिनिधनं देवं प्रभुं नारायणं हरिम् ॥ ब्रह्मणस्सदनात्तस्य परस्थानं प्रकाश(श्य)ते । देवा हि यन्न पश्यन्ति दिव्यं तेजोमयं पदम् ॥ अत्यर्कानलदीप्तं तत् स्थानं विष्णोर्महात्मनः । स्वयैव प्रभया राजन् दुष्प्रेक्षं देवदानवैः ॥ यतयस्तत्र गच्छन्ति देवं नारायणं हरिम् । परेण तपसा युक्ता भाविताः कर्मभिश्शुभैः ॥ योगसिद्धा महात्मानः तमोमोहविवर्जिताः ॥ तत्र गत्वा पुनर्नेमं लोकमायान्ति भारत ॥ स्थानमेतन्महाराज ध्रुवमक्षरमव्ययम् । ईश्वरस्य सदा ह्येतत्प्राणमात्रं युधिष्ठिर ॥” इति । एतत् कार्यभगवल्लोकविषयमिति केचित् । अपुनरावृत्तिस्थानत्वाक्षय्यत्वादिव्यपदेशात् परमेव पदमित्यन्ये । युधिष्ठिरादिभ्यस्तत्प्रकाशनं तु “व्यासप्रसादाच्छ्रुतवान्” (गीता. १८.७५) इतिवदृषिप्रभावादुपपद्यते । शेषमप्यविरुद्धं नेयम् । याज्ञवल्क्यस्मृतौ चोक्तम् – “ओङ्काररथमारुह्य मनः कृत्वा तु सारथिम् । ब्रह्मलोकपदान्वेषी याति विष्णोः परं पदम् ॥” इति । अत्र स्थानवाचिनां शब्दानां परमात्मस्वरूपपरत्वप्रतिक्षेपायोक्तं षडर्थसङ्क्षेपे “व्यतिरेकाधिकरणनिवासशब्दैः” इति । अस्य च स्थानस्याप्राकृतत्वं “क्षयन्तमस्य रजसः पराके” (यजुषि २.२.१२), “आदित्यवर्णं तमसः परस्तात्” (पुरुषसूक्ते) इति रजस्तमोमयप्रकृतिसीमातिक्रान्तत्वश्रुत्या भगवच्छास्त्रैश्च सिद्धम् । प्रकृतेरेवाक्षराख्यः परिणतिविशेषः ईश्वरस्य मुक्तानां नित्यानां च भोगस्थानमिति केचिद्वदन्ति । तन्निरासार्थमिह प्रधानपुरुषाभ्यां पश्चात् परमपदस्य पृथगुपादानम् । अयं च पक्षः “कालं स पचते तत्र न कालस्तत्र वै प्रभुः” (भार. शा. १९६.९) इत्यादिभिश्च निरस्तः ।
 
-यच्चान्ये भगवत्स्वरूपमेव वा, तस्य षाङ्गुण्यं वा विचित्रशक्तिवशाद्दिव्यलोकत्वेनावस्थितमित्याहुः, तदपि श्रुत्यादिषु पृथगुक्तेर्बाधकाभावत्, अन्यथा निर्विकारत्वश्रुतिविरोधप्रसङ्गाच्च निरस्तमित्यभिप्रायेण ते विभूतय इति प्रधानादिसाधारण्येन व्यतिरेकनिर्देशः । क्वचिद्विरुद्धनिर्देशास्तु यथार्हमुपचारेण नेतव्या इति । परात्परमित्यत्र पञ्चम्यन्तः परशब्दः प्रधानात्परतः क्षेत्रज्ञवर्गात्परभूतं मुक्तमाह । प्रथमान्तस्त्वनादिमुक्तजीवजातम् । यद्वा, प्रकृतेः परात् क्षेत्रज्ञात् परमिति बद्धमुक्तनित्यजीवजातस्य सामान्येनोपादानम् । अत्र **ब्रह्मशब्देन** शुभाश्रयनित्यविग्रह उपचर्यते; स्वरूपपरत्वोक्तेरनौचित्यात् । इह तु “सालम्बनो महायोगः सबीजो यत्र संस्थिते । मनस्यव्याहते सम्यग्युञ्जतां जायते मुने ॥ स परस्सर्वशक्तीनां ब्रह्मणस्समनन्तरम् । मूर्तं ब्रह्म महाभाग सर्वब्रह्ममयो हरिः ॥” इति वैष्णवपुराणे (१.२२.६३) प्रोक्तम् । चतुःश्लोक्यां (४) च – “मूर्तं ब्रह्म ततोऽपि तत्प्रियतरं रूपं यदत्यद्भुतम्” इति । अत्र ब्रह्मशब्दोपचारनिमित्तं लोकोत्तरबृहत्त्वबृंहणत्वे । चकारेण दिव्यभूषणायुधादेरपि संग्रहः । ते सर्वान्तरात्मत्वेन विश्वपतित्वेन च श्रुतस्य । विभूतयः नियन्तव्याश्शेषभूताश्च । एतेषु द्रव्याणां “न तदस्ति विना यत्स्यान्मया भूतं चराचरम्” (गीता. १०.३९) इत्युक्तापृथक्सिद्धिमत्तया शरीरत्वेन विभूतित्वम्, अद्रव्याणां तु व्यवहितप्रकारतया । हिरण्यगर्भादीनां तु विशेषतः । सृष्ट्यादित्रयोपयुक्तविभूतित्वं विभज्योक्तं वैष्णवपुराणे (१.२२.३१,३२,३३) – “ब्रह्मा दक्षादयः कालस्तथैवाखिलजन्तवः । विभूतयो हरेरेता जगतस्सृष्टिहेतवः ॥ विष्णुर्मत्वादयः कालः सर्वभूतानि च द्विज । स्थितेर्निमित्तभूतस्य विष्णोरेता विभूतयः ॥ रुद्रः कालान्तकाद्याश्च समस्ताश्चैव जन्तवः । चतुर्धा प्रलयायैता जनार्दनविभूतयः ॥” इति । अत्र विष्णोरेव विष्णुविभूतित्वोक्तिर्विभूति सजातीयस्वावताराभिप्राया । ते विभूतय इत्यनेन त्वद्विभूतित्वं स्वाभाविकं त्वदितरविभूतित्वं त्वदिच्छायत्तम्; तथा तद्द्वाराऽपि त्वद्विभूतित्वं सिद्धमेवेति व्यज्यते ॥ १७ ॥
+यच्चान्ये भगवत्स्वरूपमेव वा, तस्य षाङ्गुण्यं वा विचित्रशक्तिवशाद्दिव्यलोकत्वेनावस्थितमित्याहुः, तदपि श्रुत्यादिषु पृथगुक्तेर्बाधकाभावत्, अन्यथा निर्विकारत्वश्रुतिविरोधप्रसङ्गाच्च निरस्तमित्यभिप्रायेण ते विभूतय इति प्रधानादिसाधारण्येन व्यतिरेकनिर्देशः । क्वचिद्विरुद्धनिर्देशास्तु यथार्हमुपचारेण नेतव्या इति । परात्परमित्यत्र पञ्चम्यन्तः परशब्दः प्रधानात्परतः क्षेत्रज्ञवर्गात्परभूतं मुक्तमाह । प्रथमान्तस्त्वनादिमुक्तजीवजातम् । यद्वा, प्रकृतेः परात् क्षेत्रज्ञात् परमिति बद्धमुक्तनित्यजीवजातस्य सामान्येनोपादानम् । अत्र **ब्रह्मशब्देन** शुभाश्रयनित्यविग्रह उपचर्यते; स्वरूपपरत्वोक्तेरनौचित्यात् । इह तु “सालम्बनो महायोगः सबीजो यत्र संस्थिते । मनस्यव्याहते सम्यग्युञ्जतां जायते मुने ॥ स परस्सर्वशक्तीनां ब्रह्मणस्समनन्तरम् । मूर्तं ब्रह्म महाभाग सर्वब्रह्ममयो हरिः ॥” इति वैष्णवपुराणे (१.२२.६३) प्रोक्तम् । चतुःश्लोक्यां (४) च – “मूर्तं ब्रह्म ततोऽपि तत्प्रियतरं रूपं यदत्यद्भुतम्” इति । अत्र ब्रह्मशब्दोपचारनिमित्तं लोकोत्तरबृहत्त्वबृंहणत्वे । चकारेण दिव्यभूषणायुधादेरपि संग्रहः । ते सर्वान्तरात्मत्वेन विश्वपतित्वेन च श्रुतस्य । विभूतयः नियन्तव्याश्शेषभूताश्च । एतेषु द्रव्याणां “न तदस्ति विना यत्स्यान्मया भूतं चराचरम्” (गीता. १०.३९) इत्युक्तापृथक्सिद्धिमत्तया शरीरत्वेन विभूतित्वम्, अद्रव्याणां तु व्यवहितप्रकारतया । हिरण्यगर्भादीनां तु विशेषतः । सृष्ट्यादित्रयोपयुक्तविभूतित्वं विभज्योक्तं वैष्णवपुराणे (१.२२.३१,३२,३३) – “ब्रह्मा दक्षादयः कालस्तथैवाखिलजन्तवः । विभूतयो हरेरेता जगतस्सृष्टिहेतवः ॥ विष्णुर्मत्वादयः कालः सर्वभूतानि च द्विज । स्थितेर्निमित्तभूतस्य विष्णोरेता विभूतयः ॥ रुद्रः कालान्तकाद्याश्च समस्ताश्चैव जन्तवः । चतुर्धा प्रलयायैता जनार्दनविभूतयः ॥” इति । अत्र विष्णोरेव विष्णुविभूतित्वोक्तिर्विभूति-सजातीयस्वावताराभिप्राया । ते विभूतय इत्यनेन त्वद्विभूतित्वं स्वाभाविकं त्वदितरविभूतित्वं त्वदिच्छायत्तम्; तथा तद्द्वाराऽपि त्वद्विभूतित्वं सिद्धमेवेति व्यज्यते ॥ १७ ॥
 
 एवं भगवतः परत्वं प्रपञ्चितम्; अनन्तरमाभिगामिकगुणमुखेन सौलभ्यमुच्यते –
 </details>
 
+### गुणान्तराणि, लीला
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वशी वदान्यो गुणवानृजुश्शुचिर्मुदुर्दयालुर्मधुरः स्थिरः समः ।  
-कृती कृतज्ञस्त्वमसि स्वभावतः समस्तकल्याणगुणामृतोदधिः ॥ १८ ॥
+वशी वदान्यो गुणवान् ऋजुश् शुचिर्  
+मृदुर् दयालुर् मधुरः स्थिरः समः ।  
+कृती कृत-ज्ञस् त्वम् **असि** स्व-भावतः  
+समस्त-कल्याण-गुणामृतोदधिः ॥ १८ ॥
 </details>
+
+<details><summary>English</summary>
+
+You are, by your own nature, submissive to the will of those that take refuge in you, are large hearted, noble, pure, tender, compassionate, blissful, firm, evenhanded, ever mindful of the services of the devotees and a nectar of ocean of all auspicious attributes.
+
+The Lord is full of auspicious attributes. In this sloka, Alavandar lists out just 12 of them.
+
+The Lord is submissive to those that have taken refuge in Him. We may refer to the Lord acting as the charioteer of the Pandavas, in the war between them and the Kauravas. Prior to that, He acted as their mediator (ambassador). As the charioteer and friend, he permitted great familiarity to Arjuna, who called Him in very casual terms. After Arjuna sees the Form of the Lord, he is frightened and then says contritely (in the Srimad Bhagavad Gita Chapter XI Verses 41-42): "The way in which I have importunately called out, either through intimacy or even through want of thought, "Hey Krishna, Hey Yadava, Hey com-33 rade and so on, suspecting not this greatness of Yours, and thinking You only to be a friend, and the way You have been slighted by me in jest...." The Lord had not minded it, because He is submissive ("Vasi") to those that had taken refuge in Him.
+
+The Lord is large-hearted ("vadanyah"). He confers His Grace in abundance and quite often, unasked. He rushes to their help. This is exemplified by Sudama's (Kuchela) episode.Kuchela's wife persuades him to visit his childhood friend, Lord Krishna and request for help, as they are in abject penury. Sudama agrees and carries a small quantity of parched grain with him. Lord Krishna sees him from a distance, when Sudama reaches Dvaraka. He rushes out to embrace Sudama and to receive him warmly. They exchange notes about their gurukula days. Sudama is bashful and does not ask for any thing. Lord Krishna, who is aware of the innermost thoughts of all, understood Sudama's thoughts (Srimad Bhagavatam, Skandha X Chapter 81): "He never worshipped me for wealth. My friend is now coming to meet at the instance of his loyal wife. I shall grant him wealth beyond his dreams". Sudama goes home and finds that the Lord had made him wealthy, beyond what even his wife had desired! Sudama himself was more than happy with the way the Lord had received him. "I have witnessed the Lord's love of holy men, how he regards them as adorable beings. Me, the poorest of the poor, He was pleased to hug to His chest, which is the residence of Sri, where am I, the poorest of the poor and a sinner to boot. And, where is Krishna, the abode of Sri....... The service of the Lord's feet is the source of man's welfare in all respects....."This is what Alavandar calls as "vadanyah".
+
+He is noble (gunavan). He never bothers about His greatness. He mixes freely with people of humble origin. Why human beings alone - He mixed freely with monkeys and bears in His avatara as Lord Ramachandra.
+
+He is pure. There are two types of purity - physical and mental. One who does good to others, without expecting any return is one who has mental purity. Obviously, when the Lord showers His Grace on those who seek Him, He is not expecting any thing in return. He is tender - a tenderness in body ("komalangah" 34 Sri Yamunacharya's is how He is addressed) and tenderness in mind and heart. He cannot bear the difficulties of His devotees. A related quality is the quality of being merciful. He is full of bliss. He makes His devotees happy. He is firm - meaning thereby that He firmly holds on to a devotee and does not let go of him. He does not abandon a devotee, because the devotee has some (or many) deficiencies (Later in the stotra we will be seeing how Sri Yamuna pleads that he has all the possible deficiencies and only the Lord can save him). He is even-handed. He does not distinguish people based on accident of birth or based on other considerations. He is selfless, as he does not do any thing for Himself.
+
+Having listed out the above qualities, Alavandar concludes by stating that the Lord is a nectar ocean of all auspicious attributes ("samasta kalyanaguna amritodadhi").
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-वशी वदान्यो गुणवानृजुश्शुचिर्मुदुर्दयालुर्मधुरः स्थिरः समः ।  
+वशी वदान्यो गुणवानृजुश्शुचिर्मृदुर्दयालुर्मधुरः स्थिरः समः ।  
 कृती कृतज्ञस्त्वमसि स्वभावतः समस्तकल्याणगुणामृतोदधिः ॥ १८ ॥
 </details>
 
@@ -756,9 +867,22 @@ The process of creation has to be understood, for one to get a clear understandi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपर्युपर्यब्जभुवोऽपि पूरुषान्प्रकल्प्य ते ये शतमित्यनुक्रमात् ।  
-गिरस्त्वदेकैकगुणावधीप्सया सदा स्थिता नोद्यमतोऽतिशेरते ॥ १९ ॥
+उपर्य् उपर्य् अब्ज-भुवोऽपि पूरुषान्  
+**प्रकल्प्य** ते ये शतम् इत्य् अनुक्रमात् ।  
++++(“ते ये शतम्” इत्यादि-वैदिक-)+++गिरस् त्वद् +++(आनन्दः→)+++ एकैक-गुणावधीप्सया  
+सदा स्थिता **नोद्यमतो ऽतिशेरते** ॥ १९ ॥
 </details>
+
+<details><summary>English</summary>
+
+The Vedic texts attempt to find the limit of Your attributes, by describing in ascending order the bliss of beings higher than the lotus-born Brahma, by using words "one hundred units of such bliss". Inspite of constant endeavour, they fail to do so and do not go beyond the first Ananda, because that is itself Infinite.
+
+In the previous sloka, it has been said that the auspicious qualities (attributes) of the Lord are innumerable. In this sloka, it is being stated that it is not possible to indicate the limits of these attributes. In order to find out the limits, the Vedas created a being with incomparable attributes of bliss and thereafter went on describing beings whose attributes of bliss were hundred times of the previously stated bliss. After going on like this, they found that 35 the bliss computed at the end did not go beyond the first Ananda of the Lord because that itself was infinite. The Ananda of the Lord is therefore inestimable.
+
+The Taitiriya Upanishad consists of three chapters - the Siksavalli, the Anandavalli and the Briguvalli. The chapters are divided into Aranyakas (lessons). Lesson 8 of Anandavalli says as follows "....This is an assessment of Bliss. Let it be supposed that there is a youth, in the prime of youth and that to him belongs the entire earth laden with all riches. We have in him one measure of human joy. One hundred such units of human joy, a sage full of revelation and free from all cravings will possess. One hundred units of such joy will make the joy of the highest gods. One hundred units of such joy is the joy of Indra, and one hundred units of joy of Indra is the joy of Brihaspati. One hundred units of such joy is the joy of Prajapati while one hundred units of such joy is the joy of Brahma. Thus, the bliss of the best man, Gandharvas, Pitrus, Ajanadevas, Karmadevas, Devas, Indra, Brihaspati, Prajapati and Brahma goes on increasing, with the joy of Brahma being billion million times of the joy of the best man. The Brihadaranyaka Upanishad also has a description of a similar hierarchy of bliss, leading to the bliss that is Brahman. Alavandar says that the Vedas, inspite of such hierarchical calculations are unable to find the limits of the Ananda of the Lord. Sri Yamuna states that when the Upanishads could not calculate in respect of even one attribute (Ananda) of the Lord, how can the Vedas compute the attributes in entirety ("tvad ekaika guna avadhipsaya)? 
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -768,16 +892,30 @@ The process of creation has to be understood, for one to get a clear understandi
 
 <details><summary>वेङ्कटनाथार्यः</summary>
 
-उपर्युपरीति ॥ “उपर्यध्यधसः सामीप्ये” (अष्टा. ८.१.७), “उभसर्वतसोः कार्या धिगुपर्यादिषु त्रिषु । द्वितीयाऽऽम्रेडितान्तेषु ततोऽन्यत्रापि दृश्यते” (श्लोकवार्तिकम् २.३.२) इत्यनुशासनात् अत्राब्जभुव इति द्वितीया । पञ्चमी तु अतसर्थप्रत्ययान्तोपरिशब्दयोगादत्रायुक्ता । षष्ठी चाम्रेडितोपरिशब्दयुक्ते विशेषतो द्वितीयाविधानादिह न ग्राह्या । अब्जभुवः पूरुषानिति प्रकॢप्तिकर्मत्वेन सामानाधिकरण्यं वा । अब्जभूशब्देन “पृष्टः प्रोवाच भगवानब्जयोनिः पितामहः” (वि. पु. १.२) इत्यादिप्रसिद्धमौत्पत्तिकवैभवं सूच्यते । एतेनानन्दवल्ल्यां प्रजापतिशब्दविवक्षितं व्याख्यातम् । अपिशब्दोऽसंभावितकॢप्तिद्योतकः । हिरण्यगर्भं सार्वभौममनुष्यस्थाने निवेश्य तत्प्रभृतींश्चतुर्मुखपर्यन्तानविद्यमानानपि पुरुषान् पूर्वपूर्वापेक्षया प्रकर्षेण कल्पयित्वेत्यर्थः । ते ये शतमित्यनुक्रमात् प्रत्यक्षश्रुतिपठितानुक्रमेणाविद्यमानासंख्यातपाठपर्यायाभ्यूहं कृत्वेति भावः । गिर इत्यनेन यथावदर्थाभिधानसामर्थ्यं सूच्यते । “ते ये शतम्” (तै. आन. ८) इत्यादिसमभिव्याहाराद्वेदगिर इति विशेषः सिध्यति । यद्यप्यानन्दवल्ल्यां “सैषाऽऽनन्दस्य मीमांसा” इत्यारभ्यानन्दाख्य एक एव गुणः परिच्छेत्तुमशक्य इत्युक्तम्; तथाऽपि “युवा स्यात्” (तै. आन. ८) इत्यादिना गुणविभूतिप्रकर्षनिबन्धनस्यानन्दप्रकर्षस्योपक्रान्ततया परस्मिन्नपि ब्रह्मणि अनन्तगुणविभूतिनिबन्धनस्य तस्य विवक्षितत्वात्, तन्नान्तरीयकतया सर्वगुणानां निरवधिकत्वं सिध्यतीत्यभिप्रायेणाह – त्वदेकैकगुणावधीप्सयेति । अत्र गुणगुणिभेदव्यपदेशात् भगवत्स्वरूपेण भगवद्गुणानामभेदं वदन्तः प्रत्युक्ताः । सामानाधिकरण्यं तु धर्मधर्मिभावादेवोपपद्यते । अन्यथा तन्मतेऽपि स्वयं निराचिकीर्षितनिर्गुणवादपरिशेषस्स्यात् । अपिशब्दस्सदा स्थिता इत्यत्र वाऽन्वेति । सर्वदोद्युक्ता अपीत्यर्थः । यद्वा सदा स्थिता गिर इति नित्यतया वक्तृदोषोज्झितत्वं व्यज्यते । तदा प्रकल्प्यापि नोद्यमतोऽतिशेरत इत्यन्वयः । पुनःपुनरुपक्रमावस्थैव परिशिष्यत इति भावः । अत्र “तस्येयं पृथिवी सर्वा वित्तस्य पूर्णा स्यात्” (तै. आन. ८) इत्यसंभावितकल्पनयैवोपक्रमः । अतस्समानन्यायतया तादृशकल्पनाप्रवाहेऽपि श्रुतेस्तात्पर्यमुन्नीतम् । पूर्वं (श्लो. ११) नारायणशब्देन संबोधित एवानन्दवल्लीस्थब्रह्मशब्दार्थतयाऽत्र त्वच्छब्देन निर्दिश्यते । “स यश्चायं पुरुषे । यश्चासावादित्ये । स एकः ।” (तै. आन.) इति पुरुषवर्तिनः सर्वान्तर्यामिणः सवितृमण्डलमध्यवर्तिपुण्डरीकाक्षपुरुषेणैक्योपदेशश्चात्र विज्ञानमयादप्यर्थान्तरमानन्दमयं विश्वात्मानं नारायणमेव व्यनक्ति ॥ १९ ॥
+उपर्युपरीति ॥ “उपर्यध्यधसः सामीप्ये” (अष्टा. ८.१.७), “उभसर्वतसोः कार्या धिगुपर्यादिषु त्रिषु । द्वितीयाऽऽम्रेडितान्तेषु ततोऽन्यत्रापि दृश्यते” (श्लोकवार्तिकम् २.३.२) इत्यनुशासनात् अत्राब्जभुव इति द्वितीया । पञ्चमी तु अतसर्थप्रत्ययान्तोपरिशब्दयोगादत्रायुक्ता । षष्ठी चाम्रेडितोपरिशब्दयुक्ते विशेषतो द्वितीयाविधानादिह न ग्राह्या । अब्जभुवः पूरुषानिति प्रकॢप्तिकर्मत्वेन सामानाधिकरण्यं वा । अब्जभूशब्देन “पृष्टः प्रोवाच भगवानब्जयोनिः पितामहः” (वि. पु. १.२) इत्यादिप्रसिद्धमौत्पत्तिकवैभवं सूच्यते । एतेनानन्दवल्ल्यां प्रजापतिशब्दविवक्षितं व्याख्यातम् । अपिशब्दोऽसंभावितकॢप्तिद्योतकः । हिरण्यगर्भं सार्वभौममनुष्यस्थाने निवेश्य तत्प्रभृतींश्चतुर्मुखपर्यन्तानविद्यमानानपि पुरुषान् पूर्वपूर्वापेक्षया प्रकर्षेण कल्पयित्वेत्यर्थः । ते ये शतमित्यनुक्रमात् प्रत्यक्षश्रुतिपठितानुक्रमेणाविद्यमानासंख्यातपाठपर्यायाभ्यूहं कृत्वेति भावः । गिर इत्यनेन यथावदर्थाभिधानसामर्थ्यं सूच्यते । “ते ये शतम्” (तै. आन. ८) इत्यादिसमभिव्याहाराद्वेदगिर इति विशेषः सिध्यति । यद्यप्यानन्दवल्ल्यां “सैषाऽऽनन्दस्य मीमांसा” इत्यारभ्यानन्दाख्य एक एव गुणः परिच्छेत्तुमशक्य इत्युक्तम्; तथाऽपि “युवा स्यात्” (तै. आन. ८) इत्यादिना गुणविभूतिप्रकर्षनिबन्धनस्यानन्दप्रकर्षस्योपक्रान्ततया परस्मिन्नपि ब्रह्मणि अनन्तगुणविभूतिनिबन्धनस्य तस्य विवक्षितत्वात्, तन्नान्तरीयकतया सर्वगुणानां निरवधिकत्वं सिध्यतीत्यभिप्रायेणाह – त्वदेकैकगुणावधीप्सयेति । अत्र गुणगुणिभेदव्यपदेशात् भगवत्स्वरूपेण भगवद्गुणानामभेदं वदन्तः प्रत्युक्ताः । सामानाधिकरण्यं तु धर्मधर्मिभावादेवोपपद्यते । अन्यथा तन्मतेऽपि स्वयं निराचिकीर्षितनिर्गुणवादपरिशेषस्स्यात् । अपिशब्दस्सदा स्थिता इत्यत्र वाऽन्वेति । सर्वदोद्युक्ता अपीत्यर्थः । यद्वा सदा स्थिता गिर इति नित्यतया वक्तृदोषोज्झितत्वं व्यज्यते । तदा प्रकल्प्यापि नोद्यमतोऽतिशेरत इत्यन्वयः । पुनःपुनरुपक्रमावस्थैव परिशिष्यत इति भावः । अत्र “तस्येयं पृथिवी सर्वा वित्तस्य पूर्णा स्यात्” (तै. आन. ८) इत्यसंभावितकल्पनयैवोपक्रमः । अतस्समानन्यायतया तादृशकल्पनाप्रवाहेऽपि श्रुतेस्तात्पर्यमुन्नीतम् । पूर्वं (श्लो. ११) नारायणशब्देन संबोधित एवानन्द-वल्ली-स्थ--ब्रह्म-शब्दार्थतयाऽत्र त्वच्छब्देन निर्दिश्यते । “स यश्चायं पुरुषे । यश्चासावादित्ये । स एकः ।” (तै. आन.) इति पुरुषवर्तिनः सर्वान्तर्यामिणः सवितृमण्डलमध्यवर्तिपुण्डरीकाक्षपुरुषेणैक्योपदेशश्चात्र विज्ञानमयादप्यर्थान्तरमानन्दमयं विश्वात्मानं नारायणमेव व्यनक्ति ॥ १९ ॥
 
 नन्वेवंविधनिरतिशयानन्दस्य भगवतो न तावत्स्वार्थे जगद्व्यापारः, अपूर्णत्वप्रसङ्गात् । नापि परार्थः; संसारस्य दुःखमयत्वादित्यत्र केनचिदाकारेणोभयार्थत्वं विश्वोपकारव्यापारानन्त्यं च वदन् पूर्वोक्तगुणप्रकर्षमेव स्थिरीकरोति –
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वदाश्रितानां जगदुद्भवस्थितिप्रणाशसंसारविमोचनादयः ।  
-भवन्ति लीलाविधयश्च वैदिकास्त्वदीयगम्भीरमनोनुसारिणः ॥ २० ॥
+त्वद् आश्रितानां जगद्-उद्भव-स्थिति-  
+प्रणाश--संसार-विमोचनादयः ।  
+**भवन्ति** लीला, विधयश् च वैदिकास्  
+त्वदीय-गम्भीर-मनोऽनुसारिणः +++(←“श्रुतिः समृतिर्ममैवाज्ञा”)+++ ॥ २० ॥
 </details>
+
+<details><summary>English</summary>
+
+36 Sri Yamunacharya's The creation, sustenance and dissolution of the Universe as also the granting of liberation constitute Your play, for the benefit of those who seek refuge in You. And the vedic mandates are in conformity with Your otherwise unfathomable will.
+
+The underlying idea is that the Lord indulges in the repetitive process of creation, sustenance and dissolution of the Universe, not because of any personal desire. He is above any wants of a personal nature. But, He wants to give opportunities to the jivas to turn to Him and to attain liberation.
+
+In the previous sloka it has been stated that the divine attributes of the Lord are inestimable. It would then be pointless to say that while his attributes are numerous, there is no one to attain them. Alavandar therefore hastens to say in this sloka that there are many devotees who are available to take advantage of the immense wealth of the Lord.
+
+An alternate interpretation has also been given to this sloka. Creation, sustenance and dissolution of the universe and attainment of liberation are all a play for the mukta purushas, Brahma and others. The Vedic injunctions fall in line with the inclination of Your devotees. What this means is that Brahma and others have been entrusted the assignment of creation of the universe and other activities. It is because of the grace of the Lord they are able to discharge their duties with ease. They are making the sentient beings as devotees of the Lord. They are showing the path to liberation. All these have become a play for Brahma and others. If so, need one say separately about the capabilities of the Lord? 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -787,9 +925,13 @@ The process of creation has to be understood, for one to get a clear understandi
 
 <details><summary>वेङ्कटनाथार्यः</summary>
 
-त्वदाश्रितानामिति ॥ त्वामाश्रितानां कृते तदभीष्टसिद्ध्यर्थं तद्भोग्यत्वार्थं चेति भावः । एतेन पूर्वोक्तापरिमितगुणविभूतिवैभवस्य भोक्तॄणामभावात् अरण्यचन्द्रिकात्वप्रसङ्गोऽपि निरस्तः । जगत्सष्टेः भगवद्भक्तार्थत्वं च “सर्वेऽस्मै देवा बलिमावहन्ति” (तै. शिक्षावल्ली), “सर्वं ह पश्यः पश्यति सर्वमाप्नोति सर्वशः” (छा. ७.२६.२) इत्यादिश्रुतिभिरभिव्यज्यते । जगदुद्भवस्थितिप्रणाशशब्दाः णिजर्थमन्तर्भाव्य प्रयोजकव्यापारपराः । विश्वोपादानभूतस्य सर्वान्तर्यामिणो जगच्छरीरकत्वाकारेणोत्पत्त्यादिकमेव वा विवक्षितम् । अत एव गात्रविक्षेपरूपनृत्तवल्लीलात्वमपि घटते । तेन स्वार्थत्वमपि सिद्धम्। आदिशब्देनानुप्रवेशनियमनादिकमवतरणादिकं च गृह्यते । भवन्तीत्यनेन तादृशलीलाया उपपन्नत्वं प्रतिकल्पानुवृत्तत्वं च व्यञ्जितम् । अत्र तवेत्यध्याहर्तव्यम् । त्वदिति पदच्छेदेन त्वत्तो निमित्तोपादानभूताद्भवन्तीति वा योज्यम् । वैदिकाः विधयः वेदसंबन्धिनो विधिभागाः ।
+त्वदाश्रितानामिति ॥ त्वामाश्रितानां कृते तदभीष्टसिद्ध्यर्थं तद्भोग्यत्वार्थं चेति भावः । एतेन पूर्वोक्तापरिमितगुणविभूतिवैभवस्य भोक्तॄणामभावात् अरण्यचन्द्रिकात्वप्रसङ्गोऽपि निरस्तः । जगत्सष्टेः भगवद्भक्तार्थत्वं च “सर्वेऽस्मै देवा बलिमावहन्ति” (तै. शिक्षावल्ली), “सर्वं ह पश्यः पश्यति सर्वमाप्नोति सर्वशः” (छा. ७.२६.२) इत्यादिश्रुतिभिरभिव्यज्यते । जगदुद्भवस्थितिप्रणाशशब्दाः णिजर्थमन्तर्भाव्य प्रयोजकव्यापारपराः । विश्वोपादानभूतस्य सर्वान्तर्यामिणो जगच्छरीरकत्वाकारेणोत्पत्त्यादिकमेव वा विवक्षितम् । अत एव गात्रविक्षेपरूपनृत्तवल्लीलात्वमपि घटते । तेन स्वार्थत्वमपि सिद्धम्। आदिशब्देनानुप्रवेशनियमनादिकमवतरणादिकं च गृह्यते ।  
+**भवन्तीत्यनेन** तादृशलीलाया उपपन्नत्वं प्रतिकल्पानुवृत्तत्वं च व्यञ्जितम् ।  
+अत्र तवेत्यध्याहर्तव्यम् ।  
+**त्वद्** इति पदच्छेदेन त्वत्तो निमित्तोपादानभूताद्भवन्तीति वा योज्यम् ।  
+**वैदिकाः विधयः** वेदसंबन्धिनो विधिभागाः ।
 
-त्वदीयगम्भीरमनोनुसारिणः – तवैव स्वेतरदुरवगाहाक्षोभ्यसङ्कल्पानुविधायिन इत्यर्थः । यथाऽऽह – “श्रुतिः समृतिर्ममैवाज्ञा” (विष्णुधर्मे ६.३१) इति । एते च त्वदाश्रितार्थाः । एवं वा योजना; त्वदाश्रितानां चतुर्मुखमुखाश्च (श्लो. ८) इति पूर्वोक्तानां ब्रह्मरुद्रादीनामित्यर्थः । जगच्छब्द इह यथार्हमण्डान्तर्वर्तितत्तत्कार्यविशेषविषयः । एषां संसारविमोचकत्वं “शङ्करस्य तु यो भक्तः सप्तजन्मान्तरं नरः । तस्यैव तु प्रसादेन विष्णुभक्तः प्रजायते ॥”, “त्रिभिः प्रजापतेर्भक्तः सप्तभिः शङ्करस्य तु । विंशत्याऽग्नीन्द्रसूर्यादेः विष्णुभक्तः प्रजायते ॥” इत्यादिन्यायादनुग्रहोपदेशधर्मप्रवर्तनादिद्वारा स्यात् । लीलात्वोक्तिरिह तेषां भगवदनुग्रहेण सृष्ट्यादेः प्रियत्वसुकरत्वसूचनार्था । त्वदाश्रितानामप्येवम्, तव तु किं पुनरिति चाभिप्रेतम् । वैदिकविधीनां भगवदाश्रितमनोनुसारित्वं च “अथ यदि ते कर्मविचिकित्सा वा वृत्तविचिकित्सा वा स्यात् । ये तत्र ब्राह्मणाः सम्मर्शिनः । युक्ता आयुक्ताः । अलूक्षा धर्मकामास्स्युः । यथा ते तत्र वर्तेरन्, तथा तत्र वर्तेथाः । अथाभ्याख्यातेषु । ये तत्र ब्राह्मणास्सम्मर्शिनः । युक्ता आयुक्ताः । अलूक्षा धर्मकामास्स्युः । यथा ते तेषु वर्तेरन् । तथा तेषु वर्तेथाः । एष आदेशः । एष उपदेशः ।” (तै. शीक्षा.) इत्यादिश्रुतिसिद्धम् । स्मर्यते च “श्रुतिस्स्मृतिस्सदाचारः”, “वेदोऽखिलो धर्ममूलं स्मृतिशीले च तद्विदाम्” (मनुः) इति । विधिशब्द इह वैदिकानुष्ठानपरो वा । पूर्वयोजनायां च भगवता धर्मसंस्थापनार्थं क्रियमाणानि वैदिकधर्मानुष्ठानानि ग्राह्याणि ।
+**त्वदीयगम्भीरमनोनुसारिणः** – तवैव स्वेतरदुरवगाहाक्षोभ्यसङ्कल्पानुविधायिन इत्यर्थः । यथाऽऽह – “श्रुतिः समृतिर्ममैवाज्ञा” (विष्णुधर्मे ६.३१) इति । एते च त्वदाश्रितार्थाः । एवं वा योजना; त्वदाश्रितानां चतुर्मुखमुखाश्च (श्लो. ८) इति पूर्वोक्तानां ब्रह्मरुद्रादीनामित्यर्थः । जगच्छब्द इह यथार्हमण्डान्तर्वर्तितत्तत्कार्यविशेषविषयः । एषां संसारविमोचकत्वं “शङ्करस्य तु यो भक्तः सप्तजन्मान्तरं नरः । तस्यैव तु प्रसादेन विष्णुभक्तः प्रजायते ॥”, “त्रिभिः प्रजापतेर्भक्तः सप्तभिः शङ्करस्य तु । विंशत्याऽग्नीन्द्रसूर्यादेः विष्णुभक्तः प्रजायते ॥” इत्यादिन्यायादनुग्रहोपदेशधर्मप्रवर्तनादिद्वारा स्यात् । लीलात्वोक्तिरिह तेषां भगवदनुग्रहेण सृष्ट्यादेः प्रियत्वसुकरत्वसूचनार्था । त्वदाश्रितानामप्येवम्, तव तु किं पुनरिति चाभिप्रेतम् । वैदिकविधीनां भगवदाश्रितमनोनुसारित्वं च “अथ यदि ते कर्मविचिकित्सा वा वृत्तविचिकित्सा वा स्यात् । ये तत्र ब्राह्मणाः सम्मर्शिनः । युक्ता आयुक्ताः । अलूक्षा धर्मकामास्स्युः । यथा ते तत्र वर्तेरन्, तथा तत्र वर्तेथाः । अथाभ्याख्यातेषु । ये तत्र ब्राह्मणास्सम्मर्शिनः । युक्ता आयुक्ताः । अलूक्षा धर्मकामास्स्युः । यथा ते तेषु वर्तेरन् । तथा तेषु वर्तेथाः । एष आदेशः । एष उपदेशः ।” (तै. शीक्षा.) इत्यादिश्रुतिसिद्धम् । स्मर्यते च “श्रुतिस्स्मृतिस्सदाचारः”, “वेदोऽखिलो धर्ममूलं स्मृतिशीले च तद्विदाम्” (मनुः) इति । विधिशब्द इह वैदिकानुष्ठानपरो वा । पूर्वयोजनायां च भगवता धर्मसंस्थापनार्थं क्रियमाणानि वैदिकधर्मानुष्ठानानि ग्राह्याणि ।
 
 नन्विह भगवता परमसाम्यमापन्नानां मुक्तानां जगद्व्यापारादेरुक्तिः किं न गृह्यते? उक्तं हि परमसंहितायां “केन रूपेण भिद्यन्ते मुक्ताः तव शरीरिणः । एतदाचक्ष्व मे देव ! गुह्याद्गुह्यतरं परम् ॥” इति ब्रह्मणा पृष्टे प्रत्युक्तम् – “अहमेव भवन्त्येते न भेदः तत्र कश्चन । यथाऽहं विहराम्येवं तथा मुक्ताश्च देहिनः ॥” इति । अतो मुक्तस्य भगवदैक्यात् जगद्व्यापारादि स्यादिति चेत् – मैवम्; तत्रापि “तव शरीरिणः” (परमसंहिता) इत्यनूदितसर्वशरीरित्वानुगुणमैक्यव्यपदेशस्य श्रुतिस्मृतिसिद्धपरमसाम्यविवक्षया नेतव्यत्वात् । “रामसुग्रीवयोरैक्यम्” (रामा. सुन्दर. ३५.५१) इत्यादिन्यायाच्च । अन्यथा “यथाऽहं विहरामि” (परमसंहिता) इत्यादिना दृष्टान्तदार्ष्टान्तिकभावेन भेदव्यपदेशो न घटते । तदिह मुक्तानां विहारसाम्यवचनं “जक्षत् क्रीडन् रममाणः” (छान्द्योग्ये) “सङ्कल्पादेवास्य पितरः समुत्तिष्ठन्ति” (छान्द्योग्ये) इत्युपनिषदुक्तपरिच्छिन्नव्यापारविषयम् । तदेव हि तत्रान्तिमे पटले दर्शितं – “सायुज्यं प्रतिपन्ना ये तीव्रभक्तास्तपस्विनः । किङ्करा मम ते नित्यं भवन्ति निरुपद्रवाः” (परमसंहिता ३०.९४) इति । एवं “मुक्तानां जगद्व्यापारे शक्तिरस्ति, तत्प्राप्तिर्नास्तीति पक्षोऽपि न विचारार्हः । न हि मुक्तानां सर्वशरीरित्वम्, अश्रुतत्वादनुपपतेश्च; तदभावे कथं “बहु स्याम्” (तै. भृगु) इति सङ्कल्पशक्तिः?; तथाविधशक्तिशालिनः तदप्राप्तिश्चात्र दुर्वचा । तथैव नित्यानामपि । उक्तं हि भाष्येऽनन्तपदव्याख्याने “सातिशयस्वरूपगुणा नित्या व्यावृत्ताः” (जन्माद्यधिकरणे) इति । अतो यथोक्त एवार्थः ॥ २० ॥
 
@@ -798,9 +940,21 @@ The process of creation has to be understood, for one to get a clear understandi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो नमो वाङ्मनसातिभूमये नमो नमो वाङ्मनसैकभूमये ।  
-नमो नमोऽनन्तमहाविभूतये नमो नमोऽनन्तदयैकसिन्धवे ॥ २१ ॥
+नमो नमो वाङ्-मनसातिभूमये  
+नमो नमो वाङ्-मनसैक-भूमये ।  
+नमो नमोऽनन्त--महा-विभूतये  
+नमो नमोऽनन्त-दयैक-सिन्धवे ॥ २१ ॥
 </details>
+
+<details><summary>English</summary>
+
+337 Obeisance again and again to you, who are beyond the reach of speech and mind, to You who are the sole object of speech and mind, to You of infinite great powers, to You of infinite mercy.
+
+In this sloka, Sri Yamuna offers obeisance to the Lord, after referring to the greatness of the Lord. The Lord is beyond the reach of speech and mind. The Lord is smaller than the smallest and bigger tha he biggest. The Lord Himself has said in the Gita (Chapter X) "......There is no limit to My divine manifestations...Every such ing as is glorious, brilliant and powerful, know that to be a partial manifestation of My glory." The Lord is therefore beyond the reach of speech and mind.
+
+It may appear, as a first reaction, that there is a contradiction between the first senten of the sloka which says that the Lord is beyond the reach of the speech and mind and the second sentence which says that the Lord the sole object of the mind and speech. There is really no contradiction, because in the second sentence what is referred is the "object" (ie) what is sought to be achieved. The glory of the Lord may be beyond description but if the bject is the attainment of the Lord it is possible because the Lord can do anything (He is infinitely powerful) including making us attain Him and He is: finitely merciful ("ananta maha vibhutaye, ananta dayaika sindhave"). The Lord himself has said in the Gita (Chapter IX) "Fix your mind on me, be devoted to Me, worship me and make obeisance to Me; thus linking yourself with me and entirely depending on me, you shall come to me..." Again in Chapter X it is said ".....!n order to shower My grace on them, I, dwelling in their heart, dispel the darkness born of ignorance, by the shining light of wisdom.....On those ever united through meditation with Me and worshipping Me with love, I confer that Yoga of wisdom, through which they come to Me..." In this connection, one may peruse sloka 19 of Mukunda Mala which also speaks about the immeasurable transcendence of the Lord. Says Kulasekhara Alwar "Once the Lord has been seen, this planet becomes a speck of dust, all the waters of the ocean become just a faint sigh, all space but a minute hole, gods like Brahma and Rudra insignificant manifestations and the deni38 Sri Yamunacharya's zens of the heavens become like small insects. Indeed, the magnificence of the Lord transcends all limitations...." In this sloka, Alavandar uses the words "Namo namo" in every line. This is to emphasise the depth of devotion he has for the Lord.
+</details>
+ 
 
 <details><summary>मूलम्</summary>
 
@@ -821,15 +975,34 @@ The process of creation has to be understood, for one to get a clear understandi
 एवं प्राप्यस्य शरण्यस्य प्राप्तुश्च शरणार्थिनः स्वरूपादिषु भगवता प्रकाशिते(षु) तद्विश्लेषमसहमानस्तस्मिन्नेव स्वरूपानुरूपपुरुषार्थविरोधिनिवृत्त्यर्थं स्वाधिकारोचितां प्रपत्तिं विशदं प्रयुङ्क्ते –
 </details>
 
+## कार्पण्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न धर्भनिष्ठोऽस्मि न चात्मवेदी न भक्तिमांस्त्वच्चरणारविन्दे ।  
-अकिञ्चनोऽनन्यगतिश्शरण्य त्वत्पादमूलं शरणं प्रपद्ये ॥ २२ ॥
+न धर्मनिष्ठोऽस्मि न चात्मवेदी  
+न भक्तिमांस् त्वच्-चरणारविन्दे ।  
+अकिञ्चनोऽनन्य-गतिश् शरण्य  
+त्वत्-पाद-मूलं **शरणं प्रपद्ये** ॥ २२ ॥
 </details>
+
+<details><summary>English</summary>
+
+O Lord, You who are worthy of being sought as a refuge; I am not one who is established in Dharma. I have no knowledge of the Self. I do not have fervent devotion to your lotus feet. I am without any support. I am resorting to You, as You are the protector (of all persons).
+
+In this sloka, Alavandar proclaims the superiority of doing "saranagati" to the feet of the Lord. To attain the Lord, four methods have been indicated by the learned - the Karma marga, the Jnana marga, the Bhakti marga and Prapatti. This sloka says that since the poet has no capability (as is the case with most of us) to follow the Karma or Jnana or the Bhakti marga, the grace of the Lord is to be solicited through "prapatti". Alavandar says that he does not know about Dharma and hence he is not capable of following the Karma marga. Since, he does not have the capability of constantly worshipping the Lord, he is not able to follow the Bhakti marga. Alavandar concludes that since he knows nothing else, and since the feet of the Lord is the refuge of all the seekers, he is resorting to Him, as the sole support.
+
+Though it is very clear to most people, it may be worthwhile to mention, in passing, as to what is the difference between Bhakti 39 and Prapatti. Bhakti is the practice of the love of God, taking the help of various aids, on the assumption that such aids will help in the attainment of the Lord, which is the end. In the case of "prapatti", both the means and the end are the same, namely the Lord. In the Sri Vaishnava tradition they are illustrated by the Markata - Kisoranyaya and Marjara Kisoranyaya. Markata kisora is the young of a monkey. It clings fast to the mother monkey and is taken from place to place. Marjara Kisoranyaya is the small kitten of a cat. It does not cling to the mother cat. It mews in a helpless manner and knows none else (ananya) than the mother cat. The mother cat it is that catches the small ones in her mouth and transfers them to places of safety. Prapatti refers to this type of surrender, a surrender in utter helplessness, wherein the Lord is sought both as the means and as the end.
+
+There is an interpretation which holds that the Bhagavad Gita itself says at one place that one should practice "prapatti". In chapter 18 verse 66, the Lord says, "Completely relinquishing all Dharmas, seek Me alone for refuge. I will release you from all sins. Grieve not." "Relinquishing all Dharmas" has been interpreted by some to mean the relinquishment of the agency in the practice of Karma, Jnana and Bhakti margas. It must be remembered that for the sastraic persons, the Bhakti marga has to include the performance of some expiatory rites. It may not be possible for some to perform those rites. It is for such people, the Lord has prescribed the "prapatti" method, is the interpretation given by some to this verse in the "Gita".
+
+Before leaving this verse of Yamuna, we may refer also to verse 22 of Kulasekhara Alvar's Mukunda Mala. Says Kulasekhara "O, mortals, please listen to me. I concisely declare unto you, what is supremely good. You are immersed in samsara, rife with severe afflictions and dangerous situations, like successive waves. Keeping aside varied and different kinds of knowledge, start repeating continously in your mind "Om Namo Narayana". Thereafter, prostrate to the Lord with love".
+
+It may be added that this sloka of Yamuna is recited, as a matter of convention, by the Sri Vaishnavaites, when they go to a temple for the worship of the Lord.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-न धर्भनिष्ठोऽस्मि न चात्मवेदी न भक्तिमांस्त्वच्चरणारविन्दे ।  
+न धर्मनिष्ठोऽस्मि न चात्मवेदी न भक्तिमांस्त्वच्चरणारविन्दे ।  
 अकिञ्चनोऽनन्यगतिश्शरण्य त्वत्पादमूलं शरणं प्रपद्ये ॥ २२ ॥
 </details>
 
@@ -850,11 +1023,36 @@ The process of creation has to be understood, for one to get a clear understandi
 अथ सप्त श्लोकाः प्रस्तुतोपायप्रयोगस्थिरीकरणार्थाः । तेषु क्रमात्परस्य सर्वविरोधिनिवर्तनोचितगुणविशेष(वत्वं)त्वं, रक्ष्यरक्षकयोरितरेतरलाभः, स्वपरित्यागे परस्यानिष्टप्रसङ्गः, स्वस्यानन्यगतित्वेन तत्प्रहाणानर्हत्वं, शरण्यस्य भोग्यतमत्वेन प्रयोजनान्तरवैमुख्यम्, उपायस्य सौकर्यं, स्वादुतमत्वं च तात्पर्यतः स्थाप्यते । तत्रादिमे यद्यप्येवमुपायपरम्परा नास्ति, तथाऽप्यपाया न सन्ति चेत् तदवलम्बनेन क्रमात्कर्मयोगादीनुत्पाद्य मोक्षफलं लभस्व । किं तदर्थं प्रपत्त्येत्यत्र स्वस्याकिञ्चनत्वमेव स्थिरीकरोति –
 </details>
 
+### पापानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न निन्दितं कर्म तदस्ति लोके सहस्रशो यन्न मया व्यधायि ।  
-सोऽहं विपाकावसरे मुकुन्द! क्रन्दामि सम्प्रत्यगतिस्तवाग्रे ॥ २३ ॥
+**न निन्दितं** कर्म तद् **अस्ति** लोके  
+सहस्रशो यन् **न** मया **व्यधायि** ।  
+सोऽहं विपाकावसरे मुकुन्द!  
+**क्रन्दामि** सम्प्रत्य् अगतिस् तवाग्रे ॥ २३ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+Sri Yamunacharya's O Mukunda, all those sinful acts which have been denounced by the world have been committed by me thousands of times. When the time to suffer for those deeds has come, I cannot turn to any one and am helplessly crying before You.
+
+In the next seven slokas, we will see a recital of the misdeeds done in this life and the appeal made thereon to the Lord, seeking succour and relief.
+
+The poet says contritely that he has committed sinful deeds thousands of times. He adds that there is no sinful deed that he has not committed. When sins are committed, there may be some atonement to be done, to expiate the sin, in this life itself. But Alavandar says that in his case, the sins are such that even an atonement as above is not possible. The results of the sins have started fructifying ("vipaka avasare samprati"). He has no other support ("agatih"). He is standing before the Lord in sorrow ("tava agre krandani").
+
+This concept of helplessly standing before the Lord as He is the only refuge is reflected in Mukunda Mala also. In verse 34, says Kulasekhara Alavar, "O Supreme Lord, Bhagavan, You are the most compassionate. So, please show me Your favour and bestow mercy upon this helpless soul. You alone can lift me from the ocean of samsara into which I am sinking. O Lord Hari, You are verily the Purushottama".
+
+We may refer in this connection to Sloka 29 in the Daya Satakam of Vedanta Desika. While Yamuna says that he has com41 mitted sinful deeds thousands of times and that there is no sinful deed that he has not committed, Desika says "O Daya, when the foremost among sinners is present here, how are You able to survive on the limited sins of others, which will not be sufficient to fill your stomach"? निमज्जतोऽनन्त भवार्णवान्तः चिराय मे कूलमिवासि लब्धः । त्वयाऽपि लब्धं भगवन्निदानीं अनुत्तमं पात्रमिदं दयायाः ॥ २४ ॥
+
+Nimajjato ananta bhavaaravaantah chiraaya me koolam ivaasi labdhah tvayaapi labdham bhagavannidaanim anuttamam paatrum idum dayaayaah.
+
+O Ananta, I am getting drowned in the great ocean of transmigratory existence. At last, I have found the end (shores) of the ocean in You. And, You, O Lord, have found in me, a worthy recipient of Your mercy.
+
+In this sloka, Yamuna says that both the saviour and the saved stand benefited. The one to be saved had said in the previous sloka that he is standing before the Lord, crying helplessly. He is drowning in the samsaric ocean. He sees the Lord and finds a shore in the ocean, which is limitless. The Lord finds in the drowning person, one who is fit and eligible to receive His mercy. He has found the most appropriate person to justify his appellation as the Merciful Lord.
+
+Parts of sloka 12 and Sloka 13 of Mukunda Mala may be recalled in this connection. Says Kulasekhara Alwar in the second half of the Sloka 12 "...They struggle in the perilous water of sense indulgence. They have no raft to carry them to any shelter. Lord Vishnu is the only boat which can save them when they surrender to the Lord". And again in Sloka 13: "O mind! Do not be afraid (anxious) as to how you are to cross this ocean of material existence. Devotion to the lotus eyed Lord Krishna, will surely take you to the ocean's shore".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -875,7 +1073,8 @@ The process of creation has to be understood, for one to get a clear understandi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निमज्जतोऽनन्त भवार्णवान्तश्चिराय मे कूलमिवासि लब्धः ।  
+निमज्जतोऽनन्त भवार्णवान्तश्  
+चिराय मे कूलम् **इवासि लब्धः** ।  
 त्वयाऽपि लब्धं भगवन्निदानीमनुत्तमं पात्रमिदं दयायाः ॥ २४ ॥
 </details>
 
