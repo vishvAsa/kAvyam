@@ -55,6 +55,7 @@ Sri Yamuna was born in 953 AD in Viranarayanapuram of Tamilnadu (not far from Cu
 
 Yamuna's teacher and all the others were under the rulership of a Pandyan king. The chief preceptor and religious disputant in the court was Vidvajjanakolahala. As his very name indicated, he threw all the learned people into turmoil, as he used to mercilessly vanquish them in scholarly debates. Yamuna's teacher was one among those who had been defeated. He was therefore required ...
 
+## Main
 नमोऽचिन्त्याद्धृताक्लिष्टज्ञानवैराग्यराशये ।
 
 नाथाय मुनयेऽगाधभगवद्भक्तिसिन्धवे ॥ १ ॥
@@ -199,77 +200,46 @@ Na niniditam karma tad asti loke sahasraso yan na mayaa vyadhaayi so aham vipaak
 
 Abhoota poorvam mama bhaavi kim vaa sarvam sahe me sahajam hi duhkham kintu tvadagre saranaagataanaam paraabhavo naatha na te anuroopah.
 
-O Lord, I have borne the earlier miseries and I am ready to bear all the miseries that may be visited on me, in future. But it is not becoming of You that those who sought Your refuge should feel frustrated.
 
-Alavandar says in this sloka that he is ready to suffer the miseries, but it is the reputation of the Lord that he instantaneously rushes to the rescue of those who seek His refuge which will suffer.
 
-Alavandar says that he is accustomed to experiencing miseries, as miseries were born along with him. He is also mentally prepared to suffer miseries in the future, having lived amidst miseries. But, Alavandar bemoans that the Lord has a reputation to uphold - a reputation that He rushes to the rescue of those who have sought His protection - as evidenced by the incidents of Gajendra and Draupadi.
-
-Alavandar submits that if the Lord does not save him, he who has sought the Lord's protection after surrendering to him, it is the reputation of the Lord that will suffer. He says that he would not suffer because being made to experience some more miseries would be a normal experience for him! निरासकस्यापि न तावदुत्सहे महेश हातुं तव पादपङ्कजम् ।
+निरासकस्यापि न तावदुत्सहे महेश हातुं तव पादपङ्कजम् ।
 
 रुषा निरस्तोऽपि शिशुः स्तनन्धयः A ang Anggarvit fagrafa || 28 ||Niraasakasyaapi na tavaadutsahe Mahesha! haatum tava paadapankajam rushaa nirastopi sishuh stanandhayo na jaatu maatuh charanau jihaasati.
 
-1335 43 Just as a sucking baby does not give up clinging to the feet of its mother, even if in anger the mother pushes it away, O Lord, I will not be wanting to give up your lotus feet, even if I am pushed away.
 
-This sloka continues from the previous one. In sloka 25, Alavandar had said that if the Lord does not protect, it is the reputation of the Lord that would suffer. Alavandar now has a doubt. Since the Lord is secure about His reputation and since he (Alavandar) had made a confession of his sins, the Lord may refuse to accept him because of his transgressions. He may push him away. Alavandar brings in the simile of the baby clinging to the mother and says that he cannot be pushed away. Alavandar says that he would not give up clinging to the feet of the Lord, even if the Lord wishes to push him away.
 
 तवामृतस्यन्दिनि पादपङ्कजे निवेशितात्मा कथमन्यदिच्छति । स्थितेऽरविन्दे मकरन्दनिर्भरे ayant teras fe afterat 11 2011 Tavaamritasyandini paadapankaje nivesitaatma katham anyadicchati? sthite aravinde makaranda nirbhare madhuvrato nekshurakam hi veekshate.
 
-My mind which is firmly set upon your nectar-yielding lotus feet, cannot desire any thing else. It is well known that when there is a honeyladen lotus flower nearby, a bee will not seek a thorny flower, which has no honey (Ikshuraka flower).
 
-In the previous sloka, Yamuna had said that even if the Lord were to push him away, he wold not give up clinging to the feet of the Lord. Yamuna now explains the reason. He says that he would 44 Sri Yamunacharya's cling only to the nectar yielding Lotus-feet of the Lord and not desire anything else. He brings in the simile of a bee seeking honey. Will a bee seeking honey, give up a honey laden lotus flower, for a thorny flower? "Amritasyandi padapankaja" means the nectar laden lotus feet. Really speaking, achieving this is not the object. Liberation or moksha is what is meant here. Liberation can be attained, only by clinging to the feet of the Lord. Hence, it is His feet which are sought as a refuge.
-
-It is the seeking of or clinging to the feet which is important. Kulasekhara Alwar puts this across, forcefully, in Sloka 25 of Mukunda Mala. "All glories to Lord Narayana!. Without remembrance of His lotus feet, recitation of the scriptures is a cry in wilderness, regular observance of the severe vows enjoined in the Vedas is only a way to lose weight, discharge of prescribed pious duties amounts to mere pouring of oblations onto the ashes and bathing at various sites is no better than an elephant's bath." त्वदङ्घ्रिमुद्दिश्य कदापि केनचित् यथा तथा वाऽपि सकृत् कृतोऽञ्जलिः । तदैव मुष्णात्यशुभान्यशेषतः शुभानि पुष्णाति न जातु हीयते ॥ २८ ॥
+त्वदङ्घ्रिमुद्दिश्य कदापि केनचित् यथा तथा वाऽपि सकृत् कृतोऽञ्जलिः । तदैव मुष्णात्यशुभान्यशेषतः शुभानि पुष्णाति न जातु हीयते ॥ २८ ॥
 
 Tvadanghrimuddisya kadaapi kenachit yathaa tathaa vaapi sakrit kritonjalih tadaiva mushnaaty asubhaanyaseshatah subhaani pushnaati na jaatu heeyate.
 
-Whosoever, in whatever manner, and at any time folds his palms and offers obeisance to your feet, even once, it rids him of all his impurities, and contributes to his well being at all times.
 
-In the previous sloka, we found Alavandar submitting that he would not let go of the feet of the Lord. In this sloka, Alavandar builds on this base and elaborates the theme. He explains that even if Anjali is done once, and that too in any manner it will rid a person of all impurities. It is not necessary to identify a good day, 45 a favourable week or a propitious star ("tithi, vara, nakshatra"). It has nothing to do with caste, an accident of birth or with riches, an accident of inheritance or earning. It is not necessary to do it for a lifetime, as one does "Sandhyavandana" or an "agnihotra" (done by a deeply religious ritualisitc person). Offering the obeisance by folding one's palms is a simple but an effective expedient. It has only to be sincere and from the heart.
-
-The word "Anjali" can be interpreted as "am" and "jalayati", meaning what makes the Lord melt like water. In this sloka, the ease with which the "anjali" can be offered is mentioned in the first two lines, while its efficacy is mentioned in the next two lines.
-
-We may recall in this context, sloka 20 of Mukunda Mala. Says Kulasekhara Alwar, "O lotus-eyed Lord, may our lives be enriched constantly in this manner, palms of our hands reverently brought together in prayer for your Grace and protection. Our heads bowed down and our bodies thrilled by the fervour of devotion, indicated by the hair standing on end, our voice choked with feelings of deep devotion, our eyes swimming in tears of joy as a result of the delight of the nectar of meditation on your lotus feet". The Anjali tersely referred to by Yamuna is elaborated upon by Kulasekhara.
 
 उदीर्णसंसारदवाशुशुक्षणिं क्षणेन निर्वाप्य परां च निर्वृतिम् । प्रयच्छति त्वच्चरणारुणाम्बुजद्वयानुरागामृतसिन्धुशीकरः ॥ २९ ॥
 
 Udirna samsaara-davaasusukshanim kshanena nirvaapya paraam ca nirvritim prayacchati tvat charanaarunaambujadvayaanuraagaamrita sindhuseekarah.
 
-Just a drop from the nectar-ocean of love to Your feet immediately extinguishes the blazing conflagration called "samsara". Thereafter, it bestows supreme bliss. "Samsara" has been referred 46 Sri Yamunacharya's to as a burning conflagration or what is called "davagni" ("dava asu sukshanim"). Fire is put out by water. Hence, the love bestowed on the feet of the Lord is compared to an ocean and is referred to as "amritasindhu". As it is a nectar-ocean, an entire ocean is not required. Just a drop ("sikarah") will do. Just as quantities of water are not required to put out the fire, much time is also not required. The conflagration can be put down in an instant ("kshanena"). After the conflagration put out, there is supreme bliss.
-
-One may, with advantage, refer to Sloka 23 of Mukunda mala. Says Kulasekhara, "The holy formula of Sri Krishna is an unparalleled mantra to cut off everything hostile to one's good. It is the sum total of the mantras consisting of the sacred Upanishadic statements. It is the mantra which rescues one from "samsara". It is the mantra that expels the accumulated darkness. It is the only mantra for the attainment of complete Lordship (freedom and mastery). It is the mantra that completely delivers those who are bitten by the snake of addiction to passions. O my tongue, always chant this mantra so that you may attain the fruition of your life." विलासविक्रान्तपरावरालयं नमस्यदार्तिक्षपणे कृतक्षणम् ।
+विलासविक्रान्तपरावरालयं नमस्यदार्तिक्षपणे कृतक्षणम् ।
 
 धनं मदीयं तव पादपङ्कजं कदा नु साक्षात्करवाणि चक्षुषा ।। ३० ।।
 
 Vilaasa vikraanta paraavaraalayam namasyadaartikshapane kritakshanam dhanam madeeyam tava paadapankajam kadaa nu saakshaatkaravaani chakshushaa.
 
-Your lotus feet which measured the earth and the Satyaloka and the feet which get rid of the miseries of those who worship them, which feet are my dearest treasure, when will I be able to see them with these eyes? In the previous slokas, the easy method of attaining the Lord has been described. In the next 17 slokas, the qualities of the Lord are amply explained.
 
-47 The present sloka begins by referring to the lotus feet of the Lord which measured the earth and the Satyaloka. The reference is to the episode of Mahabali, which is well known. Since Mahabali had conquered all the devas, they sought the intervention of Lord Vishnu, who assumed the form of a brahmachari Vamana, attended a sacrifice of Mahabali, asked and obtained the gift of land covered by three paces, assumed a Cosmic Form and measured the whole of Bali's kingdom in one step and with the second step covered the whole of heaven covering Maharloka, Janaloka, Tapoloka and Satyaloka (Chapter 20 of Skanda VIII of Srimad Bhagavatam). Alavandar refers to these lotus feet which measured the earth and Satyaloka, the feet which get rid of the miseries of those who worship the feet. The Bhagavatam tells us that when the Cosmic Form covered upto the Satyaloka with the second step, Brahma rushed there with the sages and the devotees "....who by the contemplation of the Lord's feet through Bhakti have attained to Satyaloka". Alavandar prays to be one of those devotees.
-
-The feet of the Lord are a treasure. They are the feet which are washed by Ganga, which in turn washes away the sorrows of all people. Alavandar is in a hurry to seek the treasure. He says with urgency "when will I be able to see those Feet." There is another point to be emphasised. Alavandar in his query asks, when will I be able to see them with these eyes. The comparison with the situation in the Gita is obvious. Arjuna has heard the profound words of spiritual wisdom. He has heard about the immortal glory of the Lord. Arjuna then requests the Lord: "If You think that it can be seen by me, then O Lord of Yoga, reveal to me your imperishable Form". The Lord replies "But, surely you cannot see Me with these human eyes of yours. Therefore, I vouchsafe to you the divine eye. With this, you behold My divine power of yoga "(Chapter 11 of the Gita verse 8). Alavandar prays that he wishes to see the Feet (not the Form) with 'these' eyes ("chakshusha kada sakshatkara vani").
 
 5 48 कदा पुनः शङ्खरथाङ्गकल्पकध्वजारविन्दांकुशवज्रलाञ्छनम् । त्रिविक्रम त्वच्चरणाम्बुजद्वयं मदीयमूर्धानमलङ्करिष्यति ॥ ३१ ॥
 
-Sri Yamunacharya's Kadaa punah sankha-rathaangakalpaka - dhvajaaravinda ankusa vajra laanchanam Trivikrama tvat charanaambujadvayam madeeyamoordhaanam alankarishyati? O Trivikrama, when will the pair of Your lotus feet bearing the marks of conch, discus, kalpavriksha (the wish granting heavenly tree), flagstaff, lotus hook and thunderbolt adorn my head? In the previous sloka, a reference was made to the Form of the Lord which measured earth and Satyaloka in two strides. This is continued in this sloka by invoking Trivikrama. It may be recalled that Indra had lost his kingdom and Aditi had pleaded with Lord Vishnu for the restoration of his kingdom which had been annexed by Maha Bali. Maha Vishnu agreed to be born in the womb of Aditi. When Lord Vishnu was born, "..he was of pure blue complexion, in a form characterized by lotus eyes, yellow wearing cloth and four arms holding the conch, the mace, the lotus and the discus. His hallowed lotus like face shone in the brilliance of the fish marked ear-rings he wore. The Srivatsa mark on his chest, bracelets, armlets, brilliant diadem, girdle and anklets were his other decorations...."(Srimad Bhagavatam Skanda VIII Chapter 18). Mahavishnu appeared in this Form, so that the parents (and others like Brahma) would recognize him. He then transformed himself as Vamana.
+Sri Yamunacharya's Kadaa punah sankha-rathaangakalpaka - dhvajaaravinda ankusa vajra laanchanam Trivikrama tvat charanaambujadvayam madeeyamoordhaanam alankarishyati? 
 
-There is a slight variation between the description in the Bhagavatam and in the above sloka. While in the Bhagavatam the Form is described, with the Lord carrying the conch, the mace and the discus in his arms, Yamuna poeticaly says that the pair of his feet were bearing the marks of the conch, the discus, the kalpavriksha, the flagstaff, the lotus, the hook and the thunderbolt.
 
-49 While Yamuna carries forward the theme of the Feet of Trivikrama from the previous sloka, there is a subtle change. In the previous sloka, he had prayed as to when he would be able to see the Feet. In this sloka, he has gone a step(!) further - he wishes to know when he would be able to keep it on his head. Because of this, devout Vaishnavas recite this sloka when the "satari" is kept on their head, after worship is offered in a temple.
 
 विराजमानोज्ज्वलपीतवाससं स्मितातसीसूनसमामलच्छविम् । निमग्ननाभिं तनुमध्यमुन्नतं विशालवक्षः स्थलशोभिलक्षणम् ॥ ३२ ॥
 
 Viraajamaanojjvala peetavaasasam smitaatasee soona samaamalacchavim nimagna naabhim tanumadhyamunnatam visaala vakshasthala shobhi lakshanam.
 
-(One) who is beautifully attired in shining yellow clothes, whose splendour is equal to that of a blooming black flower, who is endowed with a slender waist and a depressed navel, the shining Srivatsa mark on his chest (when will I be able to serve you).
 
-From now on, for the next 14 slokas, the Lord is extolled and hymned. In these slokas, the word "bhavantam" has to be read into each sloka and the prayer which appears in sloka 45 has to be presumed to appear in each of these slokas.
-
-In this sloka the splendour of the yellow raiment on the dazzling blue body, the navel (which is the origin of Brahma and thence of the universe), the waist which includes the belly into which the entire universe is resumed at the time of the great deluge (compare the description of the Markandeya episode in the Srimad Bhagavatam and the vision of the cosmic Form granted to Arjuna), the broad chest which is the residence of Lakshmi (when she emerged from the ocean, at the time of the churning by the devas and the asuras) and also the adorning place of the Srivatsa mark are described.
-
-50 Sri Yamunacharya's In the first line in this verse, the word used is "virajamarojjwala". Both the words "virajamana" and "ujjwala" are used because of the yellow raiment is itself a shining piece and in conjunction with the dazzling blue form of the Lord, it makes for a lustrous splendour.
-
-The entire object is to offer worship to the Lord, to serve the Lord. That is why, a reference is made to the lustre of the Lord. The splendour of the Lord is compared to a blossoming flower - not just any flower, not even the tender or bloomed lotus but to a blooming flower (which the Alwars used to refer to in Tamil as "poovaipoo", when they sing about the Lord as "poovaipoo vanna").
 
 a chreaci verfonurencht: Tit: agftfuengfamfaffurft: प्रियावतंसोत्पलकर्णभूषणymenmengcufqucrifefor: 11 33 11 Chakaasatam jyaakina karkasaih shubhaih chaturbhiraajaanu vilambibhir bhujaih priyaavatamsotpala karnabhooshanaslathaalakaabandha vimarda samsibhih.
 
