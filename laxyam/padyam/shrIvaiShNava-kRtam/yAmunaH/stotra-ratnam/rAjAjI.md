@@ -243,15 +243,7 @@ Viraajamaanojjvala peetavaasasam smitaatasee soona samaamalacchavim nimagna naab
 
 a chreaci verfonurencht: Tit: agftfuengfamfaffurft: प्रियावतंसोत्पलकर्णभूषणymenmengcufqucrifefor: 11 33 11 Chakaasatam jyaakina karkasaih shubhaih chaturbhiraajaanu vilambibhir bhujaih priyaavatamsotpala karnabhooshanaslathaalakaabandha vimarda samsibhih.
 
-You (who) shine with the four auspicious arms which reach upto the knees, which bear the rough scars of the bowstrings, which speak of the contact with Sri and have sweet-smelling fragrance and which are holy (when will I be able to serve You).
 
-In the previous sloka the Lord had been described as one wearing a yellow raiment and His lustre had been described as also His broad chest, which was adorned by the Srivatsa mark. In this sloka, the reference is to his arms. The Lord is depicted as tall and handsome - ajanubaahu. His arms are adorning His sides and extend upto the knee joint. Hanuman crosses the ocean, proceeds to the Asoka vana, remains concealed in a tree, gently recites the story of Rama and introduces himself to Sita. Sita wants to be sure that he is an envoy of Lord Ramachandra and not a rakshasa 51 who has assumed the shape of a monkey. Sita asks Hanuman to describe the Lord. Hanuman says that He is four cubits tall and His arms extend upto the knees. Says Hanuman "....Sri Rama has eyes resembling a lotus petal. His countenance resembles the full moon. O, daughter of Janaka, he is richly endowed with charm from his birth. He vies with the sun in effulgence and with the earth in forbearance...." It is this long limbed Lord that Alavandar is describing in this sloka. Being long limbed is a sign of Lordship.
-
-The arms bear the signs of friction with the bowstring. Yamuna does not draw a distinction between the Para roopa and avatara roopa. That is why while describing the Lord in the Para roopa, he refers to the marks made by the bowstring in the avatara roopa as Lord Ramachandra or Lord Krishna. Desika says much the same thing in a verse in "Sri Bhagavaddhyana Sopanam" The Lord (Ranganatha) reclines on the serpent. His four hands are handsome and generous, marked by the scars left by bracelets and bowstring are like huge bolts for the mansion of Lakshmi (His own chest)...." One may refer also to sloka 29 in 'Sri Devanayaka Panchasat'.
-
-The goddess resides on the chest (please see above). Hence when She is resting on the arms of the Lord, her ear ornaments and ornaments worn on the head come into contact with the arms of the Lord and leave a mark. It is to this Alavandar makes a reference.
-
-The goddess has bedecked her head with flowers. Hence, when she is resting on the arms of the Lord, the flowers leave their fragrance on the arms of the Lord. Sri Yamuna refers to this - "priya avatamsa utpala karnabhushana suladha alakabandha vimarda samsibih".
 
 उदग्रपीनांसविलम्बिकुण्डलालकावलीबन्धुरकम्बुकन्धरम् ।
 
