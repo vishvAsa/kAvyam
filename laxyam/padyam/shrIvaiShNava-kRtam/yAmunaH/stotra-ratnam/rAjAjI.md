@@ -251,29 +251,19 @@ a chreaci verfonurencht: Tit: agftfuengfamfaffurft: प्रियावतं�
 
 52 Sri Yamunacharya's Udagra pinaamsa vilambi kundala - alakaavali bandhra kambu kandharam, mukhashriyaahnyakkrita poorna nirmala - amritaamsu bimbaamburuhojjvala - sriyam.
 
-Whose conch-like neck is adorned by the lustre of the earrings which are extending upto the large and broad shoulders, whose sheen of face surpasses the lustre of the full moon as also the glow of red lotus, in full bloom (when will I serve You and be blessed?) Alavandar is now describing the shoulders, the curls of hair and the worshipful face. It is regarded as a royal sign to have three lines on the neck. The conch is believed to have three lines. Hence, the comparison of the neck to the conch is descriptive of royal excellence. Hence, Alavandar refers to the neck as conchlike ("kambu"). In the previous sloka, we had referred to Hanuman's description of Lord Ramachandra in reply to a query of Sita. In the same description, Hanuman refers to the Lord having three lines on his neck (and his belly). Desika in Sloka 28 of 'Sri Devanayaka Panchasat' says "...O Lord of the divine, my mind blooming beautifully entwines your conchlike neck like the Vanamala garland, which is darkened by Your lustre and which clearly bears the charming impressions of Sri's bangles." The shoulders of the Lord are, as is to be expected, broad and large. The Lord is wearing ear rings. These extend upto the shoulder and have a great shine, a great lustre.
 
-Alavandar describes the sheen of the face as surpassing the lustre of the full bloom ("amritamsu bimba" and "amburuha"). Alavandar compares the face of the Lord to both the moon which is spotless ("nirmala") and to the blooming lotus because they both have an appeal of their own. The moon conveys a sense of serenity, peace and hence of subdued joy while the lotus conveys a sense of tenderness and charm. Desika also has a like statement, while refering to the curls and the face, "...O Lord of the celestials! This night in the Form of Your curly forelocks, through association with your moonlike face, with its beautiful nectar like pleasant53 smile becomes fit for our contemplation to remove the fever of transmigratory existence..." (Sloka 17 of 'Sri Devanayaka Panchasat').
 
 प्रबुद्धमुग्धाम्बुजचारुलोचनं सविभ्रमभ्रूलतमुज्ज्वलाधरम् । yfafuri aduemusyari ललाटपर्यन्तविलम्बितालकम् ॥ ३५ ॥
 
 Prabhuddha mugdhaambuja chaarulochanam Savibhrama bhrulatamujjvalaadharam Suchismitam komalagandam unnasam Lalaata paryanta vilambitaalakam.
 
-Who has eyes which are beautiful like a lotus, who has graceful creeperlike brows, shining lips which have a half-smile, soft cheeks, prominent nose, curls hanging upto the forehead (when will I serve You and be blessed?) In the previous sloka, the prayer was addressed to the Lord, describing the whole of the face. In this sloka, the reference is to parts of the face - the eyes, the eyebrows, the cheeks, the lips and the nose. The eyes are compared to a fully bloomed lotus ("prabuddha mugdha ambuja"). The eye brows are graceful as creepers ("savibhrama bhrulatam"). The lips of the Lord are shining and He has a half-smile. In addition, the smile is pure ("suchi smitam"). But then, which part of the Lord is not pure? What is sought to be highlighted here is that the smile has no duplicity (unlike the smile of a king, who always practises duplicity). Or, the word "suchi" meaning "white", we can take it as referring to the whiteness of the smile, by way of poetic convention.
 
-In the previous sloka, the curls were described as extending upto the big and broad shoulders. In this sloka, we are told that the curls are hanging down the forehead. ("lalata paryanta vilambitalakam"). The description in this sloka is of the frontal view.
 
 54 Sri Yamunacharya's स्फुरत्किरीटाङ्गदहारकण्ठिकामणीन्द्रकाञ्चीगुणनूपुरादिभिः । रथाङ्गशङ्खासिगदाधनुर्वरैः लसत्तुलस्या वनमालयोज्ज्वलम् ॥ ३६ ॥
 
 Sphurat-kirteetaangadahaara kanthikaa maneendra kaancheeguna noopuraadibhih rathaanga sankhaasi gadaa dhanurvaraih lasattulasyaa vanamaalayojjvalam.
 
-(You) who are wearing a shining diadem, bracelets, a garland of pearls, a necklace, the kaustubha gem, the girdle and anklets, who has the five weapons, the conch, the discus, the sword, the club and the bow, who is wearing a garland of basil leaves (when will I be able to serve you and be blessed?).
 
-In this sloka, the description is of the garlands, jewels adorning the Lord and the weapons of the Lord. The jewels are all shining ("sphurat"). What are they? Alavandar begins with the glorious crown ("kireeta") and then refers to "angada". This is what is popularly known as the "Keyuuram". He then refers to the "haara", "kanthika" (the neck adornment or the necklace), the kaustubha and the girdle ("kanchiguna"). The effulgent Lord can only be dazzling with all these adornments.
-
-The sloka then goes on to describe the weapons of the Lord. They are the discus (poetically described as "Rathanga"), the conch ("sankha"), the sword ("asi"), the club ("gada"), and the bow ("dhanus").
-
-The Lord is not just having the items of jewelleries and holding the weapons. He is wearing a garland of basil leaves ("thulasya vanamalaya). Alavandar calls it the shining ("lasat") garland. It is to highlight the fact that when the Lord wears a garland, even the garland shines, as it does not ever fade.
 
 चकर्थ यस्या भवनं भुजान्तरं तव प्रियं धाम यदीयजन्मभूः ।
 
@@ -288,13 +278,7 @@ Chakartha yasyaa bhavanam bhujaantaram tavapriyam dhaama yadeeya janmabhooh jaga
 
 Tayaa sahaasinam anantabhogini Prakrishta vijnaana balaika dhaamani Phanaa manivraata mayookha mandala - Prakaasamaanodara divyadhaamani.
 
-59 (You who are) seated along with Sri, on the great serpent Ananta, who is the sole seat of excellent knowledge and great strength, in the divine abode in Vaikuntha, the inside of which is illumined by the rays emanating from the cluster of gems in the hoods (when will I be able to serve and be blessed?).
 
-In this sloka and the next one, Ananta on whom the Lord is resting along with the Goddess is described. Adisesha is called in this sloka as "Anantabhogini". Even if the gandharvas, the apsaras and the siddhas become one, they cannot estimate the limit of His qualities. Hence, He is called "Ananta". "Bhoga" refers to the hoods (the thousand headed Ananta). One who has these is the Bhogi and hence the description as "Anantabhogi".
-
-He has been described as "prakrishta vijnana balaika dhaaman". He has great knowledge of the six sastras and is "the abode" of knowledge (vijnana dhama). He is able to bear the Lord who is resting on him. He has to have great strength. Hence he is "balaika dhaama".
-
-Adisesha is reputed to have sparkling gems in his hoods. These gems are shiny and have such lustre that they are lighting up the whole of Vaikuntham. That is why the description has been given as "prakasamaana phanaamanivraata". On such an Adisesha, the Lord and Sri are resting on the middle portion.
 
 निवासशय्यासनपादुकांशुको - पधानवर्षातपवारणादिभिः ।
 
@@ -302,11 +286,7 @@ Adisesha is reputed to have sparkling gems in his hoods. These gems are shiny an
 
 Nivaasa sayyaasanapaadukaamsukopadhaana varshaatapa vaaranaadibhih sareerabhedhais tava seshataam gataih yathochitam sesha itiri (rya) te janaih.
 
-60 Sri Yamunacharya's (You who are resting on Sesha) who has been aptly called by the devotees as Sesha, on account of the different forms he assumes for serving you as a residence, as a couch, as a throne, as sandals, as a pillow and as a shelter from the sun and rain (when will I be able to serve you and be blessed?).
 
-"Seshatva" means not caring for oneself and doing good for others, always. Since he is serving the Lord at all times as a couch, as a seat, as a throne, as a pillow, as an umbrella etc., he is called Sesha. Since he is first among those who render service, he is called Adisesha. One may not entertain any doubt as to how Adisesha functions as a divine abode ("nivasa"), as a couch ('sayya), throne ("asana") but one may wonder how he is useful as the foot rest or as the umbrella. When the Lord gets off Adisesha, He steps on the coils of Adisesha and then only gets off. When, the Lord is resting, Adisesha spreads out the hood and protects Him. There is a description in the Srimad Bhagavatam. When the Lord is born to Devaki in the middle of the night and Vasudeva is directed to carry the newborn babe across the river, Adisesha walks behind Vasudeva, with the hoods spread out to protect Krishna from the pouring rain. Adisesha is therefore, both the couch and the canopy of the Lord.
-
-Just as Yamuna has described the Lord as resting on Adisesha (who doubles up as manifold other items), Kulasekhara has a picturesque description of the Lord. Says he in, Sloka 39: "Obeisance to Lord Madhava, enemy of the asura Madhu His beautiful form lying on the couch of the serpent Ananta, Is sparkled by the shower of spray from the waves of the milk ocean, Making him bedecked by a cluster of stars".
 
 ETA: AREN ENGGIATETİ AGT: यस्ते वितानं व्यजनं त्रयीमयः ।
 
@@ -314,17 +294,7 @@ ETA: AREN ENGGIATETİ AGT: यस्ते वितानं व्यजनं
 
 Daasah sakhaa vaahanam aasanam dhvajo yas te vitaanam vyajanam trayeemayah upastitham tena puro garutmataa tvad anghri-sammarda-kinaanka sohibina.
 
-61 You having Garuda as Your servant, Your friend, Your vehicle, Your seat, Your banner, Your canopy to protect You from the rain and the sun, who is shining as a result of the scars received from the contact with Your feet, whose form is made up of the Vedas (when will I be able to serve You and be blessed?).
-
-Just as in the previous sloka, Adisesha was described, Garuda Alwar is described in this sloka. The sloka begins with the words "daasah" and "sakhaa". They refer to a dependent person and to a friend. Garuda is both a dependent person and a friend. He is a dependent person because it is the Lord who saved him and subsequently accepted him as a mount. He is also a friend. In the Rama avatara, Ramachandra is felled by the Nagaastra. It is Garuda who comes there and frees Ramachandra from the nooselike bonds of the serpents. Ramachandra required to be freed, because he had adopted a human form in this avatara.
-
-Adisesha renders service to the Lord, when the Lord is in Vaikuntham. As stated in the previous sloka, he is the seat, the throne and the canopy. In the same manner, Garuda is the seat, the vehicle and the banner when the Lord is on the move. The Lord has to move here and there in response to the appeals of the devotees. He has to rush to their rescue. Since both render service and provide a seat, the words "daasa" and "asana" have been used in respect of both Adisesha and Garuda.
-
-When the Lord is coursing through the skies, He should not be exposed to the sun and rain and He should also feel comfortable. That is why Garuda provides a canopy ("vitanam") and also provides a fan ("vyajanam") in the form of the flapping wings. Garuda is addressed as "trayimayah". He symbolizes the Vedas. The Yajurveda has a sloka to this effect.
-
-Garuda has some shining scars. This is because, the Lord rushes to the rescue of those who beseech Him, as in the case of 62 Sri Yamunacharya's Gajendra. Though Garuda is taking the Lord with great speed (to which we will make a reference a little later), the Lord, out of compassion for the supplicants who are beseeching him, wants Garuda to fly faster still and nudges him with his feet. These leave some scars ("tvadt anghri sammarda"). These scars are themselves shining.
-
-What Yamuna has succinctly put in one sloka has been elaborated by Desika into several slokas in his two stotras "Sri Garuda Dandaka" and "Sri Garuda Panchasat". In sloka 1 of Sri Garuda Dandaka, Desika eulogizes Garuda as "I praise Garuda who is seated in the nest of the Vedas, whose shoulders have become the seat for the powerful Lord Vishnu...." While in sloka (2) he refers to Garuda (among other things) by saying "your greatness is established by ascending the victorious banner of the enemy of the demons (that is the banner of Lord Vishnu)..." Yamuna had said that Garuda symbolizes the Vedas. Says Desika in Sloka (2) of Sri Garuda Panchasat: "May that Mantra of Garuda in which Garuda (embodying the Veda) manifests himself within and without along with his import (ie., Lord Vishnu) protect us..." In sloka (3) he says that the Vedas proclaim that the eye of Garuda is the Gayatri-sama, his name the Yajurmantras, his limbs are the metres etc. Yamuna had said that Garuda fans the Lord. Says Desika in Sloka 14 (ibid) that the wind produced by the flapping of the wings was capable of throwing the stars around like cubes of ice and divide the ocean into two halves (Sloka 33) so as to enable Garuda to dive into the nether world. Yamuna has described Garuda as the friend and banner. Says Desika (Ibid, Sloka 46) that Garuda is Lord Vishnu's speedy canopy, the befitting fan, the victorious flag, the friend who decimates enemies and an indispensable servant. While Yamuna says that while Garuda was moving fast, the Lord nudges him with the feet to make him move faster still, Desika puts it differently. Says Desika (Sloka 47, Ibid) "May the magnanimous Lord of Birds, who went ahead of the mind of Lord Vishnu, who was worried at the thought of the elephant in the grip of the crocodile, destroy our predicament of falling into hell...."त्वदीयभुक्तोज्झितशेषभोजिना त्वया निसृष्टात्मभरेण यद्यथा । प्रियेण सेनापतिना न्यवेदि तत् तथानुजानन्तमुदारवीक्षणैः ॥ ४२ ॥
+त्वदीयभुक्तोज्झितशेषभोजिना त्वया निसृष्टात्मभरेण यद्यथा । प्रियेण सेनापतिना न्यवेदि तत् तथानुजानन्तमुदारवीक्षणैः ॥ ४२ ॥
 
 Tvadeeya bhuktojjhita seshabhojinaa tvayaa nisrishtaatma bharena yad yathaa priyena senaapatinaa nyavedi tat tathaanujaanantam udaara veeksanaih.
 
