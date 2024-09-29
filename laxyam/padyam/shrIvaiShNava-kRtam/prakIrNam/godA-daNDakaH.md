@@ -233,6 +233,6 @@ Source: [TW](https://archive.org/download/shrI-vaiShNava-kAvyAni/godA-daNDakaH.p
 शुभम्  
 
 श्रीमत्यै विष्णुचित्तार्य-  
-मनो-नन्दन-हेतवे । 
+मनो-नन्दन-हेतवे ।  
 नन्द-नन्दन-सुन्दर्यै  
 गोदायै नित्य-मङ्गलम् ॥
