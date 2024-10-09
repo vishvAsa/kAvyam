@@ -2273,7 +2273,7 @@ In this sloka, the Lord has been addressed as "Madhava" to signify his eternal L
 यद्येवं मच्छेषत्वप्रतिबोधस्ते संजातः, तेन लब्धाधिकार उपायनिष्पत्त्या मुक्तो भविष्यसि; अद्य पुनरादेहपातात् किमपेक्षितमित्यत्र त्वत्प्राप्तित्वराजननीं त्वदेकभोग्यत्वानुगुणभक्तिं देहीत्याह –
 </details>
 
-## भक्ति-प्रार्थना
+## भक्ति-भक्त-प्रार्थना
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **अवबोधितवान्** इमां यथा  
@@ -2350,9 +2350,25 @@ In sloka (2) of chapter (2) of the Srimad Bhagavatam, there is an excellent summ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सकृत्त्वदाकारविलोकनाशया तृणीकृतानुत्तमभुक्तिमुक्तिभिः ।  
-महात्मभिर्मामवलोक्यतां नय क्षणेऽपि ते यद्विरहोऽतिदुस्सहः ॥ ५६ ॥
+सकृत् त्वद्-आकार-विलोकनाशया  
+तृणी-कृतानुत्तम-भुक्ति-मुक्तिभिः ।  
+महात्मभिर् माम् **अवलोक्यतां नय**  
+क्षणेऽपि ते यद्-विरहो ऽतिदुस्-सहः ॥ ५६ ॥
 </details>
+
+<details><summary>English</summary>
+
+Make me an object worthy of the benign look of great souls, who with the object of having a single glance at You, have even given up the highest enjoyments and liberation. Separation from such great souls is unendurable to You.
+
+In the previous sloka, the prayer was to be with the devotees and not to be with the non-devotees. The Lord may ask what he hopes to achieve? The answer is in this sloka.
+
+The prayer is that those great people from whom separation is unendurable for the Lord, should cast a benign look on him. What have these great people done? They have rejected (the word used is "trinikrita", that is treated as a blade of grass) even the highest enjoyment ("bhukti") and liberation ("mukti") so that they may have a glance at the Lord ("akara vilokana asaya").
+
+Why should separation from such devotees be unendurable to the Lord (yad virahah te kshanepi ati dussahah")? It is for the simple reason that the Lord resides where the bhagavathas reside. Hence, He cannot bear separation from them.
+
+81 There is a difference between the previous sloka and this sloka. In the previous sloka, the prayer was that he should be born in the house of the devotees whereas in this sloka the hymnologist only seeks that such great souls should glance ('avalokyatam') at him.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2365,7 +2381,7 @@ In sloka (2) of chapter (2) of the Srimad Bhagavatam, there is an excellent summ
 सकृदिति ॥ सदा दर्शनस्यापेक्षितत्वेऽपि सकृद्विलोकनोक्तिस्तस्य पुरुषार्थभूयस्त्वव्यञ्जनार्था । तथा चायोध्यावासिनां वाक्यम् – “अलमद्य हि भुक्तेन परमार्थैरलं च नः । यथा पश्याम निर्यान्तं रामं राज्ये प्रतिष्ठितम् ॥”, “इच्छामो हि महाबाहुं रघुवीरं महाबलम् । गजेन महता यान्तं रामं छत्त्रावृताननम् ॥” (रामा.अयो. १७.१०,११) इति । तथा “मेघश्यामं महाबाहुं स्थिरसत्त्वं दृढव्रतम् । कदा द्रक्ष्यामहे रामं जगतश्शोकनाशनम् ॥ दृष्ट एव हि नश्शोकनपनेष्यति राघवः । तमस्सर्वस्य लोकस्य समुद्यन्निव भास्करः (रामा.अयो. ८३.८,९) इति । “यश्च रामं न पश्येत्तु यं च रामो न पश्यति । निन्दितस्स भवेल्लोके स्वात्माऽप्येनं विगर्हति ॥” (रामा.अयो. १७.१४) इति चोक्तम् । अनुत्तमभुक्तिः – ब्रह्मादीनां भुक्तिः । सा च, मुक्तिश्च यैस्तृणीकृते तैः तृणीकृतानुत्तमभुक्तिमुक्तिभिः । अनुत्तमशब्दस्य मुक्तावन्वयेऽपि न मुक्त्यन्तरं व्यवच्छेद्यं, मुक्तितारतम्यस्य प्रागेव निरस्तत्वात् । भगवन्तमनुभवतां तदन्यतृणीकारः श्रूयते “किं प्रजया करिष्यामो येषां नायमात्मा” (बृहदारण्यके ६.४.२२) इत्यादि । पुराणे चोक्तं “पत्युः प्रजानामैश्वर्यं पशूनां वा न कामये । अहं कदम्बो भूयासं कुन्दो वा यमुनातटे ॥”, इति । निदर्शनविवक्षया चोच्यते “तृणं नारी विरक्तस्य, तृणं शूरस्य जीवितम् । तृणं ब्रह्मविदो विश्वं, निःस्पृहस्य नृपस्तृणम् ॥” इति । “महात्मानस्तु मां पार्थ” (गीता. ७.१३), “स महात्मा सुदुर्लभः” (गीता. ७.१९) इति भगवदुक्तं सूचयन्नाह – महात्मभिरिति । उज्जीवनत्वे पुरुषार्थत्वे च भूयस्त्वापेक्षया बहुवचनम् । मां – त्वत्कटाक्षेक्षणात्पूर्वं राजसतामसदृष्टिगोचरतया दूषितमिदानीं त्वदवेक्षणेन प्रतिबुद्धमिति भावः । अवलोक्यताम् – अवलोकनयोग्यताम् । तिष्ठतु तद्भवनेषु जन्म; तत्कटाक्षविषयत्वमात्रमपि मे पुरुषार्थ इति चाभिप्रेतम् । प्रख्यातो हि भागवतावलोकनप्रभावः “यस्यानुभवपर्यन्ता बुद्धिस्तत्त्वे प्रतिष्ठिता । तद्दृष्टिगोचराः सर्वे मुच्यन्ते सर्वकिल्बिषैः ॥” (सात्त्वसंहिता) इति । नय – एतावदुपकर्ता त्वमेव शेषं पूरयेति भावः । यथा त्वया तद्विश्लेषो दुस्सहः, तथा मया तदवलोकनविरहोऽतिदुस्सह इत्यभिप्रायेणाह – क्षणेऽपि ते यद्विरहोऽतिदुस्सह इति । तदिदमामनन्ति तैत्तिरीयाः (आरण्यके ३.१४.४३) – “सन्धां च यॉं सन्दधे ब्रह्मणैषः । रमते तस्मिन्नुत जीर्णे शयाने । नैनं जहात्यहस्सु पूर्व्येषु” इति । स्वयमप्याह – “न त्यजेयं कथंचन” (रामा.यु. १८.३), “ज्ञानी त्वात्मैव मे मतम्” (गीता. ७.१८) इति । आहुश्च महर्षयः – “पराङ्मुखानां गोविन्दे विषयासक्तचेतसाम् । तेषां तत्परमं ब्रह्म दूराद्दूरतरे स्थितम् ॥” (विष्णुधर्मे. ९९.१३), “तन्मयत्वेन गोविन्दे ये नरा न्यस्तचेतसः । विषयत्यागिनस्तेषां विज्ञेयं च तदन्तिके ॥” (विष्णुधर्मे. ९९.१५) इति । तथा “नारायणेति यस्यास्ये वर्तते नाम मङ्गलम् । नारायणस्तमन्वास्ते वत्सं गौरिव वत्सला ॥”, इति । “वसन्ति वैष्णवा यत्र तत्र सन्निहितो हरिः” इति च । अत्र विरहशब्देन सर्वव्यापिनस्सर्वज्ञस्य भक्तानां स्वविग्रहाद्यनुभवविच्छेदो विवक्षितः । नतु तद्विरहो विश्लेषः । दुस्सहशब्देन खेदो न विवक्षितः, सर्वशक्तेर्हेयप्रत्यनीकस्य तदयोगात् । अतस्तादृशावस्थावतां स्वविश्लेषं नोत्पादयतीत्येव तात्पर्यम् । यत्कर्तृकवियोगस्ते निराकर्तुमिष्टतम इति वा विवक्षितम् । “अवबोधितवान्” (श्लो.५४) इत्यादिश्लोकत्रयेण स्वयंप्रयोजनोत्तरकृत्ये काम्यनिषिद्धसंभेदप्रसङ्गोऽपि निरस्तः ॥ ५६ ॥
 </details>
 
-### निवारण-प्रार्थनम्
+## निवारण-प्रार्थनम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2383,15 +2399,7 @@ In the previous sloka, the fulfillment by the Lord of Alavandar's desires, was p
 
 The Lord has been described as "Madhu mathana". Just as the asura was killed, so should all the impediments in the way of rendering service to the Lord be broken into bits and annihilated.
 
-82 Sri Yamunacharya's We had earlier quoted sloka (15) of Mukunda Mala. It has relevance here also. Says Kulasekhara: "O Madhava, I cannot look at those who do not have even for a moment devotion to your feet. I will not listen to stories other than those relating to your pastimes, which are worth listening. O Lord of the Universe, let me pay no attention to those who avoid thinking of you. Let me be able to serve you, birth after birth." दुरन्तस्यानादेरपरिहरणीयस्य महतः निहीनाचारोऽहं नृपशुरशुभस्यास्पदमपि ।
-
-दयासिन्धो बन्धो निरवधिकवात्सल्यजलधे तव स्मारं स्मारं गुणगणमितीच्छामि गतभीः ॥ ५८ ॥ Durantasyaanaader apariharaneeyasya mahato niheenaacaaro aham nripashurasubhasyaapadam api dayaasindho!bandho! niravadhika vaatsalyajaladhe! tava smaaram smaaram gunaganam iteechaami gatabheeh".
-
-I am a beast, without any standard of conduct. I have all the vices and am cruel. I am fated for an eternal and calamitous destiny. Yet, I am free from fear, as I am remembering You, again and again - You who are an ocean of mercy and parental love and innumerable virtues of a similar nature.
-
-We may recall sloka 47. In that sloka it had been said that though he is not holy, though he is sinful, merciless and shameless, he is seeking to attain the Lord. Lest the Lord ask, as to how he, who was so ineligible was aspiring to attain him, the reply is given in this sloka. The hymn says that he is a vile beast ('nihinaachaarah nripashuh'), that he is of sinful conduct but yet he is not afraid, as he is remembering again and again ('smaram smaram') the endless ocean of auspicious traits ("niravadhika vaatsalya jaladhe").
-
-There are two adjectives used to address the Lord - "dayasindho" and "vatsalya jaladhe". They are to specially signify that the listed demerits would be drowned in the ocean that is the Lord. Kulasekhara, in one sloka, calls the Lord as83 "kripajalanidhe" (as compared to the word "dayasindho" used here).
+82 Sri Yamunacharya's We had earlier quoted sloka (15) of Mukunda Mala. It has relevance here also. Says Kulasekhara: "O Madhava, I cannot look at those who do not have even for a moment devotion to your feet. I will not listen to stories other than those relating to your pastimes, which are worth listening. O Lord of the Universe, let me pay no attention to those who avoid thinking of you. Let me be able to serve you, birth after birth." 
 </details>
 
 
@@ -2414,11 +2422,21 @@ There are two adjectives used to address the Lord - "dayasindho" and "vatsalya j
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दुरन्तस्यानादेरपरिहरणीयस्य महतो  
-निहीनाचारोऽहं नृपशुरशुभस्यास्पदमपि ।  
-दयासिन्धो बन्धो निरवधिकवात्सल्यजलधे!  
-तव स्मारंस्मारं गुणगणमितीच्छामि गतभीः ॥ ५८ ॥
+दुरन्तस्यानादेर् अ-परिहरणीयस्य महतो  
+निहीनाचारोऽहं नृ-पशुर् अ-शुभस्यास्पदम् अपि ।  
+दया-सिन्धो बन्धो निरवधिक-वात्सल्य-जलधे!  
++++(तथापि)+++ तव स्मारं **स्मारं** गुण-गणम्, +++(पुर्वोक्तश्लोकाः←)+++**इतीच्छामि** गत-भीः ॥ ५८ ॥
 </details>
+
+<details><summary>English</summary>
+
+I am a beast, without any standard of conduct. I have all the vices and am cruel. 1 am fated for an eternal and calamitous des¬ tiny. Yet, 1 am free from fear, as I am remembering You, again and again - You who are an ocean of mercy and parental love and innumerable virtues of a similar nature.
+
+We may recall sloka 47. In that sloka it had been said that though he is not holy, though he is sinful, merciless and shameless, he is seeking to attain the Lord. Lest the Lord ask, as to how he, who was so ineligible was aspiring to attain him, the reply is given in this sloka. The hymn says that he is a vile beast ('nihinaachaarah nripashuh'), that he is of sinful conduct but yet he is not afraid, as he is remembering again and again ('smaram smaram') the endless ocean of auspicious traits ("niravadhika vaatsalya jaladhe").
+
+There are two adjectives used to address the Lord - "dayasindho" and "vatsalya jaladhe". They are to specially signify that the listed demerits would be drowned in the ocean that is the Lord. Kulasekhara, in one sloka, calls the Lord as83 "kripajalanidhe" (as compared to the word "dayasindho" used here).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2430,7 +2448,16 @@ There are two adjectives used to address the Lord - "dayasindho" and "vatsalya j
 
 <details><summary>वेङ्कटनाथार्यः</summary>
 
-दुरन्तस्येति ॥ प्रायश्चित्तानवसरातिघोरविपाकस्येत्यर्थः । अनादेः – पूर्वकोटिरहितप्रवाहस्य । अपरिहरणीयस्य – सर्वशक्तेस्तवैव सङ्कल्पमन्तरेण दुष्परिहरस्य । महतः – महापातकातिपातकादिरूपस्यासङ्ख्यातस्य वा । अनाचारदोषादप्यहमुपहत इत्याह – निहीनाचार इति । अत्यन्तनिकृष्टाचार इत्यर्थः । अत्र ‘सन्ध्याहीनोऽशुचिर्नित्यमनर्हः सर्वकर्मसु । यदन्यत्कुरुते कर्म न तस्य फलभाग्भवेत् ॥” (दक्षस्मृतिः २.२७), ‘आचारहीनं न पुनन्ति वेदाः’ इत्यादि द्रष्टव्यम् । अहं – मदन्यः क ईदृश इति भावः । नृपशुः नरजातीयतया चतुष्पाद्व्यावृत्तः पशुः, सम्यग्ज्ञानयोग्यजन्मलाभेऽपि ‘ज्ञानेन हीनः पशुभिस्समानः’ (नरसिंहपुराणे १६.१३) इत्युक्तः । अशुभस्यास्पदम् – त्वदपचारत्वदीयापचारादीनां सर्वेषामेकाश्रयः । अहमशुभस्यास्पदं, त्वं तु ‘गुणानामाकरो महान्’ (रामा.किष्कि. १५-२१) इति प्रसिद्ध इति हृदयम् । अपिशब्देन विरोधद्योतनम् । एवंविधस्वदोषपरिहारौपयिकगुणविशेषवत्तया संबोधयति – दयासिन्धो इति । बन्धो ‘माता पिता’ (सुबाल. ६) इत्यादिना निरुपाधिकसर्वविधबन्धुत्वेन प्रसिद्ध! । निरवधिकवात्सल्यजलधे – ‘रिपूणामपि वत्सलः’ (रामा.यु. ५०-५६) इति ह्युक्तम् । अत्र दयावात्सल्यसिन्धुत्वरूपणेनातितुङ्गानामपि स्वापराधानां तत्र निमज्जनं सूच्यते । तव – स्वाभाविकासंख्यातगुणवत्तया शास्त्रप्रसिद्धस्य । गुणगणम् – ज्ञानशक्तिकारुण्यादिकम् । स्मारंस्मारं – स्मृत्वा स्मृत्वा । निर्बाधतया विस्मर्तुमशक्यतया च निरन्तरमनुसन्धायेति भावः । तेनैव गतभीः – विरोधिभूयस्त्वदर्शनजन्यभयरहितः । इतीच्छामि – ‘विलासविक्रान्त’ (श्लोक.३०) इत्यादिभिः ‘अवबोधितवानिमां यथा’ (श्लोक. ५४) इत्यादिभिश्चोक्तप्रकारेण निरन्तरेच्छावान् भवामीत्यर्थः ॥ ५८ ॥
+दुरन्तस्येति ॥ प्रायश्चित्तानवसरातिघोरविपाकस्येत्यर्थः । अनादेः – पूर्वकोटिरहितप्रवाहस्य । अपरिहरणीयस्य – सर्वशक्तेस्तवैव सङ्कल्पमन्तरेण दुष्परिहरस्य । महतः – महापातकातिपातकादिरूपस्यासङ्ख्यातस्य वा । अनाचारदोषादप्यहमुपहत इत्याह – निहीनाचार इति । अत्यन्तनिकृष्टाचार इत्यर्थः । अत्र ‘सन्ध्याहीनोऽशुचिर्नित्यमनर्हः सर्वकर्मसु । यदन्यत्कुरुते कर्म न तस्य फलभाग्भवेत् ॥” (दक्षस्मृतिः २.२७), ‘आचारहीनं न पुनन्ति वेदाः’ इत्यादि द्रष्टव्यम् । अहं – मदन्यः क ईदृश इति भावः । नृपशुः नरजातीयतया चतुष्पाद्व्यावृत्तः पशुः, सम्यग्ज्ञानयोग्यजन्मलाभेऽपि ‘ज्ञानेन हीनः पशुभिस्समानः’ (नरसिंहपुराणे १६.१३) इत्युक्तः । अशुभस्यास्पदम् – त्वदपचारत्वदीयापचारादीनां सर्वेषामेकाश्रयः । 
+
+अहमशुभस्यास्पदं, त्वं तु ‘गुणानामाकरो महान्’ (रामा.किष्कि. १५-२१) इति प्रसिद्ध इति हृदयम् । अपिशब्देन विरोधद्योतनम् ।  
+एवंविधस्वदोषपरिहारौपयिकगुणविशेषवत्तया संबोधयति – **दयासिन्धो** इति । बन्धो ‘माता पिता’ (सुबाल. ६) इत्यादिना निरुपाधिकसर्वविधबन्धुत्वेन प्रसिद्ध! । निरवधिकवात्सल्यजलधे – ‘रिपूणामपि वत्सलः’ (रामा.यु. ५०-५६) इति ह्युक्तम् । अत्र दयावात्सल्यसिन्धुत्वरूपणेनातितुङ्गानामपि स्वापराधानां तत्र निमज्जनं सूच्यते । तव – स्वाभाविकासंख्यातगुणवत्तया शास्त्रप्रसिद्धस्य ।  
+
+**गुणगणम्** – ज्ञानशक्तिकारुण्यादिकम् ।  
+**स्मारंस्मारं** – स्मृत्वा स्मृत्वा । निर्बाधतया विस्मर्तुमशक्यतया च निरन्तरमनुसन्धायेति भावः । 
+
+तेनैव **गतभीः** – विरोधिभूयस्त्व-दर्शनजन्यभयरहितः ।  
+**इतीच्छामि** – ‘विलासविक्रान्त’ (श्लोक.३०) इत्यादिभिः ‘अवबोधितवानिमां यथा’ (श्लोक. ५४) इत्यादिभिश्चोक्तप्रकारेण निरन्तरेच्छावान् भवामीत्यर्थः ॥ ५८ ॥
 
 यद्येवमिच्छसि तदा ते सर्वमिष्टं संपत्स्यते । शास्त्रजन्यपरोक्षज्ञानमात्रेणादुष्टतयाऽवगतेऽपि प्रत्यक्षवासनावशादन्यत्र रुच्यनुवृत्तावसत्कल्पाहृदयप्रार्थनामात्रेण यदि मुक्तिं दास्यामि, तदा तवानिष्टमेव मया कृतं स्यादित्यत्राह –
 </details>

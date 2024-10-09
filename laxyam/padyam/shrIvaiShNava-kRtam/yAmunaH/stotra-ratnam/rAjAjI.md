@@ -378,20 +378,15 @@ Tava daasya sukhaika sanginaam bhavaneshvastvapi keetajanma me itaraavasatheshu 
 
 सकृत् त्वदाकारविलोकनाशया तृणीकृतानुत्तमभुक्तिमुक्तिभिः । महात्मभिर्मामवलोक्यतां नय groìsfa à afgeìsfag: #6: 11 48 11 Sakrit tvadaakaara vilokanaasayaa trineekritaanuttama-bhukti-muktibhih mahaatmabhir maam avalokyataam naya kshanepi te yadvirahotidussahah.
 
-Make me an object worthy of the benign look of great souls, who with the object of having a single glance at You, have even given up the highest enjoyments and liberation. Separation from such great souls is unendurable to You.
 
-In the previous sloka, the prayer was to be with the devotees and not to be with the non-devotees. The Lord may ask what he hopes to achieve? The answer is in this sloka.
-
-The prayer is that those great people from whom separation is unendurable for the Lord, should cast a benign look on him. What have these great people done? They have rejected (the word used is "trinikrita", that is treated as a blade of grass) even the highest enjoyment ("bhukti") and liberation ("mukti") so that they may have a glance at the Lord ("akara vilokana asaya").
-
-Why should separation from such devotees be unendurable to the Lord (yad virahah te kshanepi ati dussahah")? It is for the simple reason that the Lord resides where the bhagavathas reside. Hence, He cannot bear separation from them.
-
-81 There is a difference between the previous sloka and this sloka. In the previous sloka, the prayer was that he should be born in the house of the devotees whereas in this sloka the hymnologist only seeks that such great souls should glance ('avalokyatam') at him.
 
 न देहं न प्राणान् न च सुखमशेषाभिलषितं न चात्मानं नान्यत् किमपि तव शेषत्वविभवात् । बहिर्भूतं नाथ क्षणमपि सहे यातु शतधा विनाशं तत् सत्यं मधुमथन विज्ञापनमिदम् ॥ ५७ ॥
 
 Na deham na praanaan na cha sukham asesaabhilashitam na chaa atmaanam naanyat kim api tava seshatvavibhavaat bahirbhootam naatha! Kshanam api sahe yaatu satadhaa. vinaasam, tat satyam madhumathana vijnaapanam idam.
 
+दुरन्तस्यानादेरपरिहरणीयस्य महतः निहीनाचारोऽहं नृपशुरशुभस्यास्पदमपि ।
+
+दयासिन्धो बन्धो निरवधिकवात्सल्यजलधे तव स्मारं स्मारं गुणगणमितीच्छामि गतभीः ॥ ५८ ॥ Durantasyaanaader apariharaneeyasya mahato niheenaacaaro aham nripashurasubhasyaapadam api dayaasindho!bandho! niravadhika vaatsalyajaladhe! tava smaaram smaaram gunaganam iteechaami gatabheeh".
 
 
 अनिच्छन्नप्येवं यदि पुनरितीच्छन्निव रजस्तमश्छन्नश्छद्यस्तुतिवचनभङ्गीमरचयम् । तथापीत्थंरूपं वचनमवलम्ब्यापि कृपया त्वमेवैवंभूतं धरणिधर मे शिक्षय मनः ॥ ५९ ॥
