@@ -298,33 +298,17 @@ Daasah sakhaa vaahanam aasanam dhvajo yas te vitaanam vyajanam trayeemayah upast
 
 Tvadeeya bhuktojjhita seshabhojinaa tvayaa nisrishtaatma bharena yad yathaa priyena senaapatinaa nyavedi tat tathaanujaanantam udaara veeksanaih.
 
-63 (O Lord) Your Commander-in-chief, Vishvaksena, who eats the left overs, after You have taken your food, he who is beloved of You, who enjoys his power only because of You, who secures Your assent through Your lofty glances and significant looks, for the submissions made by him (when will I be able to serve and be blessed?).
-
-In the previous two slokas, Adisesha and Garuda had been eulogized. In this sloka, the reference is to Vishvaksena. Though all the Nityasuris are equal, it is only in this sloka, the word "priyena" (the one who is beloved of you) is used. Maybe for this reason, it is said that Parasara Bhattar often used to give discourses on this sloka alone.
-
-Vishvaksena is the commander-in-chief of the army. He is delegated with authority by the Lord. He accordingly exercises his powers. On occasions, he may have to seek the approval of the Lord, either for what he has done or for what is proposed to be done. On such occasions, the Lord would accord his approval by a mere glance ("udaara veekshanaih") when the proposal was submitted to him ("nyavedi").
-
-Vishvaksena is referred to as one who eats what is left by the Lord. What is the significance? Any devotee more so a Nityasuri will only eat whatever is the residue, after the food (naivedya) is offered to the Lord. Since among the Nityasuris, he enjoys a special position with the Lord, being "priyena", this point of "seshabhojana" is emphasised. Vishvaksena eats what is left by 6 64 Sri Yamunacharya's the Lord and exercises the power given by the Lord (tvaya nisrishta atmabharena).
 
 हताखिलक्लेशमलैः स्वभावतः त्वदानुकूल्यैकरसैस्तवोचितैः । गृहीततत्तत्परिचारसाधनैः निषेव्यमाणं सचिवैर्यथोचितम् ॥ ४३ ॥
 
 Hataakhila klesa malaih svabhaavatah tvad aanukoolyaikarasaih tavochitaih grheeta tat-tat-parichaara saadhanaih nishevyamaanam sachivaih yathochitam.
 
-You are attended on by a host of Nityasuris, who by their nature are untainted by afflictions and blemishes, and who by their singular devotion are fully equipped to serve you in the most appropriate manner and are best suited to attend on you (when will I be able to serve you and be blessed?).
-
-In the previous slokas Ananta, Garuda and Vishvaksena had been hymned. Alavandar now eulogizes the Nityasuris - those who are always attending on the Lord at Vaikuntham. These people are not contaminated by afflictions - attractions and repulsive things, caused by and through worldly contacts. They seek pleasure only by and in serving the Lord. Yamuna seeks the Lord, who is attended on by this retinue.
-
-The Nityasuris do not have (have lost) "klesha" and "malaih", that is sorrows and sins. They are free from afflictions like Avidya (ignorance), Ahankara (ego), Raga, Dvesha (likes and hatred). The sloka has the word "svabhavatah" as a word preceding the above, meaning that the Nityasuris are naturally free from the afflictions, as the Nityasuris have never been contaminated with the sins of "samsara", while on the other hand, the "muktas" or the liberated souls have only through an effort succeeded in liberating themselves from the samsaric bonds. Hence, the use of the word "svabhavatah".
-
-These nityasuris are singularly (ekarasaih) devoted to serving the Lord (tvat anukulya). They are fully equipped for serving 65 the Lord (tattat parichara sadhanah). "Equipped" here should be interpreted to mean that they have the fan, the whisk etc., for offering service to the Lord.
 
 अपूर्वनानारसभावनिर्भरप्रबुद्धयां मुग्धविदग्धलीलया । क्षणाणुवत् क्षिप्तपरादिकालया प्रहर्षयन्तं महिषीं महाभुजम् ॥ ४४ ॥
 
 Apoorva naanaarasa bhaava nirbhara prabuddhayaa mugdha vidagdha leelayaa, kshanaanuvat kshiptaparaadi kaalayaa praharshayantam mahimsheem mahaabhujam.
 
-You, who are of long arms, exhilarate Sri with lovely and skilful sport, which consists of diverse and new sentiments and emotions as to make aeons of time pass quickly, like brief moments.
 
-In slokas 37, 38 and part of 39, the reference was to Sri alone. In this sloka, Alavandar is hymning the Lord sporting with Sri. In a sense, this sloka is complementary to sloka (38). In sloka (38), it was mentioned that the Lord enjoys the bliss of perpetual communion with Sri and that Sri surprises the Lord with her ever fresh attributes. In this sloka, the reference is to the "leela" (plays) of the Lord. They are fresh and many ("apoorva" and "nana"). They are to make the Queen ("mahishim") the goddess, in this case, happy. What is the duration of these "leelas"? Two words are used "para" and "adi". The word "para" refers to the lifetime of Brahma while the word "Adi" refers to the lifetime of crores of Brahmas. Though the "leelas" may be for an eternally long time, it appears as if it was for a fraction of a second ("kshana anuvat").
 
 अचिन्त्यदिव्याद्भुतनित्ययौवनस्वभावलावण्यमयामृतोदधिम् ।
 
@@ -332,31 +316,13 @@ In slokas 37, 38 and part of 39, the reference was to Sri alone. In this sloka, 
 
 1805 66 Sri Yamunacharya's Achintya divyaadbhuta nitya yauvanasvabhaava laavanya mayaamritodadhim shriyah shriyam bhaktajanaika jeevitam samartham aapatsakham arthikalpakam.
 
-(You) who are the nectar ocean of natural beauty, who have perpetual (eternal) youth, beyond all comprehension, You who are the fortune of the goddess of Fortune herself, are the sustaining force of the devotees, are the great helper in adversity and are a veritable wish-yielding tree to the supplicants (when will I be able to serve you and be blessed?).
 
-The qualities of the Lord are enumerated - His eternal youth, sustaining force for the devotees, the one who helps at all times, and gives all that the supplicants seek. In this sloka we see a description of the divya-mangala-vigraha and the divya-atmasvaroopa, that is a description of both the physical and psychic aspects of the Lord.
-
-The Lord is the nectar ocean of natural beauty. What this means is that the beauty of the Lord has the appeal of nectar. There is no satiety and one feels like quaffinig it, again and again. This is partly because the Lord is eternally handsome and in appearance is perpetually youthful. ("nitya yauvana"). We have used the words "partly because" in the above sentence, as it is not just the youthfulness or the handsome features which makes us to feast our eyes on him. It is an innate and inherent quality of perpetual appeal.
-
-The Lord is beyond comprehension. He is beyond description. One may recall the Vishvaroopa darsana, sought and had by Arjuna. Arjuna was petrified when he saw in the Lord hundreds of Brahmas and the Lord had an effulgence equal to many Suns.
-
-The Lord is the sustaining force for the devotees ("bhaktajana ekajivitam"), the great helper in adversity ("aapat sakham") and the veritable wish/yielding tree to the supplicants ("arthi kalpakam"). It may be noticed that there is a graceful set up in the above three descriptions. He sustains the devotees at all times, whether they are prosperous or not. When adversity strikes, He helps the devo67 tee, to tide over the difficulty. The devotee or the supplicant seeks something, which the Lord grants immediately. These are so well depicted in the episodes of Prahlada and Gajendra.
-
-The Lord is the fortune of the goddess of Fortune ("shriyah shriyam"). The goddess gives refuge to all the supplicants. The Lord gives refuge to Sri Herself. It may be recalled that in sloka 12, Yamuna had written "kah Srih sriyah - who else but you (is the source of prosperity even for Sri) the resting place for Lakshmi". It may be mentioned that in Sloka (11) of Mukunda Mala, Kulasekhara Alwar says ".......How can your enemies touch you, your enemies being the sins that you have accumulated, when your master is Sridhara, the husband of goddess Sri...." Parasara Bhattar has expressed identically "Shriyah Shri Rangesayah".
-
-While describing the Lord, in line 4, the word "samartham" (capable) occurs in isolation. What is he capable of? The answer is what is the Lord not capable of? The Lord is capable of making the common devotees experience what Nitya Suris are experiencing.
 
 भवन्तमेवानुचरन् निरन्तरं प्रशान्तनिः शेषमनोरथान्तरः । कदाऽहमैकान्तिकनित्यकिङ्करः प्रहर्षयिष्यामि सनाथजीवितः ॥ ४६ ॥
 
 Bhavantam evaanucharan nirantaram prashanta-nissesha manorathaantarah kadaaham aikaantika nitya kinkarah praharshayisyaayami sanaathajeevitah.
 
-Constantly waiting on you alone, having turned away from all other desires, not having any one other than you and serving you alone, having you alone as the Lord, when will I be blessed (when will I reach you?).
 
-What is begun in Sloka 32 is concluded in Sloka 46 with the word "bhavantam" (More on this word later in the note on this sloka). The seeker, the beseecher has been constantly or eternally 68 Sri Yamunacharya's ("nirantaram") waiting ("anusaran") on the Lord. He has not sought or pursued other desires ("prashaanta nissesha manorathantharah"). He has been serving only the Lord ("Aikantika nitya kinkarah"). It may be noted that both the words have been used --waiting on the Lord and serving only the Lord. Apart from the emphasis to be conveyed, it is possible to wait on one and still manage to serve another also. Yamuna makes it clear that he has been serving only the Lord.
-
-Yamuna uses also the word "sanathajivitah". He has become an orphan, essentially due to the lack of grace of the Lord. This orphanship can be cured only by the will of the Lord to shower His Grace on the hapless devotee.
-
-The concluding words "bhavantam praharshayishyami" needs a special comment. Translated literally this means, "when will I make you happy?" (and not when will you make me happy). Where is the question of the devotee making the Lord happy? Is it happiness for the beseecher or the One who blesses when the devotee attains the Lord? Sampradaya tells us that the reclamation of the jiva gives greater happiness to the Lord as it is a gain for the Svami. The pleasure or happiness which the Lord derives from such reclamation makes the jiva also happy, but the source of such happiness is the Lord.
 
 धिगशुचिमविनीतं निर्दयं मामलजं परमपुरुष योऽहं योगिवर्याग्रगण्यैः विधिशिवसनकाद्यैर्ध्यातुमत्यन्तदूरं तव परिजनभावं कामये कामवृत्तः ॥ ४७ ॥
 
@@ -370,99 +336,45 @@ Dhig asuchim avineetam nirdayam maam alajjam paramapurusha! yo'ham yogivaryaagra
 
 Aparaadha sahasra bhaajanam patitam bheema-bhavaarnavodare, agatim saranaagatam Hare! kripayaa kevalam aatmasaatkuru.
 
-Sri Yamunacharya's Out of Your sheer grace, please make me Your own - me who am fallen into the depths of the terrible ocean of worldly existence and who being unable to resort to any one else, have sought refuge at your feet.
 
-In a sense, this sloka continues from sloka 23 and 24. In sloka 23, it had been said that all the sinful acts had been committed hundreds of times and when the time to suffer for these had come, he is crying helplessly before the Lord. In sloka (24), it had been said that when he was drowning in the ocean of samsara, he had found the Lord. In sloka 47, Alavandar had piteously cried that he is ineligible to receive the grace of the Lord and needs to be condemned for his various bad qualities. For this reason, is he to stand aside, so that he may be passed over? No. Instead, he appeals to Hari. Who is Hari? As the name itself symbolizes, He is One who washes off the sins of the sinner, provided he approaches the Lord and does "saranagati" so that the Lord may make him as His person.
-
-He appeals to Hari. Please see the third line in the sloka. He confesses that he has committed hundreds of sins ("aparaadha sahasra bhajanam"). He has fallen into the middle of the fierce ocean called samsara ("bhima bhava arnava udare patitam). He does saranagati and seeks the grace of the Lord ("kevalam kripaya") to make him the Lord's man ("atmasat kuru"). It is part of Vaishnava sampradaya to recite this sloka, when one goes to a shrine to offer worship.
-
-71 One may refer here to sloka (9) of Mukunda Mala. Says Kulasekhara. "I plunge in the sacred lake called Hari....the depth of the lake is unknown; but the very touch of its waters is most refreshing. I plunge in this lake and drink of the divine light that is its water and leave aside the long drawn weariness of my wanderings in that vast mirage of a world".
 
 अविवेकघनान्धदिङ्गुखे बहुधा सन्ततदुःखवर्षिणि । भगवन् भवदुर्दिने पथः स्खलितं मामवलोकयाच्युत ॥ ४९ ॥
 
-Aviveka ghanaandha-dingmuke bahudhaa santata-duhkha-varshini Bhagavan! bhava-durdine pathah - skhalitam maam avalokayaachyuta! I who have lost my sense of direction and moved away from the path of rectitude, bewildered by the cloudy day, called samsara, enveloped in dark dense clouds of ignorance and beaten continously by ever expanding miseries, O Achyuta, please look on me.
+Aviveka ghanaandha-dingmuke bahudhaa santata-duhkha-varshini Bhagavan! bhava-durdine pathah - skhalitam maam avalokayaachyuta! 
 
-This sloka elaborates what was said in sloka 22. The Lord is both the 'upaya' and the 'upeya'.
 
-The day when the shining sun is not seen is a gloomy day. "Samsara" has been compared to a gloomy day ("bhava durdine"). Ignorance is like a cloud ("aviveka ghana"). This cloud of ignorance is covering the rays of the Sun, called knowledge. The rain which is coming down due to the cloud (ignorance) is the samsaric sorrow ('santata dukha varshini'). Because of all this, he has lost the way. Alavandar is praying to the Lord to show him the way, to him who has lost his way due to "samsara" (pathah skhalitam maam avalokaya").
-
-Alavandar is addressing the Lord - bhagavan. The Lord alone is capable of giving him liberation. He is further addressed as Achyuta - one who remains steadfast by His devotees. Alavandar 72 Sri Yamunacharya's wishes to reinforce his prayer by reminding Him that He is Achyuta and therefore does not address Him by the other names. He calls Samsara as a gloomy day (bhava durdine) to emphasise that it is what is opposed to the salvation of the individual. It is this same samsara which has made him to lose his way meaning that it is what made him to stray from the path of dharma. What does he seek from the Lord? He calls on the Lord to look ('avalokaya'), meaning to have mercy on him, to shower His grace on him so that he gives up his 'aviveka'.
 
 न मृषा परमार्थमेव मे श्रृणु विज्ञापनमेकमग्रतः । यदि मे न दयिष्यसे ततो zenferana -ner gefur: || 40 || Na mrishaa paramaartham eva me srinu vijnaapanam ekam agratah, yadi me na dayishyase tato dayaneeyah tava naatha durlabhah.
 
-O Lord, listen to my prayer that is genuine, and without a trace of falsehood. If You do not take pity on me, it will be difficult to find one more worthy of compassion.
-
-Alavandar had said in sloka 24 that the Lord had found in him a worthy recipient for his mercy. He had said in sloka 25 that it is not becoming of the Lord if those who had sought Him were to become frustrated. It is possible that the Lord may tell Alavandar that there are many others in this position, like him and that being so, how is he different and how is his seeking compassion, to be treated differently. Alavandar anticipates this question of the Lord and replies in the sloka.
-
-Though there may be many who need to be saved by the Lord, for the person who is seeking the grace of the Lord, the Lord alone is the saviour. In this sloka, it is being said that the Lord would not find one who has more deficiencies. That being73 so, if the Lord were to now ignore him, then the grace of the Lord would be wasted. Saving him is the immediate duty of the Lord, as the Lord would find it difficult to locate one on whom He can show grace, if He passes over the hymnologist.
-
-This concept of the protectee submitting to the Lord that he is the most eligible sinner has been used by Desika in several slokas. Says Desika in Daya Satakam: "O Daya, when I, the foremost among sinners, am present here, how are you able to survive on the limited sins of others, which will not be sufficient to fill Your stomach?" (Sloka 29).
-
-"O Daya! I am the emperor among sinners and You are the empress of all virtues. O knowledgeable one, knowing this situation, You, of Your own accord, come and place me at the feet of the Lord" (Sloka 30).
-
-Again, says Desika in Saranagati Dipika, "O Master! Every moment I do things which are not to be done, as if they are to be done. I give up things which are to be actually performed by me, as if they are to be avoided. There is also a host of other violations (done by me). May Grace, the empress among your qualities, take the place of means (of saving) in my case: (Sloka 44) "O Lord, long ago you yourself had said that compassion to those who seek refuge is the highest virtue. Because you are the One who gives refuge, you are now being reminded by me. Indeed, these undertakings of yours are meant for people like me. Is it not?" (Sloka 45).
-
-"O Bhagavan, enough of Your going on thinking about me. I, the bold one, bear the name of a prapanna. Therefore, make me the object of Your grace, so as to avoid Your getting a bad name (Since You have already promised to protect a person who even entertains the idea of doing prapatti"). (Sloka 50) 74 तदहं त्वदृते न नाथवान् मदृते त्वं दयनीयवान् न च । विधिनिर्मितमेतमन्वयं भगवन् पालय मा स्म जीहपः ॥ ५१ ॥
+(Sloka 50) 74 तदहं त्वदृते न नाथवान् मदृते त्वं दयनीयवान् न च । विधिनिर्मितमेतमन्वयं भगवन् पालय मा स्म जीहपः ॥ ५१ ॥
 
 Tadaham tvadrite na naathavaan madrute tvam dayaneeyavaan na cha vidhinirmitam etam anvayam Bhagavan! Paalaya maasma jeehapah.
 
-Sri Yamunacharya's Lord, without You, I am lost and without me, You lose a worthy recipient for your compassion. This relationship of Your Lordship and my (state of) pitiableness, needs to be preserved. This has been ordained by fate.
 
-This sloka takes forward the plea made in the previous sloka (sloka 50) wherein it was stated that if the Lord did not save him, He would find it difficult to find another ('tatah tava dayaniyah durlabhah"). The plea now is that there is none other than the Lord and for the Lord there is none else who better deserves compassion. He says that there is no other lord (ananthavan) for him and for the Lord there is none else ("madrute") to shower His compassion. One who deserves the compassion of the Lord is one who is struggling because he has committed sins. One who most deserves the compassion of the Lord is, by the above logic, one who is greatly suffering because he has committed limitless sins. Alavandar says in this sloka that if the Lord were to leave him, he would not find one who better deserves compassion. He says that there is always this connection for him there is none else than the Lord and for the Lord there is none else than him.
-
-Alavandar goes on to say that this relationship of Protector - Protectee is fated ("vidhinirmitam"). This raises a question. Apart from the Lord, is there such a thing called "fate", for it to be said that this relationship is fated?. Here, the word 'vidhi' or fate is not as is commonly understood. It is not destiny. It is the Divine Grace which forges the mutual bonds between man and God.
-
-75 In the previous sloka, we had quoted from Vedanta Desika to explain how he had also expatiated on the theme of the beseecher being the most sinful person. Since this sloka of Yamuna carried forward the same theme, we may once again, with advantage, quote from Desika. Says Desika in "Sri Devanayaka Panchasat": "O Vibudhanatha, having obtained me, who is an oçan of ignorance, leader of the wrong doers, breaker of commands and emperor among the destitute, why do You, the omniscient, think of any one else as the proper recipient of your compassion?" (Sloka 49).
-
-Says Desika in Nyasa Dasakam: "O Divine Lord, Remover of the distress of those who bow down! Forgive every thing - my doing forbidden things and not doing things that ought to be done". (Sloka 9).
 
 ayurfag atsfor antsftat quatsanfa eren aenfarer: I तदयं तव पादपद्मयोः अहमद्यैव मया समर्पितः ॥ ५२ ॥
 
 Vapuraadisu yo' pi ko'pi vaa gunato asaani yathaatathaavidhah tad ayam tava paadapadmayoh aham adyaiva mayaa samarpitah.
 
-Whatever might be the nature of the body and my organs, with which I am endowed, according to the Gunas of Prakriti, I am offering them this very moment at Your lotus feet, as also what is denoted as I in me.
 
-Alavandar had stated in the previous sloka that the Lord needs to protect the relationship between the Lord and himself. The Lord asks Alavandar that for quite some time now there has been a discussion between Alavandar and himself as to whether he belongs to himself or to the Lord and that this has not been resolved. That being the position, how can the Lord accept the proposition of Alavandar pertaining to the protector and protectee? It is this 76.
-
-Sri Yamunacharya's question which Alavandar answers in this sloka. He says that there is no such discussion as to whom Alavandar belongs. He belongs to the Lord only. Hence he makes an offering of himself - of his body and organs. In this context sloka 10 may also be seen.
-
-In the fourth line of the sloka the word "aham" is used. This is to be taken to mean "atma". The 'atma' has been said to be different things by different persons. Some say that the body is the atma; some say that the prana is the atma; some say that it is intelligence. Alavandar does not wish to enter into any such intellectual disputation. He says that in the opinion of the Lord whatever form 'atma' assumes, Alavandar is willing to submit at the lotus feet of the Lord that 'aham' ("Ayamham tava padapadmayoh adya eva maya samarpitah"). In effect, what Alavandar is saying is that what is important is servitude.
-
-Alavandar is submitting to the Lord that he is giving up his attachment to the organs, to the body and not being able to realise the self, he is solely depending on the feet of the Lord and that the Lord should save him (as He did save Gajendra and Draupadi).
 
 मम नाथ यदस्ति योऽस्म्यहं सकलं तद्धि तवैव माधव ।
 
-नियतस्वमिति प्रबुद्धधीः ereran fang fenfa à || 43 || Mama naatha! Yad asti yo asmy aham sakalam taddhi tavaiva Maadhava! niyatasvam iti prabhuddha dhih Athavaa kim nu samarpayaami te? O Lord, whatever I have and whatever I am, all these are yours. What shall I then offer You? O Madhava, being awakened to the conciousness that all these are Your inalienable property, there is nothing else left for me to offer.
+नियतस्वमिति प्रबुद्धधीः ereran fang fenfa à || 43 || Mama naatha! Yad asti yo asmy aham sakalam taddhi tavaiva Maadhava! niyatasvam iti prabhuddha dhih Athavaa kim nu samarpayaami te? 
 
-In the previous sloka, Alavandar had said that he is offering the body and the 'aham' at the feet of the Lord. But having realized that he is in servitude, Alavandar entertains a doubt. When 77 he is already in servitude, is it appropriate for him to offer the body and the organs, as if he is independent? He therefore, hurriedly, clarifies the position. He says that whatever he has and whatever he is, is already that of the Lord ("niyatasvam"). He has nothing else to offer.
 
-In this sloka, the Lord has been addressed as "Madhava" to signify his eternal Lordship. We are all dependent on the goddess Sri and She is dependent on the Lord.
 
 अवबोधितवानिमां यथा मयि नित्यां भवदीयतां स्वयम् । कृपयैवमनन्यभोग्यतां भगवन् भक्तिमपि प्रयच्छ मे ॥ ५४ ॥
 
 Avabodhitavaan imaam yathaa mayi nityam bhavadeeyataam savayam kripayaivam ananya bhogyataam bhagavan! bhaktim api prayachcha me.
 
-Just as You have awakened in me the consciousness of being eternally Yours, O Lord, grant me, out of compassion, that devotion which consists of enjoying You alone.
 
-Alavandar had said in sloka (52) that he is offering at the feet of the Lord his body and organs. In sloka (53), he had said that whatever "I have is yours and what then, shall I offer you?" Thus, the knowledge that he is eternally that of the Lord has been awakened. Since the knowledge has been awakened, the Lord seems to ask what he would like to have in this world. Alavandar's gratitude is encapsulated in this sloka.
-
-He begins by stating that the Bhagavan has himself awakened in him ("avabodhitavan") the consciousness of being eternally ('nityam') His. The Lord should, in the same manner, give him the devotion to enjoy Him alone ('ananya bhogyatam').
-
-Alavandar does not wish to have any other enjoyment and specifically so prays to the Lord. A question may be asked that a supplicant can seek liberation, but is it correct to make a specific 78 Sri Yamunacharya's plea to the Lord, more so for Alavandar? It has been laid down that devotees cannot seek food, water, wealth, clothes, a house and longevity from the Lord, even in times of acute distress. But it is permitted to seek liberation or to seek devotion to the feet of the Lord.
-
-In this connection, the episode of Kuchela may be recalled. Kuchela comes home and finds opulence every where. He prays to the Lord that though the Lord had given him, unasked, extreme wealth, he should never forget his devotion to the feet of the Lord. Seeking such devotion is in order. Kulasekhara Alwar says similarly in Mukunda Mala (sloka 15): "O let me not look at those hapless creatures who do not turn their thoughts to Your feet. I will not listen to stories other than those relating to Your pastimes, which stories are worth hearing. O Lord of the universe, let me pay no attention to those who avoid thinking of You. Let me be able to serve You, birth after birth". Thus, while Kulasekhara concludes by praying that he wishes to serve the Lord, birth after birth, Yamuna concludes that he wishes to have that devotion which consists of enjoying Him alone.
 
 तव दास्यसुखैकसङ्गिनां भवनेष्वस्त्वपि कीटजन्म मे । इतरावसथेषु मास्म भूत् अपि मे जन्म चतुर्मुखात्मना ।। ५५ ।।
 
 Tava daasya sukhaika sanginaam bhavaneshvastvapi keetajanma me itaraavasatheshu maasma bhoot api me janma chaturmukhaatmanaa.
 
-May I be born even as a worm in the houses of those who are solely devoted to the joy of serving You. But, let me not be born even as the four faced Brahma in the houses of those who are not Your devotees.
 
-In the previous sloka, the prayer was only for the enjoyment of devotion to the feet of the Lord. Is this enough? No. That devo79 tion has to increase. For this to happen, it is necessary to be in the community of devotees and not of non-devotees.
-
-Those who render service to the Lord are "bhagavathas". To render service to those who are rendering service to the Lord is the first step in devotion (it would also be the ultimate step, because more than service to Him, the Lord prefers service to His devotees). To render service to the devotees, one has to be in that group or be born in the houses of those who are serving the Lord. How significant or insignificant such a birth is, is immaterial. That is why Alavandar says that he would prefer to be born even as a worm, an insect ('kita janma') in the houses of those who are solely devoted ('ekasanginam') to the joy of serving the Lord ('dasyasukha'). In this connection, apart from sloka (15) of Mukunda Mala to which we made a reference in the previous sloka, we would make reference also to sloka (27) in Mukunda Mala. Says Kulasekhara, "O slayer of Madhu and Kaitabha, O lord of the Universe, the fruition of my life and the most cherished mercy You could show me would be for You to consider me the servant of Your servant....." Kulasekhara prefers to be a servant, seven degrees removed. Yamuna prefers to be an insect in the house of the devotees.
-
-In sloka (2) of chapter (2) of the Srimad Bhagavatam, there is an excellent summarization of one who is not devoted to the Lord. Says Sage Saunaka: "A man has really lived, only during those moments of his life, that have been spent in the thought of the Lord. Vain are the lives of the rest, their lifespan being merely food for time to swallow through its jaws of sunrise and sunset. Do not trees live their lifespan? Do not bellows take in and set out air? Do not animals, wild and domestic, eat and mate? Alas, what is human life worth, if it fulfills only these very same functions? He who into whose ears, the Lord's name has not entered, he is a man in form, but only an animal - a dog, a pig, a camel, an ass or the like. That ear into which words dealing with the Lord's excellences have not entered is a mere cavity and nothing more... the eyes that are not 7 80 Sri Yamunacharya's accustomed to see the images of the Lord and holy men, are as purposeless as the eyes in the centre of the feathers of a peacock....a man whose heart is unmoved, whose eyes shed not tears and hairs stand on end when the Lord's names are uttered - he verily is possessed of a heart of stone...." That is why Yamuna says that he does not wish to be born even as the four faced Brahma in the houses of ('avasatheshu') of persons who are not the devotees.
 
 सकृत् त्वदाकारविलोकनाशया तृणीकृतानुत्तमभुक्तिमुक्तिभिः । महात्मभिर्मामवलोक्यतां नय groìsfa à afgeìsfag: #6: 11 48 11 Sakrit tvadaakaara vilokanaasayaa trineekritaanuttama-bhukti-muktibhih mahaatmabhir maam avalokyataam naya kshanepi te yadvirahotidussahah.
 
