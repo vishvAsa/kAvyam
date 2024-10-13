@@ -2803,9 +2803,9 @@ The Lord has been described as "Madhu mathana". Just as the asura was killed, so
 
 न देहमिति ॥ यद्वा, भागवतकटाक्षलब्धरुचिविशेषात् सपदि सर्वं विरोधिवर्गं सङ्ग्रहेण निर्दिश्य तन्निवृत्तिमभ्यर्थयते । अशेषाभिलषितमित्येतद् देहादिषु सर्वेष्वन्वेति; अन्येषां सुखार्थत्वात् प्रधानभूते सुखमात्रे वा । आत्मानम् – स्वस्वरूपमित्यर्थः । पुत्रमित्रगृहक्षेत्रादिकं दूरतो निरस्तमित्यभिप्रायेणाह – नान्यत् किमपीति । तव शेषत्वविभवाद्बहिर्भूतं – त्वच्छेषत्वफलभूतकैङ्कर्याख्यसमृद्धेरनुपयुक्तमित्यर्थः । न हि विश्वपतेरशेषभूतं किञ्चित् कदाचित् संभवति । नाथशब्देन सर्वशेषित्वमिह विवक्षितम् । क्षणमपि सहे इत्येतत्, न देहमित्यादौ सर्वत्र योज्यम् । आत्माभिमानार्हतया दुस्त्यजपरिग्रहस्य देहादेर्ब्रह्मादिस्थावरान्तसर्वापेक्षितस्य प्रभूतस्याल्पस्य तद्भोक्तुः ‘आत्मार्थे पृथिवीं त्यजेत्’, इति स्वेतरसकलपरित्यागेनापि परिग्राह्यस्यात्मनः तदनुबन्ध्यैश्वर्यादेरपि प्रत्येकमसह्यत्वद्योतनाय नञ्प्रयोगावृत्तिः । अत्र ‘यस्त्वया सह स स्वर्गो निरयो यस्त्वया विना’ (रामा.अयो. ३०.१८), ‘न देवलोकाक्रमणं नामरत्वमहं वृणे । ऐश्वर्यं वाऽपि लोकानां कामये न त्वया विना ॥’, (रामा.अयो.३१.५) ‘न च सीता त्वया हीना न चाहमपि राघव! । मुहूर्तमपि जीवावो जलान्मत्स्याविवोद्धृतौ ॥’, (रामा.अयो. ५३.३१) ‘न हि मे जीवितेनार्थो नैवार्थैर्न च भूषणैः । वसन्त्या राक्षसीमध्ये विना रामं महारथम् ॥” (रामा.सुन्द.२६.५) इत्यादिषूक्तः प्रकारोऽनुसन्धेयः । एवमसत्यत्वादेव तेषामत्यन्तनिवृत्तिः कार्येत्यभिप्रायेणाह – यातु शतधा विनाशमिति । निरवयवस्य नित्यस्यात्मनः शतधा विनाशप्राप्त्ययोगात् कैङ्कर्यविरुद्धावस्थानिवर्तनमेवात्र विवक्षितम् । ननु सर्वेष्वसंभावितार्थत्वादहृदयमेतद्वाक्यमित्यत्राह – तत्सत्यमिति । न हि त्वदन्य ईदृशप्रबलविरोधिनिवर्तनक्षम इति सूचयति – मधुमथनेति । पूर्व ‘शृणु विज्ञापनमेकम्’ (श्लो. ५०) इत्युक्तम्; तद्वदिदमपि दयनीयत्वानुबन्धिविज्ञापनमित्याह – विज्ञापनमिदमिति । तदिदं विज्ञापनं सत्यमिति समानाधिकरणं वा । विज्ञापितमिति केचित्पठन्ति । मुमुक्षुणा भगवत्कैङ्कर्यानुपयुक्तपरिग्रहस्त्याज्य इत्युक्तं भवति ॥ ५७ ॥
 
-एतत्सर्वमत्यन्तानर्हस्त्वं किमवलम्ब्य प्रार्थयसे? इति पुनर्भगवता पूर्वोक्तार्थस्थिरीकरणाय पृष्ट आह –
 </details>
 
+## भर-समर्पणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुरन्तस्यानादेर् अ-परिहरणीयस्य महतो  
@@ -2834,6 +2834,8 @@ There are two adjectives used to address the Lord - "dayasindho" and "vatsalya j
 
 <details><summary>वेङ्कटनाथार्यः</summary>
 
+एतत् सर्वम् अत्यन्तानर्हस् त्वं किम् अवलम्ब्य प्रार्थयसे?  
+इति पुनर्भगवता पूर्वोक्तार्थस्थिरीकरणाय पृष्ट आह –  
 दुरन्तस्येति ॥ प्रायश्चित्तानवसरातिघोरविपाकस्येत्यर्थः । अनादेः – पूर्वकोटिरहितप्रवाहस्य । अपरिहरणीयस्य – सर्वशक्तेस्तवैव सङ्कल्पमन्तरेण दुष्परिहरस्य । महतः – महापातकातिपातकादिरूपस्यासङ्ख्यातस्य वा । अनाचारदोषादप्यहमुपहत इत्याह – निहीनाचार इति । अत्यन्तनिकृष्टाचार इत्यर्थः । अत्र ‘सन्ध्याहीनोऽशुचिर्नित्यमनर्हः सर्वकर्मसु । यदन्यत्कुरुते कर्म न तस्य फलभाग्भवेत् ॥” (दक्षस्मृतिः २.२७), ‘आचारहीनं न पुनन्ति वेदाः’ इत्यादि द्रष्टव्यम् । अहं – मदन्यः क ईदृश इति भावः । नृपशुः नरजातीयतया चतुष्पाद्व्यावृत्तः पशुः, सम्यग्ज्ञानयोग्यजन्मलाभेऽपि ‘ज्ञानेन हीनः पशुभिस्समानः’ (नरसिंहपुराणे १६.१३) इत्युक्तः । अशुभस्यास्पदम् – त्वदपचारत्वदीयापचारादीनां सर्वेषामेकाश्रयः । 
 
 अहमशुभस्यास्पदं, त्वं तु ‘गुणानामाकरो महान्’ (रामा.किष्कि. १५-२१) इति प्रसिद्ध इति हृदयम् । अपिशब्देन विरोधद्योतनम् ।  
@@ -2850,9 +2852,23 @@ There are two adjectives used to address the Lord - "dayasindho" and "vatsalya j
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनिच्छन्नप्येवं यदि पुनरितीच्छन्निव रजस्तमश्छन्नश्छद्मस्तुतिवचनभङ्गीमरचयम् ।  
-तथाऽपीत्थंरूपं वचनमवलम्ब्यापि कृपया त्वमेवैवंभूतं धरणिधर! मे शिक्षय मनः ॥ ५९ ॥
+**अनिच्छन्न्** अप्य् एवं, यदि पुनर् **इतीच्छन्न् इव** रजस्-  
+तमश्-छन्नश् छद्म-स्तुति-वचन-भङ्गीम् **अरचयम्** ।  
+तथाऽपीत्थं-रूपं वचनम् **अवलम्ब्यापि** कृपया,  
+त्वम् एवैवं-भूतं धरणि-धर! मे **शिक्षय** मनः ॥ ५९ ॥
 </details>
+
+<details><summary>English</summary>
+
+I am enveloped in Rajas and Tamas. I am incapable, but I pretend to be capable and have composed this text of feigned praise. Atleast making this as the reason, please save me. O Dharanidhara (sustainer of the universe), make my mind to give up other thoughts and discipline it, so as to think of You alone.
+
+Alavandar says that he is surrounded by passion and inertia. He is guilty of singing praises, which are not coming from the heart. He uses the words "false praise" (chadma stuti). He wants them to be taken at their face value (that is make it the base or authority, "avalambya api") and the redemptive grace of the Lord extended to him, so that his mind is disciplined ("me manah sikshaya").
+
+Two points are spelt out in this sloka. One is that if the Lord is worshipped by non-sattvic people, their sins also will be washed away by the grace of the Lord. The second point that is made is that if the name of the Lord is repeated, even casually or facetiously, the sins would get obliterated. The second of the above two points is clearly borne out by the story of Ajamila, given in the Srimad Bhagavatam. The Bhagavatam tells us that the efficacy of the Name, which a man obtains by abstract meditation in the Krita Age, by sacrifice in the Treta Age, by adoration in the Dvapara Age, he obtains in the Kali Age by reciting the names of Narayana. Slokas 23 and 24 of Mukunda Mala need to be recalled in this context. Says Kulasekhara: 84 Sri Yamunacharya's "The holy formula of Sri Krishna is an unparalleled mantra to cut off everything hostile to one's good. It is the sum total of the mantras consisting of the sacred Upanishadic statements. It is the mantra which rescues one from "samsara". It is the mantra that expels the mass of accumulated darkness. It is the only mantra for the attainment of complete Lordship. It is the mantra that completely delivers those who are bitten by the snake of addiction to passions. O my tongue, always chant this Mantra, so that you may attain the fruition of your life". (Sloka 23) "The medicine in the form of the divine name of Sri Krishna cures ignorance and discrimination. It inspires sages to engage their minds in meditation and it torments the demons. It is the medicine for restoring the three worlds to life and for bestowing unlimited blessings on the devotees of the Supreme Lord. Indeed, it is the only medicine that can destroy one's fear of material existence and lead one to the attainment of supreme good". (Sloka 24) Alavandar prays for the mind being penalized ("shikshaya") or disciplined. What is this disciplining which is spoken of here? Having said that the utterings have not come from the heart, the obvious prayer is that there should be no duplicity in the supplication. The related offshoot is that the mind should be disciplined so that the thoughts are centred only on the Lord.
+
+The Lord is addressed as "Dharanidhara". He is the Sustainer of the Earth. He absorbs all the sins and absolves the true seeker. One should recall the episode in the Srimad Bhagavatam. Mother Earth complains to the Lord that she is unable to bear the weight of the sinners, as they have increased greatly in numbers. The Lord assures her that He will manifest Himself to rid the earth of the sinners. The Lord bears all this weight. One should also recall the Varaha Avatara. The Lord playfully held up the earth, as if it was a ball to be played with by Him.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2863,15 +2879,26 @@ There are two adjectives used to address the Lord - "dayasindho" and "vatsalya j
 <details><summary>वेङ्कटनाथार्यः</summary>
 
 अनिच्छन्निति ॥ इत आरभ्य सप्तभिः श्लोकैः शिक्षणीयत्वे तन्मुखेन रक्षणीयत्वे च हेतुविशेषा उच्यन्ते । यदीत्यत्र यद्यपीति योज्यं, तथाऽपीति प्रतिनिर्देशात् । पुनश्शब्दोऽन्याभिप्रायत्वेऽपि संग्राह्यत्वरूपविशेषद्योतनार्थः । इतीच्छन्निव इत्यादिना ‘साङ्केत्यं पारिहास्यं वा स्तोभं हेलनमेव वा । वैकुण्ठनामग्रहणमशेषाघ(हरं विदुः)विनाशनम् ॥’ (भगवते ६.२.१४), ‘हरिर्हरति पापानि दुष्टचित्तैरपि स्मृतः । अनिच्छयाऽपि संस्पृष्टो दहत्येव हि पावकः ॥’ (हर्यष्टके १), ‘अवशेनापि यन्नाम्नि कीर्तिते सर्वपातकैः । पुमान् विमुच्यते सद्यः सिंहत्रस्तैर्मृगैरिव ॥’ (वि.पु. ६.८.१९), ‘एतावताऽलमघनिर्हरणाय पुंसां सङ्कीर्तनं भगवतो गुणकर्मनाम्नाम् । आक्रुश्य पुत्रमघवान् यदजामिलोऽपि नारायणेति म्रियमाण उपैति (इत्याय) मुक्तिम् ॥’ (भगवते ६.३.२४), ‘नारायणेति शब्दो(मन्त्रो)ऽस्ति वागस्ति वशवर्तिनी । तथाऽपि नरके घोरे पतन्तीत्येतदद्भुतम् ॥’, ‘रोगापद्भयदुःखेभ्यो मुच्यन्ते नात्र संशयः । अपि नारायणेत्येतच्छब्दमात्रप्रलापिनः ॥’ (नारदीये १.३८) इत्यादीनि प्रमाणानि सूच्यन्ते । रजस्तमश्छन्नः – स्वकर्मोपात्तप्रकृतिगुणभूतरजस्तमोभ्यामावृतज्ञानतया यथावस्थितस्वपरप्रकाशरहित इति भावः । छद्मस्तुतिवचनभङ्गीं कुहनाप्युक्तस्तोत्ररूपकुटिलवाक्यप्रक्रियामित्यर्थः । इत्थंरूपं वचनमवलम्ब्यापि – द्वयार्थविषयच्छद्मवाक्यरूपं व्याजमङ्गीकृत्यापीति यावत् । एवंविधवचनमात्रेऽपि हि यमभयनिवृत्तिः स्मर्यते ‘कमलनयन! वासुदेव! विष्णो! धरणिधराच्युत! शङ्खचक्रपाणे! । भव शरणमितीरयन्ति ये वै त्यज भट! दूरतरेण तानपापान् ॥’ (वि.पु. ३.७.३३) इति । कृपया – स्वसङ्कल्पितयत्किञ्चिद्व्याजमात्रापेक्षिण्येति हृदयम् । त्वमेव – ‘राघवं शरणं गतः’ (रामा. यु. १७.१४) इत्यपरीक्षितवाक्यमवलम्ब्य ‘न त्यजेयं कथञ्चन’ (रामा. यु. १८.३), ‘दोषो यद्यपि तस्य स्यात्’ इति हि त्वयैवोक्तमिति भावः । यद्वा ‘सुहृदं सर्वभूतानाम्’ (गीता. ५.२९), ‘ददामि बुद्धियोगं तम्’ (गीता. १०.१०) इत्यादिवादी । एवकारेण अन्यनैरपेक्ष्यमन्याशक्यत्वं च द्योत्यते । एवंभूतम् – स्वतः सर्वज्ञं त्वामपि विप्रलब्धुमुद्यतमित्यभिप्रायः । धरणिधरेति संबुद्धिः सर्वलोकहितैषिण्या सर्वंसहया क्षमया युक्तस्त्वमिति सूचयति । अत्र वसुन्धरोद्धरणनिदर्शनेन स्वात्मसमुद्धरणार्हत्वमपि प्रकाश्यते । उक्तं हि भगवच्छास्त्रे – ‘नमः सकलकल्याणदायिने चक्रपाणये । विषयार्णवमग्नानां समुद्धरणहेतवे ॥’ इति । मे – अन्यैश्शिक्षयितुमशक्यस्येति भावः । यथोच्यते ‘एकः शास्ता न द्वितीयोऽस्ति’ (भार.आश्व. २७१ अ.), ‘शास्ता विष्णुरशेषस्य’ (वि.पु. १.१७.२०) इति । शिक्षय – छद्मरहितं सम्यगिच्छायुक्तं कुरुष्वेत्यर्थः । ‘शङ्खप्रान्तेन गोविन्दस्तं पस्पर्श कृताञ्जलिम् । उत्तानपादतनयं मुनिवर्यं जगत्पतिः ॥ ततः प्रसन्नवदनस्तत्क्षणान्नृपनन्दनः । तुष्टाव प्रणतो भूत्वा भूतधातारमच्युतम् ॥’ (वि.पु.) इति न्याय इहानुसन्धेयः ॥ ५९ ॥
-
-एवं स्वचेतश्शिक्षणेऽन्यानपि सामान्यतो विशेषतश्च बहुविधान् हेतूनाह –
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पिता त्वं माता तं दयिततनयस्त्वं प्रियसुहृत् त्वमेव त्वं मित्रं गुरुरसि गतिश्चासि जगताम् ।  
-त्वदीयस्त्वद्भृत्यस्तव परिजनस्त्वद्गतिरहं प्रपन्नश्चैवं सत्यहमपि तवैवास्मि हि भरः ॥ ६० ॥
+पिता त्वं, माता तं, दयित-तनयस् त्वं, प्रिय-सुहृत्  
+त्वम् एव, त्वं मित्रं, गुरुर् असि, गतिश् चासि जगताम् ।  
+त्वदीयस् त्वद्-भृत्यस्, तव परिजनस्, त्वद्-गतिर् अहं  
+प्रपन्नश्, चैवं **सत्य्** अहम् अपि **तवैवास्मि** हि भरः ॥ ६० ॥
 </details>
+
+<details><summary>English</summary>
+
+For all the worlds, You alone are the father, mother, the beloved son, the dear friend, the confidant, the preceptor and the sole refuge. I am Yours, Your servant, Your attendant and Your protectee who has sought Your refuge. The responsibility for my welfare rests solely on You.
+
+In the previous sloka, Alavandar had said that he had composed the text which was "chadma stuti", that is, it had not come from the heart. That being the case, the Lord may well ask why he should take to heart the pleadings of Alavandar which had not come from his heart. Alavandar replies in this sloka that the relationship between the two of them cannot be pushed aside. The Lord is the father, the mother, the son, the friend, the confidant and the sole refuge. He (the hymnologist) is the servant, the attendant and the "prapanna" who has sought the Lord as the sole refuge. Hence the Lord has to save him ("bharah asmi hi".) In this connection, one may recall sloka (5). While paying obeisance to the effulgent feet of Nammalwar, Alavandar had said that the feet constitute to all Vaishnavites at all times "..the aggregate of all worldly relations, such as mother, father, wife, sons, daughters and wealth in general".
+
+In the sloka, two words are used which apparently look similar - "priya suhrut" and "mitram". We have translated them as confidant and a friend. There is a subtle difference between the two. A friend is one where the relationship is on a reciprocal basis while a confidant is one in whom we confide, a person who works for and helps one, without expecting any thing in return.
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2881,18 +2908,31 @@ There are two adjectives used to address the Lord - "dayasindho" and "vatsalya j
 
 <details><summary>वेङ्कटनाथार्यः</summary>
 
+एवं स्वचेतश्शिक्षणेऽन्यानपि सामान्यतो विशेषतश्च बहुविधान् हेतूनाह –
 पितेति ॥ पिता त्वम् – उत्पादकस्त्वं हितप्रवर्तकश्च । माता त्वम् – सा हि पुत्रार्थं भूयांसि कर्माण्यारभमाणा प्रियप्रवर्तनशीला च, तादृशस्त्वम् । सर्वाधिकप्रीतिविषयतया निरयनिस्तारकतया प्राप्तावसरेषु रक्षकतया च दयिततनयस्त्वम् । प्रियश्चासौ सुहृच्चेति प्रियसुहृत् – निरतिशयानन्दस्वरूपत्वं नित्यहितैषित्वं च अत्र विवक्षितम् । उक्तसर्वप्रकारविशिष्टस्त्वदन्यो नास्तीति व्यञ्जनार्थम् एवकारः सर्वत्र योज्यः । ‘निवासः शरणं सुहृत्’ इति सुबालोपनिषदि (६ खण्डे) गीतोपनिषदि (९.१८) च अधीतम् । त्वं मित्रम् – हितः कार्येषु सवयाः सर्वरहस्ययोग्यश्च मित्रमित्युच्यते, त्वमपि तादृशः; गुहधनञ्जयगोपालादिषु तथात्वव्यक्तिः । उच्यते च – ‘मित्रमौपयिकं कर्तुम्’ (रामा.सुन्द.), ‘तेन मैत्री भवतु ते’ (रामा.सुन्द. २१.२०), ‘अहो! भाग्यमहो! भाग्यं नन्दगोपव्रजौकसाम् । यन्मित्रं परमानन्दं पूर्णं ब्रह्म सनातनम्’ इति । गुरुरसि – सर्वेषां यथाधिकारं ‘मन्मना भव मद्भक्तः’ (गीता १८.६५), ‘मामेकं शरणं व्रज’ (गीता. १८.६६) इत्यादिभिस्तत्त्वहितपुरुषार्थोपदेष्टा, तत एव सर्वाज्ञाननिवर्तकश्च । तथा च निरुच्यते, ‘गुशब्दस्त्वन्धकारस्स्यात् रुशब्दस्तन्निरोधकः । अन्धकारनिरोधित्वात् गुरुरित्यभिधीयते ॥’ इति । गतिश्चासि – उपायः प्राप्यश्चासि । श्रूयते हि ‘अमृतस्यैष सेतुः’ (मुण्डके २.२.५) इति, ‘यमेवैष वृणुते तेन लभ्यः’ (कठ. १.२.२३) इति च । जगतामित्यनेन ‘पिताऽहमस्य जगतो माता धाता पितामहः’ (गीता. ९.१७), ‘भूतानां योऽव्ययः पिता’ (सहस्रनामाध्याये), ‘चराचरगुरुं हरिम्’, ‘ममाप्यखिललोकानां गुरुर्नारायणो गुरुः’ (वि.पु. ५.१.१४), ‘तमिमं सर्वसंपन्नमाचार्यं पितरं गुरुम् । अर्च्यमर्चितुमिच्छामः सर्वे संमन्तुमर्हथ ॥’ (भार.सभा. ४१.३), ‘पिताऽसि लोकस्य चराचरस्य त्वमस्य पूज्यश्च गुरुर्गरीयान्’ (गीता. ११.४३) इत्यादिषूक्तं देवदानवादिसर्वसाधारण्यं व्यज्यते । एतत्सर्वं पूर्वम् (श्लो. २२,५८) शरण्यबन्धुशब्दाभ्यां सङ्गृहीतस्य प्रपञ्चनम् ।
 
 अथ त्वदीय इत्यादिना स्वगतान् हेतूनाह । त्वच्छेषत्वप्रतिबोधवानहमस्मीति भावः । त्वद्भृत्यः – त्वयैव भरणीयः, पोषणीयश्च । तव परिजनः – स्वतः त्वत्सेवार्हः स्तुतिरूपसेवायां त्वया नियुक्तश्च । त्वद्गतिः – त्वदेकप्रयोजनः । अहम् – ईदृशीमवस्थां त्वयैव प्रापित इति भावः । प्रपन्नश्च ‘त्वत्पादमूलं शरणं प्रपद्ये’ (श्लो. २२) इति यथाहृदयमहृदयं वा भावितभरन्यासः । एतेन – ‘सोऽहं त्वां शरणमपारमप्रमेयं संप्राप्तः परमपदं यतो न किञ्चित्’ (वि.पु. ५.२३.४७), ‘अहमात्मा न देहोऽस्मि विष्णुशेषोऽपरिग्रहः । तमेव शरणं प्राप्तस्तत्कैङ्कर्यचिकर्षिया ॥’ इत्यादिष्विव स्वनिष्ठा विज्ञाप्यते । भगवत्प्रपन्नस्य चैवं विशेष उच्यते – ‘देवर्षिभूतात्मनृणां पितॄणां न किङ्करो नायमृणी च राजन् । सर्वात्मना यः शरणं शरण्यं नारायणं लोकगुरुं प्रपन्नः ॥’ (भगवते ११.५.४१) इति । त्वद्गतिरहं, प्रपन्नश्चेत्युभाभ्यामनन्यप्रयोजनतया भगवन्तमाश्रितानां नरकादिनिवृत्तिश्च सूच्यते । श्रूयते हि रहस्याम्नाये – ‘तत्किममी यमविषयं गच्छन्ति यमो वैतान् यातयतीति, न भो इत्याह, न खलु भागवता यमविषयं गच्छन्ति, किं तर्हि? हहैवैषां केचिदुपक्लेशा भवन्ति, खञ्जा भवन्ति, काणा भवन्ति’ इत्यारभ्य ‘तानुपक्लेशान् सहेरन्’ इति । वैष्णवे च पुराणे (३.७.१४) ‘स्वपुरुषमभिवीक्ष्य पाशहस्तं वदति यमः किल तस्य कर्णमूले । परिहर मधुसूदनप्रपन्नान् प्रभुरहमन्यनृणां न वैष्णवानाम् ॥’ इति । वामने च (९४.४३) ‘देवं शार्ङ्गधरं विष्णुं ये प्रपन्नाः परायणम् । न तेषां यमसालोक्यं न च ते नरकौकसः ॥’ इति । श्रीनारसिंहे ‘पुण्डरीकाक्ष! देवेश! नरसिंह! त्रिविक्रम! । त्वामहं शरणं प्राप्त इति यस्तं समुद्धर ॥’ इति । तथाऽन्यत्र ‘यस्मिन् कस्मिन् कुले जाता यत्र कुत्र निवासिनः । वासुदेवरता नित्यं यमलोकं न यान्ति ते ॥’ इति । एवं सति – त्वयि भरस्वीकारार्हे, मयि च भरन्यासवाक्यप्रयोक्तरि स्थिते सतीत्याशयः । अहमपीत्यनेन पूर्वोक्तसर्वदोषाकरोऽपि छद्मस्तुतिकर्ताऽपीति सूच्यते । यद्वा, यथा प्राचीनाः पूर्णप्रपत्तिनिष्ठाः त्वया भरत्वेन स्वीकृताः – तथाऽहमपीति भावः । तव – प्रस्तुतप्रभूतभरस्वीकारे प्राप्तस्य समर्थस्य च । न ह्येतादृशं भरं सोढुमहं वाऽन्यो वा त्वद्व्यतिरिक्तः कश्चित् समर्थ इत्यवधारणाभिप्रायः । हिशब्देन ‘मनीषिणो हि ये केचिद् यतयो मोक्षकाङ्क्षिणः । तेषां वै छिन्नतृष्णानां योगक्षेमवहो हरिः ॥’, ‘स्थिते मनसि’ (वराहचरमश्लोकः) इत्यादिप्रमाणप्रसिद्धिर्द्योत्यते; स्वाङ्गीकारस्य सिद्धवत्कारं वा व्यनक्ति । भरः – ‘रक्षितव्यास्त्वया राजन्! गर्भभूतास्तपोधनाः’ (राम.आर. १.२१) इति महर्षिवाक्यप्रकारेण मद्व्यापारनिरपेक्षं रक्षणीय इति भावः ॥ ६० ॥
-
-‘अहमपि तवैवास्मि हि भरः’ (श्लो. ६०) इत्युक्ते महायोगिकुलप्रसूतत्वमपि हेतुरस्तीत्यभिप्रायेणाह –
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जनित्वाऽहं वंशे महति जगति ख्यातयशसां शुचीनां युक्तानां गुणपुरुषतत्त्वस्थितिविदाम् ।  
-निसर्गादेव त्वच्चरणकमलैकान्तमनसाम् अधोऽधः पापात्मा शरणद! निमज्जामि तमसि ॥ ६१ ॥
+**जनित्वा** ऽहं वंशे महति जगति ख्यात-यशसां  
+शुचीनां युक्तानां गुण-पुरुष-तत्त्व-स्थिति-विदाम् ।  
+निसर्गाद् एव त्वच्-चरण-कमलैकान्त-मनसाम्  
+अधोऽधः पापात्मा शरणद! **निमज्जामि** तमसि ॥ ६१ ॥
 </details>
+
+<details><summary>English</summary>
+
+O refuge of all, though born in the exalted lineage of those of world renown, who are pure and ever abiding of You, who know the real nature of matter and spirit, who by their very nature have their minds solely devoted to Your lotus feet, I, being evil minded, am sinking deeper and deeper into the darkness of ignorance.
+
+Thinking that the Lord may say that Alavandar is born in a good family, with a good lineage and that this is itself sufficient to attain the Lord, why then does he have to depend on the Lord? Alavandar replies that though he has an excellent lineage, he is a sinner. The poet describes the lineage - those of world renown ("jagati khyata"), those who are pure ("suchinam"), those who cannot bear to be separated from the Lord ("yuktanam"), those who know the qualities of matter and spirit ("guna purusha tattvasthiti vidam") and those who naturally have their minds devoted to the lotus feet of the Lord ("tvat charana kamala ekanta manasaam"). But then, he is a sinner. He is sinking into the darkness of ignorance. Since he is sinking deeper and deeper, into the abyss of 'tamas' called ignorance, the Lord, by His mercy has to redeem him.
+
+Three descriptive phrases have been used to describe the worth of the lineage - those who are unable to bear separation from the Lord, those who know the difference between matter and spirit, and those who are devoted to the feet of the Lord. Alavandar thereby is referring to the Karma, Jnana and Bhakti Yoga knowledge of his ancestors.
+
+This prayer of Alavandar to save him from sinking into the abyss of ignorance (samsara) is similar to sloka (34) in Mukunda Mala. Says Kulasekhara: "O Supreme Lord, Bhagavan, You are the most compassionate. So, please show me Your favour and bestow Your mercy upon 87 this helpless soul. You alone can lift me from the ocean of samsara into which I am sinking. O Lord Hari, You are verily the Purushottama, the Supreme Person! (Sloka 34) 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2902,6 +2942,8 @@ There are two adjectives used to address the Lord - "dayasindho" and "vatsalya j
 
 <details><summary>वेङ्कटनाथार्यः</summary>
 
+‘अहमपि तवैवास्मि हि भरः’ (श्लो. ६०) इत्युक्ते  
+महा-योगि-कुल-प्रसूतत्वम् अपि हेतुर् अस्तीत्य् अभिप्रायेणाह –
 जनित्वेति ॥ यद्वा, योगिवंशप्रसूतेन त्वया कथमत्यन्ताकिञ्चनत्वं पुरस्कृत्य मय्येव भरन्यासः क्रियते? इत्यत्र प्रागुक्तम् (श्लो. २२) अकिञ्चनत्वमेवासमञ्जवदभिजनविरुद्धस्वभावतयाऽपि स्थापयति । जनित्वा – ‘एतद्धि दुर्लभतरं लोके जन्म यदीदृशम्’ (गीता. ६.४२) इत्युक्तदुर्लभतरं जन्म लब्ध्वाऽपीति भावः । अहमित्यनेनास्मिन् वंशेऽहमेक एव विपरीतवृत्त इति व्यज्यते । वंशे महति – अमानित्वाद्यात्मगुणसम्यग्वृत्तविद्यादिभूयिष्ठे महाभागवतकुले । ‘भूतले श्लाघ्यमेतद्धि कुलं विष्णुपरिग्रहम्’ इति च स्मर्यते । ईदृशवंशजन्मनः कृच्छ्रलभ्यत्वं वाराहे प्रोक्तं ‘वर्णाश्रमाचारपरः सप्तजन्मानि यो द्विजः । एकान्तसूर्यभक्तस्स्यात् स विप्रः सप्तजन्मसु ॥ ततस्तत्पुण्यमाहात्म्याद्रुद्रभक्तो भविष्यति । तथैव सप्त जन्मानि शिवभक्तिपरायणः ॥ महता तेन पुण्येन वैष्णवत्वं लभेत सः । विष्णुभक्तिपरस्तद्वत् सप्तजन्मानि मानवः ॥ एकान्तभगवद्याजी विप्रो भागवतान्वये । ततस्स लभते जन्म देवैरत्यन्तदुर्लभम् ॥’ इति । जगति ख्यातयशसां – ‘यद्वंशोऽधीत्य वेदान्’ इत्याद्युक्तप्रकारेणानुकूलप्रतिकूलरूपसर्वजनप्रसिद्धकीर्तिनाम् । शुचीनां – ‘योऽर्थे शुचिः स हि शुचिर्न मृद्वारिशुचिः शुचिः’, ‘क्षेत्रज्ञस्येश्वरज्ञानात् विशुद्धिः परमा मता’ (याज्ञवल्क्यस्मृतिः ३.३४) इत्यादिप्रसिद्धसर्वप्रकारशुद्धिमताम् । एतेन प्रयोजान्तरसङ्गरूपाशुद्धिराहित्यं चाभिप्रेतम् । युक्तानाम् – आत्मावलोकनक्षमाणाम् । यद्वा, त्वया सह नित्ययोगमाशंसमानानाम्, त्वदनुभवविश्लेषरहितानामिति वा । गुणपुरुषतत्त्वस्थितिविदाम् – त्रिगुणात्मकप्रकृतेः पुरुषस्य च तत्त्वस्थितिं याथात्म्यप्रतिष्ठां विजानताम् । यद्वा, प्रकृतिपुरुषतत्त्वयोः स्वरूपस्वभावादिव्यवस्थितिवेदिनामित्यर्थः । निसर्गादित्यादि । जन्मप्रभृतित्वच्चरणारविन्दनियतभक्तीनामित्यर्थः । ईदृशव्यतिरिक्तो हि निन्दितः पितृभिः ‘मा जनिष्ट’ (वराहपुराणे) इत्यादिना । अत्र युक्तानामित्यादिपदत्रयं स्वपूर्वेषु यथार्हं कर्मयोगज्ञानयोगभक्तियोगान्वयं वा विवक्षति । पापेष्वात्मा बुद्धिर्यस्य स पापात्मा । यद्वा पापमेव स्वरूपं स्वभावो यस्य सोऽहं पापात्मेति स्वनिन्दाप्रकर्षार्थ औपचारिकः प्रयोगः । स्मर्यते हि ‘मानुष्यं प्राप्य लोकेऽस्मिन् मूको वा वधिरोऽपि वा । नापक्रामति संसारात् स खलु ब्रह्महा भवेत् ॥’ इति । वाराहे च ‘लब्ध्वा तु मानुषं देहं पञ्चभूतसमन्वितम् । मामेव न प्रपद्यन्ते ततो दुःखतरं नु किम्? ॥’ इति । नारसिंहे च ‘शुभमिदमुपलभ्य मानुषत्वं सुकृतशतेन वृथेन्द्रियार्थहेतोः । रचयति, कुरुते न मोक्षमार्गम्, स दहति चन्दनमाशु भस्महेतोः ॥’ इति । अधिकारानुरूपमुपायं त्वमेव प्रयच्छे(च्छसी)त्यभिप्रायेण संबोधयति – शरणदेति । यद्वा, मत्स्वभावादसत्कल्पमपि महायोगिवंशजननं त्वत्स्वभावात् त्वमेव प्रस्तुतविषयमच्छिक्षणव्याजतया स्वीकृत्योपायपूर्तिं कुरुष्वेति भावः । तमस्यधोऽधो निमज्जामीत्यन्वयः । तमश्शब्द इह सम्यक्प्रकाशविरुद्धमज्ञानं विपरीतज्ञानं चाभिसन्धत्ते । तमो गुणमयी प्रकृतिर्वा । तमसः समुद्रस्थानीयत्वमभिप्रेत्य मज्जनशब्दः । एतेन स्वपरप्रकाशराहित्यं च सूच्यते । मद्वंश्यास्त्वदनुभवरसे निमज्जन्ति, अहं तु तमसि निमज्जामीति निर्वेदविशेषश्च । ‘महता पुण्यपण्येन क्रीतेयं कायनौस्त्वया । प्राप्तुं दुःखोदधेः पारं त्वर यावन्न भिद्यते ॥’ (वराहपुराणे) इति संसारतरणहेतुतया त्वद्दत्तेन शरीरेणैव संसारे निमज्जामीत्युक्तं भवति । अधोऽध इत्यनेन स्वेनान्यैश्च स्वस्याशक्योद्धरणत्वमभिप्रेतम् । निमज्जामीति वर्तमानव्यपदेशः पापवशात् तादृशस्य तमसोऽद्याप्यनुवृत्तिं द्योतयति । एतेन स्वयमुपायान्तरानर्हस्य मे त्वत्प्राप्त्यर्थं सर्वंसहे त्वयि भरन्यासश्छद्मस्तुतिनिबन्धोऽपि त्वयैव यथावस्थितः कार्य इति विज्ञापितं भवति ॥ ६१ ॥
 
 यदि सर्वशक्तिः परमकारुणिकस्त्वमकिञ्चनस्य प्रपत्तिवाक्यमुखरमुखस्य मम शिक्षणे रक्षणे च न प्रवर्तसे, तदा (दुस्तर) महत्तरविपरीतगुणगणभराक्रान्तोऽहं कथं संसारजलधिमुत्तीर्य त्वत्पादपरिचर्यां प्राप्नुयामिति प्रागुक्तकार्पण्यस्थेम्ने स्वदोषाद्भीतस्य शरण्यगुणैराश्वासनीयत्वं द्रढयितुं च ‘पापात्मा’ (श्लो. ६१) इति सङ्गृहीतमेव विस्तृणीते –
