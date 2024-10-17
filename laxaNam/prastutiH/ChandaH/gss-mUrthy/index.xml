@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;GSS Murthy on काव्ये विश्वासटिप्पन्यः</title>
+    <link>https://vishvAsa.github.io/kAvyam/laxaNam/prastutiH/ChandaH/gss-mUrthy/</link>
+    <description>Recent content in &#43;GSS Murthy on काव्ये विश्वासटिप्पन्यः</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/kAvyam/laxaNam/prastutiH/ChandaH/gss-mUrthy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer aided classification</title>
+      <link>https://vishvAsa.github.io/kAvyam/laxaNam/prastutiH/ChandaH/gss-mUrthy/computer-aided-classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/kAvyam/laxaNam/prastutiH/ChandaH/gss-mUrthy/computer-aided-classification/</guid>
+      <description>Computer-aided Classification of akṣaragaṇavṛttas on the bases of mātrāgaṇas: A new perspective 1:
+G S S Murthy2
+1.0 Introduction For investigating the rhythms characteristic of akṣara-gaṇa-vṛttas, the author developed a computer program that brings out the beat-structure of a given Metre. This paper shows how based on this beat-structure, it is possible to define akṣara-gaṇa-vṛttas in terms of mātrā-gaṇas leading to a re-classification of akṣara-gaṇa- vṛttas. This re-classification enables generating new Metres and recognizing the closeness of Metres, which may differ in number of akṣaras3 (syllables) in a pāda (quarter of a verse).</description>
+    </item>
+    
+    <item>
+      <title>Rhythms of vRtta</title>
+      <link>https://vishvAsa.github.io/kAvyam/laxaNam/prastutiH/ChandaH/gss-mUrthy/rhythms_of_vRtta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/kAvyam/laxaNam/prastutiH/ChandaH/gss-mUrthy/rhythms_of_vRtta/</guid>
+      <description>An Investigation of Rhythms Characterizing Sanskrit vṛtta-śloka-s.
+G S Srinivasa Murthy
+Abstract _The rhythmic essence of a set of Metres can be captured and encapsulated in what is called an Adjacency Table which generates not only the Metres on which the Table is based but also other recognized Metres as well as a large number of entirely new rhythmic Metres. Starting from clustering different Metres around a comparatively long common sequence of guru-s and laghu-s the paper proceeds to work out a small set of ‘rhythm-elements’ the stringing of which in different orders as per the Adjacency Table yields different Metres.</description>
+    </item>
+    
+  </channel>
+</rss>
