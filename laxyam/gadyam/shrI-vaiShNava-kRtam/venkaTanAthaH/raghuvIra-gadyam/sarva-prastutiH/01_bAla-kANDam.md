@@ -248,8 +248,6 @@ Swami Desikan celebrated with this Gadya portion, the heroism of the young boy R
 </details>
 
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रणाध्वर-धुर्य--भव्य-**दिव्यास्त्र-वृन्द--वन्दित** !  
