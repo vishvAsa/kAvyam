@@ -8,4 +8,4 @@ disablePathToLower = true
   githubEditMePathBase = "https://github.com/vishvAsa/kAvyam/edit/master/content/"
   contactLink = "https://github.com/vishvAsa/kAvyam/issues/new"
   env = "production"
-  disqusShortcode = "vvasuki-site"
+  # disqusShortcode = "vvasuki-site"
