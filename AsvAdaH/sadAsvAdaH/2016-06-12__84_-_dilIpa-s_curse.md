@@ -141,7 +141,9 @@ Vasiṣṭha then goes on to suggest that Dilīpa and his queen both tend to Nan
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 
@@ -162,7 +164,9 @@ This may leave some readers with a bad taste in their āsvāda for Surabhi. It i
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 

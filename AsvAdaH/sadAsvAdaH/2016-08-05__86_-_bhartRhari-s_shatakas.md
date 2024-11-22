@@ -95,7 +95,9 @@ The deer’s life is maybe a little romanticized, and tigers and hyenas are cons
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 
@@ -189,7 +191,9 @@ Any happiness beyond this is merely interest”
 
 We have translated ‘tattva-dṛṣṭi’ as ‘a sense of philosophy’. Literally, it is ‘an eye toward the Truth or the essential nature of things’. We think this essential nature is exactly what Adam Smith outlines.
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 
@@ -233,7 +237,9 @@ The limitations of looking into ‘pareṣāṃ cetāṃsi’ was particularly w
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 
@@ -277,7 +283,9 @@ This is one of the pristine joys of Sanskrit, where each word has so much though
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 

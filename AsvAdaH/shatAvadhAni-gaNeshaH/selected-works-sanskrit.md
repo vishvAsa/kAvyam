@@ -11,7 +11,7 @@ At the introductory level, it is good to listen to simple _stotra_s, _subhāṣi
 
 The works are mostly arranged in the increasing order of linguistic difficulty and at times, aesthetic sophistication.
 
-*             *             *
+* * *
 
 ### **Part I**
 
@@ -146,7 +146,7 @@ The works are mostly arranged in the increasing order of linguistic difficulty a
 - _Citra-naiṣadha_ (short poem)– Shankar Rajaraman
 - _Sītā-rāvaṇa-saṃvāda-jharī_ (short poem) – C Rama Shastri and Sitarama Shastri
 
-*             *             *
+* * *
 
 ### **Part II**
 

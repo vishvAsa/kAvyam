@@ -26,7 +26,7 @@ daśa-rūpakam
 
 **mad-ābhoga-ghana-dhvāno nīla-kaṇṭhasya tāṇḍave ||1||**
 
-**dhanikaḥ:** iha sad-ācāraṁ pramāṇayadbhir avighnena prakaraṇasya samāpty-artham iṣṭayoḥ prakṛtābhimata-devatayor namaskāraḥ kriyate śloka-dvayena | yasya kaṇṭhaḥ puṣkarāyate mṛdaṅgavad ācarati | madābhogena ghana-dhvānaḥ niviḍa-dhvaniḥ | nīlakaṇṭhasya śivasya tāṇḍave uddhate nṛtte tasmai gaṇeśāya namaḥ | atra khaṇḍa-śleṣākṣipyamāṇopamā-cchāyālaṅkāraḥ | nīlakaṇṭhasya mayūrasya tāṇḍave yathā megha-dhvaniḥ puṣkarāyate iti pratīteḥ ||1||
+**dhanikaḥ:** iha sad-ācāraṁ pramāṇayadbhir avighnena prakaraṇasya samāpty-artham iṣṭayoḥ prakṛtābhimata-devatayor namaskāraḥ kriyate śloka-dvayena | yasya kaṇṭhaḥ puṣkarāyate mṛdaṅgavad ācarati | madābhogena ghana-dhvānaḥ niviḍa-dhvaniḥ | nīlakaṇṭhasya śivasya tāṇḍave uddhate nṛtte tasmai gaṇeśāya namaḥ | atra khaṇḍa-śleṣākṣipyamāṇopamā-cchāyālaṅkāraḥ | nīlakaṇṭhasya mayūrasya tāṇḍave yathā megha-dhvaniḥ puṣkarāyate iti pratīteḥ||1||
 
 **bahurūpa-miśraḥ: **atha prāripsitasya prakaraṇasyāvighna-parisamāty-ādi-siddhaye vighnā-virājaṁ namaskaroti nikhila-budha-kula-mauli-mālā-maṇir muñja-rājādhirāra-vandita-caraṇa-yugalo grantha-kṛd dhanañjayaḥ | yathā ghanasya meghasya dhvāno nīla-kaṇṭhasya parameśvarasya tāṇḍave uddhata-nṛtye madābhogena mada-paripūrṇatayā mada-dhvāno niviḍa-dhvanir yat kaṇṭhaḥ puṣkarāyate mṛdaṅgavad ācarati tasmai nama iti | atra khaṇḍa-śleṣākṣipyamāṇopamā-cchāyālaṅkāraḥ ||1||
 
@@ -36,7 +36,7 @@ daśa-rūpakam
 
 **dhanikaḥ:** ekatra matsya-kūrmādi-pratimānām uddeśena, anyatrānukṛti-rūpa-nāṭakādinā yasya bhāvakāḥ dhyātāro rasikāś ca mādyanti hṛṣyanti tasmai viṣṇave’bhimatāya prakṛtāya bharatāya ca namaḥ ||2||
 
-**bahurūpa-miśraḥ: **atha rūpakāṇāṁ pratipādyatāṁ sūcayan nāṭya-veda-prayoktāraṁ bharatam abhimata-daivataṁ ca viṣṇuṁ namaskaroti | ekatra matsyādīnāṁ daśānāṁ rūpāṇām anukāreṇa pratimā-rūpeṇa anyatra nāṭakādīnāṁ daśa-rūpāṇāṁ rasāntarātmanā bhāvakā dhyātāro rasikāś ceti ||2||
+**bahurūpa-miśraḥ: **atha rūpakāṇāṁ pratipādyatāṁ sūcayan nāṭya-veda-prayoktāraṁ bharatam abhimata-daivataṁ ca viṣṇuṁ namaskaroti | ekatra matsyādīnāṁ daśānāṁ rūpāṇām anukāreṇa pratimā-rūpeṇa anyatra nāṭakādīnāṁ daśa-rūpāṇāṁ rasāntarātmanā bhāvakā dhyātāro rasikāś ceti||2||
 
 **kasyacid eva kadācid dayayā viṣayaṁ sarasvatī viduṣaḥ |**
 
@@ -1942,7 +1942,7 @@ aṅka-mukhāṅkāvasārayoḥ svabhāvād evāṅkābahirbhāvaḥ ity anusand
 
 **||1||**
 
-**dhanikaḥ : **anyāny api nāṭya-dharmāṇi prathama-kalpādīni kaiścid udāhṛtāni | teṣām abhāratīyatvān nāma-mālā-prasiddhānāṁ keṣāṁcid deśa-bhāṣātmakatvān nāṭya-dharmatvābhāvāl lakṣaṇaṁ noktam ity upasaṁharati | vastu-vibheda-jātaṁ vastu varṇanīyam, tasya vibheda-jātaṁ nānā-bhedāḥ | rāmāyaṇādi bṛhatkathāṁ ca guṇāḍhya-nirmitāṁ vibhāvya ālocya, tad-anu etad-uttaram | netr iti netā vakṣyamāṇa-lakṣaṇaḥ | rasāś ca teṣām ānuguṇyāc citrāṁ citra-rūpām | kathām ākhyāyikām | cārūṇi yāni vacāṁsi teṣāṁ prapañcair vistārair āsūtrayed anugrathayet | tatra bṛhat-kathā-mūlaṁ mudrā-rākṣasam—
+**dhanikaḥ: **anyāny api nāṭya-dharmāṇi prathama-kalpādīni kaiścid udāhṛtāni | teṣām abhāratīyatvān nāma-mālā-prasiddhānāṁ keṣāṁcid deśa-bhāṣātmakatvān nāṭya-dharmatvābhāvāl lakṣaṇaṁ noktam ity upasaṁharati | vastu-vibheda-jātaṁ vastu varṇanīyam, tasya vibheda-jātaṁ nānā-bhedāḥ | rāmāyaṇādi bṛhatkathāṁ ca guṇāḍhya-nirmitāṁ vibhāvya ālocya, tad-anu etad-uttaram | netr iti netā vakṣyamāṇa-lakṣaṇaḥ | rasāś ca teṣām ānuguṇyāc citrāṁ citra-rūpām | kathām ākhyāyikām | cārūṇi yāni vacāṁsi teṣāṁ prapañcair vistārair āsūtrayed anugrathayet | tatra bṛhat-kathā-mūlaṁ mudrā-rākṣasam—
 
 
     cāṇakya-nāmnā trenātha śakaṭāla-gṛhe rahaḥ
@@ -2131,7 +2131,7 @@ spaṣṭamanyat ||1-2||
 
 **niścinto dhīra-lalitaḥ kalāsaktaḥ sukhī mṛduḥ ||3||**
 
-**dhanikaḥ : **netṛviśeṣānāha—**bhedaiś caturdhā** iti | yathoddeśaṁ lakṣaṇam āha—niścinta iti | sacivādi-vihita-yoga-kṣematvāc cintā-rahitaḥ | ata eva gītādi-kalāviṣṭo bhoga-pravaṇaś ca śṛṅgāra-pradhānatvāc ca sukumāra-sattvācāro mṛdur iti lalitaḥ |
+**dhanikaḥ: **netṛviśeṣānāha—**bhedaiś caturdhā** iti | yathoddeśaṁ lakṣaṇam āha—niścinta iti | sacivādi-vihita-yoga-kṣematvāc cintā-rahitaḥ | ata eva gītādi-kalāviṣṭo bhoga-pravaṇaś ca śṛṅgāra-pradhānatvāc ca sukumāra-sattvācāro mṛdur iti lalitaḥ|
 
 yathā ratnāvalyāṁ (1.9)—
 
@@ -2150,7 +2150,7 @@ yathā ratnāvalyāṁ (1.9)—
 
 
 
-**bahuguṇa-miśraḥ :** lalitaḥ śāntaḥ udātta uddhata iti caturdhā bhidyate | tatra dhīra-lalitaṁ lakṣayati—niścinta iti ||3||
+**bahuguṇa-miśraḥ:** lalitaḥ śāntaḥ udātta uddhata iti caturdhā bhidyate | tatra dhīra-lalitaṁ lakṣayati—niścinta iti ||3||
 
 **sāmānya-guṇa-yuktas tu dhīra-śānto dvijādikaḥ |4a|**
 
@@ -3400,7 +3400,7 @@ atha **svābhāvikā **daśa ||37a||
 
     _avalokitaṁ sa-tṛṣṇaṁ sa-vibhramaṁ yathā sapatnībhiḥ_ ||]
 
-yathā vā, tenehitaṁ vadati yāti tathā yathāsau  ity-ādi ||37b||
+yathā vā, tenehitaṁ vadati yāti tathā yathāsau ity-ādi ||37b||
 
 **tātkāliko viṣeṣas tu vilāso’ṅga-kriyoktiṣu |38a|**
 

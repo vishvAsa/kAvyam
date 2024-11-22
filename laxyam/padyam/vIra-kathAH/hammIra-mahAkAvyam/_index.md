@@ -28,7 +28,9 @@ AUTHOR OF
 “A TRANSLATION INTO MARATHI OF SHAKESPEARE'S ‘TEMPEST’”;  
 “NOTES ON THREE MALWA INSURIPTIONS”; &c., &c.
 
-------------------------------------------------------------------------
+
+_________
+
 
 
 
@@ -38,7 +40,9 @@ PRINTED AT THE
 
 EDUCATION SOCIETY'S PRESS, BYCULLA.
 
-------------------------------------------------------------------------
+
+_________
+
 
 I879  
 (Copyright reserved.)  
@@ -75,7 +79,9 @@ THE HAMMÎRA MAHÂKÂVYA
 
 OF NAYACHANDRA SÚRI.
 
-------------------------------------------------------------------------
+
+_________
+
 
 Dr. Büblor, in his Introduction to the Vikramanka Charitra, (p. 2),
 mentions the Hammiramardana or “The destruction of Hammira,” as an
@@ -803,7 +809,9 @@ she was possessed with a desire to bathe herself in the blood of the
 Muslims, Her husband satisfied her wishes, and atlast in an auspicious
 hour, she was delivered of a
 
-------------------------------------------------------------------------
+
+_________
+
 
 "Forishta says "Khulars,” a Mongel tribe, who also seem to have invaded
 India at this time
@@ -836,7 +844,9 @@ Hammira advanced upon Dhara. Here was reigning a Raja Bhoja, who, like
 his famous namesake, was the friend of poets. After defeating Bhoja, the
 army arrived at Ujjain, where the elephants,
 
-------------------------------------------------------------------------
+
+_________
+
 
 The text runs as follows:- ततश्च , संवक्षधयन्हिचन्हिभूहायने
 माघवलक्षपक्षे । पौष्यां तिथैो हेलिदिने सपुष्ये ज्योप्तिर्विदादिष्टबले
@@ -869,7 +879,9 @@ great officers of state, headed by Dharmasingh, came out in procession
 to receive their victorious monarch, The streets were lined by loving
 subjects eager to get a glimpse of their king.
 
-------------------------------------------------------------------------
+
+_________
+
 
 “There is no town of this name that Hammira could have ravaged on his
 way to Sakambhari. There is such a town as Medata on the borders of
@@ -904,7 +916,9 @@ completed the Munivrata, was unable to take the field in person, He
 therefore despatchéd his generals, Bhima singh and Dharma singh, to
 drive away the invaders. The king's army came
 
-------------------------------------------------------------------------
+
+_________
+
 
 *Malik Maizou'd-din Ulugh Khān, called “Aluf Khan" by Briggs in his*
 
@@ -1139,7 +1153,9 @@ had been drawn into the ranks of the inwaders by the love of plunder.
 Others, again, only came to be spectators of the desperate fighting that
 was expected to
 
-------------------------------------------------------------------------
+
+_________
+
 
 1\. I spell those names as they are in the original.
 
@@ -1246,7 +1262,9 @@ Khan killed by a random shot in one of the engagements¹, and the monsoon
 having set in, Ulugh Khan was obliged to stop all further operations. He
 retired in some distance from,
 
-------------------------------------------------------------------------
+
+_________
+
 
 1\. Elliot and Dowson's History, vol. III, p. 172—ED. .
 
@@ -1346,7 +1364,9 @@ make his game doubly sure, took Ratipala into his *harem* and there left
 him to eat and drink in private with his youngest sister¹.” This done,
 Ratipala left the Muhammadan camp and came back into tho fort.
 
-------------------------------------------------------------------------
+
+_________
+
 
 "1. At first sight this statement might seem to be a fancy of the author
 intended to blacken the character of the victor. But we read that such
@@ -1384,7 +1404,9 @@ which he might expect to be visited by the king for this purpose,
 'Having done this, Ratipala quietly waited to see the issue of the
 mischief ho had so industriously sown,
 
-------------------------------------------------------------------------
+
+_________
+
 
 the doer of his wife's room is a sign well understood by a husband in
 this tribe, at sight of which he immediately takes care to retire from
@@ -1512,7 +1534,9 @@ effert, his head from his body with his own hands, and so terminaled his
 existence. Thus fell Hammira, the last of the Chohans. This sad event
 happened in the 18th year of his reign, in the month of Sravana.
 
-------------------------------------------------------------------------
+
+_________
+
 
 *the Tarkhi'Alfio of Amir Khushr gives the date as 3rd Zt.1 Ka'da,
 A.,II, 70 (July 1301 A.D.); the siege began in Rajab, four months
@@ -1521,7 +1545,9 @@ previously,–Elliot and Dowson's History, vol. III, pp. 76, 179, 540, *
 **श्रीहम्मीरमहाकाव्यम्**  
 **प्रथमः सर्गः**
 
-------------------------------------------------------------------------
+
+_________
+
 
 
 सदाचिदानंदमहोदयैक-हेतुं परं ज्योतिरूपास्महे तत् ।   
@@ -2168,7 +2194,9 @@ previously,–Elliot and Dowson's History, vol. III, pp. 76, 179, 540, *
 
 
 
-------------------------------------------------------------------------
+
+_________
+
 
 
 
@@ -2503,7 +2531,9 @@ previously,–Elliot and Dowson's History, vol. III, pp. 76, 179, 540, *
 
 
 
-------------------------------------------------------------------------
+
+_________
+
 
 
 
@@ -3329,7 +3359,9 @@ previously,–Elliot and Dowson's History, vol. III, pp. 76, 179, 540, *
 इति श्रीजयसिंहसूरिशिष्यमहाकविश्रीनयचंद्रसूरिविरचिते श्रीहम्मीरमहाकाव्ये
 वीरांके वसंतवर्णनोनाम पंचमः सर्गः समाप्तः॥
 
-------------------------------------------------------------------------
+
+_________
+
 
 **अथ षष्ठः सर्गः**
 
@@ -3521,7 +3553,9 @@ previously,–Elliot and Dowson's History, vol. III, pp. 76, 179, 540, *
 इति श्रीजयसिंहसूरिशिष्यमहाकविश्रीनयचंद्रसूरिविरचिते  
 श्रीहम्मीरमहाकाव्ये वीरांके जलक्रीडावर्णनोनाम षष्ठः सर्गः समाप्तः ॥
 
-------------------------------------------------------------------------
+
+_________
+
 
 
 
@@ -3591,7 +3625,9 @@ previously,–Elliot and Dowson's History, vol. III, pp. 76, 179, 540, *
 अजयदर्धवपुर्धृतवल्लभं पशुपतिं प्रणयातिशयाच्छशी ॥२३॥  
 सरसिजानि विहाय हरिप्रिं-----------------।
 
-------------------------------------------------------------------------
+
+_________
+
 
 कटाक्षनिरीक्षणलक्षिता ॥२४॥
 
@@ -3830,7 +3866,9 @@ previously,–Elliot and Dowson's History, vol. III, pp. 76, 179, 540, *
 इति श्रीजयसिंहसूरिशिष्यमहाकविश्रीनयचंद्रसूरिविरचिते महाकाव्ये  
 हम्मीरचरिते वीरांको सुरतवर्णने शृंगारसंजीवनो नाम सप्तमः सर्गः समाप्तः ।
 
-------------------------------------------------------------------------
+
+_________
+
 
 अथाष्टमः सर्गः ।
 
@@ -4265,7 +4303,9 @@ previously,–Elliot and Dowson's History, vol. III, pp. 76, 179, 540, *
 श्रीहम्मीरमहा-काव्ये वीरांके श्रीहम्मीरदेवराज्याप्तिवर्णनो नामाष्टमः
 सर्गः समाप्तः ॥
 
-------------------------------------------------------------------------
+
+_________
+
 
 **अथ नवमः सर्गः**
 
@@ -4924,7 +4964,9 @@ previously,–Elliot and Dowson's History, vol. III, pp. 76, 179, 540, *
 वीरांके हम्मीरदेवदिग्विजयवर्णनोनाम नवमः सर्गः ॥
 
 
-------------------------------------------------------------------------
+
+_________
+
 
 
 

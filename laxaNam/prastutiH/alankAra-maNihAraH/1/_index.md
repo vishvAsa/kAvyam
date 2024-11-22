@@ -26,12 +26,16 @@ Pandit, Government Oriental Library, Mysore
 
 
 
-------------------------------------------------------------------------
+
+_________
+
 
 Published under the authority of the government of
 **His Highness the Maharaja of Mysore**
 
-------------------------------------------------------------------------
+
+_________
+
 
 
 

@@ -20,7 +20,9 @@ title = "02 उपोद्घातः"
 
 PREFACE.
 
-------------------------------------------------------------------------
+
+_________
+
 
 The Meghasandesa along with the commentary Pradipa is now placed before
 the public for the first time. It is a beautiful and dignified

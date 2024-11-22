@@ -403,7 +403,9 @@ Moths fly into flames compulsively, and Vāli’s power seemed to turn his enemi
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 
@@ -415,7 +417,9 @@ On reviewing the available evidence, we can be quite confident that the belief i
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 
@@ -427,7 +431,9 @@ We will simply note that if Rāma was a man of feeling, just listening to this l
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 

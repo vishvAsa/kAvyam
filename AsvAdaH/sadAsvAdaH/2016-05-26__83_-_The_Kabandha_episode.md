@@ -231,7 +231,9 @@ Rāma asks Kabandha if he knows anything of Sīta’s abduction. Kabandha has a 
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 
@@ -243,7 +245,9 @@ Before we go further, we request you to ponder for a minute if you see anything 
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 
@@ -271,7 +275,9 @@ We can see many of Prof. Haidt’s insights apply. There is nothing supernatural
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 

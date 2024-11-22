@@ -84,7 +84,9 @@ All three then are combined to a conclusion: “After establishing the base and 
 **  
 **
 
-------------------------------------------------------------------------
+
+_________
+
 
 **  
 **

@@ -256,7 +256,9 @@ He goes on to explain that he is caught in a bind: he recognizes the hazard invo
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 
@@ -276,7 +278,9 @@ The participants’ thinking serves two functions. One is to understand the worl
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 

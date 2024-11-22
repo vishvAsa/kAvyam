@@ -6,7 +6,9 @@ title = "01 FOREWORD"
 
 **FOREWORD.**
 
-------------------------------------------------------------------------
+
+_________
+
 
 I have perused Pandit R. V. Krishamachariar's *Harshacharita Laghu
 Sangraha* which is a summary in Bana's words, of his brilliant
@@ -46,5 +48,7 @@ PRESIDENCY COLLEGE, MADRAS.
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 

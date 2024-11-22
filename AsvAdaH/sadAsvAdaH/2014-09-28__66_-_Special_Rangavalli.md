@@ -848,7 +848,9 @@ her single-minded aim to please Him,
 
 always gives me peace."
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 
@@ -856,7 +858,9 @@ What more can we say about reading this masterpiece, other than tallying it as a
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 
@@ -916,7 +920,9 @@ Per Nietzsche, the essence of any group of people was not what they believed, bu
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 
@@ -952,7 +958,9 @@ that is the only confirmation, my friend!”
 
   
 
-------------------------------------------------------------------------
+
+_________
+
 
   
 
