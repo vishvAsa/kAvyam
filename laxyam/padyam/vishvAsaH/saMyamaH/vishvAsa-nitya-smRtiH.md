@@ -68,6 +68,8 @@ Wild, but not savage.
 "उच्छृङ्खलोऽपि न व्यालो रूक्षो ऽपि न च राक्षसः।" इत्यत्र शब्दचितौ शशिसुहासौ साहाय्यम् अकुरुताम्।
 </details>
 
+<div class="js_include" url="/kAvyam/laxyam/padyam/vishvAsaH/saMyamaH/bhArgava-mantraH" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+
 
 ## लोके वृत्तिः
 स्वप्न-साम्येन बन्धुत्वं  
