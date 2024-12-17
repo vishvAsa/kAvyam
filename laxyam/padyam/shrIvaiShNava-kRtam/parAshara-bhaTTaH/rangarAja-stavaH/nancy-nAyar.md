@@ -3409,7 +3409,7 @@ Badrinārāyaṇa and Naimisa
 at Śrīmaddvärka, Prayag, Mathura, and Ayodhya, and at Gaya, Puskara and Salagrāmagiri. 
 
 314 
-NOTES 
+## NOTES 
 Śriranganatha Stotra 
 1 For the significance of the placement of the hands of the 
 Lord at Srirangam, see SRRS I, v. 106. 
@@ -3437,7 +3437,7 @@ Gaya is located on the Phalguni river in present-day Bihar, and it contains a nu
 Puskara is located in present-day Rajasthan, about eight miles from Ajmer. Along with Añjanagiri and Salagrāma- giri, it is regarded as a svayamvyaktha -sthala, that is, a place holy from the beginning of time. The ancient shrine is in honour of Sri Venugopala, and the sanctity of the place is said to be described in Rāmāyaṇa and Mahābhārata. See Gopalan 1972:137-39. 
 Sālagrāmagiri, located in present-day Nepal, is sixty miles west of Kathmandu on the banks of the Gandaki River. See Gopalan 1972:85-86. 
 
-Glossary of Sanskrit Words Names and Epithets 
+## Glossary of Sanskrit Words Names and Epithets 
 A 
 acit 
 Acyuta 
@@ -4075,8 +4075,8 @@ an important Śrīvaiṣṇava theologian and poet, and Rāmānuja's immediate p
 an important sacred river of northern India which flows through Vraja, the district in which Kṛṣṇa spent His infancy and youth 
 the foster-mother of Lord Kṛṣṇa 
 
-Select Bibliography 
-1. Primary Sources 
+## Select Bibliography 
+### 1. Primary Sources 
 a. The Writings of Kūresa and Parāśara Bhattar 
 Kūresa. Atimāņuṣa Stava. In Stotramālā, edited by P.B. Anṇan- 
 karācāriyar. Kāñcīpuram: Granthamālākāryalayaḥ, 1969. Pp. 22-26. 
