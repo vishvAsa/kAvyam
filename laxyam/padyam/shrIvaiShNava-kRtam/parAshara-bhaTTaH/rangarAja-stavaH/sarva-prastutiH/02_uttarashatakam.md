@@ -1374,6 +1374,13 @@ Taking this into consideration, O, Lord of Śrīraṅgam,
 make me Thy burden or responsibility" 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अनेन द्विर् भरसमर्पणं कृतं वेति प्रश्न उदेति।  
+नेति लक्ष्मीनरसिंहार्यः - सकृद् एव कस्यचिद् अपि वस्तुनः समर्पणार्हत्वात्।  
+तेनोपदेशपरोऽयं श्लोक इति। 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
