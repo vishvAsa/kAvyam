@@ -1348,21 +1348,21 @@ title = "०२ उत्तरशतकम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तव भरोऽहम् **अकारिषि** धार्मिकैश्,  
-"शरणम्" इत्य् अपि वाचम् **उदैरिरम्** ।  
++++(प्रायः शैशवय् आपदि)+++ तव भरोऽहम् **अकारिषि** धार्मिकैश्,  
++++(तद् अविज्ञाय पश्चात् स्वतः)+++ "शरणम्" इत्य् अपि वाचम् **उदैरिरम्** ।  
 इति स **साक्षिकयन्न्** इदम् अद्य मां  
 **कुरु** भरं तव रङ्ग-धुरन्-धर! ॥ १०२ ॥
 </details>
 
 <details><summary>English</summary>
 
-102 
-I was made Your burden 
-by the people of the dharma. 
-I uttered the word 
-"refuge" (saraṇam). 
-Regarding this as my witness, make me Your burden right now, O Bearer of the burden [of the Universe] 
-[Who dwells] in [Śri]rangam! 
+102  
+I was made Your burden  
+by the people of the dharma.  
+I uttered the word   
+"refuge" (saraṇam).   
+Regarding this as my witness, make me Your burden right now, O Bearer of the burden [of the Universe]  
+[Who dwells] in [Śri]rangam!  
 </details>
 
 
@@ -1376,9 +1376,13 @@ make me Thy burden or responsibility"
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-अनेन द्विर् भरसमर्पणं कृतं वेति प्रश्न उदेति।  
-नेति लक्ष्मीनरसिंहार्यः - सकृद् एव कस्यचिद् अपि वस्तुनः समर्पणार्हत्वात्।  
-तेनोपदेशपरोऽयं श्लोक इति। 
+अनेन द्विर् भर-समर्पणं कृतं वेति प्रश्न उदेति।  
+नेति बुधाः - सकृद् एव कस्यचिद् अपि वस्तुनः समर्पणार्हत्वात् (कन्यादानादिवत्)।  
+तेनोपदेशपरोऽयं श्लोक इति परिहरन्ति।  
+किञ्चोपदेशायालीकम् उक्तम् इति न भावनीयम्।  
+अतः, द्वयम् अपि जातम् - शैशवय् आपद्य् आचार्यैः, पश्चाद् तद्-अस्मरणेन स्वतो भरः समर्पित इति परिहारो रोचतेतराम्।  
+अनेन भर-समर्पणे ऽधिकार-क्रमस्यापि व्यभिचारो नास्ति -  
+शिशोर् अस्त्येवाचार्य-निष्ठायाम् अधिकारः, पश्चाज् जात-बुद्धेश् च स्व-निष्ठायाम्। 
 </details>
 
 
