@@ -4,7 +4,7 @@ unicode_script: devanagari
 
 ---
 
-{{< figure src="../images/davAnalaH.jpg" title="" class="thumbnail">}}
+{{< figure src="/kAvyam/laxyam/padyam/vishvAsaH/saMyamaH/images/davAnalaH.jpg" title="" class="thumbnail">}}
 
 
 भार्गवाग्नेस् स्फुलिङ्गोऽयं  
