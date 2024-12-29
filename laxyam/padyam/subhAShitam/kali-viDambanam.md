@@ -1661,10 +1661,10 @@ People who want to make money should state that they come from very holy towns, 
 
 <details><summary>विश्वास-प्रस्तुतिः - ९५</summary>
 
-अदानम् ईषद्-दानं च  
+अ-दानम् ईषद्-दानं च  
 किञ्चित् कोपाय दुर्-धियाम्।  
-सम्पूर्ण-दानं प्रकृतिर्+++(=??)+++  
-विरामो वैर-कारणम्॥ ९५ 
+सम्पूर्ण-दानं प्रकृतिर्+++(=स्वास्थ्यम्)+++,  
++++(दानाद्)+++ विरामो वैर-कारणम्॥ ९५ 
 </details>
 
 <details><summary>मूलम् - ९५</summary>
