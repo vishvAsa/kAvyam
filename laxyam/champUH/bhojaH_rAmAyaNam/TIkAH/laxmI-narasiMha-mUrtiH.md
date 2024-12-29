@@ -17,7 +17,7 @@ ANDHRA PRADESH, INDIA
 
 
 
-BALAKANDA
+## BALAKANDA
 
 
 
@@ -535,7 +535,7 @@ Thus ends the BALAKANDA in the CHAMPURAMAYANA written by the king of Vidarbha.
 
 
 
-AYODHYAKANDA
+## AYODHYAKANDA
 
 
 
@@ -965,7 +965,7 @@ Thus ends the book of Ayodhya Kanda in the worthy Champu Ramayana written by the
 
 
 
-ARANYA KANDA
+## ARANYA KANDA
 
 
 
@@ -1419,7 +1419,7 @@ Thus ends the book of Kishkindha in the Campu Ramayana written by the King of Vi
 
 
 
-SUNDARA KANDA
+## SUNDARA KANDA
 
 
 
@@ -1723,7 +1723,7 @@ Thus ends the Book of Beauty (Sundarakanda) in the glorious Champu Ramayana writ
 
 
 
-YUDDHAKANDA
+## YUDDHAKANDA
 
 
 
