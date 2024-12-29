@@ -1,5 +1,5 @@
 +++
-title = "Subrahma Nya sangraha H"
+title = "सुब्रह्मण्य-सङ्ग्रहः"
 
 +++
 
