@@ -6,7 +6,8 @@ unicode_script = "devanagari"
 
 श्रीनीलकण्ठदीक्षितप्रणीतम् कलिविडम्बनम्
 
-## वादः  
+
+##  वादः
 
 <details><summary>विश्वास-प्रस्तुतिः - १</summary>
 
@@ -22,6 +23,11 @@ unicode_script = "devanagari"
 न श्राव्यं वादिनो वचः।  
 झटिति प्रतिवक्तव्यं  
 सभासु विजिगीषुभिः॥ १
+</details>
+
+<details><summary>विषयः</summary>
+
+वादः
 </details>
 
 
@@ -41,6 +47,11 @@ unicode_script = "devanagari"
 पञ्चैते जयहेतवः॥ २
 </details>
 
+<details><summary>विषयः</summary>
+
+वादः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ३</summary>
 
@@ -56,6 +67,11 @@ unicode_script = "devanagari"
 मध्यस्थश्चेदपण्डितः।  
 पण्डितो यदि तत्रैव  
 पक्षपातोऽधिरोप्यताम्॥ ३
+</details>
+
+<details><summary>विषयः</summary>
+
+वादः
 </details>
 
 
@@ -75,6 +91,11 @@ unicode_script = "devanagari"
 अनुमानेष्वयं विधिः॥ ४
 </details>
 
+<details><summary>विषयः</summary>
+
+वादः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ५</summary>
 
@@ -90,6 +111,11 @@ unicode_script = "devanagari"
 तत्त्वं जिज्ञासुना चिरम्।  
 जिगीषुणा ह्रियं त्यक्त्वा  
 कार्यः कोलाहलो महान्॥ ५
+</details>
+
+<details><summary>विषयः</summary>
+
+वादः
 </details>
 
 
@@ -109,7 +135,15 @@ unicode_script = "devanagari"
 आयुषोऽन्ते भवेन्न वा॥ ६
 </details>
 
-## आत्म-स्तुतिः
+<details><summary>विषयः</summary>
+
+वादः
+</details>
+
+
+
+
+##  आत्म-स्तुतिः
 <details><summary>विश्वास-प्रस्तुतिः - ७</summary>
 
 स्तोतारः के **भविष्यन्ति**  
@@ -126,7 +160,15 @@ unicode_script = "devanagari"
 कदा तस्यास्तु निर्वृतिः॥ ७
 </details>
 
-## पाठनम्, शिक्षा
+<details><summary>विषयः</summary>
+
+आत्म-स्तुतिः
+</details>
+
+
+
+
+##  पाठनम्, शिक्षा
 <details><summary>विश्वास-प्रस्तुतिः - ८</summary>
 
 "वाच्यतां", "समयो **ऽतीतः**"  
@@ -141,6 +183,11 @@ unicode_script = "devanagari"
 स्पष्टमग्रे भविष्यति ।  
 इति पाठयतां ग्रन्थे  
 काठिन्यं कुत्र वर्तते॥ ८
+</details>
+
+<details><summary>विषयः</summary>
+
+पाठनम्, शिक्षा
 </details>
 
 
@@ -160,7 +207,15 @@ unicode_script = "devanagari"
 मूर्खाचार्यस्य भाग्यजाः॥ ९
 </details>
 
-## मान्त्रिकः, योगी, यतिः  
+<details><summary>विषयः</summary>
+
+पाठनम्, शिक्षा
+</details>
+
+
+
+
+##  मान्त्रिकः, योगी, यतिः
 
 <details><summary>विश्वास-प्रस्तुतिः - १०</summary>
 
@@ -176,6 +231,11 @@ unicode_script = "devanagari"
 सर्वथा क्रमते मतिः।  
 मान्त्रिकास्तु भविष्यामो  
 योगिनो यतयोऽपि वा॥ १०
+</details>
+
+<details><summary>विषयः</summary>
+
+मान्त्रिकः, योगी, यतिः
 </details>
 
 
@@ -195,6 +255,11 @@ unicode_script = "devanagari"
 विख्याप्यावाप्यते धनम्॥ ११
 </details>
 
+<details><summary>विषयः</summary>
+
+मान्त्रिकः, योगी, यतिः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - १२</summary>
 
@@ -210,6 +275,11 @@ unicode_script = "devanagari"
 जीवनं दुःखशालिषु ।  
 अनुग्रहायते येषां  
 ते धन्याःखलु मान्त्रिकाः॥ १२
+</details>
+
+<details><summary>विषयः</summary>
+
+मान्त्रिकः, योगी, यतिः
 </details>
 
 
@@ -229,7 +299,15 @@ unicode_script = "devanagari"
 पर्यवस्यति मान्त्रिके॥ १३
 </details>
 
-## ज्यौतिषिकः  
+<details><summary>विषयः</summary>
+
+मान्त्रिकः, योगी, यतिः
+</details>
+
+
+
+
+##  ज्यौतिषिकः
 
 <details><summary>विश्वास-प्रस्तुतिः - १४</summary>
 
@@ -245,6 +323,11 @@ unicode_script = "devanagari"
 वक्तव्यं भूभुजां फलम्।  
 ग्रहचारपरिज्ञानं  
 तेषामावश्यकं यतः॥ १४
+</details>
+
+<details><summary>विषयः</summary>
+
+ज्यौतिषिकः
 </details>
 
 
@@ -264,6 +347,11 @@ unicode_script = "devanagari"
 दैवज्ञो विजयी भवेत्॥ १५
 </details>
 
+<details><summary>विषयः</summary>
+
+ज्यौतिषिकः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - १६</summary>
 
@@ -279,6 +367,11 @@ unicode_script = "devanagari"
 वाच्यं मौहूर्तिकैर्जनैः।  
 जीवन्तो बहुमन्यन्ते  
 मृताः प्रक्ष्यन्ति कं पुनः॥ १६
+</details>
+
+<details><summary>विषयः</summary>
+
+ज्यौतिषिकः
 </details>
 
 
@@ -298,6 +391,11 @@ unicode_script = "devanagari"
 वक्तव्यं दैवचिन्तकैः॥ १७
 </details>
 
+<details><summary>विषयः</summary>
+
+ज्यौतिषिकः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - १८</summary>
 
@@ -313,6 +411,11 @@ unicode_script = "devanagari"
 धनिनामधिकं धनम्।  
 ब्रुवाणाः सर्वथा ग्राह्या  
 लोकैर्ज्यौतिषिका जनाः॥ १८
+</details>
+
+<details><summary>विषयः</summary>
+
+ज्यौतिषिकः
 </details>
 
 
@@ -332,6 +435,11 @@ unicode_script = "devanagari"
 नित्यं कार्यविपर्यये॥ १९
 </details>
 
+<details><summary>विषयः</summary>
+
+ज्यौतिषिकः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - २०</summary>
 
@@ -347,6 +455,11 @@ unicode_script = "devanagari"
 विचेतव्या वसुंधरा।  
 देशो ह्यरत्निमात्रेऽपि  
 नास्ति दैवज्ञवर्जितः॥ २०
+</details>
+
+<details><summary>विषयः</summary>
+
+ज्यौतिषिकः
 </details>
 
 
@@ -366,6 +479,13 @@ unicode_script = "devanagari"
 ते वाचस्पतयः स्वयम्॥ २१
 </details>
 
+<details><summary>विषयः</summary>
+
+ज्यौतिषिकः
+</details>
+
+
+
 ### ज्यौतिषिकः, नैमित्तिकः, स्वप्न-दृक्, देवतोपासकः
 <details><summary>विश्वास-प्रस्तुतिः - २२</summary>
 
@@ -383,7 +503,15 @@ unicode_script = "devanagari"
 दैवज्ञानाममी त्रयः॥ २२
 </details>
 
-## वैद्यः  
+<details><summary>विषयः</summary>
+
+ज्यौतिषिकः
+</details>
+
+
+
+
+##  वैद्यः
 
 <details><summary>विश्वास-प्रस्तुतिः - २३</summary>
 
@@ -399,6 +527,11 @@ unicode_script = "devanagari"
 जन्तुभिर्नास्ति किञ्चन।  
 कातरा दीर्घरोगाश्च  
 भिषजां भाग्यहेतवः॥ २३
+</details>
+
+<details><summary>विषयः</summary>
+
+वैद्यः
 </details>
 
 
@@ -418,6 +551,11 @@ unicode_script = "devanagari"
 नैराश्यादेव नान्तिमे॥ २४
 </details>
 
+<details><summary>विषयः</summary>
+
+वैद्यः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - २५</summary>
 
@@ -433,6 +571,11 @@ unicode_script = "devanagari"
 पथ्यं तु कठिनं वदेत्।  
 आरोग्यं वैद्यमाहात्म्याद्  
 अन्यथात्वमपथ्यतः॥ २५
+</details>
+
+<details><summary>विषयः</summary>
+
+वैद्यः
 </details>
 
 
@@ -452,6 +595,11 @@ unicode_script = "devanagari"
 रोगिणः सदनेस्त्रियः॥ २६
 </details>
 
+<details><summary>विषयः</summary>
+
+वैद्यः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - २७</summary>
 
@@ -467,6 +615,11 @@ unicode_script = "devanagari"
 म्रियमाणेषु जन्तुषु।  
 रोगतत्त्वेषु शनकैर्  
 व्युत्पद्यन्ते चिकित्सकाः॥ २७
+</details>
+
+<details><summary>विषयः</summary>
+
+वैद्यः
 </details>
 
 
@@ -486,6 +639,13 @@ unicode_script = "devanagari"
 जिहीर्षन्ति चिकित्सकाः॥ २८
 </details>
 
+<details><summary>विषयः</summary>
+
+वैद्यः
+</details>
+
+
+
 ### वैद्यः, मान्त्रिकः, दायादः, ज्यौतिषिकः
 <details><summary>विश्वास-प्रस्तुतिः - २९</summary>
 
@@ -501,6 +661,11 @@ unicode_script = "devanagari"
 चिरादासाद्य रोगिणम्।  
 दायादाः संप्ररोहन्ति  
 दैवज्ञा मान्त्रिका अपि॥ २९
+</details>
+
+<details><summary>विषयः</summary>
+
+वैद्यः
 </details>
 
 
@@ -520,6 +685,11 @@ unicode_script = "devanagari"
 स्नातो वैद्यं न पश्यति॥ ३०
 </details>
 
+<details><summary>विषयः</summary>
+
+वैद्यः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ३१</summary>
 
@@ -537,7 +707,15 @@ unicode_script = "devanagari"
 द्वित्रियोगस्तु दुर्लभः॥ ३१
 </details>
 
-## कविः, चाटु, सत्यम्, असत्यम्
+<details><summary>विषयः</summary>
+
+वैद्यः
+</details>
+
+
+
+
+##  कविः, चाटु, सत्यम्, असत्यम्
 
 <details><summary>विश्वास-प्रस्तुतिः - ३२</summary>
 
@@ -553,6 +731,11 @@ unicode_script = "devanagari"
 धनयोगो महानयम्।  
 सत्यं वैदुष्यमित्येष  
 योगो दारिद्र्यकारकः॥ ३२
+</details>
+
+<details><summary>विषयः</summary>
+
+कविः, चाटु, सत्यम्, असत्यम्
 </details>
 
 
@@ -572,6 +755,11 @@ unicode_script = "devanagari"
 शालीनां मुष्टिकिङ्कराः॥ ३३
 </details>
 
+<details><summary>विषयः</summary>
+
+कविः, चाटु, सत्यम्, असत्यम्
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ३४</summary>
 
@@ -589,6 +777,11 @@ unicode_script = "devanagari"
 जिह्वा फुरफुरायते॥ ३४
 </details>
 
+<details><summary>विषयः</summary>
+
+कविः, चाटु, सत्यम्, असत्यम्
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ३५</summary>
 
@@ -604,6 +797,11 @@ unicode_script = "devanagari"
 न स्वतो गुणदर्शिनः।  
 कीटः कश्चिदलिर्नाम  
 कियती तत्र वर्णना॥ ३५
+</details>
+
+<details><summary>विषयः</summary>
+
+कविः, चाटु, सत्यम्, असत्यम्
 </details>
 
 
@@ -624,6 +822,11 @@ unicode_script = "devanagari"
 ताम्बूलाय च कल्पते॥ ३६
 </details>
 
+<details><summary>विषयः</summary>
+
+कविः, चाटु, सत्यम्, असत्यम्
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ३७</summary>
 
@@ -639,6 +842,11 @@ unicode_script = "devanagari"
 संदर्भेण परिष्कृतम्।  
 विक्रीयते कतिपयैर्  
 वृथान्यैर् विनियुज्यते॥ ३७
+</details>
+
+<details><summary>विषयः</summary>
+
+कविः, चाटु, सत्यम्, असत्यम्
 </details>
 
 
@@ -658,6 +866,11 @@ unicode_script = "devanagari"
 लाङ्गले विनियुञ्जते॥ ३८
 </details>
 
+<details><summary>विषयः</summary>
+
+कविः, चाटु, सत्यम्, असत्यम्
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ३९</summary>
 
@@ -674,6 +887,13 @@ unicode_script = "devanagari"
 कथं तरन्तु कवयः  
 कामपारम्यवादिनः॥ ३९
 </details>
+
+<details><summary>विषयः</summary>
+
+कविः, चाटु, सत्यम्, असत्यम्
+</details>
+
+
 
 ### देव-स्तुतिः
 <details><summary>विश्वास-प्रस्तुतिः - ४०</summary>
@@ -692,7 +912,15 @@ unicode_script = "devanagari"
 शङ्करो यदि वर्ण्यते॥ ४०
 </details>
 
-## बन्धुः
+<details><summary>विषयः</summary>
+
+कविः, चाटु, सत्यम्, असत्यम्
+</details>
+
+
+
+
+##  बन्धुः
 ### बन्धुः, श्वश्रूः, श्यालः  
 
 <details><summary>विश्वास-प्रस्तुतिः - ४१</summary>
@@ -711,6 +939,13 @@ unicode_script = "devanagari"
 पञ्च प्राणा इमेऽपरे॥ ४१
 </details>
 
+<details><summary>विषयः</summary>
+
+बन्धुः
+</details>
+
+
+
 ### बन्धुः, जामाता, मातुलः
 <details><summary>विश्वास-प्रस्तुतिः - ४२</summary>
 
@@ -727,6 +962,13 @@ unicode_script = "devanagari"
 अज्ञाता एव गृहिणां  
 भक्षयन्त्याखुवद्गृहे॥ ४२
 </details>
+
+<details><summary>विषयः</summary>
+
+बन्धुः
+</details>
+
+
 
 
 ### बन्धुः, जामाता, मातुलः, श्वशुरः, अतिथिः
@@ -746,6 +988,13 @@ unicode_script = "devanagari"
 स्वयमेवातिथेर्बलम्॥ ४३
 </details>
 
+<details><summary>विषयः</summary>
+
+बन्धुः
+</details>
+
+
+
 ### बन्धुः, जामाता, श्यालः
 <details><summary>विश्वास-प्रस्तुतिः - ४४</summary>
 
@@ -762,6 +1011,13 @@ unicode_script = "devanagari"
 प्रबुध्यमाने सारल्यं  
 प्रबुद्धेऽस्मिन्पलायनम्॥ ४४
 </details>
+
+<details><summary>विषयः</summary>
+
+बन्धुः
+</details>
+
+
 
 
 ### बन्धुः, जामाता, श्यालः, श्वशुरः, श्वश्रूः
@@ -781,6 +1037,13 @@ unicode_script = "devanagari"
 जामातुर्भाग्यधोरणी॥ ४५
 </details>
 
+<details><summary>विषयः</summary>
+
+बन्धुः
+</details>
+
+
+
 ### बन्धुः, कन्या
 <details><summary>विश्वास-प्रस्तुतिः - ४६</summary>
 
@@ -798,6 +1061,13 @@ unicode_script = "devanagari"
 कन्या निर्मार्ष्टि मन्दिरम्॥ ४६
 </details>
 
+<details><summary>विषयः</summary>
+
+बन्धुः
+</details>
+
+
+
 ### बन्धुः, भार्या, भगिनी
 <details><summary>विश्वास-प्रस्तुतिः - ४७</summary>
 
@@ -813,6 +1083,11 @@ unicode_script = "devanagari"
 शुष्काहारं मिताशनम्।  
 पतिपक्ष्यांस्तु बह्वाशान्  
 क्षीरपांस्तस्करानपि॥ ४७
+</details>
+
+<details><summary>विषयः</summary>
+
+बन्धुः
 </details>
 
 
@@ -832,6 +1107,11 @@ unicode_script = "devanagari"
 योगोऽयं गृहमेधिनाम्॥ ४८
 </details>
 
+<details><summary>विषयः</summary>
+
+बन्धुः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ४९</summary>
 
@@ -849,7 +1129,15 @@ unicode_script = "devanagari"
 एकैकं नरकाधिकम्॥ ४९
 </details>
 
-## उत्तमर्णाः  
+<details><summary>विषयः</summary>
+
+बन्धुः
+</details>
+
+
+
+
+##  उत्तमर्णाः
 
 <details><summary>विश्वास-प्रस्तुतिः - ५०</summary>
 
@@ -865,6 +1153,11 @@ unicode_script = "devanagari"
 दृष्टे प्रज्ञा विनश्यति।  
 अहो महदिदं भूतम्  
 उत्तमर्णाभिशब्दितम्॥ ५०
+</details>
+
+<details><summary>विषयः</summary>
+
+उत्तमर्णाः
 </details>
 
 
@@ -884,6 +1177,11 @@ unicode_script = "devanagari"
 उत्तमर्णस्य विद्यते॥ ५१
 </details>
 
+<details><summary>विषयः</summary>
+
+उत्तमर्णाः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ५२</summary>
 
@@ -901,7 +1199,15 @@ unicode_script = "devanagari"
 तथाप्युद्विजते मनः॥ ५२
 </details>
 
-## दारिद्र्यम्  
+<details><summary>विषयः</summary>
+
+उत्तमर्णाः
+</details>
+
+
+
+
+##  दारिद्र्यम्
 
 <details><summary>विश्वास-प्रस्तुतिः - ५३</summary>
 
@@ -917,6 +1223,11 @@ unicode_script = "devanagari"
 सर्वरोगेषु भेषजम्।  
 मृत्योर्मृत्युञ्जयध्यानं  
 दारिद्र्ये तु न किञ्चन॥ ५३
+</details>
+
+<details><summary>विषयः</summary>
+
+दारिद्र्यम्
 </details>
 
 
@@ -936,6 +1247,11 @@ unicode_script = "devanagari"
 दारिद्र्यं परमौषधम्॥ ५४
 </details>
 
+<details><summary>विषयः</summary>
+
+दारिद्र्यम्
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ५५</summary>
 
@@ -951,6 +1267,11 @@ unicode_script = "devanagari"
 दृष्टिं पादौ विसंस्फुटौ।  
 प्रोत्साहयति याच्ञायां  
 राजाज्ञेव दरिद्रता॥ ५५
+</details>
+
+<details><summary>विषयः</summary>
+
+दारिद्र्यम्
 </details>
 
 
@@ -970,6 +1291,11 @@ unicode_script = "devanagari"
 अन्ततोऽश्मापि जीर्यति॥ ५६
 </details>
 
+<details><summary>विषयः</summary>
+
+दारिद्र्यम्
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ५७</summary>
 
@@ -987,7 +1313,15 @@ unicode_script = "devanagari"
 यदि तत्त्वं प्रबुध्यते॥ ५७
 </details>
 
-## धनिकः  
+<details><summary>विषयः</summary>
+
+दारिद्र्यम्
+</details>
+
+
+
+
+##  धनिकः
 
 <details><summary>विश्वास-प्रस्तुतिः - ५८</summary>
 
@@ -1003,6 +1337,11 @@ unicode_script = "devanagari"
 प्रवर्तयति तस्करान्।  
 प्रोत्साहयति दायादांल्  
 लक्ष्मीः किञ्चिदुपस्थिता॥ ५८
+</details>
+
+<details><summary>विषयः</summary>
+
+धनिकः
 </details>
 
 
@@ -1022,6 +1361,11 @@ unicode_script = "devanagari"
 श्रिया किञ्चिदुपेक्षिताः॥ ५९
 </details>
 
+<details><summary>विषयः</summary>
+
+धनिकः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ६०</summary>
 
@@ -1037,6 +1381,11 @@ unicode_script = "devanagari"
 देवताबुद्धिरात्मनि।  
 कीटबुद्धिर्मनुष्येषु  
 नूतनायाः श्रियः फलम्॥ ६०
+</details>
+
+<details><summary>विषयः</summary>
+
+धनिकः
 </details>
 
 
@@ -1056,6 +1405,11 @@ unicode_script = "devanagari"
 स्तोत्राणीत्येव मन्यते॥ ६१
 </details>
 
+<details><summary>विषयः</summary>
+
+धनिकः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ६२</summary>
 
@@ -1071,6 +1425,11 @@ unicode_script = "devanagari"
 अन्योन्यकृतसंविदः।  
 स्वैरं हसन्ति पार्श्वस्था  
 बालोन्मत्तपिशाचवत्॥ ६२
+</details>
+
+<details><summary>विषयः</summary>
+
+धनिकः
 </details>
 
 
@@ -1090,6 +1449,11 @@ unicode_script = "devanagari"
 तथापि धनिको जनः॥ ६३
 </details>
 
+<details><summary>विषयः</summary>
+
+धनिकः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ६४</summary>
 
@@ -1105,6 +1469,11 @@ unicode_script = "devanagari"
 याममात्रं सुरामदः ।  
 लक्ष्मीमदस्तु मूर्खाणाम्  
 आदेहमनुवर्तते॥ ६४
+</details>
+
+<details><summary>विषयः</summary>
+
+धनिकः
 </details>
 
 
@@ -1124,6 +1493,11 @@ unicode_script = "devanagari"
 नित्यो लशुनगन्धवत्॥ ६५
 </details>
 
+<details><summary>विषयः</summary>
+
+धनिकः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ६६</summary>
 
@@ -1139,6 +1513,11 @@ unicode_script = "devanagari"
 हृदि ताम्बूलजो मदः।  
 लक्ष्मीमदस्तु सर्वाङ्गे  
 पुत्रदारमुखेष्वपि॥ ६६
+</details>
+
+<details><summary>विषयः</summary>
+
+धनिकः
 </details>
 
 
@@ -1158,6 +1537,11 @@ unicode_script = "devanagari"
 कुष्ठापस्मारवत्कथम्॥ ६७
 </details>
 
+<details><summary>विषयः</summary>
+
+धनिकः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ६८</summary>
 
@@ -1173,6 +1557,11 @@ unicode_script = "devanagari"
 तृणीकुर्वन्ति पण्डितान्।  
 विस्मारयन्ति जाति स्वां  
 वराटाः पञ्चषाः करे॥ ६८
+</details>
+
+<details><summary>विषयः</summary>
+
+धनिकः
 </details>
 
 
@@ -1192,7 +1581,15 @@ unicode_script = "devanagari"
 तावल्लोको न मृष्यति॥ ६९
 </details>
 
-## पिशुनः, धनिकः  
+<details><summary>विषयः</summary>
+
+धनिकः
+</details>
+
+
+
+
+##  पिशुनः, धनिकः
 
 <details><summary>विश्वास-प्रस्तुतिः - ७०</summary>
 
@@ -1210,7 +1607,15 @@ unicode_script = "devanagari"
 यतन्तेऽपरथा स्वतः॥ ७०
 </details>
 
-## पिशुनः, राजा
+<details><summary>विषयः</summary>
+
+पिशुनः, धनिकः
+</details>
+
+
+
+
+##  पिशुनः, राजा
 
 <details><summary>विश्वास-प्रस्तुतिः - ७१</summary>
 
@@ -1228,7 +1633,15 @@ unicode_script = "devanagari"
 कृतान्तो लालयिष्यति॥ ७१
 </details>
 
-## पिशुनः, राजा
+<details><summary>विषयः</summary>
+
+पिशुनः, राजा
+</details>
+
+
+
+
+##  पिशुनः, राजा
 
 <details><summary>विश्वास-प्रस्तुतिः - ७२</summary>
 
@@ -1244,6 +1657,11 @@ unicode_script = "devanagari"
 जपो दुष्कर्मनाशनः।  
 राजकर्णेजपः सद्यः  
 सर्वकर्मविनाशनः॥ ७२
+</details>
+
+<details><summary>विषयः</summary>
+
+पिशुनः, राजा
 </details>
 
 
@@ -1263,6 +1681,11 @@ unicode_script = "devanagari"
 शठाः सन्तश्च तुल्यवत्॥ ७३
 </details>
 
+<details><summary>विषयः</summary>
+
+पिशुनः, राजा
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ७४</summary>
 
@@ -1280,7 +1703,15 @@ unicode_script = "devanagari"
 सद्योऽनर्थाय देहिनाम्॥ ७४
 </details>
 
-## कृपणः
+<details><summary>विषयः</summary>
+
+पिशुनः, राजा
+</details>
+
+
+
+
+##  कृपणः
 
 <details><summary>विश्वास-प्रस्तुतिः - ७५</summary>
 
@@ -1296,6 +1727,11 @@ unicode_script = "devanagari"
 भैषज्येषु च लङ्घनम्।  
 जपयज्ञश्च यज्ञेषु  
 रोचते लोभशालिनाम्॥ ७५
+</details>
+
+<details><summary>विषयः</summary>
+
+कृपणः
 </details>
 
 
@@ -1315,6 +1751,11 @@ unicode_script = "devanagari"
 तावदुद्विजते ततः॥ ७६
 </details>
 
+<details><summary>विषयः</summary>
+
+कृपणः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ७७</summary>
 
@@ -1329,13 +1770,17 @@ unicode_script = "devanagari"
 The greedy householders consider each morsel of food offered to their guests (as part of their hospitality) as if they are giving something equivalent to Mount Meru. (it is said in Sastras that even a morsel of food offered to an atithi, ie. a guest is equivalent to Mount Meru. (they feel as if they give mount Meru itself to the guests).
 </details>
 
-
 <details><summary>मूलम् - ७७</summary>
 
 सर्वमातिथ्यशास्त्रार्थं  
 साक्षात्कुर्वन्ति लोभिनः।  
 भिक्षाकवलमेकैकं  
 ये हि पश्यन्ति मेरुवत्॥ ७७
+</details>
+
+<details><summary>विषयः</summary>
+
+कृपणः
 </details>
 
 
@@ -1352,13 +1797,17 @@ The greedy householders consider each morsel of food offered to their guests (as
 There are two types of ghosts namely, the Ghost which guards the wealth and the Ghost which is attached to the wealth. The first ghost will, after guarding the wealth, hand over the same to the owner. But the second ghost which is attached to wealth will not part with that wealth to anyone. (These two ghosts can be compared to two types of people to whom wealth may be given for safe-guarding. The first type will return the wealth. The second type due to deep attachment to the wealth, will not part with the same).
 </details>
 
-
 <details><summary>मूलम् - ७८</summary>
 
 धनपालः पिशाचो हि  
 दत्ते स्वामिन्युपस्थिते।  
 धनलुब्धः पिशाचस्तु  
 न कस्मैचन दित्सते॥ ७८
+</details>
+
+<details><summary>विषयः</summary>
+
+कृपणः
 </details>
 
 
@@ -1378,6 +1827,11 @@ There are two types of ghosts namely, the Ghost which guards the wealth and the 
 अहो निम्नोन्नतं कियत्॥ ७९
 </details>
 
+<details><summary>विषयः</summary>
+
+कृपणः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ८०</summary>
 
@@ -1392,7 +1846,6 @@ There are two types of ghosts namely, the Ghost which guards the wealth and the 
 A miser, believes that no one would take care of his wealth after his time. Hence, he protects it to the best extent possible. He even eats only as much required to keep the breath in his body.
 </details>
 
-
 <details><summary>मूलम् - ८०</summary>
 
 स्वस्मिन्नसति नार्थस्य  
@@ -1401,7 +1854,15 @@ A miser, believes that no one would take care of his wealth after his time. Henc
 भुङ्क्ते लुब्धः कथञ्चन॥ ८०
 </details>
 
-## अतिथिः
+<details><summary>विषयः</summary>
+
+कृपणः
+</details>
+
+
+
+
+##  अतिथिः
 <details><summary>विश्वास-प्रस्तुतिः - ८१</summary>
 
 **प्रस्थास्यमानः प्रविशेत्**  
@@ -1418,7 +1879,6 @@ But he will again come back without being invited.
 He will recount strange instances of obstacles that he faced in his travel.
 </details>
 
-
 <details><summary>मूलम् - ८१</summary>
 
 प्रस्थास्यमानः प्रविशेत्  
@@ -1427,7 +1887,15 @@ He will recount strange instances of obstacles that he faced in his travel.
 तिष्ठासुरतिथिश्चिरम्॥ ८१
 </details>
 
-## श्रोत्रियः, विद्वान्  
+<details><summary>विषयः</summary>
+
+अतिथिः
+</details>
+
+
+
+
+##  श्रोत्रियः, विद्वान्
 
 <details><summary>विश्वास-प्रस्तुतिः - ८२</summary>
 
@@ -1445,7 +1913,15 @@ He will recount strange instances of obstacles that he faced in his travel.
 श्रोत्रिये तु न किञ्चन॥ ८२
 </details>
 
-## धर्मध्वजः
+<details><summary>विषयः</summary>
+
+श्रोत्रियः, विद्वान्
+</details>
+
+
+
+
+##  धर्मध्वजः
 <details><summary>विश्वास-प्रस्तुतिः - ८३</summary>
 
 +++(??पूजादि-)+++घटकं सम्यग् **आराध्य**  
@@ -1462,6 +1938,11 @@ He will recount strange instances of obstacles that he faced in his travel.
 यावच्चापलमावृतम्॥ ८३
 </details>
 
+<details><summary>विषयः</summary>
+
+धर्मध्वजः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ८४</summary>
 
@@ -1472,13 +1953,17 @@ He will recount strange instances of obstacles that he faced in his travel.
 वस्तुतस् तुलसी परा॥ ८४
 </details>
 
-
 <details><summary>मूलम् - ८४</summary>
 
 एकतः सर्वशास्त्राणि  
 तुलसीकाष्ठमेकतः।  
 वक्तव्यं किञ्चिदित्युक्तं  
 वस्तुतस्तुलसी परा॥ ८४
+</details>
+
+<details><summary>विषयः</summary>
+
+धर्मध्वजः
 </details>
 
 
@@ -1498,6 +1983,11 @@ He will recount strange instances of obstacles that he faced in his travel.
 दायिनीऽति गुणद्वयम्॥ ८५
 </details>
 
+<details><summary>विषयः</summary>
+
+धर्मध्वजः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ८६</summary>
 
@@ -1515,6 +2005,11 @@ He will recount strange instances of obstacles that he faced in his travel.
 मूर्खसंजीवनानि षट्॥ ८६
 </details>
 
+<details><summary>विषयः</summary>
+
+धर्मध्वजः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ८७</summary>
 
@@ -1529,13 +2024,17 @@ He will recount strange instances of obstacles that he faced in his travel.
 People who want to make money should state that they come from very holy towns, their guru or teacher was a great Saint, who passed away long ago and they have taught a number of disciples. (Making these assertions will make one eligible as an object of veneration. As a result, money will be showered on them)
 </details>
 
-
 <details><summary>मूलम् - ८७</summary>
 
 वासः पुण्येषु तीर्थेषु  
 प्रसिद्धश्च मृतो गुरुः।  
 अध्यापनावृत्तयश्च  
 कीर्तनीया धनार्थिभिः॥ ८७
+</details>
+
+<details><summary>विषयः</summary>
+
+धर्मध्वजः
 </details>
 
 
@@ -1555,6 +2054,11 @@ People who want to make money should state that they come from very holy towns, 
 पृच्छतां सिद्धमुत्तरम्॥ ८८
 </details>
 
+<details><summary>विषयः</summary>
+
+धर्मध्वजः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ८९</summary>
 
@@ -1570,6 +2074,11 @@ People who want to make money should state that they come from very holy towns, 
 यथा वक्ष्यन्ति दातरि।  
 तथा धर्मं चरेत्सर्वं  
 न वृथा किञ्चिदाचरेत्॥ ८९
+</details>
+
+<details><summary>विषयः</summary>
+
+धर्मध्वजः
 </details>
 
 
@@ -1589,6 +2098,11 @@ People who want to make money should state that they come from very holy towns, 
 सद्यः प्रत्ययहेतवः॥ ९०
 </details>
 
+<details><summary>विषयः</summary>
+
+धर्मध्वजः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ९१</summary>
 
@@ -1604,6 +2118,11 @@ People who want to make money should state that they come from very holy towns, 
 समाजे देवतार्चनम्।  
 सततं शुचिवेषश्चेत्येतद्  
 दम्भस्य जीवितम्॥ ९१
+</details>
+
+<details><summary>विषयः</summary>
+
+धर्मध्वजः
 </details>
 
 
@@ -1623,6 +2142,11 @@ People who want to make money should state that they come from very holy towns, 
 यावद्द्रष्टा न विद्यते॥ ९२
 </details>
 
+<details><summary>विषयः</summary>
+
+धर्मध्वजः
+</details>
+
 
 <details><summary>विश्वास-प्रस्तुतिः - ९३</summary>
 
@@ -1640,7 +2164,15 @@ People who want to make money should state that they come from very holy towns, 
 किङ्कराः सर्वपार्थिवाः॥ ९३
 </details>
 
-## दुष्टः  
+<details><summary>विषयः</summary>
+
+धर्मध्वजः
+</details>
+
+
+
+
+##  दुष्टः
 
 <details><summary>विश्वास-प्रस्तुतिः - ९४</summary>
 
@@ -1656,6 +2188,11 @@ People who want to make money should state that they come from very holy towns, 
 लाल्यमानास्ततस्तराम्।  
 दुर्जनानामतो न्याय्यं  
 दूरादेव विसर्जनम्॥ ९४
+</details>
+
+<details><summary>विषयः</summary>
+
+दुष्टः
 </details>
 
 
@@ -1675,6 +2212,13 @@ People who want to make money should state that they come from very holy towns, 
 विरामो वैरकारणम्॥ ९५
 </details>
 
+<details><summary>विषयः</summary>
+
+दुष्टः
+</details>
+
+
+
 ### दुष्टः, स्तुतिः
 <details><summary>विश्वास-प्रस्तुतिः - ९६</summary>
 
@@ -1691,6 +2235,13 @@ People who want to make money should state that they come from very holy towns, 
 अपत्यसम्बन्धविधिस्  
 त्वनर्थायैव केवलम्॥ ९६
 </details>
+
+<details><summary>विषयः</summary>
+
+दुष्टः
+</details>
+
+
 
 ### बन्धुः, पिशुनः, मूर्खः, दरिद्रः
 <details><summary>विश्वास-प्रस्तुतिः - ९७</summary>
@@ -1709,6 +2260,13 @@ People who want to make money should state that they come from very holy towns, 
 तद्दिशेऽपि नमो नमः॥ ९७
 </details>
 
+<details><summary>विषयः</summary>
+
+दुष्टः
+</details>
+
+
+
 ### पिशुनः, दुष्टः 
 <details><summary>विश्वास-प्रस्तुतिः - ९८</summary>
 
@@ -1726,7 +2284,15 @@ People who want to make money should state that they come from very holy towns, 
 खलानामसृजद्विधिः॥ ९८
 </details>
 
-## कलिः  
+<details><summary>विषयः</summary>
+
+दुष्टः
+</details>
+
+
+
+
+##  कलिः
 
 <details><summary>विश्वास-प्रस्तुतिः - ९९</summary>
 
@@ -1742,6 +2308,11 @@ People who want to make money should state that they come from very holy towns, 
 वृश्चिकः प्राणिनामिव।  
 कलिना दशमांशेन  
 सर्वः कालोऽपि दारुणः॥ ९९
+</details>
+
+<details><summary>विषयः</summary>
+
+कलिः
 </details>
 
 
@@ -1761,7 +2332,15 @@ People who want to make money should state that they come from very holy towns, 
 तस्मै श्रीकलये नमः॥ १००
 </details>
 
-## शिवः  
+<details><summary>विषयः</summary>
+
+कलिः
+</details>
+
+
+
+
+##  शिवः
 
 <details><summary>विश्वास-प्रस्तुतिः - १०१</summary>
 
@@ -1779,7 +2358,15 @@ People who want to make money should state that they come from very holy towns, 
 कालः किं नः करिष्यति॥ १०१
 </details>
 
-## समाप्तिः  
+<details><summary>विषयः</summary>
+
+शिवः
+</details>
+
+
+
+
+##  समाप्तिः
 
 <details><summary>विश्वास-प्रस्तुतिः - १०२</summary>
 
@@ -1796,5 +2383,12 @@ People who want to make money should state that they come from very holy towns, 
 रचितं विदुषां प्रीत्यै  
 राजास्थानानुमोदनम्॥ १०२
 </details>
+
+<details><summary>विषयः</summary>
+
+समाप्तिः
+</details>
+
+
 
 इति कलिविडम्बनं सम्पूर्णम्॥  
