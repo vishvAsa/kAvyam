@@ -55,44 +55,151 @@ Sanskrit
 
 The strong and powerful always make friendship with equals. They will not care about the weak. Wind will give more power to an equally powerful forest fire, but will kill a weak lamp light.
 
-**भेतव्यं नृपतेस्ततः सचिवतो राज्ञस्ततो वल्लभात्  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**भेतव्यं** नृपतेस् ततः सचिवतो राज्ञस् ततो वल्लभात्  
+अन्येभ्यश् च **वसन्ति** येऽस्य भवने लब्ध-प्रसादा विटाः ।  
+दैन्याद् उन्मुख-दर्शनापलपनैः पिण्डार्थम् **आयस्यतः**  
+**सेवां** लाघव-कारिणीं कृतधियः स्थाने श्व-वृत्तिं विदुः ॥+++(5)+++  
+</details>
+
+<details><summary>मूलम्</summary>
+
+भेतव्यं नृपतेस्ततः सचिवतो राज्ञस्ततो वल्लभात्  
 अन्येभ्यश्च वसन्ति येऽस्य भवने लब्धप्रसादा विटाः ।  
 दैन्यादुन्मुखदर्शनापलपनैः पिण्डार्थमायस्यतः  
 सेवां लाघवकारिणीं कृतधियः स्थाने श्ववृत्तिं विदुः ॥  
-**  
--मुद्रराक्षस  
+</details>
+
+<details><summary>विषयः</summary>
+
+सेवा, राजा
+</details>
+
+<details><summary>English - Notes</summary>
 
 When you are servant, you have to be afraid of the king, of the ministers, of people close to the king, of all people who live in the palace. One would have look at others with pitiful eyes. All these for just a handful of food. What wise men say about servitude is true - that it is similar to the life of a dog.  
+</details>
+
+<details><summary>स्रोतः</summary>
+
+विशाखदत्तः - मुद्रा-राक्षसः
+</details>
 
 
-**भोगाय पामराणां योगाय विवेकिनां शरीरमिदम् ।  
-भोगाय च योगाय च न कल्पते दुर्विदग्धानाम् ॥**
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भोगाय पामराणां योगाय विवेकिनां शरीरम् इदम् ।  
+भोगाय च योगाय च न कल्पते दुर्विदग्धानाम् ॥ +++(5)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+भोगाय पामराणां योगाय विवेकिनां शरीरमिदम् ।  
+भोगाय च योगाय च न कल्पते दुर्विदग्धानाम् ॥
+</details>
+
+<details><summary>विषयः</summary>
+
+शरीरम्
+</details>
+
+<details><summary>English</summary>
 
 Commoners believe that body is a means for enjoyment (getting their wishes satisfied). Wise men believe that the body is a means to attain salvation. For people who have lost their mind, the body is of no use.
+</details>
 
-**मणिर्लुठति पादेषु काचः शिरसि धार्यते ।  
+
+
+मणिर्लुठति पादेषु काचः शिरसि धार्यते ।  
 यथैवास्तु तथैवास्तु काचः काचो मणिर्मणिः ॥  
-**  
+
 -हितोपदेश, सुहृद्भेद
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मनो धावति सर्वत्र  
+मदोन्मत्त-गजेन्द्रवत् ।  
+ज्ञानाङ्कुश-समा बुद्धिस्  
+तस्य नो चलते मनः ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+मनो धावति सर्वत्र मदोन्मत्तगजेन्द्रवत् ।  
+ज्ञानाङ्कुशसमा बुद्धिस् तस्य नो चलते मनः ॥
+</details>
+
+<details><summary>विषयः</summary>
+
+बुद्धिः, मनः
+</details>
 
 
--Appayyadikshita's Vairagya Shataka
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**मनो धावति सर्वत्र मदोन्मत्तगजेन्द्रवत् ।  
-ज्ञानाङ्कुशसमा बुद्धिस् तस्य निश्चलते मनः ॥**
+मस्तक-न्यस्त-भारादेर्  
+दुःखम् अन्यैर् निवार्यते ।  
+क्षुधादि-कृत-दुःखं तु  
+विना स्वेन न केनचित् ॥ +++(4)+++
+</details>
 
-**मस्तकन्यस्तभारादेर्दुःखमन्यैर्निवार्यते ।  
-क्षुधादिकृतदुःखं तु विना स्वेन न केनचित् ॥**
+<details><summary>मूलम्</summary>
+
+मस्तकन्यस्तभारादेर्दुःखमन्यैर्निवार्यते ।  
+क्षुधादिकृतदुःखं तु विना स्वेन न केनचित् ॥
+</details>
+
+<details><summary>विषयः</summary>
+
+क्षुत्
+</details>
+
+<details><summary>स्रोतः</summary>
 
 विवेकचूडामणिः
+</details>
 
-**मुहूर्तमपि जीवेत नरः शुक्लेन कर्मणा ।  
-न कल्पमपि कृष्णेन लोकद्वयविरोधिना ॥**
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वगृहे पूज्यते मूर्खः स्वग्रामे पूज्यते प्रभुः। 
+मुहूर्तमपि जीवेत  
+नरः शुक्लेन कर्मणा ।  
+न कल्पमपि कृष्णेन  
+लोकद्वयविरोधिना ॥ +++(4)+++
+</details>
 
-स्वदेशे पूज्यते राजा विद्वान्सर्वत्र पूज्यते।' 
+<details><summary>मूलम्</summary>
+
+मुहूर्तमपि जीवेत नरः शुक्लेन कर्मणा ।  
+न कल्पमपि कृष्णेन लोकद्वयविरोधिना ॥
+</details>
+
+<details><summary>विषयः</summary>
+
+धर्मः, मृत्युः, दैन्यम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वगृहे पूज्यते मूर्खः  
+स्वग्रामे पूज्यते प्रभुः।  
+स्वदेशे पूज्यते राजा  
+विद्वान्सर्वत्र पूज्यते॥ +++(4)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वगृहे पूज्यते मूर्खः स्वग्रामे पूज्यते प्रभुः।  
+स्वदेशे पूज्यते राजा विद्वान्सर्वत्र पूज्यते॥
+</details>
+
+<details><summary>विषयः</summary>
+
+विद्वान्
+</details>
+
+
 
 **यथामयोऽङ्गे समुपेक्षितो नृभि-  
 र्न शक्यते रूढपदश्चिकित्सितुम् ।  
