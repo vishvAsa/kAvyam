@@ -12,6 +12,19 @@ title = "विश्वास-नित्य-स्मृतिः"
 "कुतो ऽजीवः? कुतो ऽवीर्यम्?  
 कुतो ऽतोषस् स्वतः स्वतः?"
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Some may ask -
+
+> "Why are you alive? Why all this trouble? Why put up with sadness?"
+
+to which the proper answer would be to add context: 
+
+> "Why should one _not_ be alive? Why should one _not_ act heroically like the ancients? Why not enjoy life? Especially given that it comes so naturally to us?"
+</details>
+
+
+
 बाह्येन्द्रियैः स्मृतेर् बुद्ध्या  
 विषैर् वैव मनस्-तुदैः।  
 प्रीतिर् **लभ्या** तनौ बद्धैश्,  
