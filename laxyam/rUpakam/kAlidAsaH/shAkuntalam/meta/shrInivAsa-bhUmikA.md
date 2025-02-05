@@ -1,13 +1,12 @@
 +++
-TITLE = "शाकुन्तलभूमिका"
 AUTHOR = "श्रीनिवासचार्य:"
 DOMAIN = "लेखाः"
 SUB-DOMAIN = "साहित्यम्"
 LANGUAGE = "संस्कृतम्"
 "BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
 "SERIAL NO." = "Ebharati-2780"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxMzM5MzU1OTY4NjYy&pageno=MjI0MjQyNjk5NTk="
-title = "शाकुन्तलभूमिका"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxMzM5MzU1OTY4NjYy&pageno=MjI0MjQyNjk5NTk="
+title = "श्रीनिवासचार्यः - शाकुन्तलभूमिका"
 
 +++
 [[शाकुन्तलभूमिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDYxMzM5MzU1OTY4NjYy&pageno=MjI0MjQyNjk5NTk=)]]
