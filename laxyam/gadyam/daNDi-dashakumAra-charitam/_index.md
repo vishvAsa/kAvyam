@@ -1,5 +1,5 @@
 +++
-title = "+दश-कुमार-चरितम्"
+title = "+दण्डि-दश-कुमार-चरितम्"
 unicode_script = "devanagari"
 
 +++
