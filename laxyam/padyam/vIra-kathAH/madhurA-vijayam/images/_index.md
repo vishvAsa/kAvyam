@@ -1,4 +1,0 @@
-+++
-title = "+चित्राणि"
-unicode_script = "devanagari"
-+++
