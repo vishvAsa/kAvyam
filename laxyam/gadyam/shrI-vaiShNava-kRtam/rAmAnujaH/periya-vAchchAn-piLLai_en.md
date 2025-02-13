@@ -1,5 +1,6 @@
 +++
 title = "periya-vAchchAn-piLLai - en"
+
 +++
 Śrimātē Rāmānujāyanamaḥ  
 GADYA TRAYAM  
@@ -56,7 +57,7 @@ T
 
 Thus, because this means is decidedly in keeping with the spirit of the śruti, more consistent with the nature of the atman, dear i to our ācāryās, and most acceptable to the Lord Himself, it should be considered to be worthy of practice more (superior to) than bhakti. Feeling that this fact should not be lost to those who had It utmost trust in him (śri Ramanuja), he, out of his abundant mercy, he chose to publicise what actually transpired (in private) between my himself and the great Lord. 
 
-This is how this (composition) came into being: On a e particular auspicious festival (Panguni Uttaram day) while Lord he Ranganatha came out with His consorts (for the festival), and sat in e Court, Empērumānār (Śri Rāmānuja) came and worshipped at the na feet of the Lord. On this occasion (due to our good fortune) fear of Il samsara (cycle of birth, ignorance etc.) crossed his mind and he fell 
+This is how this (composition) came into being: On a e particular auspicious festival (Panguni Uttaram day) while Lord he Ranganatha came out with His consorts (for the festival), and sat in e Court, Empērumānār (Śri Rāmānuja) came and worshipped at the na feet of the Lord. On this occasion (due to our good fortune) fear of Il samsara (cycle of birth, ignorance etc.) crossed his mind and he fe॥ 
 
 21 
 
@@ -64,7 +65,7 @@ Saranagati Gadyam
 
 at the holy feet and conveyed his total surrender seeking the Lord's protection. Here a question arises: Did he not seek this refuge when he first sought aśrayāna (initiation) at the feet of his Acarya Mahāpūrṇa (Periya Nambi)? Has not the Lord expressed that this 'seeking' is to be made only once? sakrdēvaprapannāya...- Śri Rāmā's pronouncement in the Rāmāyaṇa. (yudhakanda-18.33-34). Seeking refuge or surrender is to be only once. It should not be repeated formally doubting the efficacy of the Lord. Here the mou repetition of surrender is done only out of eagerness to enjoy the bliss quicker (prāpyatvara). It being so, should not one remain passive till the owner seeks to do what he pleases with his property, in view of authorities (texts) like "I do not need redress of my grief from any but You" (Tiruvaimōli 5.8-3)"; "Remove my grievances or not-I have no other protector (5.8-8)"; "It will befit Him if He comes and delivers me from here" (Sitas words from her prison in Lanka-Sundarakānḍam 39-30). Why should he repeat the `seeking refuge'? This is the answer: he cannot remain passive because of his anxiety and eagerness in realising the goal and so surrenders his all and seeks the fruit. This is the state of our alvars too. The same is the case of our ācāryas who follow the (alvärs') footsteps. As fear of samsara as well as the desire to realise the goal keep on increasing, all that they (alvars) can do is to seek the protective refuge of the Lord nine times (many times) in the same way as they did once. Thus he seeks the protective refuge of the great Lord's feet for relief from samsara and acceptance in His service. 
 
-Vandē vēdānta karpura camikara karandakam | Rāmānujāryamāryāṇām cūḍāmaṇimaharniṣam || 
+Vandē vēdānta karpura camikara karandakam । Rāmānujāryamāryāṇām cūḍāmaṇimaharniṣam ॥ 
 
 The Day and night, I prostrate the venerable rāmānuja, the crest jewel of the noble and the casket containing the camphor called vēdās. 
 
@@ -216,7 +217,7 @@ heya-anything undesirable is heya. The susceptibility to change on the part of m
 
 the dependence (päratanatrya) on the part of the released and 
 
-ever-free souls; all these are undesirable. The Lord is free from all 
+ever-free souls; all these are undesirable. The Lord is free from a॥ 
 
 that can be considered lowly; He is not tainted by contact with the lowly; furthermore He can destroy all evil in others. akhila-all encompassing; all that is sentient and nonsentient in the entirety of the created worlds and the eternal paramapada. kalyāṇa ēkatāna-the sole abode of all that is desirable and good-full of virtues, with no possibility of being inauspicious even in a small part, svētara samasta vastuvilakṣaṇa-distinctly different from all others than Or Himself. 
 
@@ -286,7 +287,7 @@ e enjoyable
 
 Saranagati Gadyam 
 
-(like the mischievous pranks of children); mardava softness o feel 
+(like the mischievous pranks of children); mardava softness o fee। 
 
 which brooks no separation from beloved devotees; arjava straight forwardness in word, deed and thought; sauhārda friendlihess; samya- being equally accessible to all irrespective o apparent differences; karunya - mercy; madhurya 
 
@@ -462,7 +463,7 @@ The epithets used here have already been explained earlier. It may be noted in p
 
 - 
 
-(vii) Translation:- This clause describes the Lord innumerable and diverse parijanas attendants who serve th Divine Couple. 'You are served by an army of followers an servants, men and women, waiting at Your divine feet to minister Your needs and comforts, whose nature, existence and action conform to Your will and pleasure ananta (sēṣa), Garud Viśvaksēna and others (along with their wives), whose sole delig is in complete subservience (total service) as their essenti characteristic features; eternal 
+(vii) Translation:- This clause describes the Lord innumerable and diverse parijanas attendants who serve th Divine Couple. 'You are served by an army of followers an servants, men and women, waiting at Your divine feet to minister Your needs and comforts, whose nature, existence and action conform to Your will and pleasure ananta (sēṣa), Garud Viśvaksēna and others (along with their wives), whose sole delig is in complete subservience (total service) as their essenti characteristic features; eterna। 
 
 and faultless, all endowed with host of beneficient and desirable qualities such as unsurpasse knowledge (devotion), activity and unlimited ability (to act in You service). 
 
@@ -584,7 +585,7 @@ tsakharimani
 
 asaranyaśaraṇya ! ananyaśaranyastvatpādāravindayugaļau 
 
-pis saraṇamaham prapadyē || atradvayam || bag mai ni 
+pis saraṇamaham prapadyē ॥ atradvayam ॥ bag mai ni 
 
 to 
 
@@ -640,7 +641,7 @@ es
 
 to 
 
-ul 
+u। 
 
 as 
 
@@ -690,7 +691,7 @@ I am outside the fold of even You (with all the qualities numerated) because of 
 
 Pitaram mataram daran nu 
 
-bandhun sakhin gurun Ratnani dhanadhanyani kṣētrāni ca gṛhani ca ll Sarva dharmanca samtyajya sarvakāmānca sākṣarān | Lōkavikrāntacaraṇau śaraṇam tēvrajam vibhō || 
+bandhun sakhin gurun Ratnani dhanadhanyani kṣētrāni ca gṛhani ca ll Sarva dharmanca samtyajya sarvakāmānca sākṣarān । Lōkavikrāntacaraṇau śaraṇam tēvrajam vibhō ॥ 
 
 | 
 
@@ -702,19 +703,19 @@ bandhun sakhin gurun Ratnani dhanadhanyani kṣētrāni ca gṛhani ca ll Sarva 
 
 Tvamēva mātā ca pita tvamēva tvamēva bandhuśca gurūstvamēva / 
 
-Tvamēva vidyā draviņam tvamēva tvamēva sarvam mama dēvadēva || 
+Tvamēva vidyā draviņam tvamēva tvamēva sarvam mama dēvadēva ॥ 
 
 Pitasi lōkasya caracarasya Tvamasya pūjyasya gururgariyan 
 
-Na tvatsamōstyabhyadhikaḥ kutōnyō lōkatrayēpapratimaprabhava || 
+Na tvatsamōstyabhyadhikaḥ kutōnyō lōkatrayēpapratimaprabhava ॥ 
 
-Tasmatpraṇāmya praṇidhāya kāyaṇ prasadaye tvamahamisamidhayam Pitēvaputrasya sakhēva sakhyuḥ priyaḥ priyāyārhasi dēva sōdum || 
+Tasmatpraṇāmya praṇidhāya kāyaṇ prasadaye tvamahamisamidhayam Pitēvaputrasya sakhēva sakhyuḥ priyaḥ priyāyārhasi dēva sōdum ॥ 
 
 49 
 
-ding al 
+ding a। 
 
-Die Bydd, hugedogmal 
+Die Bydd, hugedogma। 
 
 Choo Hand Sanie 
 
@@ -788,7 +789,7 @@ Notes: You are to me all relatives put in one (father mothe etc) and so You shou
 
 manōvākkāyairanadikālapravṛtta ananta akṛtyakarana kṛtyäkaraṇa bhagavadapacara bhagavadapacāra 
 
-asahyāpacārarūpa nanavidhanantapacārān ārabdhakaryan anarabdhakaryān kṛtān kriyamāṇam kariṣya.nāṇāmśca Hisarvan aseṣataḥ kṣamasva | 
+asahyāpacārarūpa nanavidhanantapacārān ārabdhakaryan anarabdhakaryān kṛtān kriyamāṇam kariṣya.nāṇāmśca Hisarvan aseṣataḥ kṣamasva । 
 
 9. Earlier (in this Gadya), the Acarya sought the refuge of the holy feet of Śri (Piratti) so that he may acquire confidence in the chosen path (prapatti to the Lord) and a real taste for the goal (präpyaruci). Getting this prayer granted by the grace of Piratți, he proceeded to delineate the aspects of the Lord which make him approach the Lord, namely His lordship of the lower worlds and the highest Land of Bliss, and the auspicious qualities which help the supplicant such as sila (naturally mixing with the lowly) and 
 
@@ -842,7 +843,7 @@ kṛtsnajagadviṣayam ca viparitavṛttam casēṣaviṣayam adyāpi vartamāna
 
 madiyānādikarma pravaha pravṛttām 
 
-bhagavatsvarūpatirōdhānakarim viparitajñānajananim svaviṣayāyāśca bhōgyabuddhērjananim dehēndriyatvēna bhōgyatvēna sūkṣmarupēna cavasthitam daivim gunamayim māyām dāsabhūtamsaraṇāgatōsmi tavāsmidāsaḥ iti vaktāram mām tāraya | 
+bhagavatsvarūpatirōdhānakarim viparitajñānajananim svaviṣayāyāśca bhōgyabuddhērjananim dehēndriyatvēna bhōgyatvēna sūkṣmarupēna cavasthitam daivim gunamayim māyām dāsabhūtamsaraṇāgatōsmi tavāsmidāsaḥ iti vaktāram mām tāraya । 
 
 10. Earlier, the Acarya begged pardon for actions transgressing the sastras. Here he begs pardon for his perversities. Actions referred to earlier (clause 9) relate to not performing prescribed duties and indulging in prohibited activities. Here pardon is requested for acts resulting from ignorance and perverse understanding. 
 
@@ -894,15 +895,15 @@ These two epithets (1) dāsabhūtam ( saraṇāgatōsmi...vaktāram qualify mam.
 
 12. 
 
-teṣam jñāni nityayuktaḥ ēka bhaktirvisiṣyate | 
+teṣam jñāni nityayuktaḥ ēka bhaktirvisiṣyate । 
 
 priyo hi jñäninōtyarthamaham sa ca mama priyaḥ II 
 
-udārāssarva ēvaitē jñāni tvātmaiva mē matam | asthitassa hi yuktātmā māmēvānuttamām gatim || bahūnām janmanāmantē jñānavanmam prapadyatē vāsudēvāḥ sarvamiti sāmahātmā sadurlabhāḥ || iti slōkatrayōdita jñāninam mām kurūṣva II 
+udārāssarva ēvaitē jñāni tvātmaiva mē matam । asthitassa hi yuktātmā māmēvānuttamām gatim ॥ bahūnām janmanāmantē jñānavanmam prapadyatē vāsudēvāḥ sarvamiti sāmahātmā sadurlabhāḥ ॥ iti slōkatrayōdita jñāninam mām kurūṣva II 
 
-13. puruṣassa paraḥ pārtha ! bhaktya labhyastvananyayā | 
+13. puruṣassa paraḥ pārtha ! bhaktya labhyastvananyayā । 
 
-bhakya tvananyaya śakyaḥ Imadbhaktim labhatē parām | iti sthānatrayōdita parabhaktiyuktam mām kuruṣva || 
+bhakya tvananyaya śakyaḥ Imadbhaktim labhatē parām । iti sthānatrayōdita parabhaktiyuktam mām kuruṣva ॥ 
 
 14. parabhakti parajñāna paramabhaktēka svabhāvam mām 
 
@@ -996,7 +997,7 @@ Bliss parajñāna and paramabhakti have to be prayed for. The experience there i
 
 15. parabhakti parajñāna paramabhaktikṛta paripūmānavarata 
 
-nityaviśadatamananyaprayojana anavadhikātiśayapriya bhagavadanubhavōham tathavidhabhagavadanubhavajanita anuavadhikātiśyapritikārita aśēṣavasthōcita aśēṣaśēṣataika ratirūpa nityakinkarō bhavāni | 
+nityaviśadatamananyaprayojana anavadhikātiśayapriya bhagavadanubhavōham tathavidhabhagavadanubhavajanita anuavadhikātiśyapritikārita aśēṣavasthōcita aśēṣaśēṣataika ratirūpa nityakinkarō bhavāni । 
 
 16. 
 
@@ -1036,7 +1037,7 @@ lilōpakaraṇavistaraḥ aparōkṣasiddhamanniyamyatā maddā MAS syaikasvabh�
 
 drno maddāsyaikapriyaḥ, paripurna anavaratanityaviśadatama an ananyaprayōjana anavadhikātiśayapriya madanubhavastvam. Ratathavidhamadanubhavajanita anavadhikātiśayapritikarita f atasēṣāvasthōcita aśēṣasēṣataika ratirupa nityakinkarō bhava II 
 
-16. ēvam bhūtōsi || 
+16. ēvam bhūtōsi ॥ 
 
 www 
 
@@ -1076,7 +1077,7 @@ ahamkara and apacara; eventhough you may suffer from obstruction to the three st
 
 having, purely by My grace, got totally rid of all obstructions to the three-stage devotion (parabhakti etc.,) directed for ever at My lotus-like feet 
 
-adt having developed, by my blessing, the three stage devotion at my lotus like feet, to compino ay ban bytail 
+adt having developed, by my blessing, the three stage devotion at my lotus like feet, to compino ay ban bytai। 
 
 having, by my blessing, realised (fully comprehended), My essential nature, My divine form, My auspicious qualities, My worlds of sport and of bliss in all their extensiveness; 
 
@@ -1114,7 +1115,7 @@ A due to
 
 sins; etadubhaya kārya kāraṇa bhūta anãdiviparita vāsanā sambaddhōpi - though you may be bound by undesirable impressions resulting from your sins and ahamkara; ētadanuguṇaprakṛti viśēṣasambaddhōpi - though you may be strongly and inseparably bound to prakṛti; ētanmūla 
 
-may be strongl 
+may be strong। 
 
 .ever 
 
@@ -1184,7 +1185,7 @@ Stocha
 
 tathavidha madanubhavajanita anavadhikātiśaya pritikarita service induced by intense (wonderfully deep) devotion born out of your experience of Me in the manner aforesaid; aseṣavasthōcita aśēṣaśēṣatai karatirupa favourable under all circumstances, the very personification of the urge to do all kinds of service to Me; nityakinkarōbhava - you will be ever (eternally) My servant. You have been accepted as a permanent servant of Mine. 
 
-17. "You have come to be accepted in my service as detailed already", that is having become totally rid of the self and of all 
+17. "You have come to be accepted in my service as detailed already", that is having become totally rid of the self and of a॥ 
 
 - 
 
@@ -1198,7 +1199,7 @@ sins causing My displeasure, you have attained the three-stage devotion; you hav
 
 kefnavighnagandharahitastvam dvayamarthānusandhānēnasaha 
 
-sadā ēvam vaktā yavaccarirapātam atraiva śrirangē sukhamāsva || 
+sadā ēvam vaktā yavaccarirapātam atraiva śrirangē sukhamāsva ॥ 
 
 Translation: Freed from all traces of obstacles and miseries resulting from association with the body in the form of adhyatmika adhibhautika and adhidaivika varieties, you shall live happily here in Srirangam, till your body does fall, repeating the dvayamantra 
 
@@ -1298,15 +1299,15 @@ mā tē bhūdatra samsayah II
 
 me 
 
-anṛtam nōktapūrvam mē nacavakṣyē kadācanā | rāmōdvirnābhi bhāṣate | sakṛdēva prapannāya tavāsmiti ca yācatē | 
+anṛtam nōktapūrvam mē nacavakṣyē kadācanā । rāmōdvirnābhi bhāṣate । sakṛdēva prapannāya tavāsmiti ca yācatē । 
 
-abhayam sarvabhūtēbhyō dadamyētad vratam mama || sarvadharman parityajya māmēkam saranam vrája | aham tvā sarvapāpēbhyō mōkṣayiṣyami māsucaḥ Il iti mayaivahyuktam 
+abhayam sarvabhūtēbhyō dadamyētad vratam mama ॥ sarvadharman parityajya māmēkam saranam vrája । aham tvā sarvapāpēbhyō mōkṣayiṣyami māsucaḥ Il iti mayaivahyuktam 
 
 attvatō madiñanadarana prantsu atastvam tava tattvato madjñānadarśana praptiṣu nissamsayassukhamāsva II 
 
-23. antyakālē smṛtiryātu tava kainkaryakāritā | 
+23. antyakālē smṛtiryātu tava kainkaryakāritā । 
 
-tāmēnām bhagavannadya kriyamāṇām kruṣva me II Il iti saraṇāgati gadyam samaptam || 
+tāmēnām bhagavannadya kriyamāṇām kruṣva me II Il iti saraṇāgati gadyam samaptam ॥ 
 
 Text: 19. When you shed this mortal body, you will, by M grace, attain true and extensive knowledge and, thinking only of Me, with no dimunitions whatever in your resolve "The Lord is my 
 
@@ -1520,7 +1521,7 @@ as
 
 صلاة شابي 
 
-Cidacidparatatvānām tatvayāthātmyavēdinēs ma Rāmānujāya munaye namō mama gariyasē || 
+Cidacidparatatvānām tatvayāthātmyavēdinēs ma Rāmānujāya munaye namō mama gariyasē ॥ 
 
 I prostrate before my Acarya, the great sage Rāmānuja, who has a clear conception of the truth about the three entities, cit, acit and isvara. 
 
@@ -1602,7 +1603,7 @@ The three varieties of the non-conscious acetana are those characterised by tota
 
 (a) on ad,(hm 
 
-oldige one ofw soft br bind of love) sont planets all 
+oldige one ofw soft br bind of love) sont planets a॥ 
 
 92
 
@@ -1666,7 +1667,7 @@ as
 
 parabrahmam 
 
-purusottamam-Well established parabrahmaman and purusottama in the vēdānta. parabrahmam-The Superior One who is immense or immeasurable (brahma), one who can make others immense like Himself".(brahmanatva) "He makes others equal to Himself (Tiruvaimoli 8-5-2): "Those who have become like Me by virtue of this knowledge are never destroyed. (Gita 14-2). So it is that He is pleased to grant that those who realise Him become similar to Him. purusottama-the person above everyone else. ``That suprerior person, distinct from others is called paramātmā. I am superior to the kṣara, the bound soul and to the akṣara (realeased soul). The śrutis and smṛtis therefore declare Me as purusottama the Highest Person" (Gita 15-17). The word means "He who gives all desired fruits-that largest-hearted person." sriranga sayinam- one need not be satisfied only by scriptural 
+purusottamam-Well established parabrahmaman and purusottama in the vēdānta. parabrahmam-The Superior One who is immense or immeasurable (brahma), one who can make others immense like Himself".(brahmanatva) "He makes others equal to Himself (Tiruvaimoli 8-5-2): "Those who have become like Me by virtue of this knowledge are never destroyed. (Gita 14-2). So it is that He is pleased to grant that those who realise Him become similar to Him. purusottama-the person above everyone else. ``That suprerior person, distinct from others is called paramātmā. I am superior to the kṣara, the bound soul and to the akṣara (realeased soul). The śrutis and smṛtis therefore declare Me as purusottama the Highest Person" (Gita 15-17). The word means "He who gives all desired fruits-that largest-hearted person." sriranga sayinam- one need not be satisfied only by scriptura। 
 
 97Śriranga Gadyam 
 
@@ -1742,7 +1743,7 @@ Lord (Gita 7-14). prakṛti capable of wonderful transformations involved in cre
 
 adṛṣṭasantarōpayaḥ- 
 
-anāgata anantakāla samikṣayāpi therefore, I, who do not find any means to cross this ocean of samsara (cycle of birth and death) over infinite periods yet to come; nikhilajantujātasaranya !- O! One sought as proper refuge by all beings who are born, not possessed of any virtue and not devoid of sin; like saying, "Lord of all the worlds!' and then "my Lord". (The idea is that since You are the refuge of all be ngs I seek refuge in You). śrimat - refers to the presence of Sri c'oseby to intercede without giving room for punitive action on the basis of my past history of offences. Nārāyaṇa! Did you not care for the existence of this being and protect it though indifferent (or hostile) towards You? You have to favour me any way-looking at the presence of mother Śri as your natural protective grace. tavacaraṇāravinda yugalam- these lotus feet of Yours who are all merciful, easy of access most desirable and enjoyable; feet which are beyond all 
+anāgata anantakāla samikṣayāpi therefore, I, who do not find any means to cross this ocean of samsara (cycle of birth and death) over infinite periods yet to come; nikhilajantujātasaranya !- O! One sought as proper refuge by all beings who are born, not possessed of any virtue and not devoid of sin; like saying, "Lord of all the worlds!' and then "my Lord". (The idea is that since You are the refuge of all be ngs I seek refuge in You). śrimat - refers to the presence of Sri c'oseby to intercede without giving room for punitive action on the basis of my past history of offences. Nārāyaṇa! Did you not care for the existence of this being and protect it though indifferent (or hostile) towards You? You have to favour me any way-looking at the presence of mother Śri as your natural protective grace. tavacaraṇāravinda yugalam- these lotus feet of Yours who are all merciful, easy of access most desirable and enjoyable; feet which are beyond a॥ 
 
 103 
 
@@ -1754,11 +1755,11 @@ comparison except with each other. saranam prapadye - I seek as my means of deli
 
 ēvamavasthitasyāpi arthitvamātrēņa paramakāruṇikō bhagavan svanubhavaprityōpanitaikantikātyantika nityakainkaryaikaratirupa nityadasyam dasyatiti viśvāsa pūrvakam bhagavantam nityakinkaratām prarthaye (3) tavānubhutisambhūta pritikaritadasatām 
 
-dēhi nē kṛpayā nātha ! najanē gatimanyatha || (4) 
+dēhi nē kṛpayā nātha ! najanē gatimanyatha ॥ (4) 
 
-sarvävasthōcitāsēṣasēṣataikaratistava | 
+sarvävasthōcitāsēṣasēṣataikaratistava । 
 
-bhavēyam pundarikakṣa ! tvamēvaivam kurūṣva mām || (5) 
+bhavēyam pundarikakṣa ! tvamēvaivam kurūṣva mām ॥ (5) 
 
 Tranlation 3:- Though I am in this state (full of defects enumerated earlier), I beg of the Lord my acceptance in eternal service (to Him) in the firm faith that the all merciful Lord, heeding to my earnest request, will grant me the favour of steadfastness in everlasting service to Him urged by devotion resulting from the experience of the Lord. 
 
@@ -1810,7 +1811,7 @@ How do
 
 (6) 
 
-apārakarūṇāmbudhē! anālōcitaviśēṣāsēṣalōka śaraṇya! praṇatārtihara ! āśritavatsalyaikamahōdadhē! anavarataviditanikhilabhūtajātayāthātmā ! satyakāma ! satyasankalpa! apatsakha! kākustha! śriman ! nārāyaṇa! la purusottama! śriranganatha ! mamanatha ! namōstute || voll iti srirangadyam samaptam || 
+apārakarūṇāmbudhē! anālōcitaviśēṣāsēṣalōka śaraṇya! praṇatārtihara ! āśritavatsalyaikamahōdadhē! anavarataviditanikhilabhūtajātayāthātmā ! satyakāma ! satyasankalpa! apatsakha! kākustha! śriman ! nārāyaṇa! la purusottama! śriranganatha ! mamanatha ! namōstute ॥ voll iti srirangadyam samaptam ॥ 
 
 Lots Ch 
 
@@ -1898,11 +1899,11 @@ In the fourth section, the Acarya says that the Lord accept the supplicant as de
 
 the Lord with rapture without even a without attention to anything else, making up for the very lon period lost without this happy service. The sixth sub-section describes the way the Lord enquires the welfare of the devotee how He bestows His cool sight (showering favours) and places Hi lotus feet on the devotee's head. The latter, crowned by this favour is immersed in joy and stays as the 'Lord of the empire of service unto the Lord. 
 
-Yamunaryasudhambhodhimavagahya yathamati | 
+Yamunaryasudhambhodhimavagahya yathamati । 
 
 112
 
-Adaya bhaktiyōgākhyam ratnam sandarśayāmyaham | 
+Adaya bhaktiyōgākhyam ratnam sandarśayāmyaham । 
 
 I will delve deep into the nectarine Ocean that is Yamuna (his teachings) and will bring out the gem that is bhaktiyōga and show it out as best as I can for the experience of the devoted. The idea is that the Acarya wrill give out of the spiritual wealth left by Śri Alavandar for the daily experience of the devoted. The bhaktiyōga mentioned here is only prapatti which is the result of bhakti (sadhyōpāya). Later the acarya actually says that for infinite time there is no way of attaining His feet except through prapatti. 
 
@@ -1920,9 +1921,9 @@ svābhāvikānavadhikātiśayaguṇavattayā dēvatiryakmanuṣyadyakhilajanah�
 
 āśritavātsalyaikajaladhēḥ bhaktajanasamślēṣaikabhōgasya, nityajñānakriyaiśvaryadibhōga samagrisamṛddhasya, 
 
-mahāvibhūtēḥ, śrimatccaraṇāravindayugalam ananyātmasañjivanena tadgatasarvabhavēna saranamanuvrajet || 1 || 
+mahāvibhūtēḥ, śrimatccaraṇāravindayugalam ananyātmasañjivanena tadgatasarvabhavēna saranamanuvrajet ॥ 1 ॥ 
 
-tataśca pratyaham atmōjjivanāya ēvamanusmarēt || 2 || 
+tataśca pratyaham atmōjjivanāya ēvamanusmarēt ॥ 2 ॥ 
 
 โป 
 
@@ -2070,7 +2071,7 @@ b It may be asked; He may be prepared to mix freely with all; do others like Him
 
 the bod People addrss Śri Rama: "O, Rāma ! you are pleasing to the eye as much as men desire; You are pleasing to the hearts of the gods." The youthfulness, brilliance and softness, all pleasing to the eyes, are referred to here (devatiryak... etc.,). It is said; "The demoness (Surpanakha) was filled with lust when she set her eyes on the beautiful dark form (of Rama) resembling the god of love." She was captivated by His beauty and told Ravana "Those beautiful youths with large lotus like eyes." The sylvan gods wished to become human maidens when they saw Rāma walking bow in hand." Such is His captivating form. tiryak - animal. hanuman told Sitā "Rāma whose eyes are large like lotus petals captivates the hearts of all the living." Hanuman is referred to as "Son of Vayu, the monkey, the animal." He exemplifies all three.; manusya - of men. The sages of Dandaka forest were struck with wonder at the extraordinary beauty and symmetry of Rama's form". adi - and so on; this means the non sentient; a stone melted and became a maiden (Ahalya). akhilajana - irrespective of whether friend or foe; hṛdayanandanasya-not like one who though good-looking kindles harsh feelings; "He captivates the sight and the heart of men"; "He makes the hearts of all melt with emotion"; "Having lost the heart one has to send a messenger to it to return" Such is His exceptional beauty. 
 
-lipuurid bol 
+lipuurid bo। 
 
 - 
 
@@ -2434,11 +2435,11 @@ with a narāyaṇāya namah" iti praṇamya, utthayōtthaya punaḥ punaḥ
 
 praṇāmya atyanta sadhvasavinayāvanatō bhūtva, bhagavatpāriṣadagananayakaiḥ dvarapālaiḥ krpayān snehagarbhaya dṛśa avalōkitōbhutvāsamyagabhivanditaiḥy htaistairēvānumatōbhutvā bhagavantamupetya śrimata 
 
-mulamantrēņa `bhagavan! mām ēkāntika ātyantika paricaryākaraṇāya parigṛhniṣva" iti yacamanaḥ pranṇamya ātmānam bhagavate nivēdayēt l 
+mulamantrēņa `bhagavan! mām ēkāntika ātyantika paricaryākaraṇāya parigṛhniṣva" iti yacamanaḥ pranṇamya ātmānam bhagavate nivēdayēt । 
 
 Text and Comments: 3J:- The description of the Lord's divine form is followed by the wealth of His attendants and His own qualities which please His devotees. The first reference is to His first deputy and personal secretary - Śri Sēnāpati Āļvān or Viśvaksēna. 
 
-sankalpamātrāvaklupta jagajjanmasthiti dhvamsadhike-the entire wealth of the Lord is entrusted with Śri Viśvaksēna who is capable of managing the creation, protection and destruction of all movable and immovable objects by his mere thoughts; Śrimati Viśvaksēnē - with Viśvaksēna (Senapati) who is born inheriting the immense wealth of service unto Him; nyasta samasta atma aiśvaryam- entrusted all the worlds in his sway. (The Lord delegates all 
+sankalpamātrāvaklupta jagajjanmasthiti dhvamsadhike-the entire wealth of the Lord is entrusted with Śri Viśvaksēna who is capable of managing the creation, protection and destruction of all movable and immovable objects by his mere thoughts; Śrimati Viśvaksēnē - with Viśvaksēna (Senapati) who is born inheriting the immense wealth of service unto Him; nyasta samasta atma aiśvaryam- entrusted all the worlds in his sway. (The Lord delegates a॥ 
 
 His powers to this trusted deputy, Śri e services of other close attendants follow) Viśvaksēna. The vainateyādibhiḥ- by Vainateya and others. Vainateya is another name for Garuda, the Lord's bird-vehicle; 'others' refers to the innumerable attendants of different cadres, personal attendants like 
 
@@ -2510,13 +2511,13 @@ tatō bhagavata svayamēvātmasañjivanēnāvalōkanēnāvalōkya sasmitamāhūy
 
 (iti Srivaikunthagadyam samaptam) 
 
-Lakṣmipateryatipatēśca dayaikadhāmnā ich Yōsau pura samajaniṣṭa jagadhitärtham | 
+Lakṣmipateryatipatēśca dayaikadhāmnā ich Yōsau pura samajaniṣṭa jagadhitärtham । 
 
-Pracyam prakāśayatu naḥ paramam rahasyam Samvada ēṣa saraṇāgatimantrasāraḥ || 
+Pracyam prakāśayatu naḥ paramam rahasyam Samvada ēṣa saraṇāgatimantrasāraḥ ॥ 
 
 by the 
 
-Text and comments:- 4 The next sentence (4) says that the supplicant will, after acceptance by the Lord according to his request will ever be engaged in His service. tataḥ- after the conveyance of the self to the Lord (after the surrender); bhagavataḥ by the supreme Lord, Purushottama, by himself voluntarily, as prayed for by the supplicant; atmasanjivanēna avalōkanena- by the look which is the basis of spiritual ennoblement (uplift); amaryādaśilavatā atiprēmānvitēna avalōkanēna-a very loving and affectionate look indicative of his extreme miscibility, avalokya - conferring grace (the look-kaṭākṣa showers grace); sarvadeśasarvakāla sarvävasthōcita atyanta sēṣa bhāvāya- for eternal servitude at all times, places and under all 
+Text and comments:- 4 The next sentence (4) says that the supplicant will, after acceptance by the Lord according to his request will ever be engaged in His service. tataḥ- after the conveyance of the self to the Lord (after the surrender); bhagavataḥ by the supreme Lord, Purushottama, by himself voluntarily, as prayed for by the supplicant; atmasanjivanēna avalōkanena- by the look which is the basis of spiritual ennoblement (uplift); amaryādaśilavatā atiprēmānvitēna avalōkanēna-a very loving and affectionate look indicative of his extreme miscibility, avalokya - conferring grace (the look-kaṭākṣa showers grace); sarvadeśasarvakāla sarvävasthōcita atyanta sēṣa bhāvāya- for eternal servitude at all times, places and under a॥ 
 
 143 
 
@@ -2542,7 +2543,7 @@ In Text and Comments: 6-He will remain there crowned in the
 
 
 
-empire of service to the Lord; tatōbhagavatā...āhūya- refers to the gracious look and smile of the Lord at the supplicant, inviting him who is hesitant to approach near; being conscious of his own lowliness against His immeasurable greatness (What is His greatness? What am I to go near Him) and by His kind and gracious look and smile inviting him to come near in a sweet voice all 
+empire of service to the Lord; tatōbhagavatā...āhūya- refers to the gracious look and smile of the Lord at the supplicant, inviting him who is hesitant to approach near; being conscious of his own lowliness against His immeasurable greatness (What is His greatness? What am I to go near Him) and by His kind and gracious look and smile inviting him to come near in a sweet voice a॥ 
 
 to com unique to Himself and removing all mental uneasiness. samastaklēśāpaham- capable of removing all worldly misery. (the following qualify His lotus feet); niratiśayasukhavaham-extremely comforting. atmiyam-His own; śrimat extremely desirable; pādāravindayugalam-two identical lotus feet; sirasikṛtamdhyātvā- assuming that they have been placed on his head; amṛtasägara antarnimagnaḥ- as if immersed in the nectarine occan of bliss; sarvavayavaḥ sukhamāsita- remain feeling the joyous experience throughout the body. 
 
