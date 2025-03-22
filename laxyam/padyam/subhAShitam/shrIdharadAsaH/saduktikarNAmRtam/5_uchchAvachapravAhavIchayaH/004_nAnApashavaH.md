@@ -70,15 +70,21 @@ title = "००४ नानापशवः"
 
 <details><summary>विश्वास-प्रस्तुतिः - २०१९</summary>
 
-दुर्वारकेलिकलैम्भभयाद् इदानीं  
-व्यालम्बिलोलकुचकम्बलभारमन्दा ।  
-सन्दश्य विश्लथम् उदञ्चयता मुखेन   
-शावं शुनी नयति शालिपलालकूटम् ॥२०१९॥
+दुर्वार-केलि-कल-+++(मानुष-)+++डिम्भ-भयाद् इदानीं  
+व्यालम्बि-लोल-कुच-कम्बल-भार-मन्दा ।  
+**सन्दश्य** विश्लथम् **उदञ्चयता** मुखेन   
+शावं शुनी **नयति** शालि-पलाल+++(=तृण)+++-कूटम् ॥२०१९॥+++(4)+++
 </details>
+
+<details><summary>English - शङ्करः</summary>
+
+Afraid of the naughty, unstoppable child, the bitch - her gait slowed down by the weight of a loosely hanging row of breasts - gently grabs the puppy with her mouth and carries it to a heap of straw.
+</details>
+
 
 <details><summary>मूलम् - २०१९</summary>
 
-दुर्वारकेलिकलैम्भभयाद् इदानीं  
+दुर्वारकेलिकलडिम्भभयाद् इदानीं  
 व्यालम्बिलोलकुचकम्बलभारमन्दा ।  
 सन्दश्य विश्लथम् उदञ्चयता मुखेन   
 शावं शुनी नयति शालिपलालकूटम् ॥२०१९॥

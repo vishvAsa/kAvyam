@@ -91,11 +91,18 @@ title = "०१३ हरकपालः"
 
 <details><summary>विश्वास-प्रस्तुतिः - ६५</summary>
 
-पायाद् वः स शिरांसि ताण्डवविधौ यन् मूर्ध्नि खिन्नोरग  
-श्वासाग्निद्रुतचूडचन्द्रसुधया प्राणन्त्य् अकस्माद् विधेः ।  
-ऋक्सामे कतिचित् पठन्ति कतिचिन् मज्जन्ति गङ्गाजले  
-स्वात्मानं कतिचिन् मनन्ति कतिचिन् नेत्रानले जुह्वति ॥६५॥
+**पायाद्** वः स शिरांसि ताण्डव-विधौ यन्-मूर्ध्नि खिन्नोरग-  
+श्वासाग्नि-**द्रुत**-चूड-चन्द्र-सुधया **प्राणन्त्य्** अकस्माद् विधेः ।  
+ऋक्-सामे कतिचित् **पठन्ति**, कतिचिन् **मज्जन्ति** गङ्गा-जले,  
+स्वात्मानं कतिचिन् **मनन्ति**, कतिचिन् नेत्रानले **जुह्वति** ॥६५॥+++(5)+++
 </details>
+
+
+<details><summary>English - शङ्करः</summary>
+
+During Shiva's robust TanDava dance, the hot breaths of the tired serpents adorning his head melt the moon nearby; the melting moon drips amRta; the dripping amRta brings to life the heads of various Brahmas of various kalpas) which are his crest ornaments. Some of these heads start chanting Vedic mantras, some take a dip in the waters of Ganga, some start to meditate, and yet others make offerings in the fire of the third eye.
+</details>
+
 
 <details><summary>मूलम् - ६५</summary>
 

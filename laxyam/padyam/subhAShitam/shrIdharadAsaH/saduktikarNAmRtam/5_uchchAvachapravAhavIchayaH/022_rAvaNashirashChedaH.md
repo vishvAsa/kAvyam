@@ -70,11 +70,17 @@ title = "०२२ रावणशिरश्छेदः"
 
 <details><summary>विश्वास-प्रस्तुतिः - २१०९</summary>
 
-श्रीकण्ठस्य पुरः परस्परबलाधिक्षेपकक्षावतां  
-बाहूनां दशकद्वयं दशशिरश्छेदे विवादाकुलम् ।  
-प्रत्येकं शमयत्य् असाव् अभिमतव्याक्षेपसापत्रपश्  
-छिन्धि त्वं जुहुधि त्वम् इत्य् उपदिशन्न् एकः परं रावणः ॥२१०९॥
+श्रीकण्ठस्य पुरः - परस्-पर-बलाधिक्षेप-कक्षावतां  
+बाहूनां दशक-द्वयं दश-शिरश्-**छेदे** **विवादाकुलम्** ।  
+प्रत्येकं **शमयत्य्** असाव् अभिमत-व्याक्षेप-**सापत्रपश्**  
+**छिन्धि** त्वं, **जुहुधि** त्वम् इत्य् **उपदिशन्न्** एकः परं रावणः ॥२१०९॥
 </details>
+
+<details><summary>English - शङ्करः</summary>
+
+Ravana's twenty arms criticize one another's prowess and fight amongst themselves to cut his ten heads before Shiva; so, he pacifies them by assigning a job to each - "You cut the head", "You offer the head into fire".
+</details>
+
 
 <details><summary>मूलम् - २१०९</summary>
 

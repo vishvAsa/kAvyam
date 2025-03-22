@@ -91,11 +91,18 @@ title = "०४९ तद्गृहिणी"
 
 <details><summary>विश्वास-प्रस्तुतिः - २२४५</summary>
 
-सक्तूञ् शोचति सम्प्लुतान् प्रतिकरोत्य् आक्रन्दतो बालकान्  
-प्रत्युत्सिञ्चति कर्परेण सलिलं शय्यातृणं रक्षति ।  
-दत्त्वा मूर्ध्नि विशीर्णशूर्पशकलं जीर्णे गृहे व्याकुला  
-किं तद् यन् न करोति दुःस्थगृहिणी देवे भृशं वर्षति ॥२२४५॥
+सक्तूञ् **शोचति** सम्प्लुतान्, **प्रतिकरोत्य्** आक्रन्दतो बालकान्  
+**प्रत्युत्सिञ्चति** कर्परेण सलिलं, शय्या-तृणं **रक्षति** ।  
+**दत्त्वा** मूर्ध्नि विशीर्ण-शूर्प-शकलं, जीर्णे गृहे व्याकुला  
+किं तद् यन् **न करोति** दुः-स्थ-गृहिणी देवे भृशं **वर्षति** ॥२२४५॥
 </details>
+
+<details><summary>English - शङ्करः</summary>
+
+She cries over the wet barley flour; pacifies her children; throws out the water with a potsherd; safeguards the straw bed; and covers her head with an old basket - the  poor man's helpless wife when the it rains nonstop on her hut.
+</details>
+
+
 
 <details><summary>मूलम् - २२४५</summary>
 
