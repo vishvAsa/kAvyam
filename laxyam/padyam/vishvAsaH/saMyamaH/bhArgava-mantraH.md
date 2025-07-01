@@ -11,6 +11,16 @@ unicode_script: devanagari
 पर्वतादौ दरे स्मये।  
 ऋषेर् दृष्टौ कवेरुक्तौ  
 योद्धृ-कायोपपादने॥  
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+An unforgettable feeling I got to replicate a few times. Some approximation of the feeling of being close to death without dying (<-- very important).
+
+Stunts are for others - eg. idiots taking selfies and dying. Status nonsense and such.  
+But this is for oneself, More like meditation.
+</details>
+
+
 विस्मये वृष्टि-सन्ध्यादौ  
 देवकृत्ये जने जने।  
 मन्त्रे तन्त्रे सद्-आचारे  
