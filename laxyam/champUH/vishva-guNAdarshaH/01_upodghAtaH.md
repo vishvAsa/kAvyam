@@ -73,6 +73,16 @@ title = "०१ उपोद्घातः"
      पूर्णैर्गुणै
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> venkaTAdhvarin refers to the English residing in chennai. Chennai was given to English only in 1639 and their proper settlement came up a few years later with the fort being built.  
+>
+> Venkata tatarya was alive in the early 1520s when the grant was made by Krishna Raya. Maybe venkata tatarya was succeeded by PMB in the last years of KDRs reign PMB was active till 1580s. PMB was contemporary to achyuta deva raya and sadashiva raya. His adopted son (brother's son), Lakshmi Kumara became guru of venkatapati the great. LKT started in 1585 when he was 14. 
+> 
+> In that case he must be the bhagineya of venkata tatarya who was the guru of Krishna deva raya. Since krishna raya gives agra tamboola maryada in all Vishnu kshetras in his empire to said tatarya. Or maybe venkata tatarya was succeeded by PMB in the last years of KDRs reign.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 काञ्चीमण्डलमण्डनस्य मखिनः कर्नाटभूभृद्गुरो   
