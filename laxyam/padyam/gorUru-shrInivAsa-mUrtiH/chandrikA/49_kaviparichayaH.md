@@ -5,7 +5,8 @@ title = "४९ कविपरिचयः"
 
 गॊरूरु-श्रीनिवासमूर्ताव् इतोऽप्य् [अत्र](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/atriH/) । इह तत्कृतः परिचयः प्रस्तूयते।
 
-{{< figure src="/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/atriH/images/gorUru-shrInivAsa-mUrti.png" title="" class="thumbnail">}}
+![](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/atriH/images/gorUru-shrInivAsa-mUrti.png)
+{caption="" class="thumbnail"}
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

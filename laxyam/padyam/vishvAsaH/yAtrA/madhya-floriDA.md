@@ -6,7 +6,8 @@ unicode_script: devanagari
 
 ## सङ्कल्पः
 
-{{< figure src="../images/varuNa.png" class="thumbnail">}}  
+![](../images/varuNa.png)
+{class="thumbnail"}  
 
 फ़्लोरिडायामभूद्या मे यात्रा तस्यां वदाम्यहम्।  
 आदित्य मकरारूढ तत्र देह्यवलम्बनम्॥
@@ -17,41 +18,50 @@ unicode_script: devanagari
 
 ## गेटोर्लाण्ड्-गोधाः
 
-{{< figure src="../images/crocodiles_gatorland.png" class="thumbnail">}}  
+![](../images/crocodiles_gatorland.png)
+{class="thumbnail"}  
 आदौ मकरसाम्राज्यं गेटर्लाण्ड् दृष्टमद्भुतम्।  
 अहो प्रकृष्टा तत्रत्या पशुमानुषमित्रता॥
 
-{{< figure src="../images/alligator_wrestling.png" class="thumbnail">}}  
-{{< figure src="../images/bullwhip_florida.png" class="thumbnail">}}  
+![](../images/alligator_wrestling.png)
+{class="thumbnail"}  
+![](../images/bullwhip_florida.png)
+{class="thumbnail"}  
 गोपालैर् मकरैस् साकं मल्लयुद्धं प्रदर्शितम्।  
 तत्कषाजन्यशब्दोऽभूद् ग्राहवालाद्धि भीकरः॥
 
-{{< figure src="../images/bird_on_gator.png" class="thumbnail">}}  
+![](../images/bird_on_gator.png)
+{class="thumbnail"}  
 भूकम्पकमहावंशा-ऽवतंसा यद्विहङ्गमाः।  
 महाग्राहेषु निर्भीका तन्मांसं खल्वचोरयन्॥  
 (भूकम्पकाः = dinosaur। पक्षिणः प्रायेण तद्वंशीया इति विज्ञानिनः। अनुचितनामवारणे मानसतरङ्गिणीकारेणोपकृतो ऽस्मि।)
 
 ## वनवर्णनम्
 
-{{< figure src="../images/florida_swamp.png" class="thumbnail">}}  
+![](../images/florida_swamp.png)
+{class="thumbnail"}  
 कच्छभूमौ च तत्रासन् घर्मकीटाम्बुभिस् तथा।  
 व्यालैर् ग्राहैस् सुगुप्तानि वनानि वरुणालयाः॥
 
-{{< figure src="../images/areal_root.png" class="thumbnail">}}  
+![](../images/areal_root.png)
+{class="thumbnail"}  
 तत्र वृक्षा बहूत्तुङ्गा जलादूर्ध्वं समुत्क्षिपन्।  
 जानवो मूलतः किञ्चिद्+आधारस्येव शङ्कया॥
 
-{{< figure src="../images/creepers_on_trees.png" class="thumbnail">}}  
+![](../images/creepers_on_trees.png)
+{class="thumbnail"}  
 देवदारुविकारं तं वर्धयन्त्य इवाभवन्।  
 वृक्षेषु वर्धमानास् ताः लताश् श्मश्रुनिभाः‌ पुनः॥
 
 ## तापः
 
-{{< figure src="../images/heat.png" class="thumbnail">}}  
+![](../images/heat.png)
+{class="thumbnail"}  
 स्वेदवृष्ट्या च घर्मोऽभूज् जनैः कृष्णघनप्रभैः।  
 अच्छवस्त्राशनिस्पृष्टैः देवराडिव भूगतः॥
 
-{{< figure src="../images/pitR-putrau.png" class="thumbnail">}}  
+![](../images/pitR-putrau.png)
+{class="thumbnail"}  
 तद्भक्त्येव ममाभूत् तत् भारतीयं च वेष्टनम्।  
 तापतप्तैर् हि यत् क्लृप्तं मम तपस्विपूर्वजैः॥
 
@@ -60,7 +70,8 @@ unicode_script: devanagari
 यात्रिकावासवैविध्यं चन्द्रभास्करसन्निभम्।  
 दृष्टावविरभूत् किञ्चित् तत्रत्यं विस्मयान्वितम्॥
 
-{{< figure src="../images/disney_africa_hotel.png" class="thumbnail">}}  
+![](../images/disney_africa_hotel.png)
+{class="thumbnail"}  
 एकत्रात्यन्तमुत्तुङ्गं भवनमाढ्यसेवितम्।  
 व्यायामागारकुण्डैश्चा-रामै रम्यापणैस्तथा॥
 
@@ -70,7 +81,8 @@ unicode_script: devanagari
 इन्द्रप्रस्थ इव स्वर्ग इवाथवेति यत्कृते।  
 विवादा हि भवेयुस् ते मयत्वष्ट्रादिमेलने॥
 
-{{< figure src="../images/cigarette_butts.png" class="thumbnail">}}  
+![](../images/cigarette_butts.png)
+{class="thumbnail"}  
 अन्यत्रानाढ्यसम्बाधम्+अनासक्तैर् हि पालितम्।  
 शंसदत्यन्तनिर्वेदं छिन्नयन्त्रमुखैरिव॥ 
 
@@ -83,7 +95,8 @@ unicode_script: devanagari
 
 ## डिस्नि-प्रदर्शिन्यः
 
-{{< figure src="../images/disney_africa_village.png" class="thumbnail">}}  
+![](../images/disney_africa_village.png)
+{class="thumbnail"}  
 डिस्नितोऽत्र प्रदर्शिन्यो लसन्त्युल्लासहेतवः।  
 यत्सम्बाधजयार्थं हि प्रेक्षकाः पुस्तकाश्रयाः॥
 
@@ -96,11 +109,13 @@ unicode_script: devanagari
 तत्तद्देशजना जीवा अन्येऽप्यानीय दर्शिताः।  
 विस्मयोद्भावने नूनं दीक्षिता डिस्निसेवकाः॥
 
-{{< figure src="../images/disney_scifi.png" class="thumbnail">}}  
+![](../images/disney_scifi.png)
+{class="thumbnail"}  
 विज्ञानवैभवं चैव दर्शितं बालबोधने।  
 वृद्धा अपि च तल्लीना भवन्तीति न संशयः॥
 
-{{< figure src="../images/disney_himalaya_ride.png" class="thumbnail">}}  
+![](../images/disney_himalaya_ride.png)
+{class="thumbnail"}  
 तत्र रोमाञ्चनं लब्धं भीकरावाहितेष्वथ।  
 मनःशान्तिकषास् ते मे दर्शनानुगुणं जगत्॥
 
@@ -108,7 +123,8 @@ unicode_script: devanagari
 
 ## समुद्रतीरः
 
-{{< figure src="../images/sunset_on_sea.png" class="thumbnail">}}  
+![](../images/sunset_on_sea.png)
+{class="thumbnail"}  
 अब्धितीरेषु तद्देशे ऽसत्यभावे प्रयत्नतः।  
 प्रसन्नाम्ब्विति संज्ञातं यथार्थं हि मया गतम्॥
 
@@ -118,33 +134,39 @@ unicode_script: devanagari
 रम्यं तत्रत्यसूर्यास्तं‌ सायंकर्मप्रचोदकम्।  
 दृष्टं सौभग्यतो हृद्यम् धियो नश् च प्रचोदितम्॥
 
-{{< figure src="../images/gulf_of_mexico.png" class="thumbnail">}}  
+![](../images/gulf_of_mexico.png)
+{class="thumbnail"}  
 पूर्वतीरेषु दृष्टं यद् एकं स्थाल्योदनं यथा।  
 दर्शयल्लवणाधिक्यं भीमवीच्यम्बुधेश् चिरम्॥
 
 ## नासा
 
-{{< figure src="../images/nasa_kennedy_center.png" class="thumbnail">}}  
+![](../images/nasa_kennedy_center.png)
+{class="thumbnail"}  
 तत्र समुद्रतीरेऽस्ति नासा-प्रक्षेप-पट्टनम्।  
 सुख्यातं बहुविस्तारम् सुव्यवस्थितमुत्तमम्॥
 
 [नासा = NASA प्रक्षेपः= rocket]
 
-{{< figure src="../images/nasa_rocket_factory.png" class="thumbnail">}}  
+![](../images/nasa_rocket_factory.png)
+{class="thumbnail"}  
 महाप्रक्षेपनिर्माणे योग्यस् स्यादालयो महान्।  
 तद्यात्रा च भवेत् साध्या महारथैर्हि नान्यथा॥
 
-{{< figure src="../images/nasa_shuttle.png" class="thumbnail">}}  
+![](../images/nasa_shuttle.png)
+{class="thumbnail"}  
 महाराष्ट्रेण तत्कॢप्तिः न क्षुद्रेण कदाचन।  
 धैर्यं वीर्यं तथा ज्ञानम् अस्मत्तुल्यं च दुर्लभम्॥
 
-{{< figure src="../images/nasa_kennedy_quote.png" class="thumbnail">}}  
+![](../images/nasa_kennedy_quote.png)
+{class="thumbnail"}  
 इति ब्रुवाणमत्यर्थं भारतानिव चोदयत्।  
 भिन्नप्रदर्शनैर् दक्षैर् अद्भुतैर् विभ्रमस्फुरैः॥
 
 ## मङ्गलम्
 
-{{< figure src="../images/ChinnamastA.png" class="thumbnail">}}  
+![](../images/ChinnamastA.png)
+{class="thumbnail"}  
 सत्कृत्येषु महावीर्यं कामे नन्दं च सत्वरम्।  
 छिन्नमस्ता दिशेत् प्रीता घोरनृत्यविलासिनी॥
 

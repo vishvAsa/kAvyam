@@ -35,7 +35,8 @@ unicode_script = "devanagari"
 अत्यक्त्वा **काशयामहे**॥
 
 
-{{< figure src="../images/nehru-edwina.jpg" title="" class="thumbnail">}}
+![](../images/nehru-edwina.jpg)
+{caption="" class="thumbnail"}
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 

@@ -19,4 +19,5 @@ unicode_script = "devanagari"
 -  “b” stands for flat and “#” stands for sharp. Flat means to play the note a half step lower, while sharp means to play the note a half step higher.
 
 ### Clef notes
-{{< figure src="../images/Clef_Diagram.png" title="">}}
+![](../images/Clef_Diagram.png)
+{caption=""}

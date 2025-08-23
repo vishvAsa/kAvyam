@@ -3,7 +3,8 @@ title = "समं विद्ध्वा समागमत्"
 unicode_script = "devanagari"
 +++
 
-{{< figure src="../images/nIraj-chopra-throw.jpg" title="" class="thumbnail">}}
+![](../images/nIraj-chopra-throw.jpg)
+{caption="" class="thumbnail"}
 
 
 नीरजप्रेरितः कुन्त  
