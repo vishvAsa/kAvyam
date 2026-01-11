@@ -16,7 +16,7 @@ Oriental Library Publications.
 
 
 
-## अलङ्कारमणिहारः
+अलङ्कारमणिहारः
 
 **श्रीमद्भिः श्रीकृष्णब्रह्मतन्त्रपरकालसंयमीन्द्रैः प्रणीतः**
 
@@ -26,7 +26,7 @@ Oriental Library Publications.
 _________
 
 
-## THE
+THE
 
 
 
@@ -34,7 +34,7 @@ _________
 
 
 
-## ALANKĀRA-MAŅIHĀRA
+ALANKĀRA-MAŅIHĀRA
 
 BY
 
