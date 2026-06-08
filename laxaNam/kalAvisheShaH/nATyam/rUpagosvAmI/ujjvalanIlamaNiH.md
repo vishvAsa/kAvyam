@@ -17,7 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUyOTQ2ODE4NjA
 
 \[
 
-# Please dont Edit this page (Blank Page)
 
 **KĀVYAMĀLĀ. 95**
 
@@ -68,11 +67,11 @@ PRINTER:—Ramchandra Yesu Shedge, }26-28, Kolbhat Lane, Bombay.
 
 [TABLE]
 
-# Please dont Edit this page (Blank Page)
 
-**भूमिका।**                             
 
- <MISSING_FIG href="../books_images/U-IMG-1707647165FEB2.PNG"/>
+### भूमिका
+
+
 
  श्रीमद्रूपगोस्वामी श्रीमज्जीवगोस्वामी च श्रीगौडमहाप्रभोः समसामयिकौ। श्रीगौडमहाप्रभोः श्रीगौरमहाप्रभोर्वा प्रादुर्भावकालः (१५३३ ख्रि० अ०) श्रीचैतन्यचन्द्रोदयाख्यस्य नाटकस्य भूमिकायां प्रतिपादित एवास्माभिः। अतः स एव (१५३३ A. D.) श्रीरूपगोस्वामिसत्ताकालः।
 
@@ -987,11 +986,11 @@ PRINTER:—Ramchandra Yesu Shedge, }26-28, Kolbhat Lane, Bombay.
 
 **विषयानुक्रमः समाप्तः।**
 
-# Please dont Edit this page (Blank Page)
+
 
 **काव्यमाला।**
 
- <MISSING_FIG href="../books_images/U-IMG-1703658430Captureकाव्यमाला.PNG"/>
+
 
 ** श्रीमद्रूपदेवगोस्वामिविरचितः**
 
@@ -1001,7 +1000,7 @@ PRINTER:—Ramchandra Yesu Shedge, }26-28, Kolbhat Lane, Bombay.
 
 श्रीजीवगोस्वामिविरचितया लोचनरोचिन्याख्यया टीकया चालंकृतः।
 
-  <MISSING_FIG href="../books_images/U-IMG-1703658774Captureकाव्यमाला2.PNG"/>
+ 
 
   नायकभेदाः।
 
