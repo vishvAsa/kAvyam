@@ -2012,7 +2012,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4
 
 \*\*\*\*\*\*\*\*\*
 
-## अपहृतय्-अलङ्कारः
+## अपहृत्य्-अलङ्कारः
 
 ### ०१
 
@@ -2337,7 +2337,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4
 
 \*\*\*\*\*\*\*\*\*
 
-## अतिशयोक्तय्-अलङ्कारः
+## अतिशयोक्त्य्-अलङ्कारः
 
 ### ०१
 
@@ -2912,7 +2912,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4
 
 \*\*\*\*\*\*\*\*\*
 
-## सहोक्तय्-अलङ्कारः
+## सहोक्त्य्-अलङ्कारः
 
 ### ०१
 
@@ -2985,7 +2985,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4
 
 \*\*\*\*\*\*\*\*\*
 
-## विनोक्तय्-अलङ्कारः
+## विनोक्त्य्-अलङ्कारः
 
 ### ०१
 
@@ -3032,7 +3032,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4
 
 \*\*\*\*\*\*\*\*\*
 
-## समासोक्तय्-अलङ्कारः
+## समासोक्त्य्-अलङ्कारः
 
 ### ०१
 
@@ -3535,7 +3535,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4
 
 \*\*\*\*\*\*\*\*\*
 
-## व्याजस्तुतय्-अलङ्कारः
+## व्याजस्तुत्य्-अलङ्कारः
 
 ### ०१
 
@@ -3824,7 +3824,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4
 
 \*\*\*\*\*\*\*\*\*
 
-## विशेषोक्तय्-अलङ्कारः
+## विशेषोक्त्य्-अलङ्कारः
 
 ### ०१
 
@@ -3869,7 +3869,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4
 
 \*\*\*\*\*\*\*\*\*
 
-## असङ्गतय्-अलङ्कारः
+## असङ्गत्य्-अलङ्कारः
 
 ### ०१
 
@@ -4468,7 +4468,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4
 इति रसगङ्गाधरे परिसङ्ख्याप्रकरणम् ।
 
 रसगङ्गाधरः - अर्थापत्ति अलङ्कारः  
-## अर्थापत्तय्-अलङ्कारः  
+## अर्थापत्त्य्-अलङ्कारः  
 अथार्थापत्तिः-
 
 केनचिदर्थेन तुल्यन्यायत्वादर्थान्तरस्यापत्तिर्थापत्तिः ॥  
@@ -4616,7 +4616,7 @@ Tags : grammerrasagangadharsanskritरसगङ्गाधरव्याकर
 
 इति रसगङ्गाधरे प्रतीपप्रकरणम् ।  
 रसगङ्गाधरः - प्रौढोक्ति अलङ्कारः  
-## प्रौढोक्तय्-अलङ्कारः  
+## प्रौढोक्त्य्-अलङ्कारः  
 अथ प्रौढोक्तिः-
 
 कस्मिंश्चिदर्थे किञ्चिद्धर्मङ्कृतातिशयप्रतिपिपादयिषया प्रसिद्ध-तद्धर्मवता संसर्गस्योद्भावनं प्रौढोक्तिः ॥  
