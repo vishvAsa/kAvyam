@@ -28,11 +28,17 @@ title = "०७३ श्मशानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३६२</summary>
 
-शिरां प्रेतः कश्चिद् दशति दशनाग्रेण सरसां  
-लिलिक्षुर् मस्तिष्कं कलयति च मूर्धानम् इतरः ।  
-करं धूत्वा धूत्वा ज्वलदनलदीप्ताङ्गुलिशिखं  
-चितास्थालीपक्वं हरति कुणपक्रव्यम् अपरः ॥२३६२॥
+शिरां+++(=प्राण-नालं)+++ प्रेतः कश्चिद् **दशति** दशनाग्रेण सरसां  
+**लिलिक्षुर्** मस्तिष्कं **कलयति** च मूर्धानम् इतरः ।  
+करं **धूत्वा धूत्वा** ज्वलद्-अनल-दीप्ताङ्गुलि-शिखं  
+चिता-स्थाली-पक्वं हरति कुणप-क्रव्यम् अपरः ॥२३६२॥
 </details>
+
+<details><summary>English</summary>
+
+‘One of the ghouls bites into a juicy vein with the tip of his tooth; another one holds a head, eager to lap up the brain. Another one carries the flesh of a corpse, cooked in the cauldron of the pyre, shaking again and again his arm, the fingertips of which have been lighted by the burning fire.’
+</details>
+
 
 <details><summary>मूलम् - २३६२</summary>
 

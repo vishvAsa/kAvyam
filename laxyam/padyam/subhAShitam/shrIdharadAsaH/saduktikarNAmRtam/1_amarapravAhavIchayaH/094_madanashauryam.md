@@ -49,11 +49,17 @@ title = "०९४ मदनशौर्यम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४६८</summary>
 
-अयं स भुवनत्रयप्रथितसंयमः शङ्करो  
-बिभर्ति वपुषाधुना विरहकातरः कामिनीम् ।  
-अनेन किल निर्जिता वयम् इति प्रयायाः करं  
-करेण परिताडयञ्जयति जातहासः स्मरः ॥४६८॥
+अयं स भुवन-त्रय-प्रथित-संयमः शङ्करो  
+**बिभर्ति** वपुषा ऽधुना विरह-कातरः कामिनीम् ।  
+"अनेन किल निर्जिता वयम्" इति प्रयायाः करं  
+करेण परिताडयञ् **जयति** जातहासः स्मरः ॥४६८॥
 </details>
+
+<details><summary>English</summary>
+
+That Śaṅkara, whose austerity is celebrated all over the three worlds, is now holding his beloved in his body, afraid of separation [from her]. They say that we’ve been defeated by him!’ The god of love is victorious, who with these words gives his beloved a high five and bursts into a laugh.
+</details>
+
 
 <details><summary>मूलम् - ४६८</summary>
 
