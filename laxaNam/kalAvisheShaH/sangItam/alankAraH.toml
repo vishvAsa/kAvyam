@@ -1,0 +1,84 @@
+[[data]]
+"अलङ्कारः" = 'आलापः'
+"संज्ञा" = ''
+"आङ्ग्ल-संज्ञा" = ''
+"विवरणम्" = ''
+"उदाहरणम्" = ''
+
+[[data]]
+"अलङ्कारः" = 'बोल्-आलापः'
+"संज्ञा" = 'स्तोभः'
+"आङ्ग्ल-संज्ञा" = ''
+"विवरणम्" = 'No improvisation permitted'
+"उदाहरणम्" = ''
+
+[[data]]
+"अलङ्कारः" = 'गमकम्'
+"संज्ञा" = ''
+"आङ्ग्ल-संज्ञा" = ''
+"विवरणम्" = '''Gamaka is any graceful turn, curve or cornering touch given to a single note or a group of notes, which adds emphasis to each raga's individuality.'''
+"उदाहरणम्" = ''
+
+[[data]]
+"अलङ्कारः" = 'गमकम् (कर्णाटके)'
+"संज्ञा" = 'Jaaru/Ulasita'
+"आङ्ग्ल-संज्ञा" = 'Slides'
+"विवरणम्" = 'Irakka-jaru - descending slide, Etra-jaru - ascending slide'
+"उदाहरणम्" = ''
+
+[[data]]
+"अलङ्कारः" = 'गमकम् (कर्णाटके)'
+"संज्ञा" = 'Gamaka'
+"आङ्ग्ल-संज्ञा" = 'Deflections'
+"विवरणम्" = 'Nokku - stress from above on successive (non-repeated) tones,Odukkal - stress from below on successive (non-repeated) tones, Kampita - oscillation, Orikai - momentary flick, at the end of the main tone, to a higher tone'
+"उदाहरणम्" = ''
+
+[[data]]
+"अलङ्कारः" = 'गमकम् (कर्णाटके)'
+"संज्ञा" = 'Janta'
+"आङ्ग्ल-संज्ञा" = 'Fingered Stresses'
+"विवरणम्" = 'Ravai - turn from above, Sphurita - stress from below on repeated tones, Pratyahata - stress from above on repeated tones, Khandippu - sharp dynamic accent'
+"उदाहरणम्" = ''
+
+[[data]]
+"अलङ्कारः" = 'गमकम् उत्तरपथे'
+"संज्ञा" = 'आन्दोलनम्'
+"आङ्ग्ल-संज्ञा" = ''
+"विवरणम्" = 'gentle oscillation around a note, touching the periphery of an adjacent note as well as shrutis in between'
+"उदाहरणम्" = ''
+
+[[data]]
+"अलङ्कारः" = 'गमकम् उत्तरपथे'
+"संज्ञा" = 'मीण्ड, कान-स्वर'
+"आङ्ग्ल-संज्ञा" = 'grace notes'
+"विवरणम्" = 'notes are linked with their preceding or succeeding notes'
+"उदाहरणम्" = ''
+
+[[data]]
+"अलङ्कारः" = 'यतिः'
+"संज्ञा" = 'गोपुच्छयतिः'
+"विवरणम्" = ''
+"उदाहरणम्" = """
+वम् 
+भवम्
+त्यागराजयोगवैभवम्
+अगराजयोगवैभवम्
+राजयोगवैभवम्
+योगवैभवम्
+वैभवम्
+भवम्
+वम्
+"""
+
+[[data]]
+"अलङ्कारः" = 'यतिः'
+"संज्ञा" = 'गोपुच्छयतिः'
+"विवरणम्" = ''
+"उदाहरणम्" = """
+शम्
+प्रकाशम्
+स्वरूप-प्रकाशम्
+तत्त्वस्वरूपप्रकाशम्
+सकलतत्त्वस्वरूपप्रकाशम्
+शिवशक्त्यादिसकलस्वरूपप्रकाशम्
+"""
